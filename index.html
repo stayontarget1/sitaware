@@ -706,6 +706,33 @@ body::after {
   display: flex;
   flex-direction: column;
   overflow: hidden;
+  transition: none;
+}
+
+/* Desktop resize handles */
+.panel-resize-handle {
+  position: absolute;
+  z-index: 10;
+}
+.panel-resize-handle.rs-e { top: 0; right: -3px; width: 6px; height: 100%; cursor: e-resize; }
+.panel-resize-handle.rs-w { top: 0; left: -3px; width: 6px; height: 100%; cursor: w-resize; }
+.panel-resize-handle.rs-s { bottom: -3px; left: 0; width: 100%; height: 6px; cursor: s-resize; }
+.panel-resize-handle.rs-se { bottom: -3px; right: -3px; width: 14px; height: 14px; cursor: se-resize; }
+.panel-resize-handle.rs-sw { bottom: -3px; left: -3px; width: 14px; height: 14px; cursor: sw-resize; }
+
+/* Hide drag handle on desktop */
+.panel-drag-handle { display: none; }
+
+/* Corner resize indicator */
+.panel-resize-handle.rs-se::after {
+  content: '';
+  position: absolute;
+  bottom: 3px;
+  right: 3px;
+  width: 8px;
+  height: 8px;
+  border-right: 2px solid var(--border-bright);
+  border-bottom: 2px solid var(--border-bright);
 }
 
 .panel-header {
@@ -715,7 +742,11 @@ body::after {
   padding: 8px 12px;
   border-bottom: 1px solid var(--border);
   background: var(--bg-root);
+  cursor: grab;
+  user-select: none;
+  -webkit-user-select: none;
 }
+.panel-header.dragging { cursor: grabbing; }
 
 .panel-header h3 {
   font-size: 0.7rem;
@@ -723,6 +754,7 @@ body::after {
   letter-spacing: 0.1em;
   text-transform: uppercase;
   color: var(--cyan);
+  pointer-events: none;
 }
 
 .panel-close {
@@ -733,9 +765,22 @@ body::after {
   cursor: pointer;
   padding: 0 4px;
   font-family: var(--font);
+  pointer-events: auto;
 }
 
 .panel-close:hover { color: var(--text-primary); }
+
+/* ── PANEL BACKDROP (mobile) ── */
+.panel-backdrop {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.6);
+  z-index: 1999;
+  -webkit-backdrop-filter: blur(2px);
+  backdrop-filter: blur(2px);
+}
+.panel-backdrop.active { display: block; }
 
 .panel-tabs {
   display: flex;
@@ -830,30 +875,70 @@ body::after {
   .main-grid { grid-template-columns: 1fr; }
   .weather-panel { grid-column: span 1; }
 
-  /* Full-width panels on mobile */
+  /* Bottom-sheet panels on mobile */
   .float-panel {
     position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    width: 100%;
+    top: auto !important;
+    left: 0 !important;
+    right: 0 !important;
+    bottom: 0;
+    width: 100% !important;
     max-height: 100vh;
-    border-radius: 0;
+    height: 60vh;
+    border-radius: 16px 16px 0 0;
     z-index: 2000;
+    transition: height 0.25s ease-out;
+    will-change: height;
+  }
+
+  .float-panel.sheet-full { height: 100vh; border-radius: 0; }
+  .float-panel.sheet-mini { height: 30vh; }
+  .float-panel.sheet-dragging { transition: none; }
+
+  /* Hide desktop resize handles on mobile */
+  .panel-resize-handle { display: none !important; }
+
+  /* Drag handle bar at top of sheet */
+  .panel-drag-handle {
+    display: flex;
+    justify-content: center;
+    padding: 8px 0 2px 0;
+    background: var(--bg-root);
+    border-radius: 16px 16px 0 0;
+    touch-action: none;
+  }
+  .panel-drag-handle .handle-bar {
+    width: 36px;
+    height: 4px;
+    border-radius: 2px;
+    background: var(--text-dim);
   }
 
   .panel-header {
-    padding: 12px 16px;
+    padding: 8px 16px;
+    cursor: default;
   }
 
   .panel-close {
     font-size: 1.4rem;
     padding: 4px 10px;
+    min-width: 44px;
+    min-height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 
   .panel-tab {
     padding: 10px 8px;
     font-size: 0.65rem;
+  }
+
+  .panel-body {
+    flex: 1;
+    overflow: auto;
+    min-height: 0;
+    -webkit-overflow-scrolling: touch;
   }
 
   .panel-body iframe {
@@ -931,13 +1016,20 @@ body::after {
 </div>
 
 <!-- ═══ FLOATING PANELS ═══ -->
+<div class="panel-backdrop" id="panel-backdrop"></div>
 
 <!-- LIVE NEWS -->
 <div class="float-panel" id="panel-live" style="display:none;">
+  <div class="panel-drag-handle"><span class="handle-bar"></span></div>
   <div class="panel-header">
     <h3>&#9654; Live News Streams</h3>
     <button class="panel-close" onclick="togglePanel('live')">&times;</button>
   </div>
+  <div class="panel-resize-handle rs-e"></div>
+  <div class="panel-resize-handle rs-w"></div>
+  <div class="panel-resize-handle rs-s"></div>
+  <div class="panel-resize-handle rs-se"></div>
+  <div class="panel-resize-handle rs-sw"></div>
   <div class="panel-tabs">
     <button class="panel-tab active" onclick="switchLiveTab(this, 'ktla')">KTLA 5</button>
     <button class="panel-tab" onclick="switchLiveTab(this, 'abc7')">ABC7 LA</button>
@@ -951,10 +1043,16 @@ body::after {
 
 <!-- AIRCRAFT -->
 <div class="float-panel" id="panel-aircraft" style="display:none; width:640px;">
+  <div class="panel-drag-handle"><span class="handle-bar"></span></div>
   <div class="panel-header">
     <h3>&#9992; Aircraft Tracker</h3>
     <button class="panel-close" onclick="togglePanel('aircraft')">&times;</button>
   </div>
+  <div class="panel-resize-handle rs-e"></div>
+  <div class="panel-resize-handle rs-w"></div>
+  <div class="panel-resize-handle rs-s"></div>
+  <div class="panel-resize-handle rs-se"></div>
+  <div class="panel-resize-handle rs-sw"></div>
   <div class="panel-body" style="min-height:420px;">
     <iframe id="adsb-iframe" src="" style="min-height:420px;" allowfullscreen></iframe>
   </div>
@@ -962,10 +1060,16 @@ body::after {
 
 <!-- CAMERAS -->
 <div class="float-panel" id="panel-cameras" style="display:none; width:580px;">
+  <div class="panel-drag-handle"><span class="handle-bar"></span></div>
   <div class="panel-header">
     <h3>&#128249; Traffic Cameras -- I-210 / I-605</h3>
     <button class="panel-close" onclick="togglePanel('cameras')">&times;</button>
   </div>
+  <div class="panel-resize-handle rs-e"></div>
+  <div class="panel-resize-handle rs-w"></div>
+  <div class="panel-resize-handle rs-s"></div>
+  <div class="panel-resize-handle rs-se"></div>
+  <div class="panel-resize-handle rs-sw"></div>
   <div class="panel-body" style="min-height:auto;">
     <div class="cam-grid" id="cam-grid"></div>
   </div>
@@ -973,10 +1077,16 @@ body::after {
 
 <!-- FIRE/EMS -->
 <div class="float-panel" id="panel-fire" style="display:none; width:580px;">
+  <div class="panel-drag-handle"><span class="handle-bar"></span></div>
   <div class="panel-header">
     <h3>&#128293; PulsePoint -- LA County Fire</h3>
     <button class="panel-close" onclick="togglePanel('fire')">&times;</button>
   </div>
+  <div class="panel-resize-handle rs-e"></div>
+  <div class="panel-resize-handle rs-w"></div>
+  <div class="panel-resize-handle rs-s"></div>
+  <div class="panel-resize-handle rs-se"></div>
+  <div class="panel-resize-handle rs-sw"></div>
   <div class="panel-body" style="min-height:420px;">
     <iframe id="pulsepoint-iframe" src="" class="pulsepoint-frame" style="min-height:420px;" allowfullscreen></iframe>
   </div>
@@ -1733,6 +1843,42 @@ body::after {
 
   var camTimer = null;
 
+  // Session storage for panel positions/sizes (desktop only)
+  var panelState = {};
+  try { panelState = JSON.parse(sessionStorage.getItem('panelState') || '{}'); } catch(e) {}
+  function savePanelState(name, props) {
+    panelState[name] = Object.assign(panelState[name] || {}, props);
+    try { sessionStorage.setItem('panelState', JSON.stringify(panelState)); } catch(e) {}
+  }
+
+  function isMobile() { return window.innerWidth <= 700; }
+
+  var backdrop = document.getElementById('panel-backdrop');
+  if (backdrop) {
+    backdrop.addEventListener('click', function() {
+      ['live','aircraft','cameras','fire'].forEach(function(n) { closePanel(n); });
+    });
+  }
+
+  function closePanel(name) {
+    var p = document.getElementById('panel-' + name);
+    var b = document.getElementById('btn-' + (name === 'fire' ? 'incidents' : name));
+    if (p) {
+      p.style.display = 'none';
+      p.classList.remove('sheet-full', 'sheet-mini', 'sheet-dragging');
+    }
+    if (b) b.classList.remove('active');
+    // Unload resources
+    if (name === 'live') document.getElementById('live-iframe').src = '';
+    else if (name === 'aircraft') document.getElementById('adsb-iframe').src = '';
+    else if (name === 'fire') document.getElementById('pulsepoint-iframe').src = '';
+    if (name === 'cameras' && camTimer) { clearInterval(camTimer); camTimer = null; }
+  }
+
+  function showBackdrop(show) {
+    if (backdrop) backdrop.classList.toggle('active', show);
+  }
+
   window.togglePanel = function(name) {
     var panel = document.getElementById('panel-' + name);
     var btn = document.getElementById('btn-' + (name === 'fire' ? 'incidents' : name));
@@ -1740,14 +1886,25 @@ body::after {
     var isOpen = panel.style.display !== 'none';
     // Close all panels first
     ['live','aircraft','cameras','fire'].forEach(function(n) {
-      var p = document.getElementById('panel-' + n);
-      var b = document.getElementById('btn-' + (n === 'fire' ? 'incidents' : n));
-      if (p) p.style.display = 'none';
-      if (b) b.classList.remove('active');
+      closePanel(n);
     });
+    showBackdrop(false);
     if (!isOpen) {
       panel.style.display = 'flex';
       if (btn) btn.classList.add('active');
+      // Restore desktop position/size from session
+      if (!isMobile() && panelState[name]) {
+        var s = panelState[name];
+        if (s.top != null) panel.style.top = s.top + 'px';
+        if (s.left != null) { panel.style.left = s.left + 'px'; panel.style.right = 'auto'; }
+        if (s.width != null) panel.style.width = s.width + 'px';
+        if (s.height != null) { panel.style.height = s.height + 'px'; panel.style.maxHeight = 'none'; }
+      }
+      // Show backdrop on mobile
+      if (isMobile()) {
+        showBackdrop(true);
+        panel.classList.remove('sheet-full', 'sheet-mini');
+      }
       // Lazy-load content on first open
       if (name === 'live') {
         var iframe = document.getElementById('live-iframe');
@@ -1768,11 +1925,7 @@ body::after {
         }
       }
     } else {
-      // Unload iframes when closing to save resources
-      if (name === 'live') document.getElementById('live-iframe').src = '';
-      else if (name === 'aircraft') document.getElementById('adsb-iframe').src = '';
-      else if (name === 'fire') document.getElementById('pulsepoint-iframe').src = '';
-      if (camTimer) { clearInterval(camTimer); camTimer = null; }
+      showBackdrop(false);
     }
   };
 
@@ -1826,6 +1979,157 @@ body::after {
       });
     }, 30000);
   }
+
+  // ═══════════════════════════════════════════
+  // DESKTOP: Drag panels by header
+  // ═══════════════════════════════════════════
+  (function() {
+    if (typeof window.ontouchstart !== 'undefined' && window.innerWidth <= 700) return;
+
+    document.querySelectorAll('.float-panel .panel-header').forEach(function(header) {
+      header.addEventListener('mousedown', function(e) {
+        if (e.target.closest('.panel-close')) return;
+        if (isMobile()) return;
+        var panel = header.closest('.float-panel');
+        var panelName = panel.id.replace('panel-', '');
+        var rect = panel.getBoundingClientRect();
+        var offX = e.clientX - rect.left;
+        var offY = e.clientY - rect.top;
+        header.classList.add('dragging');
+
+        // Disable iframe pointer events during drag
+        panel.querySelectorAll('iframe').forEach(function(f) { f.style.pointerEvents = 'none'; });
+
+        function onMove(ev) {
+          var x = Math.max(0, Math.min(ev.clientX - offX, window.innerWidth - 100));
+          var y = Math.max(0, Math.min(ev.clientY - offY, window.innerHeight - 40));
+          panel.style.left = x + 'px';
+          panel.style.top = y + 'px';
+          panel.style.right = 'auto';
+        }
+        function onUp() {
+          header.classList.remove('dragging');
+          panel.querySelectorAll('iframe').forEach(function(f) { f.style.pointerEvents = ''; });
+          document.removeEventListener('mousemove', onMove);
+          document.removeEventListener('mouseup', onUp);
+          var r = panel.getBoundingClientRect();
+          savePanelState(panelName, { top: r.top, left: r.left });
+        }
+        document.addEventListener('mousemove', onMove);
+        document.addEventListener('mouseup', onUp);
+        e.preventDefault();
+      });
+    });
+
+    // ── Desktop: Resize panels from edges/corners ──
+    document.querySelectorAll('.panel-resize-handle').forEach(function(handle) {
+      handle.addEventListener('mousedown', function(e) {
+        if (isMobile()) return;
+        var panel = handle.closest('.float-panel');
+        var panelName = panel.id.replace('panel-', '');
+        var rect = panel.getBoundingClientRect();
+        var startX = e.clientX, startY = e.clientY;
+        var startW = rect.width, startH = rect.height;
+        var startL = rect.left, startT = rect.top;
+        var isE = handle.classList.contains('rs-e') || handle.classList.contains('rs-se');
+        var isW = handle.classList.contains('rs-w') || handle.classList.contains('rs-sw');
+        var isS = handle.classList.contains('rs-s') || handle.classList.contains('rs-se') || handle.classList.contains('rs-sw');
+
+        panel.querySelectorAll('iframe').forEach(function(f) { f.style.pointerEvents = 'none'; });
+
+        function onMove(ev) {
+          var dx = ev.clientX - startX, dy = ev.clientY - startY;
+          if (isE) { panel.style.width = Math.max(320, startW + dx) + 'px'; }
+          if (isW) {
+            var nw = Math.max(320, startW - dx);
+            panel.style.width = nw + 'px';
+            panel.style.left = (startL + startW - nw) + 'px';
+            panel.style.right = 'auto';
+          }
+          if (isS) {
+            panel.style.height = Math.max(200, startH + dy) + 'px';
+            panel.style.maxHeight = 'none';
+          }
+        }
+        function onUp() {
+          panel.querySelectorAll('iframe').forEach(function(f) { f.style.pointerEvents = ''; });
+          document.removeEventListener('mousemove', onMove);
+          document.removeEventListener('mouseup', onUp);
+          var r = panel.getBoundingClientRect();
+          savePanelState(panelName, { top: r.top, left: r.left, width: r.width, height: r.height });
+        }
+        document.addEventListener('mousemove', onMove);
+        document.addEventListener('mouseup', onUp);
+        e.preventDefault();
+      });
+    });
+  })();
+
+  // ═══════════════════════════════════════════
+  // MOBILE: Bottom-sheet swipe gestures
+  // ═══════════════════════════════════════════
+  (function() {
+    var VH = window.innerHeight;
+    window.addEventListener('resize', function() { VH = window.innerHeight; });
+
+    document.querySelectorAll('.float-panel').forEach(function(panel) {
+      var dragHandle = panel.querySelector('.panel-drag-handle');
+      var header = panel.querySelector('.panel-header');
+      if (!dragHandle) return;
+
+      var touchStartY = 0, startH = 0, isDragging = false;
+
+      function onTouchStart(e) {
+        if (!isMobile()) return;
+        var t = e.touches[0];
+        touchStartY = t.clientY;
+        startH = panel.getBoundingClientRect().height;
+        isDragging = true;
+        panel.classList.add('sheet-dragging');
+        panel.classList.remove('sheet-full', 'sheet-mini');
+      }
+
+      function onTouchMove(e) {
+        if (!isDragging || !isMobile()) return;
+        var t = e.touches[0];
+        var dy = touchStartY - t.clientY; // positive = dragging up
+        var newH = Math.max(VH * 0.15, Math.min(VH, startH + dy));
+        panel.style.height = newH + 'px';
+        e.preventDefault();
+      }
+
+      function onTouchEnd(e) {
+        if (!isDragging || !isMobile()) return;
+        isDragging = false;
+        panel.classList.remove('sheet-dragging');
+        var finalH = panel.getBoundingClientRect().height;
+        var ratio = finalH / VH;
+
+        // Snap points: close (<20%), mini (20-45%), default (45-80%), full (>80%)
+        if (ratio < 0.20) {
+          // Close the panel
+          var panelName = panel.id.replace('panel-', '');
+          window.togglePanel(panelName);
+        } else if (ratio < 0.45) {
+          panel.style.height = '';
+          panel.classList.add('sheet-mini');
+        } else if (ratio < 0.80) {
+          panel.style.height = '';
+          panel.classList.remove('sheet-full', 'sheet-mini');
+        } else {
+          panel.style.height = '';
+          panel.classList.add('sheet-full');
+        }
+      }
+
+      // Attach to both the drag handle and the header for swipe
+      [dragHandle, header].forEach(function(el) {
+        el.addEventListener('touchstart', onTouchStart, { passive: true });
+        el.addEventListener('touchmove', onTouchMove, { passive: false });
+        el.addEventListener('touchend', onTouchEnd, { passive: true });
+      });
+    });
+  })();
 
 })();
 </script>
