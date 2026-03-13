@@ -988,11 +988,13 @@ body::after {
     });
   }
 
+  // Only promote M4.5+ earthquakes to the incident bar (significant/felt quakes).
+  // Smaller quakes still appear in the Recent Earthquakes section in the weather panel.
   async function fetchQuakesLastHour() {
     try {
       const url = 'https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=' +
         new Date(Date.now() - INCIDENT_MAX_AGE_MS).toISOString() +
-        '&minmagnitude=1.0&latitude=' + MONROVIA_LAT + '&longitude=' + MONROVIA_LON + '&maxradiuskm=80';
+        '&minmagnitude=4.5&latitude=' + MONROVIA_LAT + '&longitude=' + MONROVIA_LON + '&maxradiuskm=80';
       const data = await fetchJson(url);
       (data.features || []).forEach(f => {
         const p = f.properties;
@@ -1002,17 +1004,22 @@ body::after {
           title: 'M' + p.mag.toFixed(1) + ' -- ' + p.place,
           source: 'USGS',
           time: new Date(p.time),
-          severity: p.mag >= 4 ? 'red' : p.mag >= 2.5 ? 'amber' : 'green'
+          severity: p.mag >= 6 ? 'red' : 'amber'
         });
       });
     } catch (e) { console.warn('USGS last-hour:', e); }
   }
 
+  // Only promote severe Warnings to the incident bar (not Watches or Advisories).
+  // All alerts (including watches/advisories) still appear in the Weather > Active Alerts section.
   async function fetchNwsAlertsIncident() {
     try {
       const data = await fetchJson('https://api.weather.gov/alerts/active?zone=CAZ548');
       (data.features || []).forEach(f => {
         const p = f.properties;
+        const event = (p.event || '').toLowerCase();
+        // Only Warnings go in incident bar; skip Watches, Advisories, Statements
+        if (!event.includes('warning')) return;
         const sev = ['Extreme','Severe'].includes(p.severity) ? 'red' : 'amber';
         addIncident({
           id: 'nws-' + f.id,
@@ -1350,8 +1357,8 @@ body::after {
           var p = f.properties;
           var mag = p.mag.toFixed(1);
           var magClass = 'low';
-          if (p.mag >= 4) magClass = 'high';
-          else if (p.mag >= 2.5) magClass = 'med';
+          if (p.mag >= 4.5) magClass = 'high';
+          else if (p.mag >= 3.0) magClass = 'med';
           html +=
             '<div class="quake-row">' +
               '<span class="quake-mag ' + magClass + '">' + mag + '</span>' +
