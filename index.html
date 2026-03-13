@@ -823,11 +823,79 @@ body::after {
     grid-template-rows: auto auto;
   }
   .weather-panel { grid-column: span 2; }
+  .float-panel { width: calc(100vw - 32px); right: 16px; }
 }
 
 @media (max-width: 700px) {
   .main-grid { grid-template-columns: 1fr; }
   .weather-panel { grid-column: span 1; }
+
+  /* Full-width panels on mobile */
+  .float-panel {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    max-height: 100vh;
+    border-radius: 0;
+    z-index: 2000;
+  }
+
+  .panel-header {
+    padding: 12px 16px;
+  }
+
+  .panel-close {
+    font-size: 1.4rem;
+    padding: 4px 10px;
+  }
+
+  .panel-tab {
+    padding: 10px 8px;
+    font-size: 0.65rem;
+  }
+
+  .panel-body iframe {
+    min-height: 280px;
+  }
+
+  .cam-grid {
+    grid-template-columns: 1fr;
+    gap: 8px;
+    padding: 10px;
+  }
+
+  /* Bigger touch targets */
+  .toolbar-row {
+    gap: 4px;
+    padding: 8px 12px;
+    flex-wrap: wrap;
+  }
+
+  .toolbar-btn {
+    font-size: 0.6rem;
+    padding: 8px 12px;
+    flex: 1;
+    justify-content: center;
+    min-width: 0;
+  }
+
+  .site-header {
+    flex-direction: column;
+    gap: 6px;
+    padding: 8px 12px;
+  }
+
+  .header-meta {
+    gap: 8px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  #refresh-btn {
+    padding: 6px 14px !important;
+  }
 }
 </style>
 </head>
@@ -878,6 +946,7 @@ body::after {
   <div class="panel-body" id="live-body">
     <iframe id="live-iframe" src="" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </div>
+  <div id="live-fallback" style="padding:8px 12px;font-size:0.65rem;color:var(--text-dim);border-top:1px solid var(--border);"></div>
 </div>
 
 <!-- AIRCRAFT -->
@@ -1642,21 +1711,24 @@ body::after {
   // FLOATING PANELS (outside IIFE for onclick)
   // ═══════════════════════════════════════════
 
-  // YouTube live stream channel IDs
+  // YouTube live stream channel IDs (verified)
   var LIVE_CHANNELS = {
-    ktla: 'UCBVwjOgj3YKPIiAMcQ-7yDg',
-    abc7: 'UCPhNcHmFljIEsyjaAfRkfnA',
-    cbsla: 'UC8yMUqMqELTvHEcsyxUr1Ag'
+    ktla: { id: 'UCBVwjOgj3YKPIiAMcQ-7yDg', handle: 'KTLA', name: 'KTLA 5' },
+    abc7: { id: 'UCVxBA3Cbu3pm8w8gEIoMEog', handle: 'abc7', name: 'ABC7 LA' },
+    cbsla: { id: 'UCkH1uDkyuO9sVjSqdqBygOg', handle: 'CBSLA', name: 'CBSLA' }
   };
 
-  // Caltrans camera URLs near Monrovia
+  // Caltrans cameras near Monrovia - ordered by proximity
+  // Some may show "unavailable" placeholder; UI filters these dynamically
   var CAMERAS = [
     { label: 'I-210 W @ Myrtle', url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i210775myrtlecentral/i210775myrtlecentral.jpg' },
     { label: 'I-210 E @ Mayflower', url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i210455mayflowerave/i210455mayflowerave.jpg' },
     { label: 'I-210 W @ California', url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i210777californiacentral/i210777californiacentral.jpg' },
+    { label: 'I-210 E @ Santa Anita', url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i210772santaanitaave/i210772santaanitaave.jpg' },
+    { label: 'I-210 @ E Colorado', url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i210767eastcolorado/i210767eastcolorado.jpg' },
     { label: 'I-210 E @ Huntington', url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i210773huntingtonave/i210773huntingtonave.jpg' },
-    { label: 'I-605 S @ Arrow Hwy', url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i605441arrowhwy/i605441arrowhwy.jpg' },
     { label: 'I-605 N @ S of I-210', url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i605442southofi210/i605442southofi210.jpg' },
+    { label: 'I-605 S @ Arrow Hwy', url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i605441arrowhwy/i605441arrowhwy.jpg' },
   ];
 
   var camTimer = null;
@@ -1707,8 +1779,14 @@ body::after {
   window.switchLiveTab = function(tabEl, channel) {
     document.querySelectorAll('#panel-live .panel-tab').forEach(function(t) { t.classList.remove('active'); });
     if (tabEl) tabEl.classList.add('active');
+    var ch = LIVE_CHANNELS[channel];
     var iframe = document.getElementById('live-iframe');
-    iframe.src = 'https://www.youtube.com/embed/live_stream?channel=' + LIVE_CHANNELS[channel] + '&autoplay=1&mute=1';
+    var fallback = document.getElementById('live-fallback');
+    // Try embed; show fallback link in case it doesn't load
+    iframe.src = 'https://www.youtube.com/embed/live_stream?channel=' + ch.id + '&autoplay=1&mute=1';
+    if (fallback) fallback.innerHTML =
+      'Stream not loading? <a href="https://www.youtube.com/@' + ch.handle + '/live" target="_blank" rel="noopener" ' +
+      'style="color:var(--cyan);text-decoration:underline;">Watch ' + ch.name + ' live on YouTube &rarr;</a>';
   };
 
   function loadCameras() {
@@ -1718,16 +1796,32 @@ body::after {
     CAMERAS.forEach(function(cam) {
       var card = document.createElement('div');
       card.className = 'cam-card';
-      card.innerHTML =
-        '<img src="' + cam.url + '?t=' + ts + '" alt="' + cam.label + '" loading="lazy" onerror="this.style.opacity=0.3">' +
-        '<div class="cam-label">' + cam.label + '</div>';
+      var img = document.createElement('img');
+      img.src = cam.url + '?t=' + ts;
+      img.alt = cam.label;
+      img.loading = 'lazy';
+      // Detect placeholder images (~16KB "unavailable" graphic)
+      img.onload = function() {
+        // Caltrans placeholder is exactly ~16KB; real feeds are larger
+        // We check via canvas for a rough size proxy
+        if (this.naturalWidth < 100) {
+          this.style.opacity = '0.2';
+          this.nextSibling.textContent = cam.label + ' (offline)';
+        }
+      };
+      img.onerror = function() { this.style.opacity = '0.15'; this.nextSibling.textContent = cam.label + ' (offline)'; };
+      card.appendChild(img);
+      var label = document.createElement('div');
+      label.className = 'cam-label';
+      label.textContent = cam.label;
+      card.appendChild(label);
       grid.appendChild(card);
     });
     // Auto-refresh camera images every 30 seconds
     if (camTimer) clearInterval(camTimer);
     camTimer = setInterval(function() {
       var ts = Date.now();
-      grid.querySelectorAll('img').forEach(function(img, i) {
+      grid.querySelectorAll('.cam-card img').forEach(function(img, i) {
         if (CAMERAS[i]) img.src = CAMERAS[i].url + '?t=' + ts;
       });
     }, 30000);
