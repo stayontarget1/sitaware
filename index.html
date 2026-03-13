@@ -1,0 +1,1423 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SITAWARE — SoCal Situational Awareness</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+/* ═══════════════════════════════════════════════════════════════
+   SITAWARE — SoCal Situational Awareness Dashboard
+   Dark terminal / ops aesthetic
+   ═══════════════════════════════════════════════════════════════ */
+
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --bg-root: #050607;
+  --bg-panel: #0b0d0f;
+  --bg-card: #10131a;
+  --bg-card-hover: #161a24;
+  --border: #1a1f2e;
+  --border-bright: #252d40;
+  --text-primary: #c8cdd8;
+  --text-secondary: #6b7280;
+  --text-dim: #3d4452;
+  --green: #22c55e;
+  --green-dim: #15803d;
+  --green-glow: rgba(34,197,94,0.15);
+  --amber: #f59e0b;
+  --amber-dim: #92400e;
+  --amber-glow: rgba(245,158,11,0.12);
+  --red: #ef4444;
+  --red-dim: #991b1b;
+  --red-glow: rgba(239,68,68,0.12);
+  --blue: #3b82f6;
+  --blue-dim: #1e3a5f;
+  --cyan: #06b6d4;
+  --purple: #a855f7;
+  --monrovia: #22c55e;
+  --sgv: #3b82f6;
+  --county: #a855f7;
+  --font: 'JetBrains Mono', 'Consolas', 'SF Mono', monospace;
+  --radius: 4px;
+}
+
+html { font-size: 13px; }
+
+body {
+  font-family: var(--font);
+  background: var(--bg-root);
+  color: var(--text-primary);
+  min-height: 100vh;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Scanline overlay */
+body::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 9999;
+  background: repeating-linear-gradient(
+    0deg,
+    transparent,
+    transparent 2px,
+    rgba(0,0,0,0.03) 2px,
+    rgba(0,0,0,0.03) 4px
+  );
+}
+
+/* ── HEADER ── */
+.site-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 16px;
+  border-bottom: 1px solid var(--border);
+  background: var(--bg-panel);
+}
+
+.site-header h1 {
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--green);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.site-header h1 .dot {
+  width: 6px; height: 6px;
+  background: var(--green);
+  border-radius: 50%;
+  box-shadow: 0 0 6px var(--green);
+  animation: pulse-dot 2s ease-in-out infinite;
+}
+
+@keyframes pulse-dot {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.4; }
+}
+
+.header-meta {
+  font-size: 0.75rem;
+  color: var(--text-dim);
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.header-meta .clock { color: var(--text-secondary); }
+
+/* ── INCIDENT BAR ── */
+.incident-bar {
+  border-bottom: 1px solid var(--border);
+  padding: 12px 16px;
+  min-height: 52px;
+  transition: background 0.5s ease, border-color 0.5s ease;
+}
+
+.incident-bar.clear {
+  background: linear-gradient(90deg, rgba(34,197,94,0.04), transparent 60%);
+  border-left: 3px solid var(--green-dim);
+}
+
+.incident-bar.active-amber {
+  background: linear-gradient(90deg, rgba(245,158,11,0.06), transparent 60%);
+  border-left: 3px solid var(--amber);
+}
+
+.incident-bar.active-red {
+  background: linear-gradient(90deg, rgba(239,68,68,0.08), transparent 60%);
+  border-left: 3px solid var(--red);
+  animation: bar-pulse-red 3s ease-in-out infinite;
+}
+
+@keyframes bar-pulse-red {
+  0%, 100% { background: linear-gradient(90deg, rgba(239,68,68,0.06), transparent 60%); }
+  50% { background: linear-gradient(90deg, rgba(239,68,68,0.12), transparent 60%); }
+}
+
+.incident-bar-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 4px;
+}
+
+.incident-bar-header .label {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.incident-bar.clear .label { color: var(--green-dim); }
+.incident-bar.active-amber .label { color: var(--amber); }
+.incident-bar.active-red .label { color: var(--red); }
+
+.incident-bar .status-icon {
+  width: 8px; height: 8px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.incident-bar.clear .status-icon {
+  background: var(--green);
+  box-shadow: 0 0 6px var(--green);
+}
+.incident-bar.active-amber .status-icon {
+  background: var(--amber);
+  box-shadow: 0 0 8px var(--amber);
+  animation: pulse-dot 1.5s ease-in-out infinite;
+}
+.incident-bar.active-red .status-icon {
+  background: var(--red);
+  box-shadow: 0 0 10px var(--red);
+  animation: pulse-dot 1s ease-in-out infinite;
+}
+
+.incident-bar .clear-text {
+  font-size: 0.75rem;
+  color: var(--text-dim);
+}
+
+.incident-cards {
+  display: flex;
+  gap: 10px;
+  overflow-x: auto;
+  padding: 4px 0;
+}
+
+.incident-card {
+  flex-shrink: 0;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 8px 12px;
+  min-width: 260px;
+  max-width: 360px;
+  position: relative;
+  overflow: hidden;
+}
+
+.incident-card::before {
+  content: '';
+  position: absolute;
+  left: 0; top: 0; bottom: 0;
+  width: 3px;
+}
+
+.incident-card.severity-red::before { background: var(--red); }
+.incident-card.severity-amber::before { background: var(--amber); }
+.incident-card.severity-green::before { background: var(--green); }
+
+.incident-card .ic-type {
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-bottom: 2px;
+}
+
+.incident-card.severity-red .ic-type { color: var(--red); }
+.incident-card.severity-amber .ic-type { color: var(--amber); }
+
+.incident-card .ic-title {
+  font-size: 0.8rem;
+  color: var(--text-primary);
+  font-weight: 400;
+  line-height: 1.4;
+}
+
+.incident-card .ic-meta {
+  font-size: 0.65rem;
+  color: var(--text-dim);
+  margin-top: 4px;
+  display: flex;
+  gap: 8px;
+}
+
+/* ── MAIN GRID ── */
+.main-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 300px;
+  min-height: calc(100vh - 260px);
+  border-bottom: 1px solid var(--border);
+}
+
+.column {
+  border-right: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.column:last-child { border-right: none; }
+
+.col-header {
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: var(--bg-panel);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.col-header h2 {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.col-header h2 .geo-dot {
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.col-monrovia .geo-dot { background: var(--monrovia); box-shadow: 0 0 4px var(--monrovia); }
+.col-sgv .geo-dot { background: var(--sgv); box-shadow: 0 0 4px var(--sgv); }
+.col-county .geo-dot { background: var(--county); box-shadow: 0 0 4px var(--county); }
+
+.col-header .col-count {
+  font-size: 0.65rem;
+  color: var(--text-dim);
+  font-weight: 400;
+}
+
+.col-body {
+  padding: 8px;
+  overflow-y: auto;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+/* ── NEWS CARDS ── */
+.news-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 10px 12px;
+  cursor: pointer;
+  transition: background 0.15s ease, border-color 0.15s ease;
+  text-decoration: none;
+  display: block;
+  color: inherit;
+}
+
+.news-card:hover {
+  background: var(--bg-card-hover);
+  border-color: var(--border-bright);
+}
+
+.news-card .nc-source {
+  font-size: 0.6rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-bottom: 4px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.news-card .nc-source .src-dot {
+  width: 4px; height: 4px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.geo-monrovia .src-dot { background: var(--monrovia); }
+.geo-monrovia { color: var(--monrovia); }
+.geo-sgv .src-dot { background: var(--sgv); }
+.geo-sgv { color: var(--sgv); }
+.geo-county .src-dot { background: var(--county); }
+.geo-county { color: var(--county); }
+.geo-alert .src-dot { background: var(--red); }
+.geo-alert { color: var(--red); }
+.geo-health .src-dot { background: var(--cyan); }
+.geo-health { color: var(--cyan); }
+
+.news-card .nc-headline {
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: var(--text-primary);
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.news-card .nc-time {
+  font-size: 0.6rem;
+  color: var(--text-dim);
+  margin-top: 6px;
+}
+
+/* ── WEATHER PANEL ── */
+.weather-panel .col-header h2 { color: var(--cyan); }
+
+.wx-section {
+  padding: 10px 12px;
+  border-bottom: 1px solid var(--border);
+}
+
+.wx-section:last-child { border-bottom: none; }
+
+.wx-section-title {
+  font-size: 0.6rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-dim);
+  margin-bottom: 8px;
+}
+
+.wx-current-temp {
+  font-size: 2.2rem;
+  font-weight: 300;
+  color: var(--text-primary);
+  line-height: 1;
+}
+
+.wx-current-temp .unit {
+  font-size: 1rem;
+  color: var(--text-dim);
+  vertical-align: super;
+}
+
+.wx-current-desc {
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  margin-top: 4px;
+}
+
+.wx-current-details {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4px 12px;
+  margin-top: 8px;
+  font-size: 0.7rem;
+}
+
+.wx-detail-label { color: var(--text-dim); }
+.wx-detail-value { color: var(--text-secondary); text-align: right; }
+
+.wx-obs-note {
+  font-size: 0.55rem;
+  color: var(--text-dim);
+  margin-top: 6px;
+  font-style: italic;
+}
+
+/* AQI gauge */
+.aqi-display {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.aqi-number {
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1;
+}
+
+.aqi-good { color: var(--green); }
+.aqi-moderate { color: #eab308; }
+.aqi-usg { color: var(--amber); }
+.aqi-unhealthy { color: var(--red); }
+.aqi-very-unhealthy { color: #a855f7; }
+.aqi-hazardous { color: #7f1d1d; }
+
+.aqi-label {
+  font-size: 0.7rem;
+  color: var(--text-secondary);
+}
+
+.aqi-cat {
+  font-size: 0.65rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+/* Forecast */
+.forecast-day-group {
+  margin-bottom: 6px;
+}
+
+.forecast-day-label {
+  font-size: 0.65rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 4px 0 2px;
+  border-bottom: 1px solid rgba(255,255,255,0.04);
+  margin-bottom: 2px;
+}
+
+.forecast-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 3px 0;
+  font-size: 0.7rem;
+  border-bottom: 1px solid rgba(255,255,255,0.02);
+}
+
+.forecast-row:last-child { border-bottom: none; }
+
+.forecast-period {
+  color: var(--text-dim);
+  min-width: 55px;
+  font-size: 0.6rem;
+}
+.forecast-desc {
+  color: var(--text-secondary);
+  flex: 1;
+  text-align: left;
+  font-size: 0.65rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0 8px;
+}
+.forecast-temp { color: var(--text-primary); text-align: right; white-space: nowrap; }
+.forecast-temp-night { color: var(--text-dim); }
+
+/* Alert cards */
+.wx-alert-card {
+  background: rgba(239,68,68,0.06);
+  border: 1px solid var(--red-dim);
+  border-radius: var(--radius);
+  padding: 8px 10px;
+  margin-bottom: 6px;
+}
+
+.wx-alert-card:last-child { margin-bottom: 0; }
+
+.wx-alert-card .alert-event {
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: var(--red);
+}
+
+.wx-alert-card .alert-desc {
+  font-size: 0.65rem;
+  color: var(--text-secondary);
+  margin-top: 2px;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Quake rows */
+.quake-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 4px 0;
+  font-size: 0.7rem;
+  border-bottom: 1px solid rgba(255,255,255,0.03);
+}
+
+.quake-row:last-child { border-bottom: none; }
+
+.quake-mag {
+  font-weight: 700;
+  min-width: 32px;
+  text-align: center;
+  padding: 2px 4px;
+  border-radius: 2px;
+  font-size: 0.7rem;
+}
+
+.quake-mag.low { color: var(--green); background: rgba(34,197,94,0.1); }
+.quake-mag.med { color: var(--amber); background: rgba(245,158,11,0.1); }
+.quake-mag.high { color: var(--red); background: rgba(239,68,68,0.1); }
+
+.quake-place { color: var(--text-secondary); flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.quake-time { color: var(--text-dim); font-size: 0.6rem; white-space: nowrap; }
+
+/* ── UPCOMING BAR ── */
+.upcoming-bar {
+  padding: 12px 16px;
+  border-top: 1px solid var(--border);
+  background: var(--bg-panel);
+}
+
+.upcoming-bar .section-label {
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-dim);
+  margin-bottom: 8px;
+}
+
+.upcoming-items {
+  display: flex;
+  gap: 10px;
+  overflow-x: auto;
+  padding-bottom: 4px;
+}
+
+.upcoming-item {
+  flex-shrink: 0;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 8px 12px;
+  min-width: 200px;
+  max-width: 320px;
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  transition: border-color 0.15s ease;
+}
+
+.upcoming-item:hover { border-color: var(--border-bright); }
+
+.upcoming-date {
+  font-size: 0.6rem;
+  color: var(--cyan);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.upcoming-title {
+  font-size: 0.75rem;
+  color: var(--text-primary);
+  margin-top: 2px;
+}
+
+.upcoming-source {
+  font-size: 0.6rem;
+  color: var(--text-dim);
+  margin-top: 3px;
+}
+
+/* ── LOADING / EMPTY ── */
+.loading-text, .empty-text {
+  font-size: 0.7rem;
+  color: var(--text-dim);
+  padding: 16px 0;
+  text-align: center;
+}
+
+.loading-text::after {
+  content: '';
+  animation: ellipsis 1.5s steps(3) infinite;
+}
+
+@keyframes ellipsis {
+  0% { content: ''; }
+  33% { content: '.'; }
+  66% { content: '..'; }
+  100% { content: '...'; }
+}
+
+.skeleton {
+  background: linear-gradient(90deg, var(--bg-card) 25%, var(--bg-card-hover) 50%, var(--bg-card) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s ease-in-out infinite;
+  border-radius: var(--radius);
+  height: 60px;
+  margin-bottom: 6px;
+}
+
+@keyframes shimmer {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+
+/* ── SCROLLBAR ── */
+::-webkit-scrollbar { width: 4px; height: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+::-webkit-scrollbar-thumb:hover { background: var(--border-bright); }
+
+/* ── RESPONSIVE ── */
+@media (max-width: 1100px) {
+  .main-grid {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto;
+  }
+  .weather-panel { grid-column: span 2; }
+}
+
+@media (max-width: 700px) {
+  .main-grid { grid-template-columns: 1fr; }
+  .weather-panel { grid-column: span 1; }
+}
+</style>
+</head>
+<body>
+
+<!-- ═══ HEADER ═══ -->
+<header class="site-header">
+  <h1><span class="dot"></span> SITAWARE</h1>
+  <div class="header-meta">
+    <span>MONROVIA, CA</span>
+    <span class="clock" id="clock"></span>
+    <span id="last-refresh" style="font-size:0.65rem;"></span>
+    <button id="refresh-btn" title="Refresh all data" style="background:none;border:1px solid var(--border);color:var(--text-secondary);font-family:var(--font);font-size:0.65rem;padding:3px 10px;border-radius:var(--radius);cursor:pointer;letter-spacing:0.06em;transition:border-color 0.15s,color 0.15s;" onmouseover="this.style.borderColor='var(--green)';this.style.color='var(--green)';" onmouseout="this.style.borderColor='var(--border)';this.style.color='var(--text-secondary)';">&#8635; REFRESH</button>
+  </div>
+</header>
+
+<!-- ═══ INCIDENT BAR ═══ -->
+<section class="incident-bar clear" id="incident-bar">
+  <div class="incident-bar-header">
+    <span class="status-icon"></span>
+    <span class="label">Last Hour -- Active Incidents</span>
+  </div>
+  <div class="clear-text" id="incident-clear">All clear -- no active incidents in the last 60 minutes</div>
+  <div class="incident-cards" id="incident-cards" style="display:none;"></div>
+</section>
+
+<!-- ═══ MAIN GRID ═══ -->
+<main class="main-grid">
+
+  <!-- MONROVIA -->
+  <div class="column col-monrovia">
+    <div class="col-header">
+      <h2><span class="geo-dot"></span> Monrovia</h2>
+      <span class="col-count" id="monrovia-count"></span>
+    </div>
+    <div class="col-body" id="monrovia-feed">
+      <div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div>
+    </div>
+  </div>
+
+  <!-- SGV -->
+  <div class="column col-sgv">
+    <div class="col-header">
+      <h2><span class="geo-dot"></span> San Gabriel Valley</h2>
+      <span class="col-count" id="sgv-count"></span>
+    </div>
+    <div class="col-body" id="sgv-feed">
+      <div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div>
+    </div>
+  </div>
+
+  <!-- LA COUNTY -->
+  <div class="column col-county">
+    <div class="col-header">
+      <h2><span class="geo-dot"></span> Los Angeles County</h2>
+      <span class="col-count" id="county-count"></span>
+    </div>
+    <div class="col-body" id="county-feed">
+      <div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div>
+    </div>
+  </div>
+
+  <!-- WEATHER -->
+  <div class="column weather-panel">
+    <div class="col-header">
+      <h2>&#9729; Weather</h2>
+      <span class="col-count">Monrovia</span>
+    </div>
+    <div class="col-body" style="gap:0; padding:0;">
+      <div class="wx-section" id="wx-current">
+        <div class="wx-section-title">Current Conditions</div>
+        <div class="loading-text">Loading</div>
+      </div>
+      <div class="wx-section" id="wx-aqi">
+        <div class="wx-section-title">Air Quality -- 91016</div>
+        <div class="loading-text">Loading</div>
+      </div>
+      <div class="wx-section" id="wx-alerts">
+        <div class="wx-section-title">Active Alerts</div>
+        <div class="empty-text" style="color:var(--green-dim); text-align:left; padding:0;">No active alerts</div>
+      </div>
+      <div class="wx-section" id="wx-forecast">
+        <div class="wx-section-title">Forecast</div>
+        <div class="loading-text">Loading</div>
+      </div>
+      <div class="wx-section" id="wx-quakes">
+        <div class="wx-section-title">Recent Earthquakes -- 7d / M1.5+</div>
+        <div class="loading-text">Loading</div>
+      </div>
+    </div>
+  </div>
+
+</main>
+
+<!-- ═══ UPCOMING ═══ -->
+<section class="upcoming-bar">
+  <div class="section-label">&#9654; Upcoming</div>
+  <div class="upcoming-items" id="upcoming-items"></div>
+</section>
+
+<script>
+(function() {
+  'use strict';
+
+  // ── CONFIG ──
+  const AIRNOW_KEY = 'YOUR_AIRNOW_KEY';
+  const MONROVIA_LAT = 34.1442;
+  const MONROVIA_LON = -118.0023;
+  // Proxy cascade: try each in order until one succeeds
+  // rss2json: returns parsed JSON (most reliable, 10K req/day free)
+  // corsproxy: returns raw XML (works from browsers, blocks server-side)
+  // allorigins: returns JSON wrapper with XML contents (intermittent)
+  const PROXIES = [
+    { name: 'cfworker', url: 'https://rss-proxy.large-lake4645.workers.dev/?url=', type: 'raw' },
+    { name: 'rss2json', url: 'https://api.rss2json.com/v1/api.json?rss_url=', type: 'json' },
+    { name: 'corsproxy', url: 'https://corsproxy.io/?url=', type: 'raw' },
+    { name: 'allorigins', url: 'https://api.allorigins.win/get?url=', type: 'allorigins' },
+  ];
+  const INCIDENT_MAX_AGE_MS = 60 * 60 * 1000;
+  const NEWS_MAX_ITEMS = 12;
+
+  // NWS stations in order of proximity to Monrovia
+  const WX_STATIONS = ['KEMT', 'KPOC', 'KBUR'];
+
+  // Filter sports/entertainment noise
+  const FILTER_KEYWORDS = [
+    'dodger', 'laker', 'clipper', 'charger', 'rams ', "rams'", 'angels ',
+    'galaxy ', 'lafc ', 'sparks ', 'kings ', 'ducks ', 'padres',
+    'nfl', 'nba', 'mlb', 'nhl', 'mls', 'wnba', 'ncaa',
+    'touchdown', 'home run', 'playoff', 'draft pick', 'free agent',
+    'box office', 'grammy', 'oscar', 'emmy', 'golden globe',
+    'celebrity', 'kardashian', 'hollywood gossip', 'red carpet',
+    'movie review', 'album review', 'concert review', 'tv ratings',
+    'reality tv', 'netflix', 'disney+', 'hulu',
+    'blockbuster', 'sequel', 'premiere', 'billboard',
+    'horoscope', 'astrology', 'crossword', 'sudoku',
+    'fantasy football', 'betting odds', 'point spread',
+    'lowrider', 'motorsport', 'mclaren', 'racing', 'nascar'
+  ];
+
+  // ── STATE ──
+  let incidents = [];
+  let forecastUrl = null;
+
+  // ── UTILITIES ──
+  function relTime(date) {
+    const now = Date.now();
+    const d = date instanceof Date ? date : new Date(date);
+    const diff = now - d.getTime();
+    if (diff < 0) return 'just now';
+    const mins = Math.floor(diff / 60000);
+    if (mins < 1) return 'just now';
+    if (mins < 60) return mins + ' min ago';
+    const hrs = Math.floor(mins / 60);
+    if (hrs < 24) return hrs + 'h ago';
+    const days = Math.floor(hrs / 24);
+    return days + 'd ago';
+  }
+
+  function escHtml(str) {
+    const d = document.createElement('div');
+    d.textContent = str || '';
+    return d.innerHTML;
+  }
+
+  function isFiltered(title) {
+    const lower = (title || '').toLowerCase();
+    return FILTER_KEYWORDS.some(kw => lower.includes(kw));
+  }
+
+  async function fetchJson(url) {
+    const r = await fetch(url, {
+      headers: {
+        'Accept': 'application/geo+json,application/json',
+        'User-Agent': 'sitaware-dashboard/1.0 (contact: hi@stayontarget.com)'
+      }
+    });
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    return r.json();
+  }
+
+  function parseRssXml(xmlStr) {
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(xmlStr, 'text/xml');
+    const items = [];
+
+    doc.querySelectorAll('item').forEach(item => {
+      const title = item.querySelector('title')?.textContent?.trim() || '';
+      const link = item.querySelector('link')?.textContent?.trim() || '';
+      const pubDate = item.querySelector('pubDate')?.textContent?.trim() || '';
+      items.push({ title, link, pubDate: pubDate ? new Date(pubDate) : new Date() });
+    });
+
+    if (!items.length) {
+      doc.querySelectorAll('entry').forEach(entry => {
+        const title = entry.querySelector('title')?.textContent?.trim() || '';
+        const link = entry.querySelector('link')?.getAttribute('href') || '';
+        const updated = entry.querySelector('updated')?.textContent?.trim() ||
+                        entry.querySelector('published')?.textContent?.trim() || '';
+        items.push({ title, link, pubDate: updated ? new Date(updated) : new Date() });
+      });
+    }
+    return items;
+  }
+
+  async function fetchRss(url) {
+    var lastError;
+    for (var i = 0; i < PROXIES.length; i++) {
+      var proxy = PROXIES[i];
+      try {
+        var proxyUrl = proxy.url + encodeURIComponent(url);
+        var r = await fetch(proxyUrl);
+        if (!r.ok) throw new Error(proxy.name + ' HTTP ' + r.status);
+
+        if (proxy.type === 'json') {
+          var data = await r.json();
+          if (data.status !== 'ok') throw new Error(data.message || 'rss2json error');
+          return (data.items || []).map(function(item) {
+            return {
+              title: item.title || '',
+              link: item.link || '',
+              pubDate: item.pubDate ? new Date(item.pubDate) : new Date()
+            };
+          });
+        }
+
+        var xmlStr;
+        if (proxy.type === 'allorigins') {
+          var wrapper = await r.json();
+          xmlStr = wrapper.contents;
+        } else {
+          xmlStr = await r.text();
+        }
+
+        if (!xmlStr || xmlStr.length < 50) throw new Error(proxy.name + ' empty response');
+        var items = parseRssXml(xmlStr);
+        if (!items.length) throw new Error(proxy.name + ' parsed 0 items');
+        return items;
+      } catch (e) {
+        lastError = e;
+        console.warn('[fetchRss] ' + proxy.name + ' failed for ' + url.slice(0, 60) + ':', e.message);
+      }
+    }
+    throw lastError || new Error('All proxies failed for ' + url);
+  }
+
+  function renderNewsCard(item, source, geoClass) {
+    const card = document.createElement('a');
+    card.className = 'news-card';
+    card.href = item.link || '#';
+    card.target = '_blank';
+    card.rel = 'noopener';
+    card.innerHTML =
+      '<div class="nc-source ' + geoClass + '"><span class="src-dot"></span> ' + escHtml(source) + '</div>' +
+      '<div class="nc-headline">' + escHtml(item.title) + '</div>' +
+      '<div class="nc-time">' + relTime(item.pubDate) + '</div>';
+    return card;
+  }
+
+  // ── CLOCK (12-hour AM/PM) ──
+  function updateClock() {
+    const now = new Date();
+    document.getElementById('clock').textContent =
+      now.toLocaleString('en-US', {
+        weekday: 'short', month: 'short', day: 'numeric',
+        hour: 'numeric', minute: '2-digit', second: '2-digit',
+        hour12: true, timeZone: 'America/Los_Angeles'
+      }) + ' PT';
+  }
+  setInterval(updateClock, 1000);
+  updateClock();
+
+  // ═══════════════════════════════════════════
+  // INCIDENT BAR
+  // ═══════════════════════════════════════════
+
+  function addIncident(obj) {
+    if (incidents.find(i => i.id === obj.id)) return;
+    incidents.push(obj);
+  }
+
+  function pruneIncidents() {
+    const cutoff = Date.now() - INCIDENT_MAX_AGE_MS;
+    incidents = incidents.filter(i => i.time.getTime() > cutoff);
+  }
+
+  function renderIncidents() {
+    pruneIncidents();
+    const bar = document.getElementById('incident-bar');
+    const clearEl = document.getElementById('incident-clear');
+    const cardsEl = document.getElementById('incident-cards');
+
+    if (!incidents.length) {
+      bar.className = 'incident-bar clear';
+      clearEl.style.display = '';
+      cardsEl.style.display = 'none';
+      return;
+    }
+
+    const hasRed = incidents.some(i => i.severity === 'red');
+    bar.className = 'incident-bar ' + (hasRed ? 'active-red' : 'active-amber');
+    clearEl.style.display = 'none';
+    cardsEl.style.display = 'flex';
+    cardsEl.innerHTML = '';
+
+    incidents.sort((a, b) => b.time - a.time).forEach(inc => {
+      const card = document.createElement('div');
+      card.className = 'incident-card severity-' + (inc.severity || 'amber');
+      card.innerHTML =
+        '<div class="ic-type">' + escHtml(inc.type) + '</div>' +
+        '<div class="ic-title">' + escHtml(inc.title) + '</div>' +
+        '<div class="ic-meta"><span>' + escHtml(inc.source) + '</span><span>' + relTime(inc.time) + '</span></div>';
+      cardsEl.appendChild(card);
+    });
+  }
+
+  async function fetchQuakesLastHour() {
+    try {
+      const url = 'https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=' +
+        new Date(Date.now() - INCIDENT_MAX_AGE_MS).toISOString() +
+        '&minmagnitude=1.0&latitude=' + MONROVIA_LAT + '&longitude=' + MONROVIA_LON + '&maxradiuskm=80';
+      const data = await fetchJson(url);
+      (data.features || []).forEach(f => {
+        const p = f.properties;
+        addIncident({
+          id: 'usgs-' + f.id,
+          type: 'EARTHQUAKE',
+          title: 'M' + p.mag.toFixed(1) + ' -- ' + p.place,
+          source: 'USGS',
+          time: new Date(p.time),
+          severity: p.mag >= 4 ? 'red' : p.mag >= 2.5 ? 'amber' : 'green'
+        });
+      });
+    } catch (e) { console.warn('USGS last-hour:', e); }
+  }
+
+  async function fetchNwsAlertsIncident() {
+    try {
+      const data = await fetchJson('https://api.weather.gov/alerts/active?zone=CAZ548');
+      (data.features || []).forEach(f => {
+        const p = f.properties;
+        const sev = ['Extreme','Severe'].includes(p.severity) ? 'red' : 'amber';
+        addIncident({
+          id: 'nws-' + f.id,
+          type: 'NWS ALERT',
+          title: p.event + (p.headline ? ': ' + p.headline.slice(0, 100) : ''),
+          source: 'NWS',
+          time: new Date(p.onset || p.effective || p.sent),
+          severity: sev
+        });
+      });
+    } catch (e) { console.warn('NWS alerts incident:', e); }
+  }
+
+  // CAL FIRE RSS is defunct (redirects to 404). Fire incidents are covered by NWS alerts
+  // (Red Flag Warnings, Fire Weather Watches) which are already in the incident bar.
+
+  async function refreshIncidents() {
+    await Promise.allSettled([fetchQuakesLastHour(), fetchNwsAlertsIncident()]);
+    renderIncidents();
+    document.getElementById('last-refresh').textContent = 'Updated ' +
+      new Date().toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', hour12: true, timeZone: 'America/Los_Angeles' });
+  }
+
+  // ═══════════════════════════════════════════
+  // NEWS FEEDS
+  // ═══════════════════════════════════════════
+
+  async function loadFeedColumn(containerId, countId, feeds, opts) {
+    opts = opts || {};
+    const container = document.getElementById(containerId);
+    const allItems = [];
+
+    const results = await Promise.allSettled(
+      feeds.map(f => fetchRss(f.url).then(items => items.map(it => ({
+        title: it.title, link: it.link, pubDate: it.pubDate,
+        source: f.name, geoClass: f.geoClass
+      }))))
+    );
+
+    results.forEach(r => { if (r.status === 'fulfilled') allItems.push.apply(allItems, r.value); });
+
+    var filtered = opts.filter ? allItems.filter(function(it) { return !isFiltered(it.title); }) : allItems;
+    filtered.sort(function(a, b) { return b.pubDate - a.pubDate; });
+    container.innerHTML = '';
+
+    if (!filtered.length) {
+      container.innerHTML = '<div class="empty-text">No items loaded</div>';
+      return;
+    }
+
+    var shown = filtered.slice(0, NEWS_MAX_ITEMS);
+    shown.forEach(function(item) {
+      container.appendChild(renderNewsCard(item, item.source, item.geoClass));
+    });
+
+    var countEl = document.getElementById(countId);
+    if (countEl) countEl.textContent = shown.length + ' items';
+  }
+
+  // MONROVIA: MonroviaNow (hyperlocal Blogger) + Google News geo-filtered + Patch + HeySoCal
+  function loadMonrovia() {
+    return loadFeedColumn('monrovia-feed', 'monrovia-count', [
+      { name: 'Monrovia Now', url: 'https://www.monrovianow.com/feeds/posts/default?alt=rss', geoClass: 'geo-monrovia' },
+      { name: 'Google News', url: 'https://news.google.com/rss/search?q=%22Monrovia%22+%22California%22+-Liberia+when:7d&hl=en-US&gl=US&ceid=US:en', geoClass: 'geo-monrovia' },
+      { name: 'Patch Monrovia', url: 'https://patch.com/feeds/aol/california/monrovia', geoClass: 'geo-monrovia' },
+      { name: 'HeySoCal', url: 'https://heysocal.com/category/neighborhood/san-gabriel-valley/monroviaweekly/feed/', geoClass: 'geo-monrovia' },
+    ], { filter: true });
+  }
+
+  // SGV: Google News SGV + Pasadena Now + Colorado Blvd + ABC7
+  function loadSgv() {
+    return loadFeedColumn('sgv-feed', 'sgv-count', [
+      { name: 'Google News SGV', url: 'https://news.google.com/rss/search?q=%22San+Gabriel+Valley%22+when:7d&hl=en-US&gl=US&ceid=US:en', geoClass: 'geo-sgv' },
+      { name: 'Pasadena Now', url: 'https://pasadenanow.com/main/feed', geoClass: 'geo-sgv' },
+      { name: 'Colorado Blvd', url: 'https://www.coloradoboulevard.net/feed/', geoClass: 'geo-sgv' },
+      { name: 'ABC7', url: 'https://abc7.com/feed/', geoClass: 'geo-sgv' },
+    ], { filter: true });
+  }
+
+  // LA COUNTY: LAist + Fox 11 + MyNewsLA, filtered
+  function loadCounty() {
+    return loadFeedColumn('county-feed', 'county-count', [
+      { name: 'LAist', url: 'https://laist.com/index.atom', geoClass: 'geo-county' },
+      { name: 'Fox 11 LA', url: 'https://www.foxla.com/rss/category/news', geoClass: 'geo-county' },
+      { name: 'MyNewsLA', url: 'https://mynewsla.com/feed/', geoClass: 'geo-county' },
+      { name: 'Google News LA', url: 'https://news.google.com/rss/search?q=%22Los+Angeles%22+County+-sports+-entertainment+when:3d&hl=en-US&gl=US&ceid=US:en', geoClass: 'geo-county' },
+    ], { filter: true });
+  }
+
+  // ═══════════════════════════════════════════
+  // WEATHER
+  // ═══════════════════════════════════════════
+
+  function degToCompass(deg) {
+    var dirs = ['N','NNE','NE','ENE','E','ESE','SE','SSE','S','SSW','SW','WSW','W','WNW','NW','NNW'];
+    return dirs[Math.round(deg / 22.5) % 16];
+  }
+
+  // Fetch all stations in parallel, use the one with the freshest valid observation
+  async function loadCurrentWx() {
+    var section = document.getElementById('wx-current');
+
+    try {
+      var results = await Promise.allSettled(
+        WX_STATIONS.map(function(station) {
+          return fetchJson('https://api.weather.gov/stations/' + station + '/observations/latest')
+            .then(function(data) { return { station: station, props: data.properties }; });
+        })
+      );
+
+      // Collect valid observations and pick freshest
+      var valid = [];
+      results.forEach(function(r) {
+        if (r.status !== 'fulfilled') return;
+        var p = r.value.props;
+        var tempC = p.temperature ? p.temperature.value : null;
+        if (tempC == null) return;
+        var obsTime = p.timestamp ? new Date(p.timestamp).getTime() : 0;
+        valid.push({ station: r.value.station, props: p, obsTime: obsTime });
+      });
+
+      if (!valid.length) {
+        section.innerHTML = '<div class="wx-section-title">Current Conditions</div><div class="empty-text">Failed to load</div>';
+        return;
+      }
+
+      // Sort by observation time descending, pick freshest
+      valid.sort(function(a, b) { return b.obsTime - a.obsTime; });
+      var best = valid[0];
+      var p = best.props;
+      var station = best.station;
+
+      var tempC = p.temperature.value;
+      var tempF = Math.round(tempC * 9 / 5 + 32);
+      var desc = p.textDescription || 'N/A';
+      var windSpd = (p.windSpeed && p.windSpeed.value != null) ? Math.round(p.windSpeed.value * 0.621371) : '--';
+      var windDir = (p.windDirection && p.windDirection.value != null) ? degToCompass(p.windDirection.value) : '';
+      var humidity = (p.relativeHumidity && p.relativeHumidity.value != null) ? Math.round(p.relativeHumidity.value) : '--';
+      var dewC = p.dewpoint ? p.dewpoint.value : null;
+      var dewF = dewC != null ? Math.round(dewC * 9 / 5 + 32) : '--';
+      var vis = (p.visibility && p.visibility.value != null) ? (p.visibility.value / 1609.34).toFixed(1) : '--';
+      var obsDate = new Date(best.obsTime);
+      var obsTimeStr = obsDate.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', hour12: true, timeZone: 'America/Los_Angeles' });
+      var ageMins = Math.round((Date.now() - best.obsTime) / 60000);
+      var staleNote = ageMins > 90 ? ' (stale -- ' + ageMins + 'min old)' : '';
+
+      section.innerHTML =
+        '<div class="wx-section-title">Current Conditions</div>' +
+        '<div class="wx-current-temp">' + tempF + '<span class="unit">&deg;F</span></div>' +
+        '<div class="wx-current-desc">' + escHtml(desc) + '</div>' +
+        '<div class="wx-current-details">' +
+          '<span class="wx-detail-label">Wind</span><span class="wx-detail-value">' + windDir + ' ' + windSpd + ' mph</span>' +
+          '<span class="wx-detail-label">Humidity</span><span class="wx-detail-value">' + humidity + '%</span>' +
+          '<span class="wx-detail-label">Dewpoint</span><span class="wx-detail-value">' + dewF + '&deg;F</span>' +
+          '<span class="wx-detail-label">Visibility</span><span class="wx-detail-value">' + vis + ' mi</span>' +
+        '</div>' +
+        '<div class="wx-obs-note">Obs: ' + station + ' at ' + obsTimeStr + staleNote + '</div>';
+    } catch (e) {
+      section.innerHTML = '<div class="wx-section-title">Current Conditions</div><div class="empty-text">Failed to load</div>';
+      console.warn('Weather:', e);
+    }
+  }
+
+  // Forecast: Tonight + next 3 days with day/night periods
+  async function loadForecast() {
+    var section = document.getElementById('wx-forecast');
+    try {
+      if (!forecastUrl) {
+        var meta = await fetchJson('https://api.weather.gov/points/' + MONROVIA_LAT + ',' + MONROVIA_LON);
+        forecastUrl = meta.properties.forecast;
+      }
+      var data = await fetchJson(forecastUrl);
+      var periods = data.properties.periods || [];
+
+      if (!periods.length) {
+        section.innerHTML = '<div class="wx-section-title">Forecast</div><div class="empty-text">No forecast data</div>';
+        return;
+      }
+
+      var html = '<div class="wx-section-title">Forecast</div>';
+
+      // Separate "tonight-type" first period from day groups
+      var tonightPeriod = null;
+      var dayGroups = {};
+      var dayOrder = [];
+
+      periods.forEach(function(p) {
+        var name = p.name;
+        var isNight = p.isDaytime === false;
+
+        // First period if it's tonight/this afternoon/this evening
+        if (!tonightPeriod && (name === 'Tonight' || name === 'This Afternoon' || name === 'This Evening' || name === 'Overnight')) {
+          tonightPeriod = p;
+          return;
+        }
+
+        // Extract day name from period name
+        var dayName;
+        if (name.endsWith(' Night')) {
+          dayName = name.replace(' Night', '');
+        } else {
+          dayName = name;
+        }
+
+        if (!dayGroups[dayName]) {
+          dayGroups[dayName] = { day: null, night: null };
+          dayOrder.push(dayName);
+        }
+
+        if (isNight || name.endsWith(' Night')) {
+          dayGroups[dayName].night = p;
+        } else {
+          dayGroups[dayName].day = p;
+        }
+      });
+
+      // Render tonight
+      if (tonightPeriod) {
+        html +=
+          '<div class="forecast-row">' +
+            '<span class="forecast-period">' + escHtml(tonightPeriod.name) + '</span>' +
+            '<span class="forecast-desc">' + escHtml(tonightPeriod.shortForecast) + '</span>' +
+            '<span class="forecast-temp forecast-temp-night">' + tonightPeriod.temperature + '&deg;' + tonightPeriod.temperatureUnit + '</span>' +
+          '</div>';
+      }
+
+      // Render next 3 days
+      var daysToShow = dayOrder.slice(0, 3);
+      daysToShow.forEach(function(dayName) {
+        var g = dayGroups[dayName];
+        html += '<div class="forecast-day-group"><div class="forecast-day-label">' + escHtml(dayName) + '</div>';
+
+        if (g.day) {
+          html +=
+            '<div class="forecast-row">' +
+              '<span class="forecast-period">Day</span>' +
+              '<span class="forecast-desc">' + escHtml(g.day.shortForecast) + '</span>' +
+              '<span class="forecast-temp">' + g.day.temperature + '&deg;' + g.day.temperatureUnit + '</span>' +
+            '</div>';
+        }
+        if (g.night) {
+          html +=
+            '<div class="forecast-row">' +
+              '<span class="forecast-period">Night</span>' +
+              '<span class="forecast-desc">' + escHtml(g.night.shortForecast) + '</span>' +
+              '<span class="forecast-temp forecast-temp-night">' + g.night.temperature + '&deg;' + g.night.temperatureUnit + '</span>' +
+            '</div>';
+        }
+
+        html += '</div>';
+      });
+
+      section.innerHTML = html;
+    } catch (e) {
+      section.innerHTML = '<div class="wx-section-title">Forecast</div><div class="empty-text">Failed to load</div>';
+      console.warn('Forecast:', e);
+    }
+  }
+
+  async function loadAqi() {
+    var section = document.getElementById('wx-aqi');
+    if (AIRNOW_KEY === 'YOUR_AIRNOW_KEY') {
+      section.innerHTML =
+        '<div class="wx-section-title">Air Quality -- 91016</div>' +
+        '<div class="empty-text" style="text-align:left; padding:0;">AQI key not configured</div>';
+      return;
+    }
+    try {
+      var url = 'https://www.airnowapi.org/aq/observation/zipCode/current/?format=application/json&zipCode=91016&distance=25&API_KEY=' + AIRNOW_KEY;
+      var data = await fetchJson(url);
+      if (!data.length) throw new Error('No AQI data');
+      var pm = data.find(function(d) { return d.ParameterName === 'PM2.5'; }) || data[0];
+      var aqi = pm.AQI;
+      var cat = pm.Category ? pm.Category.Name : '';
+      var aqiClass = 'aqi-good';
+      if (aqi > 300) aqiClass = 'aqi-hazardous';
+      else if (aqi > 200) aqiClass = 'aqi-very-unhealthy';
+      else if (aqi > 150) aqiClass = 'aqi-unhealthy';
+      else if (aqi > 100) aqiClass = 'aqi-usg';
+      else if (aqi > 50) aqiClass = 'aqi-moderate';
+
+      section.innerHTML =
+        '<div class="wx-section-title">Air Quality -- 91016</div>' +
+        '<div class="aqi-display">' +
+          '<div class="aqi-number ' + aqiClass + '">' + aqi + '</div>' +
+          '<div>' +
+            '<div class="aqi-cat ' + aqiClass + '">' + escHtml(cat) + '</div>' +
+            '<div class="aqi-label">' + escHtml(pm.ParameterName) + ' -- ' + escHtml(pm.ReportingArea) + '</div>' +
+          '</div>' +
+        '</div>';
+    } catch (e) {
+      section.innerHTML = '<div class="wx-section-title">Air Quality -- 91016</div><div class="empty-text">Failed to load AQI</div>';
+      console.warn('AQI:', e);
+    }
+  }
+
+  async function loadAlerts() {
+    var section = document.getElementById('wx-alerts');
+    try {
+      var data = await fetchJson('https://api.weather.gov/alerts/active?zone=CAZ548');
+      var features = data.features || [];
+      var html = '<div class="wx-section-title">Active Alerts</div>';
+      if (!features.length) {
+        html += '<div class="empty-text" style="color:var(--green-dim); text-align:left; padding:0;">No active alerts</div>';
+      } else {
+        features.forEach(function(f) {
+          var p = f.properties;
+          html +=
+            '<div class="wx-alert-card">' +
+              '<div class="alert-event">' + escHtml(p.event) + '</div>' +
+              '<div class="alert-desc">' + escHtml(p.headline || (p.description || '').slice(0, 200)) + '</div>' +
+            '</div>';
+        });
+      }
+      section.innerHTML = html;
+    } catch (e) {
+      section.innerHTML = '<div class="wx-section-title">Active Alerts</div><div class="empty-text">Failed to load</div>';
+      console.warn('Alerts:', e);
+    }
+  }
+
+  async function loadRecentQuakes() {
+    var section = document.getElementById('wx-quakes');
+    try {
+      var startTime = new Date(Date.now() - 7 * 24 * 60 * 60 * 1000).toISOString();
+      var url = 'https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=' + startTime +
+        '&minmagnitude=1.5&latitude=' + MONROVIA_LAT + '&longitude=' + MONROVIA_LON + '&maxradiuskm=80&orderby=time&limit=15';
+      var data = await fetchJson(url);
+      var features = data.features || [];
+      var html = '<div class="wx-section-title">Recent Earthquakes -- 7d / M1.5+</div>';
+      if (!features.length) {
+        html += '<div class="empty-text" style="text-align:left; padding:0;">No recent quakes</div>';
+      } else {
+        features.forEach(function(f) {
+          var p = f.properties;
+          var mag = p.mag.toFixed(1);
+          var magClass = 'low';
+          if (p.mag >= 4) magClass = 'high';
+          else if (p.mag >= 2.5) magClass = 'med';
+          html +=
+            '<div class="quake-row">' +
+              '<span class="quake-mag ' + magClass + '">' + mag + '</span>' +
+              '<span class="quake-place">' + escHtml(p.place) + '</span>' +
+              '<span class="quake-time">' + relTime(p.time) + '</span>' +
+            '</div>';
+        });
+      }
+      section.innerHTML = html;
+    } catch (e) {
+      section.innerHTML = '<div class="wx-section-title">Recent Earthquakes -- 7d / M1.5+</div><div class="empty-text">Failed to load</div>';
+      console.warn('Quakes 7d:', e);
+    }
+  }
+
+  // ═══════════════════════════════════════════
+  // UPCOMING
+  // ═══════════════════════════════════════════
+
+  function loadUpcoming() {
+    var items = [
+      { date: 'Recurring', title: 'Monrovia City Council -- 1st & 3rd Tuesdays, 7:00 PM', source: 'cityofmonrovia.org', link: 'https://www.cityofmonrovia.org/your-government/city-council' },
+      { date: 'Recurring', title: 'LA County Board of Supervisors -- Tuesdays, 9:30 AM', source: 'bos.lacounty.gov', link: 'https://bos.lacounty.gov/' },
+      { date: 'Seasonal', title: 'Fire Weather Watch Season -- Monitor Red Flag Warnings', source: 'NWS', link: 'https://www.weather.gov/lox/' },
+      { date: 'Ongoing', title: 'AQI Monitoring -- PM2.5 & Ozone', source: 'AirNow', link: 'https://www.airnow.gov/?city=Monrovia&state=CA' },
+    ];
+
+    var container = document.getElementById('upcoming-items');
+    container.innerHTML = '';
+    items.forEach(function(item) {
+      var el = document.createElement('a');
+      el.className = 'upcoming-item';
+      el.href = item.link || '#';
+      el.target = '_blank';
+      el.rel = 'noopener';
+      el.innerHTML =
+        '<div class="upcoming-date">' + escHtml(item.date) + '</div>' +
+        '<div class="upcoming-title">' + escHtml(item.title) + '</div>' +
+        '<div class="upcoming-source">' + escHtml(item.source) + '</div>';
+      container.appendChild(el);
+    });
+  }
+
+  // ═══════════════════════════════════════════
+  // INIT
+  // ═══════════════════════════════════════════
+
+  async function refreshAll() {
+    var btn = document.getElementById('refresh-btn');
+    if (btn) { btn.disabled = true; btn.textContent = '↻ REFRESHING…'; }
+    await Promise.allSettled([
+      refreshIncidents(), loadMonrovia(), loadSgv(), loadCounty(),
+      loadCurrentWx(), loadForecast(), loadAqi(), loadAlerts(), loadRecentQuakes()
+    ]);
+    if (btn) { btn.disabled = false; btn.innerHTML = '&#8635; REFRESH'; }
+  }
+
+  async function init() {
+    loadUpcoming();
+    document.getElementById('refresh-btn').addEventListener('click', refreshAll);
+    await refreshAll();
+  }
+
+  // Auto-refresh everything every 15 minutes
+  setInterval(refreshAll, 15 * 60 * 1000);
+
+  init();
+})();
+</script>
+</body>
+</html>
