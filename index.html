@@ -854,6 +854,65 @@ body::after {
   text-overflow: ellipsis;
 }
 
+/* Live station link buttons */
+.live-stations {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 12px;
+}
+
+.station-link {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 14px 16px;
+  border-radius: 6px;
+  text-decoration: none;
+  border: 1px solid var(--border);
+  background: var(--bg-card);
+  transition: background 0.15s, border-color 0.15s, transform 0.1s;
+  cursor: pointer;
+}
+.station-link:hover {
+  background: var(--bg-card-hover);
+  border-color: var(--border-bright);
+  transform: translateY(-1px);
+}
+.station-link:active { transform: translateY(0); }
+
+.station-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  box-shadow: 0 0 6px currentColor;
+}
+
+.station-info { flex: 1; min-width: 0; display: flex; flex-direction: column; }
+
+.station-name {
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  color: var(--text-primary);
+}
+
+.station-desc {
+  font-size: 0.6rem;
+  color: var(--text-dim);
+  margin-top: 2px;
+}
+
+.station-arrow {
+  font-size: 0.75rem;
+  color: var(--text-dim);
+  flex-shrink: 0;
+}
+
+.station-link:hover .station-arrow { color: var(--text-secondary); }
+.station-link:hover .station-name { color: #fff; }
+
 /* PulsePoint embed */
 .pulsepoint-frame {
   width: 100%;
@@ -1019,7 +1078,7 @@ body::after {
 <div class="panel-backdrop" id="panel-backdrop"></div>
 
 <!-- LIVE NEWS -->
-<div class="float-panel" id="panel-live" style="display:none;">
+<div class="float-panel" id="panel-live" style="display:none; width:400px;">
   <div class="panel-drag-handle"><span class="handle-bar"></span></div>
   <div class="panel-header">
     <h3>&#9654; Live News Streams</h3>
@@ -1030,15 +1089,9 @@ body::after {
   <div class="panel-resize-handle rs-s"></div>
   <div class="panel-resize-handle rs-se"></div>
   <div class="panel-resize-handle rs-sw"></div>
-  <div class="panel-tabs">
-    <button class="panel-tab active" onclick="switchLiveTab(this, 'ktla')">KTLA 5</button>
-    <button class="panel-tab" onclick="switchLiveTab(this, 'abc7')">ABC7 LA</button>
-    <button class="panel-tab" onclick="switchLiveTab(this, 'cbsla')">CBSLA</button>
+  <div class="panel-body" id="live-body" style="min-height:auto;">
+    <div class="live-stations" id="live-stations"></div>
   </div>
-  <div class="panel-body" id="live-body">
-    <iframe id="live-iframe" src="" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-  </div>
-  <div id="live-fallback" style="padding:8px 12px;font-size:0.65rem;color:var(--text-dim);border-top:1px solid var(--border);"></div>
 </div>
 
 <!-- AIRCRAFT -->
@@ -1821,12 +1874,14 @@ body::after {
   // FLOATING PANELS (outside IIFE for onclick)
   // ═══════════════════════════════════════════
 
-  // YouTube live stream channel IDs (verified)
-  var LIVE_CHANNELS = {
-    ktla: { id: 'UCBVwjOgj3YKPIiAMcQ-7yDg', handle: 'KTLA', name: 'KTLA 5' },
-    abc7: { id: 'UCVxBA3Cbu3pm8w8gEIoMEog', handle: 'abc7', name: 'ABC7 LA' },
-    cbsla: { id: 'UCkH1uDkyuO9sVjSqdqBygOg', handle: 'CBSLA', name: 'CBSLA' }
-  };
+  // LA local news stations with live YouTube streams
+  var LIVE_STATIONS = [
+    { name: 'KTLA 5',   desc: 'CW affiliate — 24/7 streaming',     color: '#00a4e4', url: 'https://www.youtube.com/@KTLA/live' },
+    { name: 'ABC7 LA',  desc: 'ABC Los Angeles — KABC',             color: '#ff6600', url: 'https://www.youtube.com/@abc7/live' },
+    { name: 'CBSLA',    desc: 'CBS News Los Angeles — KCBS/KCAL',   color: '#0080c8', url: 'https://www.youtube.com/@CBSLA/live' },
+    { name: 'NBC4 LA',  desc: 'NBC Los Angeles — KNBC',             color: '#e31837', url: 'https://www.youtube.com/@NBCLA/live' },
+    { name: 'FOX 11 LA', desc: 'FOX Los Angeles — KTTV',            color: '#003087', url: 'https://www.youtube.com/@FOX11LosAngeles/live' },
+  ];
 
   // Caltrans cameras near Monrovia - ordered by proximity
   // Some may show "unavailable" placeholder; UI filters these dynamically
@@ -1869,8 +1924,7 @@ body::after {
     }
     if (b) b.classList.remove('active');
     // Unload resources
-    if (name === 'live') document.getElementById('live-iframe').src = '';
-    else if (name === 'aircraft') document.getElementById('adsb-iframe').src = '';
+    if (name === 'aircraft') document.getElementById('adsb-iframe').src = '';
     else if (name === 'fire') document.getElementById('pulsepoint-iframe').src = '';
     if (name === 'cameras' && camTimer) { clearInterval(camTimer); camTimer = null; }
   }
@@ -1907,10 +1961,7 @@ body::after {
       }
       // Lazy-load content on first open
       if (name === 'live') {
-        var iframe = document.getElementById('live-iframe');
-        if (!iframe.src || iframe.src === '' || iframe.src === location.href) {
-          switchLiveTab(document.querySelector('#panel-live .panel-tab.active'), 'ktla');
-        }
+        renderLiveStations();
       } else if (name === 'aircraft') {
         var iframe = document.getElementById('adsb-iframe');
         if (!iframe.src || iframe.src === '' || iframe.src === location.href) {
@@ -1929,18 +1980,23 @@ body::after {
     }
   };
 
-  window.switchLiveTab = function(tabEl, channel) {
-    document.querySelectorAll('#panel-live .panel-tab').forEach(function(t) { t.classList.remove('active'); });
-    if (tabEl) tabEl.classList.add('active');
-    var ch = LIVE_CHANNELS[channel];
-    var iframe = document.getElementById('live-iframe');
-    var fallback = document.getElementById('live-fallback');
-    // Try embed; show fallback link in case it doesn't load
-    iframe.src = 'https://www.youtube.com/embed/live_stream?channel=' + ch.id + '&autoplay=1&mute=1';
-    if (fallback) fallback.innerHTML =
-      'Stream not loading? <a href="https://www.youtube.com/@' + ch.handle + '/live" target="_blank" rel="noopener" ' +
-      'style="color:var(--cyan);text-decoration:underline;">Watch ' + ch.name + ' live on YouTube &rarr;</a>';
-  };
+  function renderLiveStations() {
+    var container = document.getElementById('live-stations');
+    if (!container || container.children.length > 0) return;
+    LIVE_STATIONS.forEach(function(st) {
+      var a = document.createElement('a');
+      a.className = 'station-link';
+      a.href = st.url;
+      a.target = '_blank';
+      a.rel = 'noopener';
+      a.innerHTML =
+        '<span class="station-dot" style="color:' + st.color + ';background:' + st.color + '"></span>' +
+        '<span class="station-info"><span class="station-name">' + st.name + '</span>' +
+        '<span class="station-desc">' + st.desc + '</span></span>' +
+        '<span class="station-arrow">&#8599;</span>';
+      container.appendChild(a);
+    });
+  }
 
   function loadCameras() {
     var grid = document.getElementById('cam-grid');
