@@ -834,6 +834,7 @@ body::after {
   border: 1px solid var(--border);
   border-radius: var(--radius);
   overflow: hidden;
+  position: relative;
 }
 
 .cam-card img {
@@ -842,17 +843,47 @@ body::after {
   object-fit: cover;
   display: block;
   background: #000;
+  transition: opacity 0.2s;
+}
+
+.cam-card.cam-offline img { opacity: 0.15; }
+.cam-card.cam-offline::after {
+  content: 'OFFLINE';
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  font-size: 0.5rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  color: var(--red);
+  background: rgba(0,0,0,0.6);
+  padding: 2px 5px;
+  border-radius: 3px;
 }
 
 .cam-card .cam-label {
-  font-size: 0.55rem;
-  color: var(--text-dim);
-  padding: 3px 6px;
+  padding: 4px 6px;
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+}
+
+.cam-title {
+  font-size: 0.6rem;
+  font-weight: 600;
+  color: var(--text-secondary);
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
 }
+
+.cam-sub {
+  font-size: 0.5rem;
+  color: var(--text-dim);
+}
+
+.cam-card.cam-offline .cam-title { color: var(--text-dim); }
 
 /* Live station link buttons */
 .live-stations {
@@ -1115,7 +1146,7 @@ body::after {
 <div class="float-panel" id="panel-cameras" style="display:none; width:580px;">
   <div class="panel-drag-handle"><span class="handle-bar"></span></div>
   <div class="panel-header">
-    <h3>&#128249; Traffic Cameras -- I-210 / I-605</h3>
+    <h3>&#128249; Traffic Cameras — Near Monrovia</h3>
     <button class="panel-close" onclick="togglePanel('cameras')">&times;</button>
   </div>
   <div class="panel-resize-handle rs-e"></div>
@@ -1883,17 +1914,21 @@ body::after {
     { name: 'FOX 11 LA', desc: 'FOX Los Angeles — KTTV',            color: '#003087', url: 'https://www.youtube.com/@FOX11LosAngeles/live' },
   ];
 
-  // Caltrans cameras near Monrovia - ordered by proximity
-  // Some may show "unavailable" placeholder; UI filters these dynamically
+  // Caltrans cameras near Monrovia — confirmed working first, then nearby
+  // Placeholder images are ~16KB; real feeds are 20KB+
   var CAMERAS = [
-    { label: 'I-210 W @ Myrtle', url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i210775myrtlecentral/i210775myrtlecentral.jpg' },
-    { label: 'I-210 E @ Mayflower', url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i210455mayflowerave/i210455mayflowerave.jpg' },
-    { label: 'I-210 W @ California', url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i210777californiacentral/i210777californiacentral.jpg' },
-    { label: 'I-210 E @ Santa Anita', url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i210772santaanitaave/i210772santaanitaave.jpg' },
-    { label: 'I-210 @ E Colorado', url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i210767eastcolorado/i210767eastcolorado.jpg' },
-    { label: 'I-210 E @ Huntington', url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i210773huntingtonave/i210773huntingtonave.jpg' },
-    { label: 'I-605 N @ S of I-210', url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i605442southofi210/i605442southofi210.jpg' },
-    { label: 'I-605 S @ Arrow Hwy', url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i605441arrowhwy/i605441arrowhwy.jpg' },
+    // Confirmed working
+    { label: 'I-210 EB at Santa Anita Ave',       sub: 'Arcadia — 1.7 mi west',           url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i210772santaanitaave/i210772santaanitaave.jpg' },
+    { label: 'I-210 EB at E Colorado Blvd',        sub: 'Pasadena — 3.9 mi west',          url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i210767eastcolorado/i210767eastcolorado.jpg' },
+    { label: 'I-605 NB south of I-210',            sub: 'Irwindale — 2.6 mi southeast',    url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i605442southofi210/i605442southofi210.jpg' },
+    { label: 'I-210 WB at Alameda Ave / 1st St',   sub: 'Azusa — 5.7 mi east',             url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i210784alamedaave1stst/i210784alamedaave1stst.jpg' },
+    { label: 'I-210 WB at Citrus Ave / Baseline',  sub: 'Azusa — 6.6 mi east',             url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i210786citrusavebaseline/i210786citrusavebaseline.jpg' },
+    { label: 'I-210 WB at Sierra Madre Villa',     sub: 'Pasadena — 5.3 mi west',          url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i210765sierramadrevilla/i210765sierramadrevilla.jpg' },
+    // Closest to Monrovia — may toggle on/off
+    { label: 'I-210 WB at Myrtle / Central',       sub: 'Monrovia — closest cam',          url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i210775myrtlecentral/i210775myrtlecentral.jpg' },
+    { label: 'I-210 WB at Myrtle Ave',             sub: 'Monrovia — 0.6 mi',               url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i210459myrtleave/i210459myrtleave.jpg' },
+    { label: 'I-210 EB at California / Evergreen',  sub: 'Monrovia — 0.75 mi east',        url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i210778californiaevergreen/i210778californiaevergreen.jpg' },
+    { label: 'I-210 EB at Huntington Ave',          sub: 'Monrovia — 1 mi east',           url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i210774huntingtonave/i210774huntingtonave.jpg' },
   ];
 
   var camTimer = null;
@@ -1998,6 +2033,20 @@ body::after {
     });
   }
 
+  // Check if a camera image is the Caltrans placeholder (~16KB)
+  function checkCamStatus(imgEl, cam) {
+    fetch(imgEl.src, { method: 'HEAD' }).then(function(r) {
+      var len = parseInt(r.headers.get('content-length') || '0', 10);
+      if (len > 0 && len < 18000) {
+        imgEl.closest('.cam-card').classList.add('cam-offline');
+      } else {
+        imgEl.closest('.cam-card').classList.remove('cam-offline');
+      }
+    }).catch(function() {
+      imgEl.closest('.cam-card').classList.add('cam-offline');
+    });
+  }
+
   function loadCameras() {
     var grid = document.getElementById('cam-grid');
     grid.innerHTML = '';
@@ -2009,21 +2058,14 @@ body::after {
       img.src = cam.url + '?t=' + ts;
       img.alt = cam.label;
       img.loading = 'lazy';
-      // Detect placeholder images (~16KB "unavailable" graphic)
-      img.onload = function() {
-        // Caltrans placeholder is exactly ~16KB; real feeds are larger
-        // We check via canvas for a rough size proxy
-        if (this.naturalWidth < 100) {
-          this.style.opacity = '0.2';
-          this.nextSibling.textContent = cam.label + ' (offline)';
-        }
-      };
-      img.onerror = function() { this.style.opacity = '0.15'; this.nextSibling.textContent = cam.label + ' (offline)'; };
+      img.onload = function() { checkCamStatus(this, cam); };
+      img.onerror = function() { this.closest('.cam-card').classList.add('cam-offline'); };
       card.appendChild(img);
-      var label = document.createElement('div');
-      label.className = 'cam-label';
-      label.textContent = cam.label;
-      card.appendChild(label);
+      var labelDiv = document.createElement('div');
+      labelDiv.className = 'cam-label';
+      labelDiv.innerHTML = '<span class="cam-title">' + cam.label + '</span>' +
+        (cam.sub ? '<span class="cam-sub">' + cam.sub + '</span>' : '');
+      card.appendChild(labelDiv);
       grid.appendChild(card);
     });
     // Auto-refresh camera images every 30 seconds
@@ -2031,7 +2073,9 @@ body::after {
     camTimer = setInterval(function() {
       var ts = Date.now();
       grid.querySelectorAll('.cam-card img').forEach(function(img, i) {
-        if (CAMERAS[i]) img.src = CAMERAS[i].url + '?t=' + ts;
+        if (CAMERAS[i]) {
+          img.src = CAMERAS[i].url + '?t=' + ts;
+        }
       });
     }, 30000);
   }
