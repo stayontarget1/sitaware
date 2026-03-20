@@ -147,6 +147,7 @@ body::after {
 }
 
 .header-meta .clock { color: var(--text-secondary); }
+.header-actions { display: inline-flex; gap: 8px; align-items: center; }
 
 /* Theme toggle */
 .theme-toggle {
@@ -1163,6 +1164,27 @@ body::after {
     padding: 6px 14px !important;
   }
 }
+
+/* Mobile header stacking (narrow phones) */
+@media (max-width: 500px) {
+  .site-header {
+    text-align: center;
+  }
+
+  .header-meta {
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+  }
+
+  /* Put refresh + theme toggle on same row */
+  .header-meta .header-actions {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    margin-top: 4px;
+  }
+}
 </style>
 <script>
 // Apply saved theme before render to prevent flash
@@ -1178,8 +1200,10 @@ if (localStorage.getItem('sitaware-theme') === 'light') document.documentElement
     <span>MONROVIA, CA</span>
     <span class="clock" id="clock"></span>
     <span id="last-refresh" style="font-size:0.65rem;"></span>
-    <button class="theme-toggle" id="theme-toggle" title="Toggle light/dark mode" onclick="toggleTheme()">&#9790;</button>
-    <button id="refresh-btn" title="Refresh all data" style="background:none;border:1px solid var(--border);color:var(--text-secondary);font-family:var(--font);font-size:0.65rem;padding:3px 10px;border-radius:var(--radius);cursor:pointer;letter-spacing:0.06em;transition:border-color 0.15s,color 0.15s;" onmouseover="this.style.borderColor='var(--green)';this.style.color='var(--green)';" onmouseout="this.style.borderColor='var(--border)';this.style.color='var(--text-secondary)';">&#8635; REFRESH</button>
+    <span class="header-actions">
+      <button id="refresh-btn" title="Refresh all data" style="background:none;border:1px solid var(--border);color:var(--text-secondary);font-family:var(--font);font-size:0.65rem;padding:3px 10px;border-radius:var(--radius);cursor:pointer;letter-spacing:0.06em;transition:border-color 0.15s,color 0.15s;" onmouseover="this.style.borderColor='var(--green)';this.style.color='var(--green)';" onmouseout="this.style.borderColor='var(--border)';this.style.color='var(--text-secondary)';">&#8635; REFRESH</button>
+      <button class="theme-toggle" id="theme-toggle" title="Toggle light/dark mode" onclick="toggleTheme()">&#9790;</button>
+    </span>
   </div>
 </header>
 
