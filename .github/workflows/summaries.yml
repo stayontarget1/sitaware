@@ -1,0 +1,44 @@
+name: Generate AI Summaries
+
+on:
+  schedule:
+    # 8:00 AM, 12:00 PM, 5:00 PM Pacific Time
+    # PDT (UTC-7): 15:00, 19:00, 00:00+1
+    # PST (UTC-8): 16:00, 20:00, 01:00+1
+    # Using PDT offsets (most of the year)
+    - cron: '0 15 * * *'   # 8:00 AM PT
+    - cron: '0 19 * * *'   # 12:00 PM PT
+    - cron: '0 0 * * *'    # 5:00 PM PT
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate summaries
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/generate_summaries.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add summaries.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update AI summaries [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+            git push
+          fi

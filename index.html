@@ -419,6 +419,51 @@ body::after {
   margin-top: 6px;
 }
 
+/* ── AI BRIEFING CARD ── */
+.briefing-card {
+  margin: 8px 8px 4px 8px;
+  padding: 10px 12px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--cyan);
+  border-radius: var(--radius);
+  font-size: 0.75rem;
+  line-height: 1.5;
+  color: var(--text-primary);
+}
+
+.briefing-label {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.55rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--cyan);
+  margin-bottom: 6px;
+}
+
+.briefing-label .briefing-time {
+  font-weight: 400;
+  color: var(--text-dim);
+  text-transform: none;
+  letter-spacing: 0;
+}
+
+.briefing-text {
+  color: var(--text-primary);
+}
+
+/* Hidden headline counter */
+.hidden-count {
+  padding: 6px 12px;
+  font-size: 0.6rem;
+  color: var(--text-dim);
+  text-align: center;
+  border-top: 1px solid var(--border);
+}
+
 /* ── WEATHER PANEL ── */
 .weather-panel .col-header h2 { color: var(--cyan); }
 
@@ -1589,6 +1634,60 @@ function toggleTheme() {
   // NEWS FEEDS
   // ═══════════════════════════════════════════
 
+  // AI Summaries data (loaded from summaries.json)
+  var summariesData = null;
+
+  async function loadSummaries() {
+    try {
+      var resp = await fetch('summaries.json?t=' + Date.now());
+      if (resp.ok) summariesData = await resp.json();
+    } catch (e) {
+      console.warn('Could not load summaries.json:', e);
+    }
+  }
+
+  function renderBriefingCard(columnKey) {
+    if (!summariesData || !summariesData.columns || !summariesData.columns[columnKey]) return null;
+    var col = summariesData.columns[columnKey];
+    if (!col.summary) return null;
+    var card = document.createElement('div');
+    card.className = 'briefing-card';
+    var genDate = summariesData.generated ? new Date(summariesData.generated) : null;
+    var timeStr = '';
+    if (genDate && !isNaN(genDate)) {
+      var now = Date.now();
+      var ageMs = now - genDate.getTime();
+      var ageH = Math.floor(ageMs / 3600000);
+      if (ageH < 1) timeStr = 'just now';
+      else if (ageH < 24) timeStr = ageH + 'h ago';
+      else timeStr = Math.floor(ageH / 24) + 'd ago';
+    }
+    var briefingLabel = summariesData.briefing || '';
+    card.innerHTML =
+      '<div class="briefing-label">' +
+        '<span>AI Briefing</span>' +
+        '<span class="briefing-time">' + escHtml(briefingLabel + (timeStr ? ' \u00b7 ' + timeStr : '')) + '</span>' +
+      '</div>' +
+      '<div class="briefing-text">' + escHtml(col.summary) + '</div>';
+    return card;
+  }
+
+  function getRelevanceMap(columnKey) {
+    if (!summariesData || !summariesData.columns || !summariesData.columns[columnKey]) return null;
+    var col = summariesData.columns[columnKey];
+    if (!col.relevance || !Object.keys(col.relevance).length) return null;
+    // Build a map of headline text -> relevant (boolean)
+    var map = {};
+    var headlines = col.headlines || [];
+    Object.keys(col.relevance).forEach(function(idx) {
+      var h = headlines[parseInt(idx, 10)];
+      if (h && h.headline) {
+        map[h.headline.toLowerCase().trim()] = col.relevance[idx];
+      }
+    });
+    return map;
+  }
+
   async function loadFeedColumn(containerId, countId, feeds, opts) {
     opts = opts || {};
     const container = document.getElementById(containerId);
@@ -1607,18 +1706,44 @@ function toggleTheme() {
     filtered.sort(function(a, b) { return b.pubDate - a.pubDate; });
     container.innerHTML = '';
 
+    // Insert AI briefing card at top if available
+    var columnKey = opts.columnKey || null;
+    var briefingCard = columnKey ? renderBriefingCard(columnKey) : null;
+    if (briefingCard) container.appendChild(briefingCard);
+
     if (!filtered.length) {
-      container.innerHTML = '<div class="empty-text">No items loaded</div>';
+      container.innerHTML += '<div class="empty-text">No items loaded</div>';
       return;
     }
 
-    var shown = filtered.slice(0, NEWS_MAX_ITEMS);
+    // Apply AI relevance filtering for Monrovia and SGV
+    var relevanceMap = columnKey ? getRelevanceMap(columnKey) : null;
+    var hiddenCount = 0;
+    var shown = filtered.slice(0, NEWS_MAX_ITEMS + 10); // fetch extra in case some are hidden
+    var rendered = 0;
     shown.forEach(function(item) {
+      if (rendered >= NEWS_MAX_ITEMS) return;
+      if (relevanceMap) {
+        var key = (item.title || '').toLowerCase().trim();
+        if (relevanceMap[key] === false) {
+          hiddenCount++;
+          return; // skip irrelevant
+        }
+      }
       container.appendChild(renderNewsCard(item, item.source, item.geoClass));
+      rendered++;
     });
 
+    // Show hidden count if any
+    if (hiddenCount > 0) {
+      var note = document.createElement('div');
+      note.className = 'hidden-count';
+      note.textContent = hiddenCount + ' headline' + (hiddenCount > 1 ? 's' : '') + ' filtered (not local)';
+      container.appendChild(note);
+    }
+
     var countEl = document.getElementById(countId);
-    if (countEl) countEl.textContent = shown.length + ' items';
+    if (countEl) countEl.textContent = rendered + ' items';
   }
 
   // MONROVIA: MonroviaNow (hyperlocal Blogger) + Google News geo-filtered + Patch + HeySoCal
@@ -1628,7 +1753,7 @@ function toggleTheme() {
       { name: 'Google News', url: 'https://news.google.com/rss/search?q=%22Monrovia%22+%22California%22+-Liberia+when:7d&hl=en-US&gl=US&ceid=US:en', geoClass: 'geo-monrovia' },
       { name: 'Patch Monrovia', url: 'https://patch.com/feeds/aol/california/monrovia', geoClass: 'geo-monrovia' },
       { name: 'HeySoCal', url: 'https://heysocal.com/category/neighborhood/san-gabriel-valley/monroviaweekly/feed/', geoClass: 'geo-monrovia' },
-    ], { filter: true });
+    ], { filter: true, columnKey: 'monrovia' });
   }
 
   // SGV: Google News SGV + Pasadena Now + Colorado Blvd + ABC7
@@ -1638,7 +1763,7 @@ function toggleTheme() {
       { name: 'Pasadena Now', url: 'https://pasadenanow.com/main/feed', geoClass: 'geo-sgv' },
       { name: 'Colorado Blvd', url: 'https://www.coloradoboulevard.net/feed/', geoClass: 'geo-sgv' },
       { name: 'ABC7', url: 'https://abc7.com/feed/', geoClass: 'geo-sgv' },
-    ], { filter: true });
+    ], { filter: true, columnKey: 'sgv' });
   }
 
   // LA COUNTY: LAist + Fox 11 + MyNewsLA, filtered
@@ -1648,7 +1773,7 @@ function toggleTheme() {
       { name: 'Fox 11 LA', url: 'https://www.foxla.com/rss/category/news', geoClass: 'geo-county' },
       { name: 'MyNewsLA', url: 'https://mynewsla.com/feed/', geoClass: 'geo-county' },
       { name: 'Google News LA', url: 'https://news.google.com/rss/search?q=%22Los+Angeles%22+County+-sports+-entertainment+when:3d&hl=en-US&gl=US&ceid=US:en', geoClass: 'geo-county' },
-    ], { filter: true });
+    ], { filter: true, columnKey: 'county' });
   }
 
   // ═══════════════════════════════════════════
@@ -1958,6 +2083,7 @@ function toggleTheme() {
   async function init() {
     loadUpcoming();
     document.getElementById('refresh-btn').addEventListener('click', refreshAll);
+    await loadSummaries();
     await refreshAll();
   }
 
