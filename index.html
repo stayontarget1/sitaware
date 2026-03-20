@@ -44,6 +44,37 @@
   --county: #a855f7;
   --font: 'JetBrains Mono', 'Consolas', 'SF Mono', monospace;
   --radius: 4px;
+  --scanline-color: rgba(0,0,0,0.03);
+}
+
+/* ── LIGHT MODE ── */
+html.light {
+  --bg-root: #f0f1f3;
+  --bg-panel: #ffffff;
+  --bg-card: #f7f8fa;
+  --bg-card-hover: #eceef2;
+  --border: #d1d5db;
+  --border-bright: #b0b7c3;
+  --text-primary: #1f2937;
+  --text-secondary: #4b5563;
+  --text-dim: #9ca3af;
+  --green: #16a34a;
+  --green-dim: #166534;
+  --green-glow: rgba(22,163,74,0.12);
+  --amber: #d97706;
+  --amber-dim: #92400e;
+  --amber-glow: rgba(217,119,6,0.08);
+  --red: #dc2626;
+  --red-dim: #991b1b;
+  --red-glow: rgba(220,38,38,0.08);
+  --blue: #2563eb;
+  --blue-dim: #1e40af;
+  --cyan: #0891b2;
+  --purple: #9333ea;
+  --monrovia: #16a34a;
+  --sgv: #2563eb;
+  --county: #9333ea;
+  --scanline-color: rgba(0,0,0,0);
 }
 
 html { font-size: 13px; }
@@ -68,8 +99,8 @@ body::after {
     0deg,
     transparent,
     transparent 2px,
-    rgba(0,0,0,0.03) 2px,
-    rgba(0,0,0,0.03) 4px
+    var(--scanline-color) 2px,
+    var(--scanline-color) 4px
   );
 }
 
@@ -116,6 +147,21 @@ body::after {
 }
 
 .header-meta .clock { color: var(--text-secondary); }
+
+/* Theme toggle */
+.theme-toggle {
+  background: none;
+  border: 1px solid var(--border);
+  color: var(--text-secondary);
+  font-family: var(--font);
+  font-size: 0.85rem;
+  padding: 2px 8px;
+  border-radius: var(--radius);
+  cursor: pointer;
+  line-height: 1;
+  transition: border-color 0.15s, color 0.15s;
+}
+.theme-toggle:hover { border-color: var(--green); color: var(--green); }
 
 /* ── INCIDENT BAR ── */
 .incident-bar {
@@ -1073,6 +1119,10 @@ body::after {
   }
 }
 </style>
+<script>
+// Apply saved theme before render to prevent flash
+if (localStorage.getItem('sitaware-theme') === 'light') document.documentElement.classList.add('light');
+</script>
 </head>
 <body>
 
@@ -1083,6 +1133,7 @@ body::after {
     <span>MONROVIA, CA</span>
     <span class="clock" id="clock"></span>
     <span id="last-refresh" style="font-size:0.65rem;"></span>
+    <button class="theme-toggle" id="theme-toggle" title="Toggle light/dark mode" onclick="toggleTheme()">&#9790;</button>
     <button id="refresh-btn" title="Refresh all data" style="background:none;border:1px solid var(--border);color:var(--text-secondary);font-family:var(--font);font-size:0.65rem;padding:3px 10px;border-radius:var(--radius);cursor:pointer;letter-spacing:0.06em;transition:border-color 0.15s,color 0.15s;" onmouseover="this.style.borderColor='var(--green)';this.style.color='var(--green)';" onmouseout="this.style.borderColor='var(--border)';this.style.color='var(--text-secondary)';">&#8635; REFRESH</button>
   </div>
 </header>
@@ -1251,6 +1302,20 @@ body::after {
 </section>
 
 <script>
+// Theme toggle (outside IIFE for onclick)
+function toggleTheme() {
+  var html = document.documentElement;
+  var isLight = html.classList.toggle('light');
+  localStorage.setItem('sitaware-theme', isLight ? 'light' : 'dark');
+  var btn = document.getElementById('theme-toggle');
+  if (btn) btn.innerHTML = isLight ? '&#9728;' : '&#9790;';
+}
+// Set initial icon
+(function() {
+  var btn = document.getElementById('theme-toggle');
+  if (btn) btn.innerHTML = document.documentElement.classList.contains('light') ? '&#9728;' : '&#9790;';
+})();
+
 (function() {
   'use strict';
 
