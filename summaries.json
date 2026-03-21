@@ -1,9 +1,9 @@
 {
-  "generated": "2026-03-21T15:32:10.423292+00:00",
+  "generated": "2026-03-21T15:38:28.784272+00:00",
   "briefing": "8 AM",
   "columns": {
     "monrovia": {
-      "summary": "- Mother bear euthanized after clawing Monrovia residents; cubs orphaned, community objects\n- Proposed wastewater rate increase $2.50\u2013$2.75 monthly; protests scheduled May 27\n- Monrovia receives $460,000 grant for Recreation Park design improvements\n- Huntington Drive single-lane traffic March 23\u201327 between Magnolia, Shamrock",
+      "summary": "- Mother bear euthanized after attacking Monrovia residents; cubs orphaned, community divided\n- Proposed wastewater rate increase of $2.50\u2013$2.75/month; protests scheduled May 27\n- Monrovia receives $460,000 grant for Recreation Park design improvements\n- Huntington Drive single-lane traffic March 23\u201327 between Magnolia and Shamrock",
       "headlines": [
         {
           "headline": "Bubble Art Bunnies at the Library, April 2",
@@ -170,6 +170,10 @@
           "source": "Patch Monrovia"
         },
         {
+          "headline": "$10M Lotto Ticket + Butterfly Jungle Opens + New Roller Rink + Paul McCartney Coming To SoCal:Saturday Smiles",
+          "source": "Patch Monrovia"
+        },
+        {
           "headline": "This CA Grocery Chain Ranked America's Favorite",
           "source": "Patch Monrovia"
         },
@@ -262,7 +266,7 @@
       }
     },
     "sgv": {
-      "summary": "- Four injured in multi-vehicle crash across San Gabriel Valley\n- Mosquito surveillance season underway with traps deployed throughout valley\n- Free Lunar Lantern Festival coming to San Gabriel with art, food, light\n- Record-breaking heat wave continues across Southern California into Monday",
+      "summary": "- Southern California experiences record-breaking March heat wave across region\n- Multi-vehicle crash injures 4 people in San Gabriel Valley\n- Mosquito surveillance traps deployed across San Gabriel Valley ahead of season\n- Free Lunar Lantern Festival brings art, food, light to San Gabriel",
       "headlines": [
         {
           "headline": "Things to do in the San Gabriel Valley, March 20-28 - San Gabriel Valley Tribune",
@@ -305,11 +309,11 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "SGV baseball Top 20: South Hills on top, La Salle climbs to No. 3 - San Gabriel Valley Tribune",
+          "headline": "CIF state basketball, soccer schedule for the San Gabriel Valley teams - MSN",
           "source": "Google News SGV"
         },
         {
-          "headline": "SGV high school softball: Hitting and pitching leaders - San Gabriel Valley Tribune",
+          "headline": "SGV baseball Top 20: South Hills on top, La Salle climbs to No. 3 - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -385,6 +389,10 @@
           "source": "Pasadena Now"
         },
         {
+          "headline": "Salastina Opens Applications for Six\u2011Day Chamber Music Retreat",
+          "source": "Colorado Blvd"
+        },
+        {
           "headline": "Alhambra Welcomes Spring at 4th Annual Peeps and Pedals Festival, March 28",
           "source": "Colorado Blvd"
         },
@@ -426,10 +434,6 @@
         },
         {
           "headline": "South Pasadena\u2019s Camp Med Returns With Spring Break Fun for Kids",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "The Huntington Offers \u201cLibraries as Communities of Desire\u201d",
           "source": "Colorado Blvd"
         },
         {
@@ -522,13 +526,13 @@
         "5": true,
         "6": true,
         "7": false,
-        "8": false,
+        "8": true,
         "9": true,
         "10": false,
-        "11": false,
+        "11": true,
         "12": true,
-        "13": false,
-        "14": true,
+        "13": true,
+        "14": false,
         "15": false,
         "16": false,
         "17": true,
@@ -539,25 +543,25 @@
         "22": true,
         "23": true,
         "24": false,
-        "25": false,
-        "26": false,
+        "25": true,
+        "26": true,
         "27": true,
         "28": true,
         "29": true,
-        "30": true,
-        "31": false,
-        "32": true,
+        "30": false,
+        "31": true,
+        "32": false,
         "33": true,
         "34": true,
-        "35": false,
-        "36": true,
+        "35": true,
+        "36": false,
         "37": true,
         "38": true,
         "39": true
       }
     },
     "county": {
-      "summary": "- LA County CEO announces resignation due to health concerns\n- El Monte Unified School District failed to handle sex abuse allegations\n- Historic Lake Hughes rescue: 400 dogs, 300 cats saved\n- Record heat and melting snow threaten California's water reserves",
+      "summary": "- LA County CEO announces resignation citing health concerns\n- El Monte school district failed to handle sex abuse allegations properly\n- Historic animal rescue: 400 dogs, 300 cats saved at Lake Hughes\n- Migrant children detained in Southern California used as deportation bait",
       "headlines": [
         {
           "headline": "LA County CEO announces plan to resign, citing health concerns",
@@ -788,11 +792,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "$7M In Stolen Cargo Recovered By LA County Sheriff - Patch",
+          "headline": "Hundreds of dogs and cats rescued from LA County property - MSN",
           "source": "Google News LA"
         },
         {
-          "headline": "Hundreds of dogs and cats rescued from LA County property - MSN",
+          "headline": "$7M In Stolen Cargo Recovered By LA County Sheriff - Patch",
           "source": "Google News LA"
         },
         {
@@ -800,11 +804,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "LA County Launches Voter Education for June 2026 Primary - Santa Monica Daily Press",
+          "headline": "Los Angeles County Sheriff's Department - Facebook",
           "source": "Google News LA"
         },
         {
-          "headline": "#LASD is Asking for the Public's Help Locating Missing Person, Rawan Louis Rayyan #LaMirada The Los Angeles County Sheriff\u2019s Department\u2019s Missing Persons Unit is asking for the public\u2019s help locating missing person, Rawan Louis Rayyan. She is a 37-y - Facebook",
+          "headline": "LA County Launches Voter Education for June 2026 Primary - Santa Monica Daily Press",
           "source": "Google News LA"
         },
         {
@@ -816,15 +820,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County Sheriff's Department - Facebook",
+          "headline": "Surprising Findings In LA County Life Expectancy Study: See How Long Beach Compares - Patch",
           "source": "Google News LA"
         },
         {
           "headline": "700 cats, dogs being rescued after search warrant served at Los Angeles County, California property - ABC7 Chicago",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Surprising Findings In LA County Life Expectancy Study: See How Long Beach Compares - Patch",
           "source": "Google News LA"
         },
         {
@@ -841,6 +841,10 @@
         },
         {
           "headline": "Survivor rights group writes lawmakers, advocates for victims - The Center Square",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "700 cats, dogs being rescued after search warrant served at Lake Hughes property - ABC7 Los Angeles",
           "source": "Google News LA"
         }
       ],
