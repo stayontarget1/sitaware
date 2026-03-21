@@ -99,18 +99,18 @@ def call_anthropic(prompt):
 
 
 def generate_summary(column_label, headlines):
-    """Generate a 2-3 sentence briefing summary for a column."""
+    """Generate 3-4 bullet points ranked by importance for a column."""
     if not headlines:
-        return "No recent headlines available for this briefing."
+        return "- No recent headlines available for this briefing."
     headline_list = "\n".join(f"- {h}" for h in headlines[:30])
     prompt = f"""You are a local news briefing writer for {column_label} in Southern California. Below are today's headlines from local news feeds.
 
-Write a 2-3 sentence briefing summary of the most important and noteworthy stories. Write like a local news anchor: clear, direct, plain English. No em dashes. No filler. Just what matters right now. Focus on stories that are most relevant to people living in {column_label}.
+Write exactly 3 or 4 bullet points summarizing the most important stories, ranked by importance (most important first). Each bullet must be 12 words or fewer. Headline style, not full sentences. Clear, punchy, scannable. No em dashes. No filler. Focus on stories relevant to {column_label}.
 
 Headlines:
 {headline_list}
 
-Write ONLY the 2-3 sentence summary. No intro, no labels, no bullet points."""
+Respond with ONLY the bullet points, one per line, each starting with "- ". Nothing else."""
     return call_anthropic(prompt)
 
 

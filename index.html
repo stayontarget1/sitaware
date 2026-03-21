@@ -454,6 +454,25 @@ body::after {
 
 .briefing-text {
   color: var(--text-primary);
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.briefing-text li {
+  padding: 2px 0;
+  padding-left: 12px;
+  position: relative;
+  font-size: 0.72rem;
+  line-height: 1.4;
+}
+
+.briefing-text li::before {
+  content: '\2022';
+  position: absolute;
+  left: 0;
+  color: var(--cyan);
+  font-weight: 700;
 }
 
 /* Hidden headline counter */
@@ -1687,12 +1706,19 @@ function toggleTheme() {
       else timeStr = Math.floor(ageH / 24) + 'd ago';
     }
     var briefingLabel = summariesData.briefing || '';
+    // Parse bullet points from summary
+    var bullets = col.summary.split('\n')
+      .map(function(l) { return l.replace(/^[-*]\s*/, '').trim(); })
+      .filter(function(l) { return l.length > 0; });
+    var bulletsHtml = '<ul class="briefing-text">' +
+      bullets.map(function(b) { return '<li>' + escHtml(b) + '</li>'; }).join('') +
+      '</ul>';
     card.innerHTML =
       '<div class="briefing-label">' +
         '<span>AI Briefing</span>' +
         '<span class="briefing-time">' + escHtml(briefingLabel + (timeStr ? ' \u00b7 ' + timeStr : '')) + '</span>' +
       '</div>' +
-      '<div class="briefing-text">' + escHtml(col.summary) + '</div>';
+      bulletsHtml;
     return card;
   }
 
