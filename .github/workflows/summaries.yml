@@ -3,12 +3,15 @@ name: Generate AI Summaries
 on:
   schedule:
     # 8:00 AM, 12:00 PM, 5:00 PM Pacific Time
-    # PDT (UTC-7): 15:00, 19:00, 00:00+1
-    # PST (UTC-8): 16:00, 20:00, 01:00+1
-    # Using PDT offsets (most of the year)
-    - cron: '0 15 * * *'   # 8:00 AM PT
-    - cron: '0 19 * * *'   # 12:00 PM PT
-    - cron: '0 0 * * *'    # 5:00 PM PT
+    # Cover both PDT (UTC-7) and PST (UTC-8) so the schedule
+    # stays correct year-round. Duplicate crons are harmless --
+    # the script is idempotent and the extra run just no-ops.
+    - cron: '0 15 * * *'   # 8 AM PDT
+    - cron: '0 16 * * *'   # 8 AM PST
+    - cron: '0 19 * * *'   # 12 PM PDT
+    - cron: '0 20 * * *'   # 12 PM PST
+    - cron: '0 0 * * *'    # 5 PM PDT
+    - cron: '0 1 * * *'    # 5 PM PST
   workflow_dispatch: # Allow manual trigger
 
 permissions:
@@ -20,6 +23,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -35,6 +40,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main || true
           git add summaries.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
