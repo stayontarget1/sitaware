@@ -1,9 +1,9 @@
 {
-  "generated": "2026-03-21T15:38:28.784272+00:00",
+  "generated": "2026-03-21T16:26:00.812679+00:00",
   "briefing": "8 AM",
   "columns": {
     "monrovia": {
-      "summary": "- Mother bear euthanized after attacking Monrovia residents; cubs orphaned, community divided\n- Proposed wastewater rate increase of $2.50\u2013$2.75/month; protests scheduled May 27\n- Monrovia receives $460,000 grant for Recreation Park design improvements\n- Huntington Drive single-lane traffic March 23\u201327 between Magnolia and Shamrock",
+      "summary": "- Mother bear euthanized after second attack on Monrovia residents\n- Proposed wastewater rate increase of $2.50\u2013$2.75/month; protests due May 27\n- Monrovia receives $460,000 grant for Recreation Park design\n- Monrovia swim team first at Savanna Invitational",
       "headlines": [
         {
           "headline": "Bubble Art Bunnies at the Library, April 2",
@@ -266,7 +266,7 @@
       }
     },
     "sgv": {
-      "summary": "- Southern California experiences record-breaking March heat wave across region\n- Multi-vehicle crash injures 4 people in San Gabriel Valley\n- Mosquito surveillance traps deployed across San Gabriel Valley ahead of season\n- Free Lunar Lantern Festival brings art, food, light to San Gabriel",
+      "summary": "- Four injured in multi-vehicle crash across San Gabriel Valley\n- Mosquito surveillance traps deployed throughout San Gabriel Valley region\n- Free Lunar Lantern Festival brings art, food, light to San Gabriel\n- Record-breaking March heat wave continues across Southern California",
       "headlines": [
         {
           "headline": "Things to do in the San Gabriel Valley, March 20-28 - San Gabriel Valley Tribune",
@@ -309,11 +309,11 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "CIF state basketball, soccer schedule for the San Gabriel Valley teams - MSN",
+          "headline": "SGV baseball Top 20: South Hills on top, La Salle climbs to No. 3 - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "SGV baseball Top 20: South Hills on top, La Salle climbs to No. 3 - San Gabriel Valley Tribune",
+          "headline": "SGV high school softball: Hitting and pitching leaders - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -389,6 +389,10 @@
           "source": "Pasadena Now"
         },
         {
+          "headline": "Help Shape South Pasadena\u2019s New Pre\u2011Approved ADU Program",
+          "source": "Colorado Blvd"
+        },
+        {
           "headline": "Salastina Opens Applications for Six\u2011Day Chamber Music Retreat",
           "source": "Colorado Blvd"
         },
@@ -433,8 +437,12 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "South Pasadena\u2019s Camp Med Returns With Spring Break Fun for Kids",
-          "source": "Colorado Blvd"
+          "headline": "K-pop sensation BTS returns with a comeback concert in Seoul after a 4-year hiatus",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Memorial, walk planned in honor of Monrovia bear euthanized by wildlife officials",
+          "source": "ABC7"
         },
         {
           "headline": "Noah Wyle tells hearing hosted by Rep. Adam Schiff that TV and film production in US can be revived",
@@ -507,14 +515,6 @@
         {
           "headline": "Alaska Airlines flight, FedEx cargo plane nearly collide at Newark airport: radar data",
           "source": "ABC7"
-        },
-        {
-          "headline": "Josh Duhamel takes us to 'Preschool' in new family comedy",
-          "source": "ABC7"
-        },
-        {
-          "headline": "'Ready or Not 2: Here I Come' brings thrills, fights, action",
-          "source": "ABC7"
         }
       ],
       "relevance": {
@@ -526,13 +526,13 @@
         "5": true,
         "6": true,
         "7": false,
-        "8": true,
+        "8": false,
         "9": true,
         "10": false,
-        "11": true,
+        "11": false,
         "12": true,
-        "13": true,
-        "14": false,
+        "13": false,
+        "14": true,
         "15": false,
         "16": false,
         "17": true,
@@ -544,24 +544,24 @@
         "23": true,
         "24": false,
         "25": true,
-        "26": true,
+        "26": false,
         "27": true,
         "28": true,
         "29": true,
-        "30": false,
-        "31": true,
-        "32": false,
-        "33": true,
+        "30": true,
+        "31": false,
+        "32": true,
+        "33": false,
         "34": true,
         "35": true,
-        "36": false,
-        "37": true,
+        "36": true,
+        "37": false,
         "38": true,
         "39": true
       }
     },
     "county": {
-      "summary": "- LA County CEO announces resignation citing health concerns\n- El Monte school district failed to handle sex abuse allegations properly\n- Historic animal rescue: 400 dogs, 300 cats saved at Lake Hughes\n- Migrant children detained in Southern California used as deportation bait",
+      "summary": "- LA County CEO announces resignation citing health concerns\n- El Monte Unified School District failed to handle sex abuse allegations properly\n- Hundreds of dogs and cats rescued at Lake Hughes animal facility\n- Migrant children detained in Southern California used as 'bait' for parent arrests",
       "headlines": [
         {
           "headline": "LA County CEO announces plan to resign, citing health concerns",
@@ -644,6 +644,10 @@
           "source": "LAist"
         },
         {
+          "headline": "Belmont Shore residents demand action over 'spring break'-style bar violence",
+          "source": "Fox 11 LA"
+        },
+        {
           "headline": "\u2018Sociopath\u2019 convicted of killing 3 people sentenced to life in South LA slaying: DA",
           "source": "Fox 11 LA"
         },
@@ -660,7 +664,7 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Historic California animal rescue: Estimated 400 dogs, 300 cats rescued in Lake Hughes",
+          "headline": "Historic California animal rescue: Hundreds of dogs, cats rescued in Lake Hughes",
           "source": "Fox 11 LA"
         },
         {
@@ -669,10 +673,6 @@
         },
         {
           "headline": "Lisa Vanderpump's TomTom and PUMP hit the market in West Hollywood",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "South Pasadena to remove Flock Safety cameras over privacy concerns",
           "source": "Fox 11 LA"
         },
         {
@@ -724,6 +724,18 @@
           "source": "Fox 11 LA"
         },
         {
+          "headline": "Southland Gas Prices Keep Rising",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Firefighters Quell Small Fire Inside Vacant Home in Pico-Union Area",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Riverside County Gas Prices Keep Rising",
+          "source": "MyNewsLA"
+        },
+        {
           "headline": "Heat Eases Slightly Across the Southland",
           "source": "MyNewsLA"
         },
@@ -756,18 +768,6 @@
           "source": "MyNewsLA"
         },
         {
-          "headline": "405 Lane Reductions Continue Through Weekend",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Man Gets 56-Years-to-Life for Molesting a 4-Year-Old Girl",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Disneyland Debuts New `Bluey\u2019 Live Music Attraction Sunday",
-          "source": "MyNewsLA"
-        },
-        {
           "headline": "Over 300 dogs and cats seized in LA County's largest-ever operation - Victorville Daily Press",
           "source": "Google News LA"
         },
@@ -784,11 +784,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "300 cats, dogs being rescued after search warrant served at Lake Hughes property - ABC7 Los Angeles",
+          "headline": "$78 million awarded for L.A. County park projects - Urbanize LA",
           "source": "Google News LA"
         },
         {
-          "headline": "$78 million awarded for L.A. County park projects - Urbanize LA",
+          "headline": "300 cats, dogs being rescued after search warrant served at Lake Hughes property - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -804,11 +804,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County Sheriff's Department - Facebook",
+          "headline": "LA County Launches Voter Education for June 2026 Primary - Santa Monica Daily Press",
           "source": "Google News LA"
         },
         {
-          "headline": "LA County Launches Voter Education for June 2026 Primary - Santa Monica Daily Press",
+          "headline": "#LASD is Asking for the Public's Help Locating Missing Person, Rawan Louis Rayyan #LaMirada The Los Angeles County Sheriff\u2019s Department\u2019s Missing Persons Unit is asking for the public\u2019s help locating missing person, Rawan Louis Rayyan. She is a 37-y - Facebook",
           "source": "Google News LA"
         },
         {
@@ -820,15 +820,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Surprising Findings In LA County Life Expectancy Study: See How Long Beach Compares - Patch",
+          "headline": "Los Angeles County Sheriff's Department - Facebook",
           "source": "Google News LA"
         },
         {
-          "headline": "700 cats, dogs being rescued after search warrant served at Los Angeles County, California property - ABC7 Chicago",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "News | Nonprofit expansion marks one of LA\u2019s biggest office deals in years - CoStar",
+          "headline": "Owner vows to fight, shelters seek help after historic L.A. County animal rescue - KTLA",
           "source": "Google News LA"
         },
         {
@@ -836,15 +832,19 @@
           "source": "Google News LA"
         },
         {
+          "headline": "News | Nonprofit expansion marks one of LA\u2019s biggest office deals in years - CoStar",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Surprising Findings In LA County Life Expectancy Study: See How Long Beach Compares - Patch",
+          "source": "Google News LA"
+        },
+        {
           "headline": "Surprising Findings In LA County Life Expectancy Study: See How Santa Monica Compares - Patch",
           "source": "Google News LA"
         },
         {
-          "headline": "Survivor rights group writes lawmakers, advocates for victims - The Center Square",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "700 cats, dogs being rescued after search warrant served at Lake Hughes property - ABC7 Los Angeles",
+          "headline": "700 cats, dogs being rescued after search warrant served at Los Angeles County, California property - ABC7 Chicago",
           "source": "Google News LA"
         }
       ],
