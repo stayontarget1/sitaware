@@ -1,9 +1,9 @@
 {
-  "generated": "2026-03-21T00:13:52.648431+00:00",
+  "generated": "2026-03-21T00:21:01.123227+00:00",
   "briefing": "5 PM",
   "columns": {
     "monrovia": {
-      "summary": "A mother bear was euthanized by California Department of Fish and Wildlife after attacking a woman walking her dog in Monrovia, leaving some community members expressing sympathy for the animal and its orphaned cubs. The city is moving forward with improvements, receiving a $460,000 grant for Recreation Park design and asking residents to weigh in on a proposed wastewater rate increase of $2.50 to $2.75 per month at a hearing scheduled for May 27. On the lighter side, Monrovia's athletes are shining with baseball player Troy Grise named Southern California Player of the Week and the swim team taking first place at the Savanna Invitational.",
+      "summary": "- Mother bear euthanized after clawing woman walking dog in Monrovia\n- Proposed wastewater rate increase of $2.50\u2013$2.75/month; protests scheduled May 27\n- Monrovia receives $460,000 grant for Recreation Park design project\n- Huntington Drive single-lane traffic March 23\u201327 between Magnolia, Shamrock",
       "headlines": [
         {
           "headline": "CBS Morning News reports on Monrovia schools",
@@ -122,10 +122,6 @@
           "source": "Google News"
         },
         {
-          "headline": "Monrovia house crushed by tree listed for $500K - FOX Weather",
-          "source": "Google News"
-        },
-        {
           "headline": "Woman escapes after bear swipes claw in Monrovia, leaving minor injuries - ABC7 Los Angeles",
           "source": "Google News"
         },
@@ -143,6 +139,10 @@
         },
         {
           "headline": "Community angered after officials euthanize mama bear in Southern California - ktla.com",
+          "source": "Google News"
+        },
+        {
+          "headline": "Monrovia house crushed by tree listed for $500K - FOX Weather",
           "source": "Google News"
         },
         {
@@ -264,8 +264,8 @@
         "30": true,
         "31": true,
         "32": true,
-        "33": true,
-        "34": false,
+        "33": false,
+        "34": true,
         "35": false,
         "36": false,
         "37": false,
@@ -274,7 +274,7 @@
       }
     },
     "sgv": {
-      "summary": "Mosquito surveillance traps are going up across the San Gabriel Valley as the seasonal surveillance season begins to monitor for potential disease-carrying insects. A free Lunar Lantern Festival featuring art, food, and light installations is coming to San Gabriel's Mission District this week. A multi-vehicle crash in the valley left four people injured, and a heat advisory remains in effect for Los Angeles County as Southern California experiences a March heat wave breaking temperature records.",
+      "summary": "- Mosquito surveillance traps deployed across San Gabriel Valley as season begins\n- Retail center in San Gabriel Valley sells for $26 million\n- Free Lunar Lantern Festival coming to San Gabriel with art, food, lights\n- March heat wave breaks records Wednesday across Southern California region",
       "headlines": [
         {
           "headline": "Things to do in the San Gabriel Valley, March 20-28 - San Gabriel Valley Tribune",
@@ -445,6 +445,10 @@
           "source": "Colorado Blvd"
         },
         {
+          "headline": "LA man gets life without parole for killing girlfriend after 2 prior murders",
+          "source": "ABC7"
+        },
+        {
           "headline": "Music therapy helps preemies thrive and go home sooner",
           "source": "ABC7"
         },
@@ -519,10 +523,6 @@
         {
           "headline": "Teens sue Musk's xAI claiming image-generator made sexually explicit images of them as minors",
           "source": "ABC7"
-        },
-        {
-          "headline": "Man accused of stealing flamingo from Las Vegas hotel; bodycam video released",
-          "source": "ABC7"
         }
       ],
       "relevance": {
@@ -545,7 +545,7 @@
         "16": true,
         "17": true,
         "18": false,
-        "19": true,
+        "19": false,
         "20": true,
         "21": true,
         "22": true,
@@ -569,7 +569,7 @@
       }
     },
     "county": {
-      "summary": "The LA County CEO announced his resignation citing health concerns, while new transparency rules are being ordered for executive payouts amid ongoing scrutiny of the department's operations. A historic animal rescue at a Lake Hughes facility recovered hundreds of dogs and cats, marking one of the largest operations of its kind in California. Meanwhile, LAUSD teachers and their unions are threatening to strike by mid-April if contract negotiations don't reach a deal, potentially disrupting schools across the district.",
+      "summary": "- LA County CEO announces resignation citing health concerns\n- Hundreds of dogs and cats rescued from Lake Hughes facility\n- LAUSD teacher and staff unions threaten strike by mid-April\n- New transparency ordered for LA County executive payouts",
       "headlines": [
         {
           "headline": "LA County CEO announces plan to resign, citing health concerns",
@@ -800,11 +800,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Surprising Findings In LA County Life Expectancy Study: See How Long Beach Compares - Patch",
+          "headline": "700 cats, dogs being rescued after search warrant served at Lake Hughes property - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "700 cats, dogs being rescued after search warrant served at Lake Hughes property - ABC7 Los Angeles",
+          "headline": "Surprising Findings In LA County Life Expectancy Study: See How Long Beach Compares - Patch",
           "source": "Google News LA"
         },
         {
@@ -832,11 +832,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Surprising Findings In LA County Life Expectancy Study: See How Redondo Beach Compares - Patch",
+          "headline": "700 Dogs, Cats Rescued In LA Countys Largest-Ever Animal Welfare Case - Patch",
           "source": "Google News LA"
         },
         {
-          "headline": "700 Dogs, Cats Rescued In LA Countys Largest-Ever Animal Welfare Case - Patch",
+          "headline": "Surprising Findings In LA County Life Expectancy Study: See How Redondo Beach Compares - Patch",
           "source": "Google News LA"
         },
         {
@@ -852,7 +852,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "SCV News | Warrant Served at Animal Rescue in Lake Hughes, 700 Dogs, Cats Seized - SCVNews.com",
+          "headline": "700 Dogs And Cats Found At Lake Hughes Property Prompt Major Rescue Effort - VVNG",
           "source": "Google News LA"
         }
       ],
