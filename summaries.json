@@ -1,9 +1,9 @@
 {
-  "generated": "2026-03-22T15:32:23.807293+00:00",
+  "generated": "2026-03-22T16:27:00.364020+00:00",
   "briefing": "8 AM",
   "columns": {
     "monrovia": {
-      "summary": "- Mother bear euthanized after clawing Monrovia residents; cubs orphaned, community objects\n- Proposed wastewater rate increase of $2.50\u2013$2.75/month; protests scheduled for May 27\n- Monrovia receives $460,000 grant for Recreation Park design improvements\n- Huntington Drive single-lane traffic restrictions March 23\u201327 between Magnolia and Shamrock",
+      "summary": "- Mother bear euthanized after attacking Monrovia residents; cubs orphaned, community objects\n- Proposed wastewater rate increase of $2.50-$2.75 monthly; protests scheduled May 27\n- Monrovia receives $460,000 grant for Recreation Park design improvements\n- Swim team wins Savanna Invitational; baseball player named SoCal Player Week",
       "headlines": [
         {
           "headline": "Bubble Art Bunnies at the Library, April 2",
@@ -90,11 +90,11 @@
           "source": "Google News"
         },
         {
-          "headline": "Mama Bear Injures Woman Walking Dog in Monrovia, California - Outdoors with Bear Grylls",
+          "headline": "Bear euthanized, her cubs left orphaned, over objections of Monrovia city leaders - Los Angeles Times",
           "source": "Google News"
         },
         {
-          "headline": "Bear euthanized, her cubs left orphaned, over objections of Monrovia city leaders - Los Angeles Times",
+          "headline": "Mama Bear Injures Woman Walking Dog in Monrovia, California - Outdoors with Bear Grylls",
           "source": "Google News"
         },
         {
@@ -139,10 +139,6 @@
         },
         {
           "headline": "Community angered after officials euthanize mama bear in Southern California - KTLA",
-          "source": "Google News"
-        },
-        {
-          "headline": "Wild bear crashes live news segment about intense bear encounter in Southern California - MSN",
           "source": "Google News"
         },
         {
@@ -241,26 +237,26 @@
         "11": true,
         "12": true,
         "13": true,
-        "14": true,
+        "14": false,
         "15": true,
         "16": true,
         "17": true,
         "18": true,
         "19": true,
         "20": true,
-        "21": false,
+        "21": true,
         "22": false,
         "23": false,
-        "24": false,
+        "24": true,
         "25": true,
-        "26": false,
-        "27": false,
+        "26": true,
+        "27": true,
         "28": true,
-        "29": false,
+        "29": true,
         "30": false,
-        "31": false,
-        "32": false,
-        "33": false,
+        "31": true,
+        "32": true,
+        "33": true,
         "34": false,
         "35": false,
         "36": false,
@@ -270,7 +266,7 @@
       }
     },
     "sgv": {
-      "summary": "- Mosquito surveillance traps deployed across San Gabriel Valley as season begins\n- Southern California heat wave breaks records Wednesday, unhealthy air Sunday expected\n- Data-center moratorium and sanctuary-city rules approved in El Monte\n- Free Lunar Lantern Festival features art, food, and light in San Gabriel",
+      "summary": "- Mosquito surveillance traps deployed across San Gabriel Valley as season begins\n- Free Lunar Lantern Festival coming to San Gabriel with art and food\n- Southern California's March heat wave breaks more records Wednesday in region\n- Data-center moratorium and sanctuary-city rules pass in El Monte city council",
       "headlines": [
         {
           "headline": "Things to do in the San Gabriel Valley, March 20-28 - San Gabriel Valley Tribune",
@@ -278,6 +274,10 @@
         },
         {
           "headline": "Traps Go Up Across San Gabriel Valley as Mosquito Surveillance Season Begins - Pasadena Now",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "A free \u2018Lunar Lantern Festival' in San Gabriel boasts art, food, and light - NBC Los Angeles",
           "source": "Google News SGV"
         },
         {
@@ -293,10 +293,6 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "A free \u2018Lunar Lantern Festival' in San Gabriel boasts art, food, and light - NBC Los Angeles",
-          "source": "Google News SGV"
-        },
-        {
           "headline": "San Gabriel Valley girls athlete of the week: Samantha Alvarez, Arcadia - MSN",
           "source": "Google News SGV"
         },
@@ -306,6 +302,10 @@
         },
         {
           "headline": "DBSA San Gabriel Valley Support Alliance - ColoradoBoulevard.net",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "CIF state basketball, soccer schedule for the San Gabriel Valley teams - MSN",
           "source": "Google News SGV"
         },
         {
@@ -346,10 +346,6 @@
         },
         {
           "headline": "Data-center moratorium, sanctuary-city rules pass in El Monte - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "MAP: 15 best buffets in Southern California - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -525,8 +521,8 @@
         "0": true,
         "1": true,
         "2": true,
-        "3": false,
-        "4": true,
+        "3": true,
+        "4": false,
         "5": true,
         "6": false,
         "7": false,
@@ -534,14 +530,14 @@
         "9": false,
         "10": false,
         "11": false,
-        "12": true,
-        "13": false,
+        "12": false,
+        "13": true,
         "14": false,
         "15": true,
-        "16": false,
+        "16": true,
         "17": true,
         "18": true,
-        "19": false,
+        "19": true,
         "20": false,
         "21": false,
         "22": true,
@@ -565,18 +561,18 @@
       }
     },
     "county": {
-      "summary": "- LA District 9 won't have Black councilmember for first time in 60 years\n- California finds systemic failures in El Monte school district sex abuse handling\n- $7M stolen cargo seized; 9 arrested in major LA County theft crackdown\n- Long Beach Grand Prix CEO Jim Michaelian dies at 83 before race",
+      "summary": "- LA's District 9 won't have Black councilmember for first time in 60 years\n- Long Beach Grand Prix CEO Jim Michaelian dies at 83, weeks before race\n- $7M stolen cargo seized by LASD; 9 arrested in major theft crackdown\n- El Monte school district settles DOJ case over systemic sexual abuse failures",
       "headlines": [
         {
           "headline": "LA\u2019s District 9 won\u2019t have a Black councilmember for the first time in 60 years",
           "source": "LAist"
         },
         {
-          "headline": "Airport security lines are long. Here's what to know if you're flying",
+          "headline": "People are getting bitten by rattlesnakes. Here's how to stay safe",
           "source": "LAist"
         },
         {
-          "headline": "CA finds \u2018systemic\u2019 failures in how El Monte Unified School district handles sex abuse allegations",
+          "headline": "Airport security lines are long. Here's what to know if you're flying",
           "source": "LAist"
         },
         {
@@ -728,6 +724,30 @@
           "source": "Fox 11 LA"
         },
         {
+          "headline": "Smokey Robinson Lawyers Urge Denial of Former Workers\u2019 Anti-SLAPP Motion",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Average Riverside County Gas Price Shoots Up 7.6 Cents",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "LA, Orange County Gas Prices Shoot Up Over 7 Cents a Gallon",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Two Injured in Fire at Apartment Building in El Sereno Area",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "New `Bluey\u2019 Attraction Opens Sunday at Disneyland",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "New `Bluey\u2019 Attraction Opens Sunday at Disneyland",
+          "source": "MyNewsLA"
+        },
+        {
           "headline": "Southland Heat Persists Above Normal",
           "source": "MyNewsLA"
         },
@@ -748,30 +768,6 @@
           "source": "MyNewsLA"
         },
         {
-          "headline": "Powerball Jackpot Rises to $133M",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Over 300 Rescue Cats and Dogs Up For Adoption Sunday After Lake Hughes Recovery",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Tom Brady Declines to Play in 2028 Olympics",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Congresswoman Barragan Presents Expansion Funds to Paramount Park",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "RivCo Detectives Solve 2004 Cold Case Homicide",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Police Chase, Arrest Woman Driving U-Haul",
-          "source": "MyNewsLA"
-        },
-        {
           "headline": "Pet rescue at center of seizure of over 300 pets in Lake Hughes pushes back on claims from LA county officials - ABC7 Los Angeles",
           "source": "Google News LA"
         },
@@ -788,14 +784,6 @@
           "source": "Google News LA"
         },
         {
-          "headline": "LA County Launches Voter Education for June 2026 Primary - Santa Monica Daily Press",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Hundreds Of Dogs, Cats Rescued In LA Countys Largest-Ever Animal Welfare Case - Patch",
-          "source": "Google News LA"
-        },
-        {
           "headline": "Jamboree Opens PSH Development in Los Angeles County - Affordable Housing Finance",
           "source": "Google News LA"
         },
@@ -808,11 +796,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "300+ Cats and Dogs Rescued in Lake Hughes Up For Adoption Sunday - MyNewsLA.com",
+          "headline": "Eaton fire sent a pollution wave across Los Angeles - USC Today",
           "source": "Google News LA"
         },
         {
-          "headline": "Eaton fire sent a pollution wave across Los Angeles - USC Today",
+          "headline": "300+ Cats and Dogs Rescued in Lake Hughes Up For Adoption Sunday - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
@@ -849,6 +837,14 @@
         },
         {
           "headline": "300 cats, dogs being rescued after search warrant served at Lake Hughes property - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Hundreds of dogs and cats rescued from property in LA County - MSN",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "300+ Cats and Dogs Rescued in Lake Hughes Up For Adoption Sunday - MyNewsLA.com",
           "source": "Google News LA"
         }
       ],
