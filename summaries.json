@@ -1,10 +1,14 @@
 {
-  "generated": "2026-03-23T16:03:47.152201+00:00",
+  "generated": "2026-03-23T16:54:47.404543+00:00",
   "briefing": "8 AM",
   "columns": {
     "monrovia": {
-      "summary": "- Mother bear euthanized after second attack on Monrovia residents\n- Monrovia receives $460,000 grant for Recreation Park design\n- Proposed wastewater rate increase of $2.50\u2013$2.75/month; protests due May 27\n- Huntington Drive single-lane traffic, Magnolia to Shamrock, Mar. 23\u201327",
+      "summary": "- Mother bear euthanized after clawing woman walking dog in Monrovia\n- Monrovia receives $460,000 grant for Recreation Park design project\n- Proposed wastewater rate increase of $2.50\u2013$2.75 monthly; protests May 27\n- Monrovia swim team wins Savanna Invitational; baseball player named Player of Week",
       "headlines": [
+        {
+          "headline": "TV report about John Shaw, the 'guy with a sign'",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Bubble Art Bunnies at the Library, April 2",
           "source": "Monrovia Now"
@@ -82,10 +86,6 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Mother bear euthanized after second attack on Monrovia residents",
-          "source": "Monrovia Now"
-        },
-        {
           "headline": "California Department of Fish and Wildlife euthanizes Monrovia bear after clawing at woman walking her dog, city says - ABC7 Los Angeles",
           "source": "Google News"
         },
@@ -154,15 +154,15 @@
           "source": "Google News"
         },
         {
+          "headline": "Blondie, the bear who injured a California woman, is euthanized - East Bay Times",
+          "source": "Google News"
+        },
+        {
           "headline": "WATCH: Chilling Moment A California Black Bear Crashes Live Report About It Attacking A Woman & Her Dog - Whiskey Riff",
           "source": "Google News"
         },
         {
           "headline": "Wild Bear Crashes Live News Segment About Intense Bear Encounter in Southern California - AOL.com",
-          "source": "Google News"
-        },
-        {
-          "headline": "Bear wanders into frame of live news report about previous dangerous attack: 'Keep your distance' - MSN",
           "source": "Google News"
         },
         {
@@ -246,8 +246,8 @@
         "0": true,
         "1": true,
         "2": true,
-        "3": false,
-        "4": false,
+        "3": true,
+        "4": true,
         "5": true,
         "6": true,
         "7": true,
@@ -258,7 +258,7 @@
         "12": true,
         "13": true,
         "14": true,
-        "15": true,
+        "15": false,
         "16": true,
         "17": true,
         "18": true,
@@ -267,9 +267,9 @@
         "21": false,
         "22": true,
         "23": false,
-        "24": true,
+        "24": false,
         "25": true,
-        "26": true,
+        "26": false,
         "27": true,
         "28": true,
         "29": false,
@@ -286,7 +286,7 @@
       }
     },
     "sgv": {
-      "summary": "- Mosquito surveillance traps deployed across San Gabriel Valley\n- Free Lunar Lantern Festival coming to San Gabriel this week\n- Heat advisory expected Tuesday across San Gabriel Valley region\n- Data-center moratorium, sanctuary-city rules approved in El Monte",
+      "summary": "- Mosquito surveillance season begins across San Gabriel Valley with trap installations\n- Free Lunar Lantern Festival in San Gabriel features art, food, light\n- Data-center moratorium and sanctuary-city rules pass in El Monte\n- County heat advisory Tuesday; 605 freeway overnight rehab work planned",
       "headlines": [
         {
           "headline": "Things to do in the San Gabriel Valley, March 20-28 - San Gabriel Valley Tribune",
@@ -457,6 +457,10 @@
           "source": "Colorado Blvd"
         },
         {
+          "headline": "Dodgers, Angels kick off Freeway Series in Anaheim; next game at Dodger Stadium",
+          "source": "ABC7"
+        },
+        {
           "headline": "Man charged with murder of Chicago college student was undocumented immigrant: DHS",
           "source": "ABC7"
         },
@@ -531,10 +535,6 @@
         {
           "headline": "Nat'l Puppy Day celebration: 23 pups up for adoption on March 27",
           "source": "ABC7"
-        },
-        {
-          "headline": "Cook surviving on artificial heart saved with donor heart in first-ever UCSF transplant",
-          "source": "ABC7"
         }
       ],
       "relevance": {
@@ -581,7 +581,7 @@
       }
     },
     "county": {
-      "summary": "- ICE officers deploying to LA airports Monday amid security delays\n- Long Beach Grand Prix CEO Jim Michaelian dies at 83\n- $7M stolen cargo seized; 9 arrested in major LASD theft crackdown\n- California gas prices near $6 average, nation's costliest state",
+      "summary": "- ICE officers deploying to LA airports Monday as border czar confirms delays mounting\n- 2 arrested, 5 injured in downtown LA restaurant stabbing over bill dispute\n- $7M stolen cargo seized by LASD; 9 arrested in major theft crackdown\n- California gas prices skyrocket near $6 average, nation's costliest state",
       "headlines": [
         {
           "headline": "ICE officers set to deploy to airports on Monday as delays mount, border czar Homan confirms",
@@ -597,10 +597,6 @@
         },
         {
           "headline": "Wilmington residents say it\u2019s dangerous to walk to a new waterfront park. The solution is coming",
-          "source": "LAist"
-        },
-        {
-          "headline": "Long Beach Grand Prix CEO Jim Michaelian dies at 83, weeks before race",
           "source": "LAist"
         },
         {
@@ -661,6 +657,10 @@
         },
         {
           "headline": "Video of Clinton depositions in Epstein investigation released by House Republicans",
+          "source": "LAist"
+        },
+        {
+          "headline": "Bill Clinton says he 'did nothing wrong' with Epstein as he faced grilling over their relationship",
           "source": "LAist"
         },
         {
@@ -732,6 +732,10 @@
           "source": "Fox 11 LA"
         },
         {
+          "headline": "LaGuardia plane crash: What we know about the victims",
+          "source": "Fox 11 LA"
+        },
+        {
           "headline": "California sheriff seizes 650,000 ballots in defiance of state officials over election count dispute",
           "source": "Fox 11 LA"
         },
@@ -740,8 +744,12 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Celebrity deaths of 2026: The entertainers and artists we lost this year",
-          "source": "Fox 11 LA"
+          "headline": "ICE Set to Help with Security at U.S. Airports Monday",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "LA Mayoral Candidates to Debate Housing, Homelessness Monday evening",
+          "source": "MyNewsLA"
         },
         {
           "headline": "Multiple People Injured in Downtown Brawl, Stabbing",
@@ -780,12 +788,8 @@
           "source": "MyNewsLA"
         },
         {
-          "headline": "CHP Chases BMW from Montclair to Alhambra",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "RivCo Braces for Another Week of Above Normal Temperatures",
-          "source": "MyNewsLA"
+          "headline": "Eaton fire sent a pollution wave across Los Angeles - USC Today",
+          "source": "Google News LA"
         },
         {
           "headline": "County Approves Mental Health Care Reform for Homeless Response System - Santa Monica Daily Press",
@@ -793,10 +797,6 @@
         },
         {
           "headline": "Los Angeles County shelters open Sunday to make room for over 300 pets seized from Lake Hughes property - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Eaton fire sent a pollution wave across Los Angeles - USC Today",
           "source": "Google News LA"
         },
         {
@@ -828,11 +828,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "700 cats, dogs being rescued after search warrant served at Los Angeles County, California property - ABC7 Chicago",
+          "headline": "Hundreds of dogs, cats rescued in L.A. County, possibly largest U.S. case - WFRV Local 5",
           "source": "Google News LA"
         },
         {
-          "headline": "Hundreds of dogs, cats rescued in L.A. County, possibly largest U.S. case - WFRV Local 5",
+          "headline": "Lawsuit Filed Against The Pointe Malibu Recovery Center in Los Angeles County Superior Court - FinancialContent",
           "source": "Google News LA"
         },
         {
@@ -860,11 +860,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "LA County seizes 700 dogs and cats in massive Southern California raid - Victorville Daily Press",
+          "headline": "700 animals seized in largest LA County operation - Victorville Daily Press",
           "source": "Google News LA"
         },
         {
-          "headline": "700 cats, dogs being rescued after search warrant served at Lake Hughes property - ABC7 Los Angeles",
+          "headline": "300 cats, dogs being rescued after search warrant served at Lake Hughes property - ABC7 Los Angeles",
           "source": "Google News LA"
         }
       ],
