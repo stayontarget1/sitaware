@@ -1,9 +1,9 @@
 {
-  "generated": "2026-03-23T19:42:07.349369+00:00",
+  "generated": "2026-03-23T19:45:06.383287+00:00",
   "briefing": "12 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Bear euthanized after clawing woman; community objects to decision\n- Monrovia receives $460,000 grant for Recreation Park design improvements\n- Wastewater rate increase proposed; protests scheduled for May 27\n- Local baseball player Troy Grise named SoCal Player of Week",
+      "summary": "- Mother bear euthanized after clawing woman walking dog in Monrovia\n- Monrovia receives $460,000 grant for Recreation Park design improvements\n- Proposed wastewater rate increase of $2.50\u2013$2.75 monthly; protests May 27\n- Monrovia swim team wins first place at Savanna Invitational",
       "headlines": [
         {
           "headline": "TV report about John Shaw, the 'guy with a sign'",
@@ -146,6 +146,10 @@
           "source": "Google News"
         },
         {
+          "headline": "Monrovia residents hold memorial walk for euthanized bear - NBC Los Angeles",
+          "source": "Google News"
+        },
+        {
           "headline": "Community angered after officials euthanize mama bear in Southern California - KTLA",
           "source": "Google News"
         },
@@ -158,11 +162,7 @@
           "source": "Google News"
         },
         {
-          "headline": "Wild Bear Crashes Live News Segment About Intense Bear Encounter in Southern California - AOL.com",
-          "source": "Google News"
-        },
-        {
-          "headline": "Mother bear labeled \u2018Public Safety Bear\u2019 euthanized by state - USA Today",
+          "headline": "Memorial, Walk Scheduled For Blondie the Monrovia Mama Bear Put Down by CDFW - MyNewsLA.com",
           "source": "Google News"
         },
         {
@@ -242,8 +242,8 @@
         "0": true,
         "1": true,
         "2": true,
-        "3": true,
-        "4": true,
+        "3": false,
+        "4": false,
         "5": true,
         "6": true,
         "7": true,
@@ -266,7 +266,7 @@
         "24": false,
         "25": true,
         "26": false,
-        "27": false,
+        "27": true,
         "28": true,
         "29": false,
         "30": false,
@@ -274,15 +274,15 @@
         "32": true,
         "33": true,
         "34": true,
-        "35": false,
+        "35": true,
         "36": false,
         "37": false,
         "38": false,
-        "39": false
+        "39": true
       }
     },
     "sgv": {
-      "summary": "- Lunar Lantern Festival brings art, food, light to San Gabriel\n- Mosquito surveillance season begins with traps across San Gabriel Valley\n- County heat advisory Tuesday before weekend cooldown expected\n- Data-center moratorium, sanctuary-city rules pass in El Monte",
+      "summary": "- Lunar Lantern Festival brings art, food, light to San Gabriel this week\n- Mosquito surveillance traps deployed across valley as season begins\n- Heat advisory Tuesday morning; cooler weather expected by weekend\n- Data-center moratorium, sanctuary-city rules approved in El Monte",
       "headlines": [
         {
           "headline": "Things to do in the San Gabriel Valley, March 20-28 - San Gabriel Valley Tribune",
@@ -577,7 +577,7 @@
       }
     },
     "county": {
-      "summary": "- ICE officers deploying to LA airports Monday amid growing border enforcement concerns\n- LA's District 9 loses Black councilmember representation for first time in 60 years\n- Metro advances West Hollywood rail project despite ongoing LA resident concerns\n- Wilmington waterfront park safety solution coming for residents unable to walk there safely",
+      "summary": "- ICE officers deploying to LA airports Monday amid border enforcement intensification\n- Metro rail expansion to West Hollywood faces resident concerns, moves forward\n- $7M stolen cargo recovered; nine arrested in major LA County theft ring\n- Stabbing at downtown LA restaurant leaves five injured, two arrested",
       "headlines": [
         {
           "headline": "Metro could finally bring rail to West Hollywood, but concerns from LA residents persist",
@@ -740,6 +740,26 @@
           "source": "Fox 11 LA"
         },
         {
+          "headline": "Woman Awarded $19M in Sexual Battery Suit vs. Bill Cosby",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Valerie Perrine, Oscar Nominee, `Superman\u2019 Actress, Dies at 82",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Woman Awarded $19M in Sexual Battery Suit vs. Bill Cosby",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Pedestrian Fatally Struck by Metrolink Train in Northridge Identified",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Man Killed in Lake Los Angeles Shooting",
+          "source": "MyNewsLA"
+        },
+        {
           "headline": "2 More People Charged in Financially Motivated Murder of Murrieta Man",
           "source": "MyNewsLA"
         },
@@ -761,26 +781,6 @@
         },
         {
           "headline": "First Mayoral Candidates\u2019 Debate to Focus on Housing, Transit",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Investigation Launches into Brawl at DTLA Restaurant That Evolved into Major Stabbing Incident",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Abuse Survivors Call for Firing of El Monte Superintendent",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Overturned Big Rig Blocks I-5 South",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Powerball Jackpot Rises to $133M",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Westmont Crash Sends Car into Doughnut Shop",
           "source": "MyNewsLA"
         },
         {
@@ -840,11 +840,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "County CEO, on leave, now plans to step down - PressReader",
+          "headline": "Hundreds of dogs, cats rescued in L.A. County, possibly largest U.S. case - WFRV Local 5",
           "source": "Google News LA"
         },
         {
-          "headline": "Hundreds of dogs, cats rescued in L.A. County, possibly largest U.S. case - WFRV Local 5",
+          "headline": "County CEO, on leave, now plans to step down - PressReader",
           "source": "Google News LA"
         },
         {
