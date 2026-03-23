@@ -1,9 +1,9 @@
 {
-  "generated": "2026-03-23T02:02:06.478222+00:00",
+  "generated": "2026-03-23T03:38:00.671306+00:00",
   "briefing": "5 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Mother bear euthanized after clawing Monrovia residents; orphaned cubs spark community debate\n- Monrovia receives $460,000 grant for Recreation Park design improvements\n- Huntington Drive single-lane traffic March 23\u201327 between Magnolia, Shamrock\n- Proposed wastewater rate increase of $2.50\u2013$2.75 monthly; protests due May 27",
+      "summary": "- Mother bear euthanized after second attack on Monrovia residents; cubs orphaned\n- Monrovia receives $460,000 grant for Recreation Park design improvements\n- Proposed wastewater rate increase of $2.50\u2013$2.75/month; protests due May 27\n- Huntington Drive single-lane traffic March 23\u201327 between Magnolia, Shamrock",
       "headlines": [
         {
           "headline": "Bubble Art Bunnies at the Library, April 2",
@@ -90,11 +90,11 @@
           "source": "Google News"
         },
         {
-          "headline": "Bear euthanized, her cubs left orphaned, over objections of Monrovia city leaders - Los Angeles Times",
+          "headline": "Mama Bear Injures Woman Walking Dog in Monrovia, California - Outdoors with Bear Grylls",
           "source": "Google News"
         },
         {
-          "headline": "Mama Bear Injures Woman Walking Dog in Monrovia, California - Outdoors with Bear Grylls",
+          "headline": "Bear euthanized, her cubs left orphaned, over objections of Monrovia city leaders - Los Angeles Times",
           "source": "Google News"
         },
         {
@@ -130,6 +130,10 @@
           "source": "Google News"
         },
         {
+          "headline": "Bear with us: Reporter\u2019s live shot interrupted by wild encounter in Monrovia - AOL.com",
+          "source": "Google News"
+        },
+        {
           "headline": "Bear wanders into frame of live news report about previous dangerous attack: 'Keep your distance' - The Cool Down",
           "source": "Google News"
         },
@@ -150,11 +154,15 @@
           "source": "Google News"
         },
         {
-          "headline": "Bear with us: Reporter\u2019s live shot interrupted by wild encounter in Monrovia - New York Post",
+          "headline": "Black Bear Makes Surprise TV Appearance In Monrovia - Patch",
           "source": "Google News"
         },
         {
           "headline": "Mother bear labeled \u2018Public Safety Bear\u2019 euthanized by state - USA Today",
+          "source": "Google News"
+        },
+        {
+          "headline": "Bear wanders into frame of live news report about previous dangerous attack: 'Keep your distance' - MSN",
           "source": "Google News"
         },
         {
@@ -249,13 +257,13 @@
         "11": true,
         "12": true,
         "13": true,
-        "14": true,
+        "14": false,
         "15": true,
         "16": true,
         "17": true,
         "18": true,
         "19": true,
-        "20": false,
+        "20": true,
         "21": false,
         "22": false,
         "23": false,
@@ -266,19 +274,19 @@
         "28": true,
         "29": false,
         "30": false,
-        "31": false,
+        "31": true,
         "32": false,
-        "33": true,
+        "33": false,
         "34": true,
-        "35": false,
+        "35": true,
         "36": false,
-        "37": false,
+        "37": true,
         "38": false,
         "39": false
       }
     },
     "sgv": {
-      "summary": "- Southern California's March heat wave breaks temperature records Wednesday\n- Free Lunar Lantern Festival in San Gabriel features art, food, light\n- Mosquito surveillance traps deployed across San Gabriel Valley this season\n- Data-center moratorium, sanctuary-city rules approved in El Monte",
+      "summary": "- Lunar Lantern Festival brings art, food, and light to San Gabriel\n- Mosquito surveillance season begins across San Gabriel Valley with trap installations\n- El Monte passes data-center moratorium and sanctuary-city rules\n- March heat wave breaks records, unhealthy air conditions expected Sunday",
       "headlines": [
         {
           "headline": "Things to do in the San Gabriel Valley, March 20-28 - San Gabriel Valley Tribune",
@@ -325,6 +333,10 @@
           "source": "Google News SGV"
         },
         {
+          "headline": "San Gabriel\u2019s Mission District set for Lunar Lantern Festival - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
           "headline": "Black bear makes a surprise TV appearance in Monrovia - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
@@ -354,10 +366,6 @@
         },
         {
           "headline": "MAP: 15 best buffets in Southern California - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "Los Angeles County under a heat advisory Tuesday morning - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -449,6 +457,10 @@
           "source": "Colorado Blvd"
         },
         {
+          "headline": "LA County shelters open extra day to make room for over 300 pets seized from Lake Hughes property",
+          "source": "ABC7"
+        },
+        {
           "headline": "3 people stabbed during fight at downtown LA restaurant, police say; 2 suspects in custody",
           "source": "ABC7"
         },
@@ -523,10 +535,6 @@
         {
           "headline": "ONT Field hosts its inaugural event with Avett Brothers and Dwight Yoakam concert",
           "source": "ABC7"
-        },
-        {
-          "headline": "LAX travelers say Hawaii rainfall, flooding is unlike anything they have experienced",
-          "source": "ABC7"
         }
       ],
       "relevance": {
@@ -542,11 +550,11 @@
         "9": false,
         "10": false,
         "11": true,
-        "12": false,
+        "12": true,
         "13": false,
-        "14": true,
-        "15": false,
-        "16": true,
+        "14": false,
+        "15": true,
+        "16": false,
         "17": true,
         "18": false,
         "19": false,
@@ -555,25 +563,25 @@
         "22": true,
         "23": true,
         "24": false,
-        "25": true,
+        "25": false,
         "26": false,
-        "27": true,
-        "28": true,
+        "27": false,
+        "28": false,
         "29": false,
         "30": false,
-        "31": true,
+        "31": false,
         "32": false,
         "33": true,
         "34": false,
-        "35": true,
+        "35": false,
         "36": true,
-        "37": true,
+        "37": false,
         "38": false,
-        "39": true
+        "39": false
       }
     },
     "county": {
-      "summary": "- ICE officers deploying to LA airports Monday as delays mount, border czar confirms\n- LA's District 9 won't have Black councilmember for first time in 60 years\n- Long Beach Grand Prix CEO Jim Michaelian dies at 83 before race\n- $7M stolen cargo seized by LASD; 9 arrested in major theft crackdown",
+      "summary": "- ICE officers deploying to LA airports Monday amid security delays\n- LA District 9 loses Black councilmember representation after 60 years\n- Long Beach Grand Prix CEO Jim Michaelian dies at 83\n- $7M stolen cargo seized; LASD arrests 9 in theft crackdown",
       "headlines": [
         {
           "headline": "ICE officers set to deploy to airports on Monday as delays mount, border czar Homan confirms",
@@ -736,6 +744,14 @@
           "source": "Fox 11 LA"
         },
         {
+          "headline": "Granada Hills Charter High School Wins California Academic Decathlon",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Multiple People Injured in Downtown LA Stabbing",
+          "source": "MyNewsLA"
+        },
+        {
           "headline": "Injured Hiker Rescued From Remote Area near Idyllwild",
           "source": "MyNewsLA"
         },
@@ -772,14 +788,6 @@
           "source": "MyNewsLA"
         },
         {
-          "headline": "Man Suffers Stab Wounds in Long Beach",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Smokey Robinson Lawyers Urge Denial of Former Workers\u2019 Anti-SLAPP Motion",
-          "source": "MyNewsLA"
-        },
-        {
           "headline": "County Approves Mental Health Care Reform for Homeless Response System - Santa Monica Daily Press",
           "source": "Google News LA"
         },
@@ -788,7 +796,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Pet rescue at center of seizure of over 300 pets in Lake Hughes pushes back on claims from LA county officials - ABC7 Los Angeles",
+          "headline": "Los Angeles County shelters open Sunday to make room for over 300 pets seized from Lake Hughes property - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -797,10 +805,6 @@
         },
         {
           "headline": "Over 300 dogs and cats seized in LA County's largest-ever operation - Victorville Daily Press",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Lawsuit Filed Against The Pointe Malibu Recovery Center in Los Angeles County Superior Court - FinancialContent",
           "source": "Google News LA"
         },
         {
@@ -824,7 +828,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Kittens found in car engine rescued in Palmdale - KTLA",
+          "headline": "Pet rescue at center of seizure of over 300 pets in Lake Hughes pushes back on claims from LA county officials - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -832,7 +836,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "What an incredible turnout at our Women\u2019s Recruitment Symposium Event! We welcomed a diverse group of community members, along with attendees from neighboring counties, all eager to connect, learn, and hear from the inspiring women across our Depa - Facebook",
+          "headline": "Kittens found in car engine rescued in Palmdale - KTLA",
           "source": "Google News LA"
         },
         {
@@ -840,15 +844,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "9 arrested, stolen goods worth millions recovered in SoCal cargo theft investigation, LASD says - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
           "headline": "Los Angeles County Sheriff's Department - Facebook",
           "source": "Google News LA"
         },
         {
-          "headline": "Surprising findings in LA County life expectancy study: See how Manhattan Beach compares - MSN",
+          "headline": "9 arrested, stolen goods worth millions recovered in SoCal cargo theft investigation, LASD says - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -856,7 +856,15 @@
           "source": "Google News LA"
         },
         {
-          "headline": "LA County seizes 700 dogs and cats in massive Southern California raid - Victorville Daily Press",
+          "headline": "700 animals seized in largest LA County operation - Victorville Daily Press",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "What an incredible turnout at our Women\u2019s Recruitment Symposium Event! We welcomed a diverse group of community members, along with attendees from neighboring counties, all eager to connect, learn, and hear from the inspiring women across our Depa - Facebook",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "700 cats, dogs being rescued after search warrant served at Lake Hughes property - ABC7 Los Angeles",
           "source": "Google News LA"
         }
       ],
