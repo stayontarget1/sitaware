@@ -1,10 +1,14 @@
 {
-  "generated": "2026-03-24T16:11:22.849676+00:00",
-  "briefing": "8 AM",
+  "generated": "2026-03-24T19:48:52.053724+00:00",
+  "briefing": "12 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Bear euthanized after clawing woman walking dog in Monrovia\n- City receives $460,000 grant for Recreation Park design project\n- Wastewater rate increase proposed; community protests scheduled for May 27\n- Monrovia swim team wins at Savanna Invitational competition",
+      "summary": "- Bear euthanized after clawing woman walking dog in Monrovia\n- Monrovia receives $460,000 grant for Recreation Park design project\n- Proposed wastewater rate increase of $2.50\u2013$2.75/month; protests due May 27\n- Huntington Drive single-lane traffic March 23\u201327 between Magnolia, Shamrock",
       "headlines": [
+        {
+          "headline": "Easygoing Cliffy is an affectionate pit bull who gets along with dogs, cats, and pretty much everyone",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "A Moment in Monrovia History: Fire station in 1949",
           "source": "Monrovia Now"
@@ -82,19 +86,15 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Community Center trip to Knott's Berry Farm Boysenberry Festival March 27",
-          "source": "Monrovia Now"
-        },
-        {
           "headline": "California Department of Fish and Wildlife euthanizes Monrovia bear after clawing at woman walking her dog, city says - ABC7 Los Angeles",
           "source": "Google News"
         },
         {
-          "headline": "Bear That Clawed 2 People in California Is Euthanized, Orphaning Its Cubs - The New York Times",
+          "headline": "Mama Bear Injures Woman Walking Dog in Monrovia, California - Outdoors with Bear Grylls",
           "source": "Google News"
         },
         {
-          "headline": "Mama Bear Injures Woman Walking Dog in Monrovia, California - Outdoors with Bear Grylls",
+          "headline": "Bear That Clawed 2 People in California Is Euthanized, Orphaning Its Cubs - The New York Times",
           "source": "Google News"
         },
         {
@@ -154,10 +154,6 @@
           "source": "Google News"
         },
         {
-          "headline": "Wild Bear Crashes Live News Segment About Intense Bear Encounter in Southern California - AOL.com",
-          "source": "Google News"
-        },
-        {
           "headline": "Mother bear labeled \u2018Public Safety Bear\u2019 euthanized by state - USA Today",
           "source": "Google News"
         },
@@ -183,10 +179,6 @@
         },
         {
           "headline": "Girl, 16, Goes Missing From LA County",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Hang Glider Flies Into Power Lines | Woman Slain In Upscale Neighborhood | Hiker Rescued: SoCal In Brief",
           "source": "Patch Monrovia"
         },
         {
@@ -239,13 +231,13 @@
         }
       ],
       "relevance": {
-        "0": true,
+        "0": false,
         "1": true,
         "2": true,
         "3": true,
         "4": true,
-        "5": false,
-        "6": false,
+        "5": true,
+        "6": true,
         "7": true,
         "8": true,
         "9": true,
@@ -255,17 +247,17 @@
         "13": true,
         "14": true,
         "15": true,
-        "16": false,
-        "17": true,
+        "16": true,
+        "17": false,
         "18": true,
         "19": true,
         "20": true,
-        "21": false,
+        "21": true,
         "22": false,
         "23": true,
-        "24": false,
+        "24": true,
         "25": true,
-        "26": false,
+        "26": true,
         "27": true,
         "28": true,
         "29": false,
@@ -282,7 +274,7 @@
       }
     },
     "sgv": {
-      "summary": "- Mosquito surveillance traps deployed across San Gabriel Valley as season begins\n- San Gabriel's Lunar Lantern Festival features art, food, and light installations\n- Multi-vehicle crash injures four people in San Gabriel Valley\n- El Monte passes data-center moratorium and sanctuary-city rules",
+      "summary": "- Lunar Lantern Festival brings art, food, and light to San Gabriel\n- Mosquito surveillance traps deployed across San Gabriel Valley for season\n- Heat advisory issued for Los Angeles County Tuesday morning\n- Multi-vehicle crash injures four people in San Gabriel Valley",
       "headlines": [
         {
           "headline": "Things to do in the San Gabriel Valley, March 20-28 - San Gabriel Valley Tribune",
@@ -313,27 +305,19 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel Valley Girls Athlete of the Week: Samantha Alvarez, Arcadia - San Gabriel Valley Tribune",
+          "headline": "San Gabriel Valley girls athlete of the week: Samantha Alvarez, Arcadia - MSN",
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel Valley Girls Athlete of the Week: Robin Guitron, St. Paul - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "SGV senior all-star basketball games Saturday at Bishop Amat - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "San Gabriel Valley Boys Athlete of the Week: Eli Garner, Damien - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "SGV high school softball: Hitting and pitching leaders - San Gabriel Valley Tribune",
+          "headline": "San Gabriel Farmers Market to return in April - heysocal.com",
           "source": "Google News SGV"
         },
         {
           "headline": "San Gabriel Valley Boys Athlete of the Week: Troy Grise, Monrovia - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "San Gabriel Valley Girls Athlete of the Week: Robin Guitron, St. Paul - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -362,6 +346,14 @@
         },
         {
           "headline": "Why purposeful building matters in commercial real estate - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Pasadena neighborhood pushes back against proposed condo development - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "California should extend lifesaving telehealth tech options - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -403,6 +395,10 @@
         {
           "headline": "Design Commission Set to Review 145-Unit Senior Living Facility Near Historic Pasadena Church",
           "source": "Pasadena Now"
+        },
+        {
+          "headline": "Pasadena Senior Center Offers Ongoing Support Group for Healing After Loss",
+          "source": "Colorado Blvd"
         },
         {
           "headline": "Apply Now: Two Open Seats on Pasadena Rental Housing Board",
@@ -449,8 +445,56 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Pasadena Committee Approves Micro Home Kitchens for Legal Sales",
-          "source": "Colorado Blvd"
+          "headline": "$50K reward offered for information as outrage grows over brutal attacks of IE donkeys",
+          "source": "ABC7"
+        },
+        {
+          "headline": "LAPD releases composite sketch of suspect wanted in kidnapping of 2 girls in North Hills",
+          "source": "ABC7"
+        },
+        {
+          "headline": "POV: Tony Cabrera and kids experience new Bluey celebration at Disneyland",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Senate confirms Markwayne Mullin to lead Homeland Security as TSA standoff deepens",
+          "source": "ABC7"
+        },
+        {
+          "headline": "'Daredevil: Born Again' premiere held in New York City ahead of new season on Disney+",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Shelter-in-place lifted after explosion at Valero oil facility in Texas, police say",
+          "source": "ABC7"
+        },
+        {
+          "headline": "LAUSD board, county supervisors set to consider motions renaming Cesar Chavez schools, holiday",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Miley Cyrus thanks 'Hannah Montana' fans with Disney+ 'Hannah Montana 20th Anniversary Special'",
+          "source": "ABC7"
+        },
+        {
+          "headline": "LA model accused of meeting men online, burglarizing their homes faces 6 felony charges at trial",
+          "source": "ABC7"
+        },
+        {
+          "headline": "ICE detains woman at San Francisco airport in front of daughter",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Dozens of dogs flown from LA to Chicago to ease crowded shelters",
+          "source": "ABC7"
+        },
+        {
+          "headline": "'Dirty Dozen' produce: Nearly 100% tested positive for pesticides, including 'forever chemicals'",
+          "source": "ABC7"
+        },
+        {
+          "headline": "'Daredevil: Born Again' returns for the highly anticipated Season 2",
+          "source": "ABC7"
         },
         {
           "headline": "Get spring and Easter-ready with great deals on must-haves with ABC Secret Savings",
@@ -458,10 +502,6 @@
         },
         {
           "headline": "Epic Games to lay off more than 1,000 employees amid Fortnite downturn",
-          "source": "ABC7"
-        },
-        {
-          "headline": "LAUSD board, county supervisors set to consider motions renaming Cesar Chavez schools, holiday",
           "source": "ABC7"
         },
         {
@@ -483,54 +523,6 @@
         {
           "headline": "Senators consider deal to fund Homeland Security but not ICE enforcement as airport lines snarl",
           "source": "ABC7"
-        },
-        {
-          "headline": "Jury finds that Bill Cosby sexually assaulted woman in 1972 and awards her nearly $60 million",
-          "source": "ABC7"
-        },
-        {
-          "headline": "$50K reward offered for information as outrage grows over brutal attacks of IE donkeys",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Preliminary magnitude 7.6 earthquake strikes near Tonga in the South Pacific Ocean, USGS says",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Who's running for LA mayor? Here's the full list of 14 candidates",
-          "source": "ABC7"
-        },
-        {
-          "headline": "UCLA women's basketball advances to Sweet 16 with win over Oklahoma State",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Bass leads the pack for LA mayor in new poll, but many surveyed have unfavorable view",
-          "source": "ABC7"
-        },
-        {
-          "headline": "'Daredevil: Born Again' premiere held in New York City ahead of new season on Disney+",
-          "source": "ABC7"
-        },
-        {
-          "headline": "ICE detains woman at San Francisco airport in front of daughter",
-          "source": "ABC7"
-        },
-        {
-          "headline": "ICE agents deployed to over a dozen US airports as partial government shutdown triggers delays",
-          "source": "ABC7"
-        },
-        {
-          "headline": "LA County shelters seek adopters to free up space for 300+ cats, dogs rescued from Lake Hughes home",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Muir Beach's 16th century England hideaway transports you to a whole new world",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Pentagon will remove media offices after judge reinstates New York Times press credentials",
-          "source": "ABC7"
         }
       ],
       "relevance": {
@@ -541,17 +533,17 @@
         "4": true,
         "5": true,
         "6": false,
-        "7": true,
+        "7": false,
         "8": true,
-        "9": true,
-        "10": true,
+        "9": false,
+        "10": false,
         "11": true,
-        "12": true,
+        "12": false,
         "13": true,
         "14": true,
         "15": true,
         "16": true,
-        "17": true,
+        "17": false,
         "18": true,
         "19": false,
         "20": true,
@@ -570,25 +562,37 @@
         "33": true,
         "34": true,
         "35": true,
-        "36": false,
-        "37": true,
+        "36": true,
+        "37": false,
         "38": true,
-        "39": false
+        "39": true
       }
     },
     "county": {
-      "summary": "- LA County CEO announces resignation citing health concerns\n- LA's homelessness agency risks missing federal audit deadline, auditor warns\n- Metro could bring rail to West Hollywood despite resident concerns\n- ICE officers deploying to LA airports Monday as border operations expand",
+      "summary": "- LA County CEO announces resignation amid health concerns\n- LAUSD, LA County vote to rename C\u00e9sar Ch\u00e1vez schools over abuse allegations\n- LA homelessness agency risks missing federal audit deadline, auditor warns\n- Metro plans West Hollywood rail expansion despite resident concerns",
       "headlines": [
         {
           "headline": "Santa Monica's sand dunes are mounting a low-tech resistance to rising sea levels",
           "source": "LAist"
         },
         {
-          "headline": "A sneak peek of the colors and designs for the LA28 Olympics",
+          "headline": "At first major LA mayoral debate, some leading alternatives to Bass agree that LA needs fixing",
           "source": "LAist"
         },
         {
-          "headline": "The fair-weather fan guide to the 2026 Dodgers season, where 3-peat is on the line",
+          "headline": "Governor candidate debate at USC canceled following controversy",
+          "source": "LAist"
+        },
+        {
+          "headline": "LAUSD board votes to change school names, art tied to C\u00e9sar Ch\u00e1vez",
+          "source": "LAist"
+        },
+        {
+          "headline": "California sues Trump to keep shut oil pipeline on Santa Barbara coast",
+          "source": "LAist"
+        },
+        {
+          "headline": "A sneak peek of the colors and designs for the LA28 Olympics",
           "source": "LAist"
         },
         {
@@ -600,15 +604,7 @@
           "source": "LAist"
         },
         {
-          "headline": "Wilmington residents say it\u2019s dangerous to walk to a new waterfront park. The solution is coming",
-          "source": "LAist"
-        },
-        {
-          "headline": "How to turn food waste into fertilizer in record time \u2014 with maggots",
-          "source": "LAist"
-        },
-        {
-          "headline": "People are getting bitten by rattlesnakes. Here's how to stay safe",
+          "headline": "ICE deployments created chaos for cities and cost them millions, NPR analysis finds",
           "source": "LAist"
         },
         {
@@ -628,15 +624,15 @@
           "source": "LAist"
         },
         {
+          "headline": "California sues Trump to keep shut oil pipeline on Santa Barbara coast",
+          "source": "LAist"
+        },
+        {
+          "headline": "ICE deployments created chaos for cities and cost them millions, NPR analysis finds",
+          "source": "LAist"
+        },
+        {
           "headline": "Mapping ICE's expanding footprint, and the communities fighting back",
-          "source": "LAist"
-        },
-        {
-          "headline": "ICE officers set to deploy to airports on Monday as delays mount, border czar Homan confirms",
-          "source": "LAist"
-        },
-        {
-          "headline": "Airport security lines are long. Here's what to know if you're flying",
           "source": "LAist"
         },
         {
@@ -656,15 +652,19 @@
           "source": "LAist"
         },
         {
-          "headline": "Video of Clinton depositions in Epstein investigation released by House Republicans",
-          "source": "LAist"
-        },
-        {
-          "headline": "$50,000 reward offered as Riverside donkey killings reach 'horrific' new peak",
+          "headline": "LA County, LAUSD vote to rename C\u00e9sar Ch\u00e1vez holiday, schools amid abuse allegations",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "LA leaders to vote on stripping C\u00e9sar Ch\u00e1vez\u2019s name amid abuse allegations",
+          "headline": "Social media influencer ordered to stand trial in dating app burglary spree",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Orphaned Monrovia bear cubs moved to San Diego wildlife center after mother euthanized",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "$50,000 reward offered as Riverside donkey killings reach 'horrific' new peak",
           "source": "Fox 11 LA"
         },
         {
@@ -684,11 +684,7 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Woman awarded $19M in Bill Cosby sexual battery lawsuit",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "2 arrested, 5 injured in stabbing at downtown Los Angeles restaurant over bill",
+          "headline": "Local military families react as US deploys 2,500 California Marines to Middle East",
           "source": "Fox 11 LA"
         },
         {
@@ -708,10 +704,6 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Local military families react as US deploys 2,500 California Marines to Middle East",
-          "source": "Fox 11 LA"
-        },
-        {
           "headline": "\u2018No Kings\u2019 movement set to sweep California with mass protests planned for March 28",
           "source": "Fox 11 LA"
         },
@@ -721,6 +713,10 @@
         },
         {
           "headline": "Flawed California DUI test kits spark review of a decade of convictions",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Bodybuilding legend Lee Haney in need of kidney transplant",
           "source": "Fox 11 LA"
         },
         {
@@ -736,51 +732,47 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Flight attendant survives after being ejected from plane in LaGuardia Airport crash",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "LA, Orange County Gas Prices Keep Rising",
+          "headline": "Driver Accused of Plowing into Crowd at Nightclub Ordered to Stand Trial",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Brotherhood Crusade Worker Alleges Termination Tied to Health Discrimination",
+          "headline": "Cal State Dominguez Hills Launches Free Tuition Program",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Judge Pares Woman\u2019s Harassment Case vs. USC, Professor",
+          "headline": "LAUSD, LACo Look to Strip Chavez\u2019s Name from Buildings, Places",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Community Members Outraged Over Attacks on Riverside County Burros",
+          "headline": "OC Judge Removed from Bench, Barred from Future Judicial Service",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Gubernatorial Debate Canceled Following Criticism Over Selection of Field",
+          "headline": "Board Abrogates Contract with Temecula Valley Balloon & Wine Festival",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LACo Supervisors, LAUSD Board Consider Renaming City\u2019s Cesar Ch\u00e1vez Day to `Farm Workers Day\u2019",
+          "headline": "Woman Sentenced to Prison for Role in $14M Medicare Fraud",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Average RivCo Gas Price Rises Again",
+          "headline": "Lane, Connector Closures Coming to Diamond Bar Stretch of 60 Freeway",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Two-Alarm Residential Fire in Tustin Leaves Woman Injured",
+          "headline": "City Council Approves to Shift LAPD Auditing, Accounting Duties",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Fired Montebello Detective Tentatively Reaches Settlement in Discrimination Suit",
+          "headline": "Influencer Model Accused of Using Dating Apps to Target Victims",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Jury Deliberations Continue in Social Media Mental Harm Trial",
+          "headline": "Public Asks for Help Finding Those Behind Attacks on Wild Donkeys",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LASD Offers $10K Reward to Public for Information to Help Solve Fatal South LA Shooting",
+          "headline": "Laguna Art Museum Gets $3M Donation, Establishes Endowed Curator",
           "source": "MyNewsLA"
         },
         {
@@ -788,23 +780,31 @@
           "source": "Google News LA"
         },
         {
-          "headline": "From student worker to Custody Assistant to Deputy Sheriff, Deputy Vargas\u2019 journey is a testament to dedication, resilience, and growth. Over the past 10 years, she has worn many hats within Los Angeles County Sheriff\u2019s Department beginning at the Sheriff\u2019s I - facebook.com",
+          "headline": "World TB Day: Rising Cases and Funding Cuts Threaten TB Control in L.A. County - - Random Lengths News",
           "source": "Google News LA"
         },
         {
-          "headline": "LA County shelters seek adopters to free up space for 300+ cats, dogs rescued from Lake Hughes home - ABC7 Los Angeles",
+          "headline": "Artesia awarded $2 million in grant funds from Los Angeles County Regional Park and Open Space District (RPOSD) - PublicCEO",
           "source": "Google News LA"
         },
         {
-          "headline": "LA County Schools Recognized For Dual Enrollment Excellence - Patch",
+          "headline": "Los Angeles County Sheriff's Department. . The Los Angeles County Sheriff\u2019s Department Homicide Bureau is seeking the public\u2019s help in identifying the suspects responsible for the murder of 48-year-old Marvin Randolph. A $10,000 reward, approved by the - facebook.com",
           "source": "Google News LA"
         },
         {
-          "headline": "LA County to Invest in Youth Mental Health with allcove - Culver City Crossroads",
+          "headline": "Cesar Chavez allegations: LAUSD board, LA County supervisors to consider motions renaming schools, holiday - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Dogs Flown To Chicago As Hundreds Of Rescued Animals Push Limit Of LA County Shelters - Patch",
           "source": "Google News LA"
         },
         {
           "headline": "County Approves Mental Health Care Reform for Homeless Response System - Santa Monica Daily Press",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LA County to Invest in Youth Mental Health with allcove - Culver City Crossroads",
           "source": "Google News LA"
         },
         {
@@ -816,23 +816,19 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Over 100 dogs flown from L.A. to prevent euthanasia after Lake Hughes rescue - KTLA",
+          "headline": "From student worker to Custody Assistant to Deputy Sheriff, Deputy Vargas\u2019 journey is a testament to dedication, resilience, and growth. Over the past 10 years, she has worn many hats within Los Angeles County Sheriff\u2019s Department beginning at the Sheriff\u2019s I - facebook.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Bass Signs Proclamation Renaming City\u2019s Ch\u00e1vez Holiday `Farm Workers Day\u2019 - MyNewsLA.com",
+          "headline": "LA Shelter Dogs Flown to Chicago Area to Free Up Space - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Call for early wind warning ignored | Los Angeles Times - newspaper - Magzter",
+          "headline": "LA County shelters seek adopters to free up space for 300+ cats, dogs rescued from Lake Hughes home - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "Cesar Chavez allegations: LAUSD board, LA County supervisors to consider motions renaming schools, holiday - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "3 LA County Neighborhoods Among Top 50 Best Places To Live In US: Ranking - Patch",
+          "headline": "LA County Schools Recognized For Dual Enrollment Excellence - Patch",
           "source": "Google News LA"
         },
         {
@@ -840,11 +836,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "LASD Offers $10K Reward to Public for Information to Help Solve Fatal South LA Shooting - MyNewsLA.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Girl, 16, Goes Missing From LA County - Patch",
+          "headline": "3 LA County Neighborhoods Among Top 50 Best Places To Live In US: Ranking - Patch",
           "source": "Google News LA"
         },
         {
@@ -852,15 +844,15 @@
           "source": "Google News LA"
         },
         {
+          "headline": "Girl, 16, Goes Missing From LA County - Patch",
+          "source": "Google News LA"
+        },
+        {
           "headline": "Los Angeles County shelters open Sunday to make room for over 300 pets seized from Lake Hughes property - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "Car Crashes Into Iconic LA County Doughnut Shop: Report - Patch",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "SCV News | LASD Major Crimes Bureau Recovers Millions of Dollars Worth of Stolen Goods - SCVNews.com",
+          "headline": "Influencer Who Posed As Girlfriend Of Elderly Men Accused Of Burglarizing Them: DA - Patch",
           "source": "Google News LA"
         }
       ],
