@@ -1,10 +1,14 @@
 {
-  "generated": "2026-04-04T19:25:18.835314+00:00",
-  "briefing": "12 PM",
+  "generated": "2026-04-05T02:11:19.742282+00:00",
+  "briefing": "5 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Public comment period extended for city safety and bicycle lane plans\n- Unity Center seeks volunteers for May 9 food drive event\n- Vector Control warns of biting black flies in Monrovia foothills\n- Monrovia Chamber of Commerce logo design deadline April 30",
+      "summary": "- Public comment period extended for city safety and bicycle plans\n- Monrovia Chamber of Commerce seeks new logo design; deadline April 30\n- Unity Center needs volunteers for big May 9 food drive\n- Veterans Community Picnic at Library Park, April 18",
       "headlines": [
+        {
+          "headline": "Singers invited to audition for choral group April 14, 21",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Learn to draw manga characters at the Library, April 25",
           "source": "Monrovia Now"
@@ -82,10 +86,6 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "A Moment in Monrovia History: A rooming house from 1887",
-          "source": "Monrovia Now"
-        },
-        {
           "headline": "Rising gas prices have drivers rethinking switch to electric vehicles - NewsNation",
           "source": "Google News"
         },
@@ -106,15 +106,11 @@
           "source": "Google News"
         },
         {
-          "headline": "Mother Bear Euthanized After California Encounter, Leaving Two Cubs Orphaned: \u2018Preventable Tragedy\u2019 - Yahoo",
-          "source": "Google News"
-        },
-        {
           "headline": "AeroVironment Shares Drop 4% After Earnings Miss - National Today",
           "source": "Google News"
         },
         {
-          "headline": "Noah Bayha - Monrovia Wildcats Boys Basketball (Monrovia, CA) - si.com",
+          "headline": "Noah Bayha - Monrovia Wildcats Boys Basketball (Monrovia, CA) - Sports Illustrated",
           "source": "Google News"
         },
         {
@@ -134,10 +130,6 @@
           "source": "Patch Monrovia"
         },
         {
-          "headline": "Best Companies List + New Michelin Guide Restaurants + Pip Watch Underway: Saturday Smiles",
-          "source": "Patch Monrovia"
-        },
-        {
           "headline": "Californians Who Move Away Are Finding The Grass Really Is Greener, New UC Study Finds",
           "source": "Patch Monrovia"
         },
@@ -150,7 +142,15 @@
           "source": "Patch Monrovia"
         },
         {
+          "headline": "Monarch Butterfly Numbers Up 64%; Why It\u2019s Only A Fragile Glimmer Of Hope",
+          "source": "Patch Monrovia"
+        },
+        {
           "headline": "What To Watch This Weekend: 'The Drama,' 'The Super Mario Galaxy Movie,' 'A Great Awakening' And More",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "Popular Fashion Apparel Chain To Shut 25 Stores In 2026",
           "source": "Patch Monrovia"
         },
         {
@@ -210,27 +210,27 @@
         "4": true,
         "5": true,
         "6": true,
-        "7": true,
+        "7": false,
         "8": true,
-        "9": false,
+        "9": true,
         "10": false,
-        "11": true,
+        "11": false,
         "12": true,
         "13": true,
         "14": true,
         "15": true,
         "16": true,
         "17": true,
-        "18": false,
-        "19": true,
+        "18": true,
+        "19": false,
         "20": false,
         "21": false,
         "22": true,
         "23": false,
         "24": false,
         "25": false,
-        "26": false,
-        "27": true,
+        "26": true,
+        "27": false,
         "28": false,
         "29": false,
         "30": false,
@@ -246,14 +246,14 @@
       }
     },
     "sgv": {
-      "summary": "- Air quality alert issued for San Gabriel Valley Thursday\n- Black fly surge targets eyes, necks in valley foothills\n- Monterey Park data center project withdrawn after community opposition\n- Pasadena distributes $450,000 in cash grants to fire-displaced seniors",
+      "summary": "- Air quality alert issued for San Gabriel Valley Thursday\n- Black fly surge in valley foothills targets eyes, necks\n- High wind warning and watch issued for Friday\n- Pasadena Village distributes $450,000 in Eaton Fire relief grants",
       "headlines": [
         {
           "headline": "Things to do in the San Gabriel Valley area, April 3-11 - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel Valley Passover and Easter Services 2026 - ColoradoBoulevard.net",
+          "headline": "San Gabriel Valley Passover and Easter Services 2026 - coloradoboulevard.net",
           "source": "Google News SGV"
         },
         {
@@ -281,7 +281,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "DBSA San Gabriel Valley Support Alliance - ColoradoBoulevard.net",
+          "headline": "DBSA San Gabriel Valley Support Alliance - coloradoboulevard.net",
           "source": "Google News SGV"
         },
         {
@@ -369,7 +369,63 @@
           "source": "Pasadena Now"
         },
         {
+          "headline": "Caltech Welcomes Pasadena Unified\u2019s Most Advanced Math Students",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Data Center Developer Withdraws Monterey Park Proposal as Measure NDC Heads to June Ballot",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Beloved Mexican Folktale Lights Up Pasadena With Free Bilingual Performances",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Adult Daycare-Focused \u201cUpward Bound\u201d Novel Signing at Vroman\u2019s in Pasadena",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "How a Caltech Invention Became the Camera in Every Phone",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Pasadena Enacts Two\u2011Day Outdoor Watering Schedule Through October",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Record Number of Flea-Borne Typhus Cases Reported in L.A. County",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Late-Night Traffic Stop in Alhambra Leads to Arrest of Two Wanted Suspects",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Man in Custody After Attempted Residential Burglary in South Pasadena",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "San Gabriel Valley Passover and Easter Services 2026",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "$1.09M Federal Investment Announced to Upgrade Rose Bowl Infrastructure Ahead of 2028 Olympics",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "710 Stub Plan Proposes 1,800 Homes as Pasadena Council Debates Traffic and Equity",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Fortnite's Item Shop just got a surprise Disney crossover!",
+          "source": "ABC7"
+        },
+        {
           "headline": "Pope Leo XIV carries cross for full Good Friday procession, the first pontiff to do so in decades",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Bald eaglet begins emerging from shell in Big Bear nest as parents Jackie and Shadow look on",
           "source": "ABC7"
         },
         {
@@ -439,32 +495,24 @@
         {
           "headline": "Walt Disney Records releases country-inspired album based on classic Disney movie songs",
           "source": "ABC7"
-        },
-        {
-          "headline": "Grandson makes 'Mama' proud as beloved NYC pizzeria expands",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Artemis II's moonbound astronauts capture Earth's brilliant blue beauty as they leave it behind",
-          "source": "ABC7"
         }
       ],
       "relevance": {
         "0": true,
         "1": true,
         "2": true,
-        "3": true,
+        "3": false,
         "4": true,
         "5": true,
         "6": true,
-        "7": true,
+        "7": false,
         "8": true,
         "9": true,
-        "10": true,
-        "11": true,
-        "12": true,
-        "13": true,
-        "14": true,
+        "10": false,
+        "11": false,
+        "12": false,
+        "13": false,
+        "14": false,
         "15": true,
         "16": true,
         "17": false,
@@ -480,20 +528,20 @@
         "27": true,
         "28": true,
         "29": true,
-        "30": false,
+        "30": true,
         "31": true,
-        "32": false,
-        "33": false,
-        "34": false,
-        "35": false,
+        "32": true,
+        "33": true,
+        "34": true,
+        "35": true,
         "36": false,
-        "37": false,
-        "38": false,
-        "39": false
+        "37": true,
+        "38": true,
+        "39": true
       }
     },
     "county": {
-      "summary": "- LA County launches survey for residents affected by 2025 fires\n- Trump budget excludes $2 billion for Metro's 2028 Olympics plan\n- Adelanto ICE facility uses solitary confinement at among highest US rates\n- Hazmat crews neutralize chemical leak at Wilmington shipping yard",
+      "summary": "- LA County launches survey for residents affected by 2025 fires\n- Trump's budget excludes $2 billion for Metro's 2028 Olympics plan\n- Olympics tickets face 24% service fee, sparking local backlash\n- Crown Fire in Acton burns 345 acres, reaches 74% containment",
       "headlines": [
         {
           "headline": "This Pomona park has five Cesar Chavez murals. Will they all have to go?",
@@ -544,6 +592,10 @@
           "source": "LAist"
         },
         {
+          "headline": "Iran war enters its 6th week as military searches for downed jet crew member",
+          "source": "LAist"
+        },
+        {
           "headline": "Adelanto ICE facility's use of solitary confinement is among 10 highest in US, data shows",
           "source": "LAist"
         },
@@ -552,7 +604,7 @@
           "source": "LAist"
         },
         {
-          "headline": "Attorney General Pam Bondi out at DOJ",
+          "headline": "Iran war enters its 6th week as military searches for downed jet crew member",
           "source": "LAist"
         },
         {
@@ -564,10 +616,6 @@
           "source": "LAist"
         },
         {
-          "headline": "Trump says the Iran war could end in 2 weeks. That's long been his go-to timeline",
-          "source": "LAist"
-        },
-        {
           "headline": "Firefighters gain upper hand on Springs Fire in Riverside County. Evacuation orders issued",
           "source": "LAist"
         },
@@ -576,87 +624,27 @@
           "source": "LAist"
         },
         {
-          "headline": "California man convicted of murdering missing Army reservist girlfriend",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "ICE arrests Soleimani\u2019s niece in Los Angeles after Rubio revokes green card",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Mother, stepfather sentenced for torture-murder of 16-year-old daughter",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Murder charges filed against suspect in fatal Pomona pursuit crash",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Hazmat crews neutralize chemical leak at Wilmington shipping yard",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Springs Fire in Moreno Valley grows to 4,100+ acres",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Road rage suspect arrested after attack on reality TV stars in Hollywood",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "40% of LA voters undecided in 2026 mayor's race, poll finds",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Trump budget proposal seeks $152 million to reopen Alcatraz as a prison",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Gas hits almost $10 a gallon in this coastal California community",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Powerful magnitude 4.6 earthquake rattles cities across central California",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Sugar the surfing dog, beloved wave-riding champion and therapy hero, dies at 16",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "These are the healthiest and unhealthiest cities in the US in 2026: See where LA ranked",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "SuperLotto Plus ticket worth $10 million sold in California",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "California man convicted of stalking after sucking woman's toes",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "California women's prisons under federal investigation for housing biological men",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Mortgage rates increasing again amid Iran war",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Who will Trump fire next? Cabinet shakeup could expand, source tells Fox News",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Iran war latest: Trump gives Iran 48 hours before 'all Hell will reign down'",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Retirement 'magic number' jumps as Americans grow anxious about their financial futures",
-          "source": "Fox 11 LA"
+          "headline": "Crown Fire in Acton Burns 345 Acres; Containment at 74%",
+          "source": "MyNewsLA"
         },
         {
           "headline": "Two Killed in Multi-Vehicle Collision on 210 Freeway in Sunland",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Man Charged in Crash That Killed Two, Including Pregnant Woman",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "LA, Orange County Gas Prices Shoot Up Again",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Firefighters Knock Down Fire at Boarded-Up Church",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "WGA, Producers Nearing Agreement on Four-Year Contract",
           "source": "MyNewsLA"
         },
         {
@@ -664,15 +652,7 @@
           "source": "MyNewsLA"
         },
         {
-          "headline": "Crown Fire in Acton Burns 345 Acres; Containment at 25%",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Two Killed in Multi-Vehicle Collision on 210 Freeway in Sunland",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "LA, Orange County Gas Prices Shoot Up Again",
+          "headline": "Firefighters Douse Contents Fire in Van Nuys Apartment",
           "source": "MyNewsLA"
         },
         {
@@ -680,63 +660,15 @@
           "source": "MyNewsLA"
         },
         {
-          "headline": "Average Riverside County Gas Price Rises 1.1 Cents",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "LA, Orange County Gas Prices Shoot Up Again",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Springs Fire Burns 4,176 Acres in Moreno Valley; Containment  Up to 45%",
-          "source": "MyNewsLA"
-        },
-        {
           "headline": "Black Former Chipotle Corporate Manager\u2019s Suit Transferred to OC",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LAPD Cruiser Rear-Ended in South Los Angeles",
+          "headline": "PaleyFest LA 2026 Begins With `Pluribus\u2019",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LA County Coordinated Joint Information Center Update \u2013 4/1/2026 - LA County Recovers (.gov)",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "SCV News | West Ranch High Student to Compete for 'L.A. County Distinguished Young Woman' - SCVNews.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "This morning, LA County Sheriff's Department Academy Class #489 participated in their Colors Run at Torrance Beach, honoring the life and service of fallen Alhambra Police Department Police Officer Alec Sanders, who was killed in the line of duty on Novem - facebook.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Fires break out in Southern California, scorch over 1,000 acres - Victorville Daily Press",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Eaton fire sent a pollution wave across Los Angeles - USC Today",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "\u2018Not What We Expected\u2019: Fire Erupts in Los Angeles County - cairnspost.com.au",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "5700 W Centinela Ave # 6123, Los Angeles, CA 90045 - Realtor.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Please share this information with family and friends, especially those who may be more vulnerable to scams. Think you got a court notice? Think again. Scammers are sending fake \u201cTraffic case\u201d texts designed to scare you into clicking a link. \u26a0\ufe0f Don\u2019t click it - facebook.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Second Round of Fund Launched to Help Businesses Buy Property Los Angeles County officials Friday are moving ahead with the second funding cycle of a program aimed at helping small businesses and nonprofits acquire commercial properties and stabili - facebook.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "FBI cracks down on alleged $60M hospice fraud in LA County - The Center Square",
+          "headline": "County Line Surf Report, Surf Forecast and Surf Cams - Surfline",
           "source": "Google News LA"
         },
         {
@@ -744,7 +676,51 @@
           "source": "Google News LA"
         },
         {
+          "headline": "SCV News | West Ranch High Student to Compete for 'L.A. County Distinguished Young Woman' - SCVNews.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Eaton fire sent a pollution wave across Los Angeles - USC Today",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Los Angeles County Sheriff Seeks Public\u2019s Help Locating Missing Person Kent Thong Lo, Last Seen in Rosemead - Sierra Sun Times",
+          "source": "Google News LA"
+        },
+        {
           "headline": "Explosion that killed 3 L.A. County deputies involved serious safety violations, state finds - Police1",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Please share this information with family and friends, especially those who may be more vulnerable to scams. Think you got a court notice? Think again. Scammers are sending fake \u201cTraffic case\u201d texts designed to scare you into clicking a link. \u26a0\ufe0f Don\u2019t click it - facebook.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Fires break out in Southern California, scorch over 1,000 acres - Victorville Daily Press",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "FBI cracks down on alleged $60M hospice fraud in LA County - The Center Square",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "California election experts sound alarm as rejected ballots quadruple - MSN",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "This morning, LA County Sheriff's Department Academy Class #489 participated in their Colors Run at Torrance Beach, honoring the life and service of fallen Alhambra Police Department Police Officer Alec Sanders, who was killed in the line of duty on Novem - facebook.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "\u2018Not What We Expected\u2019: Fire Erupts in Los Angeles County - The Cairns Post",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Second Round of Fund Launched to Help Businesses Buy Property Los Angeles County officials Friday are moving ahead with the second funding cycle of a program aimed at helping small businesses and nonprofits acquire commercial properties and stabili - facebook.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LA County rents continue downward spiral: Apartment List - therealdeal.com",
           "source": "Google News LA"
         },
         {
@@ -752,7 +728,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "LA County unions pledge support for possible LAUSD strike as teachers push for new deal - ABC7 Los Angeles",
+          "headline": "Doctors, nurses arrested in Southern California health care fraud investigation - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "A major population drop is hitting Los Angeles County as high costs push people out - MSN",
           "source": "Google News LA"
         },
         {
@@ -760,23 +740,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Santa Monica and Central Los Angeles are among the sites of recent and alarming typhus outbreaks - thepridela.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "LA County rents continue downward spiral: Apartment List - The Real Deal",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "County directors of Human Concerns, Planning sworn in - Maui County (.gov)",
-          "source": "Google News LA"
-        },
-        {
           "headline": "LA County sees all-time high of flea-borne typhus cases, health officials say - MSN",
           "source": "Google News LA"
         },
         {
-          "headline": "Fast-moving Springs Fire near Moreno Valley grows to more than 4,000 acres - The Desert Sun",
+          "headline": "Broken Rails: What Went Wrong with LA Metro - Reason Foundation",
           "source": "Google News LA"
         }
       ],
