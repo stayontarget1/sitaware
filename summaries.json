@@ -1,10 +1,14 @@
 {
-  "generated": "2026-04-06T19:45:41.072202+00:00",
-  "briefing": "12 PM",
+  "generated": "2026-04-07T02:08:01.717179+00:00",
+  "briefing": "5 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Public comment period extended for city safety and bicycle plans\n- Monrovia Wine Walk returns Saturday, April 11 on Colorado Boulevard\n- Bye Bye Birdie play at Clifton Middle School, April 9-11\n- Vector Control District warns of biting black flies in foothills",
+      "summary": "- Public comment period extended for city safety and bicycle plans\n- Monrovia Wine Walk returns Saturday, April 11 on Colorado Boulevard\n- Bye Bye Birdie play at Clifton Middle School, April 9-11\n- Veterans Community Picnic at Library Park, April 18",
       "headlines": [
+        {
+          "headline": "Kiyoshi Kuromiya Neighborhood Treasure event",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Bye Bye Birdie play at Clifton Middle School, April 9, 10, 11",
           "source": "Monrovia Now"
@@ -82,11 +86,7 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Free Compost and Mulch, April 11",
-          "source": "Monrovia Now"
-        },
-        {
-          "headline": "Wichita named All-American City Finalist - Wichita.gov",
+          "headline": "Wichita named All-American City Finalist - wichita.gov",
           "source": "Google News"
         },
         {
@@ -118,11 +118,11 @@
           "source": "Google News"
         },
         {
-          "headline": "AeroVironment Shares Drop 4% After Earnings Miss - National Today",
+          "headline": "San Marino vs Monrovia Girls Basketball - Jan 22, 2027 - Sports Illustrated",
           "source": "Google News"
         },
         {
-          "headline": "Noah Bayha - Monrovia Wildcats Boys Basketball (Monrovia, CA) - Sports Illustrated",
+          "headline": "Jack Hyatt - Sports Illustrated",
           "source": "Google News"
         },
         {
@@ -130,15 +130,15 @@
           "source": "Google News"
         },
         {
+          "headline": "Suspect Charged In Kidnapping Of UCLA Student, Earlier Sexual Assault: DA",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "Cold Plunge Ahead As Rain, Snow Possible In SoCal Storm This Week",
+          "source": "Patch Monrovia"
+        },
+        {
           "headline": "Record $110M In Grants To LA County Schools Will Train Thousands Of New Mental Health Workers",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Pier Bomb Threat | Coyote In Child Attacks Killed | Southland Cooldown: SoCal In Brief",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Crime-Ridden In-N-Out's 2nd Life | 'Stinky' Restaurant Fined | BBQ Truck Up In Flames: CA Business News",
           "source": "Patch Monrovia"
         },
         {
@@ -146,19 +146,11 @@
           "source": "Patch Monrovia"
         },
         {
-          "headline": "One-Quarter Of New UC Students Transfer From Community Colleges: Report",
-          "source": "Patch Monrovia"
-        },
-        {
           "headline": "4 CA Counties Among Nation\u2019s Biggest Population Losers. Here's Why",
           "source": "Patch Monrovia"
         },
         {
-          "headline": "Olympian's Dreams Started Just Down The Block: 5 Uplifting Stories Only On Patch",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "21 CA Employers Make Fortune's Best Companies To Work For 2026 List",
+          "headline": "9 LA County Restaurants, Chefs Named 2026 James Beard Nominees",
           "source": "Patch Monrovia"
         },
         {
@@ -220,12 +212,12 @@
         "6": true,
         "7": true,
         "8": true,
-        "9": false,
+        "9": true,
         "10": true,
         "11": true,
-        "12": false,
+        "12": true,
         "13": false,
-        "14": true,
+        "14": false,
         "15": true,
         "16": true,
         "17": true,
@@ -238,9 +230,9 @@
         "24": false,
         "25": false,
         "26": false,
-        "27": true,
+        "27": false,
         "28": false,
-        "29": true,
+        "29": false,
         "30": false,
         "31": false,
         "32": false,
@@ -250,11 +242,11 @@
         "36": false,
         "37": false,
         "38": false,
-        "39": false
+        "39": true
       }
     },
     "sgv": {
-      "summary": "- Air quality alert issued for San Gabriel Valley Thursday\n- CHP chases possible attempted murder suspect into San Gabriel Valley\n- Developer withdraws Monterey Park data center project after community pushback\n- San Gabriel Valley sees early surge of tiny black flies",
+      "summary": "- CHP chases possible attempted murder suspect across Los Angeles into San Gabriel Valley\n- Air quality alert issued for San Gabriel Valley Thursday\n- Developer withdraws Monterey Park data center project after community pushback\n- Habitat for Humanity celebrates first Altadena rebuild after Eaton Fire",
       "headlines": [
         {
           "headline": "Things to do in the San Gabriel Valley area, April 3-11 - San Gabriel Valley Tribune",
@@ -269,7 +261,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel Valley softball Top 10: La Mirada, Ganesha, Cal own top spots - Pasadena Star News",
+          "headline": "San Gabriel Valley baseball Top 10: Ganesha, South Hills, La Mirada on top - Pasadena Star News",
           "source": "Google News SGV"
         },
         {
@@ -277,7 +269,19 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "CHP chases possible attempted murder suspect across Los Angeles area and into San Gabriel Valley - abc7.com",
+          "headline": "CHP chases possible attempted murder suspect across Los Angeles area and into San Gabriel Valley - ABC7 Los Angeles",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "San Gabriel Valley baseball Top 10: Ganesha, South Hills, La Mirada on top - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "San Gabriel Valley softball Top 10: La Mirada, Ganesha, Cal own top spots - Pasadena Star News",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "DBSA San Gabriel Valley Support Alliance - ColoradoBoulevard.net",
           "source": "Google News SGV"
         },
         {
@@ -289,15 +293,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "DBSA San Gabriel Valley Support Alliance - ColoradoBoulevard.net",
-          "source": "Google News SGV"
-        },
-        {
           "headline": "San Gabriel Valley All-Area boys soccer: Noah Guillen is the player of the year - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "LA Varsity: High School Sports in the San Gabriel Valley - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -317,15 +313,11 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel Valley baseball Top 10: Ganesha, South Hills, La Mirada on top - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
           "headline": "Developer withdraws Monterey Park data center project after community pushback - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel Valley sees early surge of tiny black flies that bite human eyes - MSN",
+          "headline": "Santa Anita Derby finish could hinge on one horse\u2019s start - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -333,8 +325,12 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Pho Ngoon Delivers a Taste of Hanoi in the San Gabriel Valley - Eater Los Angeles",
+          "headline": "San Gabriel Valley Habitat celebrates first Altadena rebuild after Eaton Fire - AOL.com",
           "source": "Google News SGV"
+        },
+        {
+          "headline": "Before the Gavel: Local Residents Demand Stronger Limits, Transparency on Immigration Enforcement",
+          "source": "Pasadena Now"
         },
         {
           "headline": "California Shouldn\u2019t Price the Public Out of Public Records. Democracy is at Stake",
@@ -373,8 +369,8 @@
           "source": "Pasadena Now"
         },
         {
-          "headline": "Rose Bowl Aquatics Center to Brief Pasadena Commission on LA 28 Olympics Preparations",
-          "source": "Pasadena Now"
+          "headline": "Preparing Pasadena and LA28: The Case for the California State Guard",
+          "source": "Colorado Blvd"
         },
         {
           "headline": "Five PUSD Teachers to Be Honored at Rotary Club\u2019s 36th Annual Excellence Awards",
@@ -421,11 +417,51 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "What Did Einstein Really Do in Pasadena?",
-          "source": "Colorado Blvd"
+          "headline": "Artemis II breaks Apollo 13's distance record with daring moon flyby that included a solar eclipse",
+          "source": "ABC7"
         },
         {
-          "headline": "Artemis II kicks off trip around the moon after surpassing Apollo 13's distance record",
+          "headline": "Human skull found during Easter egg hunt at park in Long Beach, police confirm",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Arrest made in 2014 murder of Oxnard father stabbed near elementary school",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Judge throws out $100 million-plus in mechanics liens exposed by ABC7",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Jackie and Shadow's 2 new eaglets doing well, eating in their 1st days since hatching in Big Bear",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Red Hook Pinball Museum lets you play with the exhibits",
+          "source": "ABC7"
+        },
+        {
+          "headline": "ER temporarily closed after fire prompts evacuation of patients at Montebello hospital",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Katherine Carter Design: boutique interior design made easy",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Savannah Guthrie back at 'Today' anchor desk for the first time since her mother's disappearance",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Carson High School placed on lockdown",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Woman gives birth as flight from Jamaica lands at JFK Airport",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Trailer: Nikki Glaser to debut 'Good Girl' stand-up special on Hulu",
           "source": "ABC7"
         },
         {
@@ -437,23 +473,11 @@
           "source": "ABC7"
         },
         {
-          "headline": "Carson High School placed on lockdown",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Fire inside emergency room prompts evacuations at Montebello hospital",
-          "source": "ABC7"
-        },
-        {
           "headline": "Bomb squad called after traffic stop in Sun Valley; police shoot, kill dog",
           "source": "ABC7"
         },
         {
           "headline": "Pres. Trump endorses former Fox News host Steve Hilton for California governor",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Woman gives birth as flight from Jamaica lands at JFK Airport",
           "source": "ABC7"
         },
         {
@@ -469,39 +493,7 @@
           "source": "ABC7"
         },
         {
-          "headline": "Possible human remains found during Easter egg hunt at park in Long Beach",
-          "source": "ABC7"
-        },
-        {
           "headline": "Parents charged after toddler injured by wolf at Hersheypark's ZooAmerica",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Cooling trend begins Monday with rain chances returning at end of week",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Amazon, UPS, FedEx, USPS add temporary fuel surcharges to offset extra costs",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Pressure mounts on Ye to be pulled from headline role at summer festival in London",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Savannah Guthrie back at 'Today' anchor desk for the first time since her mother's disappearance",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Tax identity theft on the rise as deadline nears, experts warn. Here's how it works",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Driver arrested after leading CHP on hourslong chase across multiple SoCal counties",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Large crowd of fans welcome Bruins back to UCLA campus after NCAA win",
           "source": "ABC7"
         }
       ],
@@ -509,11 +501,11 @@
         "0": true,
         "1": true,
         "2": true,
-        "3": true,
+        "3": false,
         "4": true,
         "5": true,
         "6": true,
-        "7": true,
+        "7": false,
         "8": true,
         "9": true,
         "10": true,
@@ -523,7 +515,7 @@
         "14": true,
         "15": true,
         "16": true,
-        "17": true,
+        "17": false,
         "18": true,
         "19": true,
         "20": false,
@@ -537,11 +529,11 @@
         "28": false,
         "29": false,
         "30": false,
-        "31": true,
+        "31": false,
         "32": true,
         "33": true,
-        "34": false,
-        "35": false,
+        "34": true,
+        "35": true,
         "36": false,
         "37": false,
         "38": false,
@@ -549,30 +541,30 @@
       }
     },
     "county": {
-      "summary": "- Fire survivors with cesspools, septic tanks face unique rebuilding challenges\n- Steve Ballmer commits $110M to LA youth mental health crisis\n- UCLA women's basketball team wins first NCAA championship title\n- Adelanto ICE facility's solitary confinement use among nation's 10 highest",
+      "summary": "- Wildfire threat maps reveal where West might burn this summer\n- LA County universities receive $110 million for mental health workforce\n- Fire survivors face unique rebuilding challenges with septic systems\n- SoCal shark sightings increase; experts advise water safety precautions",
       "headlines": [
+        {
+          "headline": "These maps show exactly where the West might burn this summer",
+          "source": "LAist"
+        },
+        {
+          "headline": "Sibling \u2018bonking\u2019 and upcoming naming contest: Chick-ing in on Big Bear\u2019s famous bald eagle nest",
+          "source": "LAist"
+        },
+        {
+          "headline": "AirTalk Food: Ubefest and Long Beach Lumpia",
+          "source": "LAist"
+        },
+        {
+          "headline": "LA County universities get $110 million to shore up mental health workforce",
+          "source": "LAist"
+        },
         {
           "headline": "A foul problem: Fire survivors with cesspools and septic tanks face unique rebuilding challenges",
           "source": "LAist"
         },
         {
-          "headline": "Bald eagles Jackie and Shadow are parents again. Their two chicks have hatched",
-          "source": "LAist"
-        },
-        {
-          "headline": "LA's Chinatown has no laundromats. Enter this laundry truck",
-          "source": "LAist"
-        },
-        {
-          "headline": "California\u2019s next governor to face tough choices for education as state budget tightens",
-          "source": "LAist"
-        },
-        {
-          "headline": "UCLA storms past South Carolina to claim its 1st NCAA women's basketball title",
-          "source": "LAist"
-        },
-        {
-          "headline": "WATCH LIVE: Artemis II crew has now gone farther from Earth than any humans before",
+          "headline": "State Department is uncertain about the economic impact of visa bans, entry bonds on the World Cup",
           "source": "LAist"
         },
         {
@@ -612,7 +604,7 @@
           "source": "LAist"
         },
         {
-          "headline": "Diplomatic efforts inch along as Trump again threatens to bomg Iran's infrastructure",
+          "headline": "Iran rejects a U.S. ceasefire plan as Trump again threatens to bomb its infrastructure",
           "source": "LAist"
         },
         {
@@ -624,12 +616,20 @@
           "source": "LAist"
         },
         {
+          "headline": "These maps show exactly where the West might burn this summer",
+          "source": "LAist"
+        },
+        {
           "headline": "A foul problem: Fire survivors with cesspools and septic tanks face unique rebuilding challenges",
           "source": "LAist"
         },
         {
-          "headline": "All evacuations lifted for Springs Fire in Riverside County. Fire all but contained",
-          "source": "LAist"
+          "headline": "Bryan Bostic: Inglewood police investigation questioned after man dies following arrest",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Lockdown lifted at Carson High School",
+          "source": "Fox 11 LA"
         },
         {
           "headline": "Fire at Adventist White Memorial Hospital ER in Montebello prompts street closures, patient transfers",
@@ -653,14 +653,6 @@
         },
         {
           "headline": "Tori Spelling, children taken to hospital after Southern California car crash",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Big Bear's Jackie and Shadow welcome two eaglets",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Residents return home a day after Springs Fire forced evacuations",
           "source": "Fox 11 LA"
         },
         {
@@ -700,63 +692,75 @@
           "source": "Fox 11 LA"
         },
         {
+          "headline": "Family says 3-year-old immigrant girl was allegedly sexually abused while in federal custody",
+          "source": "Fox 11 LA"
+        },
+        {
           "headline": "Live updates: Iran and US receive proposal for 45-day ceasefire, reopening of Strait of Hormuz",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Iran war latest: FOX News reports downed airman rescued after F-15E shot down in Iran",
+          "headline": "US weighs permanent ban of Chinese air bag inflators after 10 deaths",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Vehicle crashes into Louisiana Lao New Year parade crowd, injuring about 15",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "LBPD Find Several Shell Casings, Yet No Crime Scene",
+          "headline": "Man Charged in UCLA Kidnapping, Culver City Sexual Assault",
           "source": "MyNewsLA"
         },
         {
-          "headline": "1980\u2019s Cold Case Re-Opens After Victim\u2019s ID Verified",
+          "headline": "Report: Lil Nas X Granted Mental Health Diversion in Assault Case",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Artemis II Crew Sets Distance Record",
+          "headline": "Silver Alert Activated For At-Risk 78-Year-Old Man",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Virgin Voyages Launches Cruises from Port of LA",
+          "headline": "Woman Pleads Not Guilty in Fatal Crash in Aliso Viejo",
           "source": "MyNewsLA"
         },
         {
-          "headline": "President Trump Endorses Steve Hilton for CA Governor",
+          "headline": "Artemis II Crew, Piloted by SoCal Native, Sets Record During Moon Mission",
           "source": "MyNewsLA"
         },
         {
-          "headline": "President Trump Endorses Steve Hilton for California Governor",
+          "headline": "Man Struck, Killed by SUV in Long Beach Identified",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Firefighters Douse Fire Triggered By Food on Stove At South LA Duplex",
+          "headline": "Woman Found Stabbed to Death in LA Street Identified",
           "source": "MyNewsLA"
         },
         {
-          "headline": "One Hospitalized After Suffering Stab Wound in La Quinta",
+          "headline": "Family Finds Human Skull During Easter Egg Hunt at Long Beach Park",
           "source": "MyNewsLA"
         },
         {
-          "headline": "CSU Dominguez Hills Receives $29M Grant to Train Mental Health Workers",
+          "headline": "Blaze Significantly Damages Two Structures in Valle Vista",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Suspicious Device Resembling Artillery Shell in Burbank Rendered Safe",
+          "headline": "Arraignment Delayed for Man Charged in Pomona Fatal Crash",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Jury Begins Deliberations in Trial of Gang Member Accused of Murdering Neighbor",
+          "headline": "OC Man Pleads Guilty in $270M Medi-Cal Fraud Scheme",
           "source": "MyNewsLA"
         },
         {
-          "headline": "\u2018Building a better future\u2019: UCLA receives $33 million to address LA\u2019s youth mental health crisis - Newsroom | UCLA",
+          "headline": "New Daily Pacific Surfliner Train Connects Los Angeles and San Luis Obispo - Amtrak Media",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "\u2018Building a better future\u2019: UCLA receives $33 million to address LA\u2019s youth mental health crisis - newsroom.ucla.edu",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "SCV News | April 10: Los Angeles County Property Tax Deadline - SCVNews.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "New daily Pacific Surfliner train connecting Los Angeles and San Luis Obispo begins May 4 - Santa Barbara News-Press",
           "source": "Google News LA"
         },
         {
@@ -764,15 +768,23 @@
           "source": "Google News LA"
         },
         {
-          "headline": "UPDATED: Pursuit that starts in Ventura heads into LA County, beyond - vcstar.com",
+          "headline": "News | US data center backlash takes shape in Los Angeles - CoStar",
           "source": "Google News LA"
         },
         {
-          "headline": "LACo to Host Series of Events for National Public Health Week - MyNewsLA.com",
+          "headline": "Ballot proposal may change how pay is set for LA County sheriff's deputies, firefighters - MSN",
           "source": "Google News LA"
         },
         {
-          "headline": "- Los Angeles Business Journal - Los Angeles Business Journal",
+          "headline": "Record $110M In Grants To LA County Schools Will Train Thousands Of New Mental Health Workers - Patch",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Record Flea Borne Typhus Cases Alarm Los Angeles - Evrim A\u011fac\u0131",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LACo to Host Series of Events for National Public Health Week - mynewsla.com",
           "source": "Google News LA"
         },
         {
@@ -780,59 +792,39 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Keith Shaw Sr Died After Stay At Los Angeles County Jail - Carrazco Law",
+          "headline": "UPDATED: Pursuit that starts in Ventura heads into LA County, beyond - Ventura County Star",
           "source": "Google News LA"
         },
         {
-          "headline": "UCLA reports expose explosive growth of student homelessness in Los Angeles County - World Socialist Web Site",
+          "headline": "OpEd: Celebrating L.A.\u2019s Aviation History - Los Angeles Business Journal",
           "source": "Google News LA"
         },
         {
-          "headline": "Suspect Fatally Shot During East Los Angeles Standoff Identified - Patch",
+          "headline": "Human skull found at Los Angeles park during kids\u2019 Easter egg hunt, investigators say - WWLP",
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County Has Largest Population Loss in Country, US Census Reports - californiaglobe.com",
+          "headline": "Carson High School placed on lockdown - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "Eaton fire sent a pollution wave across Los Angeles - USC Today",
+          "headline": "A major population drop is hitting Los Angeles County as high costs push people out - MSN",
           "source": "Google News LA"
         },
         {
-          "headline": "Knock, knock! Who\u2019s there? Police. Police who? Police hurry up and decorate your eggs for Easter! The Los Angeles County Sheriff\u2019s Department wishes everyone a bright and cheerful Easter. - Facebook",
+          "headline": "4209 Via Atbolada # 233, Los Angeles, CA 90042 - Realtor.com",
           "source": "Google News LA"
         },
         {
-          "headline": "New Daily Pacific Surfliner Train Connects Los Angeles and San Luis Obispo - Drift Travel Magazine",
+          "headline": "Los Angeles County Sheriff's Department. Ottawa Guitar Trio \u00b7 Animal Crossing: New Horizons - Main Theme (Welcome Horizons). Knock, knock! Who\u2019s there? Police. Police who? Police hurry up and decorate your eggs for Easter! The Los Angeles County Sh - facebook.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Carson High School placed on lockdown - abc7.com",
+          "headline": "Los Angeles County Sheriff Issues a Scam Warning \u2013 Do Not Click on Fake \u201cTraffic Case\u201d Texts - Sierra Sun Times",
           "source": "Google News LA"
         },
         {
-          "headline": "Man Arrested In Barstow After Leading CHP On Hourslong Pursuit From Ventura - Patch",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "LA County Experiencing Record Number of Flea-Borne Typhus Cases - MyNewsLA.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Attempted murder suspect arrested after leading CHP on hourslong chase across several Southern California counties - abc7.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "SCV News | West Ranch High Student to Compete for 'L.A. County Distinguished Young Woman' - SCVNews.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "LA County sees nation's biggest population decline - MSN",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "State Fines LASD $350K After Deputies Die in Grenade Blast - smdp.com",
+          "headline": "Attempted murder suspect arrested after leading CHP on hourslong chase across several Southern California counties - ABC7 Los Angeles",
           "source": "Google News LA"
         }
       ],
