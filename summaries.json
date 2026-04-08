@@ -1,10 +1,18 @@
 {
-  "generated": "2026-04-08T16:18:17.701430+00:00",
-  "briefing": "8 AM",
+  "generated": "2026-04-08T19:53:58.237078+00:00",
+  "briefing": "12 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Monrovia finalist for All-America City Award recognition again this year\n- Public comment period extended for city safety and bicycle plans\n- City fundraiser for bear cubs to be announced next week\n- Monrovia Wine Walk returns Saturday, April 11 on Colorado Boulevard",
+      "summary": "- Monrovia finalist for prestigious All-America City Award\n- Student art contest offers scholarships; deadline approaching soon\n- Public comment extended for city bike lane plans\n- Wine Walk returns April 11 on Colorado Boulevard",
       "headlines": [
+        {
+          "headline": "Art contest for students in grades 6\u201312; scholarships to winners",
+          "source": "Monrovia Now"
+        },
+        {
+          "headline": "New art to be unveiled for Artist Reception at Community Center, April 24",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Free class on making art with found items, April 29",
           "source": "Monrovia Now"
@@ -78,15 +86,7 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Vector Control District warns of biting black flies in foothill cities",
-          "source": "Monrovia Now"
-        },
-        {
-          "headline": "Dinner at new CAVA restaurant",
-          "source": "Monrovia Now"
-        },
-        {
-          "headline": "Wichita named All-American City Finalist - Wichita.gov",
+          "headline": "Wichita named All-American City Finalist - wichita.gov",
           "source": "Google News"
         },
         {
@@ -106,7 +106,7 @@
           "source": "Google News"
         },
         {
-          "headline": "Los Angeles: California Diesel Prices Hit Record High #Gallery - Social News XYZ",
+          "headline": "Los Angeles: California Diesel Prices Hit Record High #Gallery - socialnews.xyz",
           "source": "Google News"
         },
         {
@@ -138,7 +138,7 @@
           "source": "Google News"
         },
         {
-          "headline": "\u2018I Thought I Would Be Caged My Whole Life\u2019 - The New York Times",
+          "headline": "\u2018I Thought I Would Be Caged My Whole Life\u2019 - nytimes.com",
           "source": "Google News"
         },
         {
@@ -160,6 +160,10 @@
         {
           "headline": "U.S. posts rosy job report, but Iran war could thwart future gains - the-star.co.ke",
           "source": "Google News"
+        },
+        {
+          "headline": "Officers Shoot At Suspect In Deadly LA County Police Chase: Reports",
+          "source": "Patch Monrovia"
         },
         {
           "headline": "Clippers Owner's $110M Gift To SoCal Universities Aims To Boost Mental Health Services",
@@ -239,12 +243,12 @@
         }
       ],
       "relevance": {
-        "0": true,
+        "0": false,
         "1": true,
         "2": true,
-        "3": false,
+        "3": true,
         "4": true,
-        "5": true,
+        "5": false,
         "6": true,
         "7": true,
         "8": true,
@@ -256,9 +260,9 @@
         "14": true,
         "15": true,
         "16": true,
-        "17": true,
-        "18": false,
-        "19": false,
+        "17": false,
+        "18": true,
+        "19": true,
         "20": false,
         "21": true,
         "22": false,
@@ -282,14 +286,14 @@
       }
     },
     "sgv": {
-      "summary": "- Air quality alert issued for San Gabriel Valley Thursday\n- Developer withdraws Monterey Park data center project after community pushback\n- Habitat for Humanity celebrates first Altadena rebuild after Eaton Fire\n- Weekend rain ahead for Greater Pasadena and San Gabriel Valley",
+      "summary": "- Air quality alert issued for San Gabriel Valley Thursday\n- Developer withdraws Monterey Park data center project after community pushback\n- San Gabriel Valley Habitat celebrates first Altadena rebuild after Eaton Fire\n- Sunny start, weekend rain ahead in Greater Pasadena area",
       "headlines": [
         {
           "headline": "Things to do in the San Gabriel Valley area, April 3-11 - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "Air quality alert issued for San Gabriel Valley Thursday - Long Beach Press-Telegram",
+          "headline": "Air quality alert issued for San Gabriel Valley Thursday - Press Telegram",
           "source": "Google News SGV"
         },
         {
@@ -309,6 +313,10 @@
           "source": "Google News SGV"
         },
         {
+          "headline": "San Gabriel Valley boys athlete of the week: Bryant Loo, Ganesha - MSN",
+          "source": "Google News SGV"
+        },
+        {
           "headline": "San Gabriel Valley baseball Top 10: Ganesha, South Hills, La Mirada on top - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
@@ -322,10 +330,6 @@
         },
         {
           "headline": "Photos: San Gabriel Valley, Whittier welcome Easter - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "San Gabriel Valley boys and girls track and field leaders - Pasadena Star News",
           "source": "Google News SGV"
         },
         {
@@ -353,7 +357,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel Valley boys athlete of the week: Bryant Loo, Ganesha - MSN",
+          "headline": "James Hardie Partners with Habitat for Humanity\u00ae in San Gabriel Valley for Rebuild Efforts After California Wildfires - Yahoo Finance",
           "source": "Google News SGV"
         },
         {
@@ -361,7 +365,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "James Hardie Partners with Habitat for Humanity\u00ae in San Gabriel Valley for Rebuild Efforts After California Wildfires - Yahoo Finance",
+          "headline": "San Gabriel Valley boys and girls track and field leaders - MSN",
           "source": "Google News SGV"
         },
         {
@@ -405,59 +409,31 @@
           "source": "Pasadena Now"
         },
         {
-          "headline": "Monrovia Council Moves Forward on Key Infrastructure, Appoints New Traffic Engineer",
-          "source": "Colorado Blvd"
+          "headline": "Davey Lopes, Dodgers legend and World Series winner, dies at 80",
+          "source": "ABC7"
         },
         {
-          "headline": "Mozart\u2019s \u201cBest Work\u201d Returns to Pasadena in Free Mt. Lowe Chamber Players Concert",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Arroyo Run and Walk Clubs Head to the Rose Bowl on April 11",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Jeremy Renner\u2019s Memoir Takes Center Stage at San Gabriel Library Book Club on April 15",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "More Than a Weed: In Praise of Dandelions",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "South Pasadena Sustainability Fair Rescheduled to May 2 Due to Rain Forecast",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Sen. P\u00e9rez Raises Alarms Over Failed Rollout of State Children\u2019s Book Program",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "L.A. County Backs Expanded Mortgage Relief for Eaton Fire Survivors",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Students Shine at Pasadena Unified\u2019s Women\u2019s History Assembly",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Spanish-Language Meeting to Explain SCE Wildfire Compensation Program Set for April 8",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Why Wednesdays Are the Best Days to Visit The Huntington\u2019s Chinese Garden",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Monterey Park Welcomes Spring With 26th Annual Cherry Blossom Festival",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Chase Infiniti, Ann Dowd and the cast of 'The Testaments' talk all things Gilead",
+          "headline": "Off-duty OC firefighter saves teenage girls, including daughter, from fiery off-road crash",
           "source": "ABC7"
         },
         {
           "headline": "Rex Heuermann pleads guilty, admits to killing 8 women in Gilgo Beach serial case",
+          "source": "ABC7"
+        },
+        {
+          "headline": "CA Supreme Court orders Riverside County Sheriff Bianco to pause probe, preserve seized ballots",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Police shoot, kill suspect after brief chase ends in crash on 5 Freeway offramp in East LA",
+          "source": "ABC7"
+        },
+        {
+          "headline": "'The Testaments' heads back to Gilead, picking up years after 'The Handmaid's Tale'",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Chase Infiniti, Ann Dowd and the cast of 'The Testaments' talk all things Gilead",
           "source": "ABC7"
         },
         {
@@ -489,10 +465,6 @@
           "source": "ABC7"
         },
         {
-          "headline": "Iran ceasefire deal could mean lower gas prices for motorists",
-          "source": "ABC7"
-        },
-        {
           "headline": "Crews battle attic fire at iconic Magic Castle in Hollywood",
           "source": "ABC7"
         },
@@ -515,22 +487,6 @@
         {
           "headline": "'Malcolm in the Middle: Life's Still Unfair' red carpet premiere held in New York",
           "source": "ABC7"
-        },
-        {
-          "headline": "Dashcam video shows what led up to ICE shooting after traffic stop in Stanislaus Co.",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Inclusive health fair catering to LA's marginalized youth coming to LA Southwest College",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Employee accused of arson after paper goods warehouse destroyed in massive fire in Ontario",
-          "source": "ABC7"
-        },
-        {
-          "headline": "'Charlie's Angels' star Kate Jackson is ready to return to acting after a 20-year hiatus!",
-          "source": "ABC7"
         }
       ],
       "relevance": {
@@ -549,7 +505,7 @@
         "12": true,
         "13": true,
         "14": true,
-        "15": false,
+        "15": true,
         "16": true,
         "17": true,
         "18": true,
@@ -560,24 +516,24 @@
         "23": false,
         "24": false,
         "25": false,
-        "26": true,
+        "26": false,
         "27": false,
         "28": false,
-        "29": true,
-        "30": true,
-        "31": true,
-        "32": true,
-        "33": true,
+        "29": false,
+        "30": false,
+        "31": false,
+        "32": false,
+        "33": false,
         "34": false,
-        "35": true,
+        "35": false,
         "36": false,
         "37": false,
-        "38": true,
-        "39": true
+        "38": false,
+        "39": false
       }
     },
     "county": {
-      "summary": "- Lead levels still high in and around Exide cleanup zone, new study shows\n- LA County universities receive $110 million to expand mental health workforce\n- Major spring storm bringing heavy rain and mountain snow to Southern California\n- LA hit record typhus cases last year as flea-borne disease spreads",
+      "summary": "- Lead levels remain dangerously high in Exide cleanup zone and surrounding areas\n- LA County universities receive $110 million to strengthen mental health workforce capacity\n- 'Ketamine Queen' Jasveen Sangha sentenced to 15 years in Matthew Perry overdose case\n- Major spring storm bringing heavy rain and mountain snow to Southern California",
       "headlines": [
         {
           "headline": "Lead levels are still too high inside and outside the Exide cleanup zone, study finds",
@@ -589,6 +545,10 @@
         },
         {
           "headline": "Here's how to celebrate with the national champion UCLA Bruins",
+          "source": "LAist"
+        },
+        {
+          "headline": "\u2018Ketamine Queen\u2019 sentenced to 15 years in prison for role in Matthew Perry\u2019s drug overdose",
           "source": "LAist"
         },
         {
@@ -608,10 +568,6 @@
           "source": "LAist"
         },
         {
-          "headline": "\u2018BTS: The Return\u2019 director on how LA helped shape \u2018Arirang\u2019 and inspire the doc",
-          "source": "LAist"
-        },
-        {
           "headline": "Best things to do this week in LA and SoCal: April 6-9",
           "source": "LAist"
         },
@@ -628,15 +584,15 @@
           "source": "LAist"
         },
         {
+          "headline": "Oil prices plunge and stocks soar after US and Iran agree on a ceasefire",
+          "source": "LAist"
+        },
+        {
           "headline": "The US and Iran agree to a 2-week ceasefire but some attacks continue",
           "source": "LAist"
         },
         {
           "headline": "U.S. and Iran agree to 2-week ceasefire, suspending Trump's threat to annihilate Iran",
-          "source": "LAist"
-        },
-        {
-          "headline": "Trump reiterates threats to bomb Iran's power plants and bridges",
           "source": "LAist"
         },
         {
@@ -660,35 +616,35 @@
           "source": "LAist"
         },
         {
+          "headline": "Pasadena mechanic turns scrap metal into art",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "'Ketamine Queen' Jasveen Sangha sentenced to 15 years in Matthew Perry overdose death",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "LAPD pursuit crash: 1 dead, 1 hospitalized after shots fired by officers in East Los Angeles",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Fire damages world-famous Magic Castle in Hollywood",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Historic homes relocated across LA to help families rebuild after the Eaton Fire",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "2 Inland Empire teens hospitalized after ATV burst into flames in Zion National Park",
+          "source": "Fox 11 LA"
+        },
+        {
           "headline": "LAPD wrongful death trial begins over 14-year-old's fatal Burlington dressing room shooting",
           "source": "Fox 11 LA"
         },
         {
           "headline": "Major spring storm to bring heavy rain, mountain snow to Southern California: Timeline",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "'Ketamine Queen' Jasveen Sangha faces sentencing in Matthew Perry death",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Arson suspect arrested after massive fire destroys Kimberly-Clark facility in Ontario",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Pacific Palisades residents hit with vandalism on fire-damaged homes: 'Salt in the wounds'",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Alleged DUI driver leads 3-county car chase across LA, Orange, Riverside counties",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Iranian community in LA reacts to Trump's 'whole civilization will die' comments, subsequent ceasefire deal",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "2 firefighters hurt battling stubborn Beverly Crest house fire",
           "source": "Fox 11 LA"
         },
         {
@@ -724,71 +680,71 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Iran war latest: Vice President Vance calls ceasefire a 'fragile truce'; Graham hopes to discuss further",
+          "headline": "Summer airfare is much higher than last year; here\u2019s how much prices are increasing",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Trump pauses strikes as Iran agrees to 2-week ceasefire",
+          "headline": "Iran war latest: Strait of Hormuz closed in response to Israeli attack, local reports say",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Homebuyers are back despite rising rates \u2014 What to know",
+          "headline": "DHS says US may stop processing international travelers at major airports in 'sanctuary cities'",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Americans in Middle East: How to get assistance from the State Department",
+          "headline": "List: Bible stories proposed in Texas as required reading in public schools",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Michael Cooper to Be Introduced as Cal State LA Men\u2019s Basketball Coach",
+          "headline": "Boy, 16, Who Takes Medication Goes Missing in La Verne",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Fire Damages A Detached Garage in Santa Ana",
+          "headline": "Coachella City Council to Discuss `Keys to the City\u2019 Ceremony for Lady Arabs",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Gas Prices Could Start Falling By Thursday",
+          "headline": "Cinema Audio Society Sets Dates for 2027, 2028 Awards",
           "source": "MyNewsLA"
         },
         {
-          "headline": "NoHo \u2018Ketamine Queen\u2019 Faces Sentencing in Case of Matthew Perry\u2019s Death",
+          "headline": "Tori Spelling Describes Temecula Crash, Says `Could\u2019ve Been So Much Worse\u2019",
           "source": "MyNewsLA"
         },
         {
-          "headline": "UCLA Hosts Celebration For NCAA Women\u2019s Basketball Championship Wednesday",
+          "headline": "Suspected Israeli Crime Figure Pleads Guilty in LA Illegal Poker Game Case",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Rain, Cooler Weather Likely Heading to Southland",
+          "headline": "1 Dead Following Police Pursuit, Shooting in East Los Angeles",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Beverly Crest Mansion Fire Burns for Nearly Four Hours",
+          "headline": "Davey Lopes, Dodgers Infield Standout, Dies at 80",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LA Opera to Preform Two Free `Noah\u2019s Flood\u2019 Concerts at DTLA Cathedral",
+          "headline": "`Ketamine Queen\u2019 Sentenced to 15 Years in Death of Actor Matthew Perry",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Suspected Israeli Gangster to Plead Guilty to Hosting Illegal Poker Game",
+          "headline": "1 Dead Following Police Pursuit, Shooting in East Los Angeles",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Fire Damages  Magic Castle in Hollywood",
+          "headline": "Police Arrest Two for Alleged Diesel Fuel Theft Operation in Coachella Valley",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Palm Springs City Council to Discuss Altering Mayoral Selection Process",
+          "headline": "UCLA Study Finds Unionization Reduces Care Worker Turnover",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Report: Los Angeles County Residents Leaving for Cheaper, Safer Places - The MortgagePoint",
+          "headline": "Flea-borne typhus surges across LA County with 90% of cases requiring hospitalization - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "BOARD MOVES TO COMBAT HOME HEALTH AND HOSPICE FRAUD IN LOS ANGELES COUNTY - COUNTY OF LOS ANGELES (.gov)",
+          "headline": "Report: Los Angeles County Residents Leaving for Cheaper, Safer Places - The MortgagePoint",
           "source": "Google News LA"
         },
         {
@@ -796,15 +752,23 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Flea-borne typhus surges across LA County with 90% of cases requiring hospitalization - ABC7 Los Angeles",
+          "headline": "BOARD MOVES TO COMBAT HOME HEALTH AND HOSPICE FRAUD IN LOS ANGELES COUNTY - COUNTY OF LOS ANGELES (.gov)",
           "source": "Google News LA"
         },
         {
-          "headline": "L.A. County proclaims Armenian History Month for 10th consecutive year - Public Radio of Armenia",
+          "headline": "Abbey Road lands LA County loan for affordable housing - The Real Deal",
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County Sheriff's Department. Queen \u00b7 You\u2019re My Best Friend (Backing Track Mix). The Los Angeles County Board of Supervisors recognizes our Sheriff\u2019s Department therapy dogs with a formal proclamation for their incredible service. \ud83d\udc3e These dog - facebook.com",
+          "headline": "L.A. County proclaims Armenian History Month for 10th consecutive year - en.armradio.am",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LA County authorities issue warning after hidden camera found in front yard of home - MSN",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Supervisors Press For Stepped-Up Enforcement Of Hospice, Home Care Fraud - Patch",
           "source": "Google News LA"
         },
         {
@@ -812,11 +776,23 @@
           "source": "Google News LA"
         },
         {
-          "headline": "5341 DE Roja Ave, Los Angeles, CA 91364 - Realtor.com",
+          "headline": "SCV News | California Cracks Down on Hospice Fraud in Los Angeles, Debunks Viral Claims - scvnews.com",
           "source": "Google News LA"
         },
         {
-          "headline": "LA County directs health director to aid hospice fraud probe - thecentersquare.com",
+          "headline": "Los Angeles County Sheriff's Department. Queen \u00b7 You\u2019re My Best Friend (Backing Track Mix). The Los Angeles County Board of Supervisors recognizes our Sheriff\u2019s Department therapy dogs with a formal proclamation for their incredible service. \ud83d\udc3e These dog - facebook.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Candidate Provides No Explanation for Gaffe - Metropolitan News-Enterprise",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "5341 DE Roja Ave, Los Angeles, CA 91364 - realtor.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LA County reports spike in flea-borne tyhpus cases - NewsNation",
           "source": "Google News LA"
         },
         {
@@ -824,7 +800,15 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Op-ed | Will Los Angeles Mayor Karen Bass Ever Embrace Long-Term Solutions for Homelessness? - Davis Vanguard",
+          "headline": "LA County directs health director to aid hospice fraud probe - The Center Square",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Metro Board Hosts Listening Sessions On Board Of Directors Composition - Patch",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Officers Shoot At Suspect In Deadly LA County Police Chase: Reports - Patch",
           "source": "Google News LA"
         },
         {
@@ -833,34 +817,6 @@
         },
         {
           "headline": "New Daily Pacific Surfliner Train Connects Los Angeles and San Luis Obispo - Amtrak Media",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Typhus Outbreak in Santa Monica Raises Questions About LA Sanitation Failures - westsidecurrent.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "LA County authorities issue warning after hidden camera found in front yard of home - MSN",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles to open subway extension May 8 - Smart Cities Dive",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "LACo Health Services Seeks Help Identifying Patient - MyNewsLA.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Nonprofit Give-Mentor-Love's secret shop is a haven for survivors of sex trafficking in LA County - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "\u2018Building a better future\u2019: UCLA receives $33 million to address LA\u2019s youth mental health crisis - Newsroom | UCLA",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Man Suspected of DUI Arrested in Garden Grove After Long Pursuit - MyNewsLA.com",
           "source": "Google News LA"
         }
       ],
