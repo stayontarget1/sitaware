@@ -1,10 +1,14 @@
 {
-  "generated": "2026-04-09T16:24:19.960052+00:00",
-  "briefing": "8 AM",
+  "generated": "2026-04-09T19:59:13.060440+00:00",
+  "briefing": "12 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Monrovia finalist for All-America City Award recognizes community achievements\n- Monrovia Reads fundraiser May 7 supports local literacy initiative\n- Artist Reception April 24 unveils new Community Center art\n- Wine Walk returns April 11 on Colorado Boulevard",
+      "summary": "- Monrovia again finalist for prestigious All-America City Award\n- Route 66 centennial celebration planned for local landmark\n- Wine Walk returns April 11 on Colorado Boulevard\n- City extends public comment period for safety, bike plans",
       "headlines": [
+        {
+          "headline": "What's planned for 100-year Route 66 celebration in Monrovia",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Monrovia Reads fundraiser May 7",
           "source": "Monrovia Now"
@@ -82,10 +86,6 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Veterans Community Picnic at Library Park, April 18",
-          "source": "Monrovia Now"
-        },
-        {
           "headline": "Monrovia Wine Walk Returns on Saturday, April 11 - ColoradoBoulevard.net",
           "source": "Google News"
         },
@@ -134,11 +134,11 @@
           "source": "Google News"
         },
         {
-          "headline": "Harlingen lone Texas city named finalist for All-America City award - MyRGV.com",
+          "headline": "Gas prices aren\u2019t the only factor fueling used EV sales - Yahoo Finance",
           "source": "Google News"
         },
         {
-          "headline": "Gas prices aren\u2019t the only factor fueling used EV sales - Yahoo Finance",
+          "headline": "Harlingen lone Texas city named finalist for All-America City award - MyRGV.com",
           "source": "Google News"
         },
         {
@@ -162,8 +162,12 @@
           "source": "Google News"
         },
         {
-          "headline": "Keira Miller - Sports Illustrated",
+          "headline": "U.S. posts rosy job report, but Iran war could thwart future gains - the-star.co.ke",
           "source": "Google News"
+        },
+        {
+          "headline": "Major Freeway To Partially Shut Down Over 2 Consecutive Weekends In April",
+          "source": "Patch Monrovia"
         },
         {
           "headline": "Famed Chef Killed In Crash | Biden Visits SoCal Ice Cream Shop | Armed, Dangerous Suspect At Large: Patch PM",
@@ -183,10 +187,6 @@
         },
         {
           "headline": "Dodgers Legend Davey Lopes Dies at 80",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Big Bear Bald Eaglets Eat, Bonk And Vie For Attention As 30K Watch Nature In Action",
           "source": "Patch Monrovia"
         },
         {
@@ -249,7 +249,7 @@
         "3": true,
         "4": true,
         "5": true,
-        "6": false,
+        "6": true,
         "7": true,
         "8": true,
         "9": true,
@@ -286,7 +286,7 @@
       }
     },
     "sgv": {
-      "summary": "- James Hardie partners with Habitat for Humanity for San Gabriel Valley wildfire rebuilds\n- High wind warning issued for Friday across San Gabriel Valley region\n- Sunny start this week, weekend rain expected in greater San Gabriel Valley\n- Things to do in San Gabriel Valley April 3-11 offer local entertainment",
+      "summary": "- James Hardie partners with Habitat for Humanity for SGV wildfire rebuilding efforts\n- Weather shift coming: sunny start, rain expected this weekend in SGV\n- City of San Gabriel celebrates 81st Annual Pancake Breakfast and Egg Hunt\n- La Mirada, Ganesha lead SGV softball and baseball rankings this season",
       "headlines": [
         {
           "headline": "Things to do in the San Gabriel Valley area, April 3-11 - San Gabriel Valley Tribune",
@@ -301,15 +301,15 @@
           "source": "Google News SGV"
         },
         {
+          "headline": "James Hardie Partners with Habitat for Humanity\u00ae in San Gabriel Valley for Rebuild Efforts After California Wildfires - Yahoo Finance",
+          "source": "Google News SGV"
+        },
+        {
           "headline": "San Gabriel Valley Girls Athlete of the Week: Riley Hilliard, La Mirada - Pasadena Star News",
           "source": "Google News SGV"
         },
         {
           "headline": "San Gabriel Valley softball top 20: La Mirada, Ganesha, Cal in the top spots - MSN",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "James Hardie Partners with Habitat for Humanity\u00ae in San Gabriel Valley for Rebuild Efforts After California Wildfires - Yahoo Finance",
           "source": "Google News SGV"
         },
         {
@@ -357,11 +357,11 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel Valley girls athlete of the week: Riley Hilliard, La Mirada - MSN",
+          "headline": "SGV high school baseball: Hitting and pitching leaders - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "High wind warning issued by the NWS for Friday - San Gabriel Valley Tribune",
+          "headline": "San Gabriel Valley girls athlete of the week: Riley Hilliard, La Mirada - MSN",
           "source": "Google News SGV"
         },
         {
@@ -409,7 +409,75 @@
           "source": "Pasadena Now"
         },
         {
-          "headline": "35-year-old woman dead after stabbed by boyfriend at her Sylmar home, LAPD says",
+          "headline": "San Gabriel Valley Women Honored at Annual Congressional Ceremony",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Alhambra Moves Forward on Tenants Rights",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "What To Do This Weekend: April 10-12, 2026",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Grand Reopening of San Gabriel Farmers Market This Saturday, April 11",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "L.A. County Proclaims April 2026 as Armenian History Month",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Monrovia Students Take the Stage for Bye Bye Birdie Opening Night",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "San Gabriel Recognizes Police Promotions, Marks Autism Awareness Month",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Historic Victorian Homes Find New Purpose Housing Eaton Fire Survivors in Altadena",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Visit Pasadena Honored With Visit California Poppy Award for Resilience\u2011Driven Recovery Campaign",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Tenants, Landlords Invited to Pasadena Workshop on Habitability Issues",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Pasadena Council Weighs Limits on ICE Activity, Confronts Budget Gaps",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "L.A. County Approves Up to $300 Million in Bonds for San Gabriel Reservoir Restoration",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Lisa Vanderpump welcomes reality royalty to the UK in the 'Vanderpump Villa' season 3 trailer",
+          "source": "ABC7"
+        },
+        {
+          "headline": "3 arrested after $1 million worth of stolen Lego products recovered in Kern County",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Jon Bernthal's Punisher is pulled back into the fight in Marvel's 'One Last Kill'",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Woman stabbed to death at her Sylmar home, boyfriend in custody after manhunt, LAPD says",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Residents of Long Beach apartment complex remain without running water for days",
+          "source": "ABC7"
+        },
+        {
+          "headline": "A splash of tradition at Songkran Festival in the San Fernando Valley",
           "source": "ABC7"
         },
         {
@@ -467,73 +535,53 @@
         {
           "headline": "Civil trial begins in lawsuit over deadly LAPD shooting of 14-year-old girl",
           "source": "ABC7"
-        },
-        {
-          "headline": "Suspect dies by suicide after chase with grappler ends in violent Jurupa Valley crash, deputies say",
-          "source": "ABC7"
-        },
-        {
-          "headline": "California lawmaker introduces bill to help prevent, de-escalate police chases with new technology",
-          "source": "ABC7"
-        },
-        {
-          "headline": "New EV models arrive in 2026 amid shifting electric vehicle market",
-          "source": "ABC7"
-        },
-        {
-          "headline": "CA gubernatorial candidate Rep. Eric Swalwell denies 'false' accusations of inappropriate behavior",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Adam Brody, Justine Lupe and more on overwhelming fan reaction to 'Nobody Wants This'",
-          "source": "ABC7"
         }
       ],
       "relevance": {
         "0": true,
         "1": true,
         "2": true,
-        "3": false,
-        "4": false,
+        "3": true,
+        "4": true,
         "5": true,
         "6": true,
         "7": true,
         "8": true,
-        "9": false,
+        "9": true,
         "10": true,
         "11": true,
         "12": true,
         "13": false,
-        "14": false,
-        "15": true,
+        "14": true,
+        "15": false,
         "16": true,
-        "17": false,
+        "17": true,
         "18": true,
-        "19": false,
+        "19": true,
         "20": false,
         "21": false,
         "22": false,
-        "23": true,
+        "23": false,
         "24": false,
         "25": false,
         "26": false,
         "27": false,
         "28": false,
         "29": true,
-        "30": false,
-        "31": false,
+        "30": true,
+        "31": true,
         "32": false,
-        "33": false,
+        "33": true,
         "34": false,
-        "35": false,
-        "36": false,
+        "35": true,
+        "36": true,
         "37": false,
         "38": false,
         "39": false
       }
     },
     "county": {
-      "summary": "- LA's 'mansion tax' reforms debated, critics say proposed changes insufficient for housing crisis\n- Typhus cases hit record high in LA; flea-borne disease remains difficult to eradicate\n- Lead levels remain elevated inside and outside Exide cleanup zone, new study finds\n- LAPD data breach exposes thousands of confidential police records in city attorney hack",
+      "summary": "- LA's 'mansion tax' reforms debated as city explores voter-approved changes\n- La Brea Tar Pits closing for two years starting July\n- Getty Center closing one year for major modernization ahead of 2028 Olympics\n- Southern California storm bringing rain and snow after recent heatwave",
       "headlines": [
         {
           "headline": "City officials consider \u2018mansion tax\u2019 changes, but critics say proposed fixes don't go far enough",
@@ -552,6 +600,18 @@
           "source": "LAist"
         },
         {
+          "headline": "La Brea Tar Pits closing for two years in July",
+          "source": "LAist"
+        },
+        {
+          "headline": "Getty Center to close for major upgrades in 2027 for a year",
+          "source": "LAist"
+        },
+        {
+          "headline": "Federal judge orders Trump administration to stop coercing immigrant children to self-deport",
+          "source": "LAist"
+        },
+        {
           "headline": "Olympics CEO says more $28 tickets will be released in later drops. The question is, how many?",
           "source": "LAist"
         },
@@ -560,19 +620,11 @@
           "source": "LAist"
         },
         {
-          "headline": "Federal judge orders Trump administration to stop coercing immigrant children to self-deport",
+          "headline": "Aquarium of the Pacific needs help with an enormous rescued sea turtle",
           "source": "LAist"
         },
         {
-          "headline": "Trial begins for CSU lecturer accused of throwing tear gas at immigration officers",
-          "source": "LAist"
-        },
-        {
-          "headline": "LA hit a record high for typhus cases last year. Why is the flea-borne disease so hard to eradicate?",
-          "source": "LAist"
-        },
-        {
-          "headline": "Lead levels are still too high inside and outside the Exide cleanup zone, study finds",
+          "headline": "A mouthwatering, crusty delight: LA\u2019s thriving empanadas scene",
           "source": "LAist"
         },
         {
@@ -612,15 +664,31 @@
           "source": "LAist"
         },
         {
-          "headline": "Trump reiterates threats to bomb Iran's power plants and bridges",
-          "source": "LAist"
+          "headline": "Getty Center to close for one year for major modernization project ahead of 2028 Olympics",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Man fleeing federal agents at large after crashing into sign outside Montrose dentist office",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "'Operation Never Say Die': 8 arrested in $50M California hospice fraud takedown",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "\u2018The Pitt\u2019 star Noah Wyle to be honored with Hollywood Walk of Fame star",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Southern California storm timeline: Back-to-back systems to bring rain, snow following heatwave",
+          "source": "Fox 11 LA"
         },
         {
           "headline": "LA28 responds to backlash over $5,000 Olympic ticket prices",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Manhunt underway for murder suspect in Sylmar",
+          "headline": "Man arrested in connection with girlfriend's stabbing death in Sylmar",
           "source": "Fox 11 LA"
         },
         {
@@ -628,23 +696,7 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Parents sound alarm over dangerous homeless encampment near South LA elementary school",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "LAPD searching for man accused of stabbing his parents in Woodland Hills",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Suspect dies after Riverside County car chase ends in crash and SWAT standoff",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Woman escapes attempted kidnapping outside Santa Ana workplace, police say",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "LAPD data breach: Thousands of confidential police records leaked in city attorney hack",
+          "headline": "California dismantles $267 million hospice fraud ring in 'Operation Skip Chase'; 21 charged",
           "source": "Fox 11 LA"
         },
         {
@@ -676,10 +728,6 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Sugar the surfing dog, beloved wave-riding champion and therapy hero, dies at 16",
-          "source": "Fox 11 LA"
-        },
-        {
           "headline": "More US airlines raise baggage fees: See the list",
           "source": "Fox 11 LA"
         },
@@ -696,47 +744,47 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Police Hunt for Man Suspected of Fatally Stabbing His Girlfriend in Sylmar",
+          "headline": "Storms to Bring Rain, Possible Thunderstorms",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LAFD Crews Douse Blaze in Burning Boxcar",
+          "headline": "LA City, County Clear Arroyo Seco Encampment",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Police Hunt for Man Suspected of Fatal Stabbing His Girlfriend in Sylmar",
+          "headline": "Windblown Dust Advisory Issued until Saturday in Coachella Valley",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Police Seek Help Finding Missing Long Beach Man, 60, Who May Be Disoriented",
+          "headline": "Bonta Announces Crackdown on $267M LA Hospice Fraud Operation",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LA, OC Gas Prices Record Largest Decreases Since January",
+          "headline": "Hiker Goes Down on Pacific Crest Trail, Requiring Rescue",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Former `Jeopardy!\u2019 Director Drops Age Discrimination Suit",
+          "headline": "Coachella Music & Arts Festival Set to Start Friday in Indio",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Ex-Field Deputy for Councilman Price May Avoid Defense Mental Exam",
+          "headline": "Walk of Fame Star Honoring Noah Wyle Unveiled",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Hollywood Museum to Debut Laurel and Hardy Exhibit",
+          "headline": "Police Arrest Man Suspected of Fatally Stabbing His Girlfriend in Sylmar",
           "source": "MyNewsLA"
         },
         {
-          "headline": "CHP Issues Silver Alert Missing Woman in Silver Lake",
+          "headline": "Feds In LA Authorized to Seek Death for Three Gang Members Charged in Murder",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Pasadena Chorale to Host Upcoming Season Auditions",
+          "headline": "Two Stabbed in Sherman Oaks",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Authorities ID Woman Killed in Pico-Union Crash",
+          "headline": "Walt Disney Co. Plans Up to 1,000 Layoffs",
           "source": "MyNewsLA"
         },
         {
@@ -748,7 +796,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County Sheriff\u2019s Department, Missing Person Detail, is asking for the public\u2019s help by locating a At-Risk Missing Person, Daniel Andres Hernandez Franco. Mr. Franco was last seen Tuesday, April 7, 2026, on the 4700 block of 59th Place, in the cit - facebook.com",
+          "headline": "April Showers \ud83c\udf26\ufe0f Bring May Flowers \ud83c\udf3b\ud83c\udf37 #LASD wants everyone to be safe while driving on the road. Though the amount and impact of the upcoming storm is uncertain, this storm system will increase the potential for flash floods, debris flows, and dangerous r - facebook.com",
           "source": "Google News LA"
         },
         {
@@ -764,11 +812,27 @@
           "source": "Google News LA"
         },
         {
+          "headline": "SCV News | LASD Reminds Drivers 'Eyes Forward, Hands on the Wheel' - SCVNews.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "L.A. County Board of Supervisors Proclaims April as Armenian History Month - MassisPost",
+          "source": "Google News LA"
+        },
+        {
           "headline": "LA County directs health director to aid hospice fraud probe - The Center Square",
           "source": "Google News LA"
         },
         {
+          "headline": "Superior Court of Los Angeles County, Stanford Law School and ODR.com Advance Partnership to Develop Next-Generation Case Resolution System - Stanford Law School",
+          "source": "Google News LA"
+        },
+        {
           "headline": "LA County authorities issue warning after hidden camera found in front yard of home - MSN",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Los Angeles County Sheriff\u2019s Department, Missing Person Detail, is asking for the public\u2019s help by locating a At-Risk Missing Person, Daniel Andres Hernandez Franco. Mr. Franco was last seen Tuesday, April 7, 2026, on the 4700 block of 59th Place, in the cit - facebook.com",
           "source": "Google News LA"
         },
         {
@@ -780,19 +844,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Pacific Surfliner adds new daily trips to Central Coast - Ventura County Star",
+          "headline": "Cases Dropped for Some Officers in Juvenile Hall Fight Scandal | ALT 98.7 | LA Local News - ALT 98.7",
           "source": "Google News LA"
         },
         {
-          "headline": "Public health week events scheduled across LA County - MSN",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Newsom Ignores LA County In New Homeless Initiative - Canyon News",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Joe Biden Makes Surprise Visit To LA County Ice Cream Shop - Patch",
+          "headline": "Suspect dies by suicide after chase with grappler ends in violent Jurupa Valley crash and standoff, deputies say - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -804,19 +860,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Pacific Surfliner adds new daily trips to Central Coast - Visalia Times-Delta",
+          "headline": "Newsom Ignores LA County In New Homeless Initiative - Canyon News",
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County Sheriff's Department. Queen \u00b7 You\u2019re My Best Friend (Backing Track Mix). The Los Angeles County Board of Supervisors recognizes our Sheriff\u2019s Department therapy dogs with a formal proclamation for their incredible service. \ud83d\udc3e These dog - facebook.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Abbey Road lands LA County loan for affordable housing - The Real Deal",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "California Cracks Down on Hospice Fraud in Los Angeles, Debunks Viral Claims - Contra Costa News",
+          "headline": "Susan Shelley: Los Angeles County Public Health fails the typhus test - MSN",
           "source": "Google News LA"
         }
       ],
