@@ -1,10 +1,22 @@
 {
-  "generated": "2026-04-10T15:59:45.143066+00:00",
-  "briefing": "8 AM",
+  "generated": "2026-04-10T19:37:53.261862+00:00",
+  "briefing": "12 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Monrovia finalist for All-America City Award recognition\n- Route 66 centennial celebration planned for Monrovia\n- Police report credit card scammer caught on video\n- Monrovia Reads fundraiser set for May 7",
+      "summary": "- Monrovia Police receive $1.031 million grant for communication system upgrade\n- Today is last day to comment on safety and bicycle plans\n- Monrovia again finalist for All-America City Award\n- Route 66 celebration planned for Monrovia's 100-year milestone",
       "headlines": [
+        {
+          "headline": "Today last day to comment on Monrovia safety and bicycle plans",
+          "source": "Monrovia Now"
+        },
+        {
+          "headline": "Monrovia Police get $1.031 million grant for communication system upgrade",
+          "source": "Monrovia Now"
+        },
+        {
+          "headline": "Monrovia Garden Club program on plant reproduction, April 27",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Coming Up in Monrovia",
           "source": "Monrovia Now"
@@ -71,18 +83,6 @@
         },
         {
           "headline": "Learn to draw manga characters at the Library, April 25",
-          "source": "Monrovia Now"
-        },
-        {
-          "headline": "Storytime with park naturalists, April 11",
-          "source": "Monrovia Now"
-        },
-        {
-          "headline": "Outline of proposed changes to city roads for bike lanes",
-          "source": "Monrovia Now"
-        },
-        {
-          "headline": "City fundraiser for bear cubs to be announced next week",
           "source": "Monrovia Now"
         },
         {
@@ -154,7 +154,15 @@
           "source": "Google News"
         },
         {
-          "headline": "'WTF:' Michael J. Fox Not Dead Despite The News | Fatal Plane Crash | Flags To Honor Our Fallen: Patch PM",
+          "headline": "Grenade Prompts 405 Ramp Closure Near LAX: Report",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "Coachella Traffic, Road Closures For Coachella Music & Arts Festival 2026",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "20 Events To Take Care Of The Planet In SoCal",
           "source": "Patch Monrovia"
         },
         {
@@ -228,19 +236,19 @@
       ],
       "relevance": {
         "0": true,
-        "1": false,
+        "1": true,
         "2": true,
         "3": true,
-        "4": true,
-        "5": false,
+        "4": false,
+        "5": true,
         "6": true,
         "7": true,
-        "8": true,
-        "9": false,
-        "10": false,
+        "8": false,
+        "9": true,
+        "10": true,
         "11": true,
         "12": true,
-        "13": true,
+        "13": false,
         "14": true,
         "15": true,
         "16": true,
@@ -270,7 +278,7 @@
       }
     },
     "sgv": {
-      "summary": "- $250K awarded for San Gabriel Valley transportation improvements\n- James Hardie partners with Habitat for Humanity on wildfire rebuilds\n- Ganesha, South Hills lead San Gabriel Valley baseball top 10\n- Weekend rain expected in San Gabriel Valley after sunny start",
+      "summary": "- $250K awarded for San Gabriel Valley transportation improvements\n- James Hardie partners with Habitat for Humanity for wildfire rebuilds\n- Weekend rain ahead for Greater Pasadena and San Gabriel Valley\n- Ganesha, South Hills lead San Gabriel Valley baseball top 10",
       "headlines": [
         {
           "headline": "San Gabriel Valley baseball Top 10: Ganesha, South Hills, La Mirada on top - San Gabriel Valley Tribune",
@@ -337,10 +345,6 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Santa Anita Derby finish could hinge on one horse\u2019s start - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
           "headline": "Photos: City of San Gabriel celebrates 81st Annual Pancake Breakfast and Egg Hunt - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
@@ -350,6 +354,10 @@
         },
         {
           "headline": "Editorial: Another state program awash in waste, abuse - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "SGV high school baseball: Hitting and pitching leaders - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -393,52 +401,44 @@
           "source": "Pasadena Now"
         },
         {
-          "headline": "Pasadena\u2019s Arbor Day Celebration Set for April 18 at Villa Parke",
-          "source": "Colorado Blvd"
+          "headline": "Coachella attracts social medial influencers who fiercely strategize behind the scenes",
+          "source": "ABC7"
         },
         {
-          "headline": "Pasadena BioCollaborative Incubator Marks 22 Years and Welcomes 100th Company",
-          "source": "Colorado Blvd"
+          "headline": "'Welcome to Wrexham' renewed through its eighth season just before season 5 premiere next month",
+          "source": "ABC7"
         },
         {
-          "headline": "Ranz & Friends Bring Masterwork Clarinet Quintets to South Pasadena",
-          "source": "Colorado Blvd"
+          "headline": "What we know about arson suspect in Ontario warehouse fire",
+          "source": "ABC7"
         },
         {
-          "headline": "Shaping the Clean Transportation Workforce: Public Roundtable Set for April 16",
-          "source": "Colorado Blvd"
+          "headline": "Bomb squad investigates after piece of military ordnance found on 405 Fwy in Inglewood",
+          "source": "ABC7"
         },
         {
-          "headline": "Pasadena Chorale Opens Auditions for 2026\u201327 Season",
-          "source": "Colorado Blvd"
+          "headline": "Artemis II's grand moon finale is almost here with a Pacific splashdown to cap NASA's lunar comeback",
+          "source": "ABC7"
         },
         {
-          "headline": "San Gabriel Valley Women Honored at Annual Congressional Ceremony",
-          "source": "Colorado Blvd"
+          "headline": "Suspect arrested after throwing Molotov cocktail at Sam Altman's San Francisco home, OpenAI says",
+          "source": "ABC7"
         },
         {
-          "headline": "Alhambra Moves Forward on Tenants Rights",
-          "source": "Colorado Blvd"
+          "headline": "Frontier Airlines plane and 2 trucks nearly collide at LAX",
+          "source": "ABC7"
         },
         {
-          "headline": "What To Do This Weekend: April 10-12, 2026",
-          "source": "Colorado Blvd"
+          "headline": "7 arrested in a Northern California fireworks warehouse blast that killed 7 and injured 2",
+          "source": "ABC7"
         },
         {
-          "headline": "Grand Reopening of San Gabriel Farmers Market This Saturday, April 11",
-          "source": "Colorado Blvd"
+          "headline": "Inside Anne Hathaway, Meryl Streep's fashion for 'The Devil Wears Prada 2' Asia press stops",
+          "source": "ABC7"
         },
         {
-          "headline": "L.A. County Proclaims April 2026 as Armenian History Month",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Monrovia Students Take the Stage for Bye Bye Birdie Opening Night",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "San Gabriel Recognizes Police Promotions, Marks Autism Awareness Month",
-          "source": "Colorado Blvd"
+          "headline": "Brooklyn City Pizzeria & Market draws diners for authentic NY taste, no flight required",
+          "source": "ABC7"
         },
         {
           "headline": "Original cast brings dose of nostalgia with revival of 'Malcolm in the Middle: Life's Still Unfair'",
@@ -446,10 +446,6 @@
         },
         {
           "headline": "Rain timeline: Storm bringing wet weather to SoCal this weekend",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Brooklyn City Pizzeria & Market draws diners for authentic NY taste, no flight required",
           "source": "ABC7"
         },
         {
@@ -483,42 +479,6 @@
         {
           "headline": "Legislation proposed to close off skies above large outdoor events like Coachella",
           "source": "ABC7"
-        },
-        {
-          "headline": "Riverside County Sheriff's Department reviews pursuit after Grappler device fails to deploy",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Former NYPD sergeant sentenced for throwing cooler at fleeing suspect, killing him",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Pacoima businesses voice safety concerns as RV encampments disrupt local commerce",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Ontario warehouse fire suspect charged with several counts of felony arson",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Advocates raise alarm after federal arrests near Rancho Cucamonga courthouse",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Tickets for 2028 Los Angeles Olympics to go on sale Thursday. Here's what you need to know",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Snowplow driver charged in deadly crash involving Santa Clarita youth hockey team",
-          "source": "ABC7"
-        },
-        {
-          "headline": "LAUSD strike looms as teachers, principals, district employees seek new contracts",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Getty Center to close for a year for major modernization project",
-          "source": "ABC7"
         }
       ],
       "relevance": {
@@ -538,34 +498,34 @@
         "13": true,
         "14": true,
         "15": true,
-        "16": false,
+        "16": true,
         "17": true,
         "18": true,
         "19": true,
-        "20": true,
-        "21": true,
-        "22": true,
-        "23": true,
-        "24": true,
-        "25": true,
+        "20": false,
+        "21": false,
+        "22": false,
+        "23": false,
+        "24": false,
+        "25": false,
         "26": false,
         "27": false,
         "28": false,
         "29": false,
-        "30": true,
-        "31": true,
-        "32": true,
-        "33": true,
-        "34": true,
-        "35": true,
-        "36": true,
+        "30": false,
+        "31": false,
+        "32": false,
+        "33": false,
+        "34": false,
+        "35": false,
+        "36": false,
         "37": false,
-        "38": true,
+        "38": false,
         "39": false
       }
     },
     "county": {
-      "summary": "- LAUSD strike could close schools indefinitely starting next week without deal\n- City officials warn Olympics could bankrupt Los Angeles financially\n- Safe parking sites face closure as homeless services funding cuts threaten\n- Citrus tree disease expanding across LA and Orange counties rapidly",
+      "summary": "- LAUSD strike could close schools indefinitely starting next week without deal\n- City officials warn Olympics could bankrupt Los Angeles over budget concerns\n- Citrus tree disease expands across LA and Orange counties\n- California leads nation in bystander police chase deaths, new bill proposed",
       "headlines": [
         {
           "headline": "Next week\u2019s LAUSD strike could close schools indefinitely. Here's what to know",
@@ -600,6 +560,10 @@
           "source": "LAist"
         },
         {
+          "headline": "After losing his home in the Palisades Fire, he\u2019s learning to rebuild it \u2014 literally",
+          "source": "LAist"
+        },
+        {
           "headline": "A new outdoor space connects kids to native plants in Claremont",
           "source": "LAist"
         },
@@ -609,10 +573,6 @@
         },
         {
           "headline": "Celebrate Songkran with tasty Thai food at Wat Thai temple this weekend",
-          "source": "LAist"
-        },
-        {
-          "headline": "Dozens who lived in encampments along 110 Freeway are now in housing",
           "source": "LAist"
         },
         {
@@ -644,15 +604,19 @@
           "source": "LAist"
         },
         {
-          "headline": "Melania Trump denies close ties to Jeffrey Epstein in rare public statement",
+          "headline": "Inflation surges to highest level in nearly 2 years as energy costs spike",
           "source": "LAist"
         },
         {
-          "headline": "Chamel Abdulkarim arraignment: Suspect faces federal arson charges in $500M Ontario warehouse fire",
+          "headline": "Coachella Weekend I forecast: Here's what you can expect",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Coachella 2026: Windy forecast and star-studded lineup kick off weekend one",
+          "headline": "Coachella Weekend 1: Full livestream schedule",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Chamel Abdulkarim: Ontario arson suspect invoked Luigi Mangione after $500M warehouse fire, feds say",
           "source": "Fox 11 LA"
         },
         {
@@ -660,7 +624,7 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Safe Parking sites in LA face closure as funding cuts threaten homeless services",
+          "headline": "No place to park: Families in South LA and Compton face street return as funding dries up",
           "source": "Fox 11 LA"
         },
         {
@@ -676,7 +640,15 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "LAUSD, unions enter critical mediation as Apr. 14 strike threat looms",
+          "headline": "New witness saw ICE shooting in California, provides dashcam video",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "California leads US in bystander police chase deaths; new bill seeks high-tech solution",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "\u2018It honestly felt surreal\u2019: Boy who was born deaf talks to Disneyland character in sign language",
           "source": "Fox 11 LA"
         },
         {
@@ -700,18 +672,6 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Dashcam video shows ICE agents shoot alleged gang member near 5 Freeway",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "'Kick ICE Out': California bill would block courthouse immigration sweeps",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "California ICE shooting: Officers shoot alleged gang member near 5 Freeway",
-          "source": "Fox 11 LA"
-        },
-        {
           "headline": "Celebrity deaths of 2026: The entertainers and artists we lost this year",
           "source": "Fox 11 LA"
         },
@@ -728,23 +688,39 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Detectives Seek Suspect Who Shot Woman Standing on West Hollywood Balcony",
+          "headline": "UCLA Report Finds Sharp Rise In Deportations, ICE Arrests",
           "source": "MyNewsLA"
         },
         {
-          "headline": "More 605 Lane, Ramp, Connector Closures Coming Overnight Next Week",
+          "headline": "Hiker Dies on Pacific Crest Trail",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Industry Mayor Joins Deputies at Two-Hour Autism Training Session",
+          "headline": "Natural Gas-Powered Trash Truck Crashes, Leaks Near Sylmar",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Average LA County Gas Price Records Largest Decrease Since Dec. 12",
+          "headline": "PCH Lane Schedules Closures  for Monday, Tuesday",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Scripps College Again Denied Move of Lawsuit Trial from LA to Pomona",
+          "headline": "605 Lane, Ramp, Connector Closures Coming Overnight Next Week",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Industry Mayor Joins Deputies at Two-Hour Autism Training",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Judge Denies Scripps College Move of Lawsuit Trial from LA to Pomona",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Detectives Seek Suspect Who Shot Woman Standing on WeHo Balcony",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Average LACo Gas Price Records Largest Decrease Since Dec",
           "source": "MyNewsLA"
         },
         {
@@ -756,31 +732,15 @@
           "source": "MyNewsLA"
         },
         {
-          "headline": "Caltrans Announces More Lane Reductions, Ramp Closures Through Sepulveda Pass",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Back in Action! Magic Castle to Reopen Friday After Attic Fire Earlier This Week",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Authorities ID Shooting Victim from Littlerock  Area of Antelope Valley",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Santa Lita Man With Mental Health Disorder Remains Missing",
-          "source": "MyNewsLA"
+          "headline": "Los Angeles County Sheriff's Department - facebook.com",
+          "source": "Google News LA"
         },
         {
           "headline": "Student homelessness climbs sharply across Los Angeles County, UCLA study shows - Newsroom | UCLA",
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County Sheriff's Department. Saltonbria \u00b7 Unstoppable Power. The Los Angeles County Sheriff\u2019s Department is proud to announce the graduation of 54 recruits from Academy Class 488, who have earned the esteemed title of Deputy Sheriffs and - facebook.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Sen. Adam Schiff endorses Los Angeles Mayor Karen Bass for re-election - ABC7 Los Angeles",
+          "headline": "Average LA County gas price records largest decrease since Dec. 12 - Spectrum News",
           "source": "Google News LA"
         },
         {
@@ -788,7 +748,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Santa Monica Posts Biggest Rent Drop in LA Metro Area - Santa Monica Daily Press",
+          "headline": "LAX close call: Frontier Airlines plane and 2 two trucks nearly collide on tarmac - ABC30 Fresno",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Sen. Adam Schiff endorses Los Angeles Mayor Karen Bass for re-election - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -796,23 +760,27 @@
           "source": "Google News LA"
         },
         {
+          "headline": "Santa Monica Posts Biggest Rent Drop in LA Metro Area - Santa Monica Daily Press",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LA County Mayor Joins Deputies At Autism Training Session - Patch",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "SCV News | LASD is Asking for the Public's Help Locating Missing Santa Clarita Man - SCVNews.com",
+          "source": "Google News LA"
+        },
+        {
           "headline": "LOS ANGELES COUNTY PROBATION DEPARTMENT DBA BARRY J. NIDORF JUVENILE HALL 49 COR 40-9058 - CAL-OSHA Reporter",
           "source": "Google News LA"
         },
         {
-          "headline": "BOARD MOVES TO COMBAT HOME HEALTH AND HOSPICE FRAUD IN LOS ANGELES COUNTY - COUNTY OF LOS ANGELES (.gov)",
+          "headline": "Los Angeles County Sheriff's Department. Saltonbria \u00b7 Unstoppable Power. The Los Angeles County Sheriff\u2019s Department is proud to announce the graduation of 54 recruits from Academy Class 488, who have earned the esteemed title of Deputy Sheriffs and - facebook.com",
           "source": "Google News LA"
         },
         {
-          "headline": "7674 Whitsett Ave, Los Angeles, CA 90001 - Realtor.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "KB Home\u2014a giant homebuilder ranked No. 526 on the Fortune 1000\u2014to move its headquarters from L.A. to Arizona - ResiClub",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles County Sheriff\u2019s Department, Missing Persons Detail, is asking for the public\u2019s help locating At-Risk Missing Person, Jorge Alberto Garcia. Mr. Garcia was last seen on April 9, 2026, at 8:00 a.m., on the 28000 block of David Way, in the city of Santa - facebook.com",
+          "headline": "L.A.'s history-making wolf enters the Sierra | Los Angeles Times - newspaper - Magzter",
           "source": "Google News LA"
         },
         {
@@ -820,15 +788,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "L.A. County approve funding for affordable housing at 15302 Rayen St. in North Hills - Urbanize LA",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "L.A. County shifts juvenile hall programming from probation to new agency - Corrections1",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Flea-borne typhus surges across LA County with 90% of cases requiring hospitalization - ABC7 Los Angeles",
+          "headline": "KB Home\u2014a giant homebuilder ranked No. 526 on the Fortune 1000\u2014to move its headquarters from L.A. to Arizona - ResiClub",
           "source": "Google News LA"
         },
         {
@@ -836,19 +796,19 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County Sheriff\u2019s Department Cerritos Station Detectives are asking for the public\u2019s help locating Critical Missing Juvenile, Chloe Kye Harris. She is a 12 year-old female Black juvenile who was last seen on April 9, 2026, at 3:08 p.m., on the 11000 - facebook.com",
+          "headline": "Los Angeles County Sheriff's Department - facebook.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Nonprofit Give-Mentor-Love's secret shop is a haven for survivors of sex trafficking in LA County - ABC7 Los Angeles",
+          "headline": "Los Angeles County Sheriff\u2019s Department, Missing Persons Detail, is asking for the public\u2019s help locating At-Risk Missing Person, Jorge Alberto Garcia. Mr. Garcia was last seen on April 9, 2026, at 8:00 a.m., on the 28000 block of David Way, in the city of Santa - facebook.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Los Angeles County Sheriff's Department. . Understanding leads to better outcomes. On Wednesday, April 8, the Los Angeles County Sheriff\u2019s Department (LASD) Mental Evaluation Team (MET) hosted a 2-hour Autism and Law Enforcement Awareness trainin - facebook.com",
           "source": "Google News LA"
         },
         {
           "headline": "Los Angeles County Sheriff's Department. . LASD Live Graduation Whittier, CA Class #488 - facebook.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles County Sheriff\u2019s Department, Missing Person Detail, is asking for the public\u2019s help by locating a At-Risk Missing Person, Daniel Andres Hernandez Franco. Mr. Franco was last seen Tuesday, April 7, 2026, on the 4700 block of 59th Place, in the cit - facebook.com",
           "source": "Google News LA"
         }
       ],
