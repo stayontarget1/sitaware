@@ -1,10 +1,14 @@
 {
-  "generated": "2026-04-12T15:41:15.521957+00:00",
-  "briefing": "8 AM",
+  "generated": "2026-04-12T19:33:27.234033+00:00",
+  "briefing": "12 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Monrovia Police receive $1.031 million grant for communication system upgrade\n- Today is last day to comment on safety and bicycle plans\n- Monrovia again finalist for All-America City Award recognition\n- New art unveiled at Community Center Artist Reception, April 24",
+      "summary": "- Monrovia Police receive $1.031 million grant for communication system upgrade\n- Monrovia named All-America City Award finalist again this year\n- Today final day to comment on safety and bicycle plans\n- Wine Walk returns Saturday, April 11 on Colorado Boulevard",
       "headlines": [
+        {
+          "headline": "Szechuan noodle restaurant Coming to Aztec Hotel",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Game Night for Adults at the Library, April 24",
           "source": "Monrovia Now"
@@ -82,10 +86,6 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Kiyoshi Kuromiya Neighborhood Treasure event",
-          "source": "Monrovia Now"
-        },
-        {
           "headline": "Monrovia Wine Walk Returns on Saturday, April 11 - ColoradoBoulevard.net",
           "source": "Google News"
         },
@@ -150,11 +150,15 @@
           "source": "Google News"
         },
         {
+          "headline": "Meteorologists Sound Alarm On 'Worst El Nino In 140 Years'",
+          "source": "Patch Monrovia"
+        },
+        {
           "headline": "School Trustee Calls Teen 'Sexy' | Coffee Chain To Remove Pride Flags | Explosive Targeting AI Chief: CA News",
           "source": "Patch Monrovia"
         },
         {
-          "headline": "Swalwell Sexual Assault Allegations Under Investigation In NYC, Report Says",
+          "headline": "CA Highways Among Worst In The Nation, Study Finds",
           "source": "Patch Monrovia"
         },
         {
@@ -162,15 +166,7 @@
           "source": "Patch Monrovia"
         },
         {
-          "headline": "What To Watch This Weekend: 'You, Me & Tuscany,' 'The Christophers,' 'Euphoria S3,' 'The Boys S5' And More",
-          "source": "Patch Monrovia"
-        },
-        {
           "headline": "When Hummingbirds Return To CA And What To Do To Attract Them",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "How Early Is Too Early To Start Mowing The Lawn On Weekends? Block Talk",
           "source": "Patch Monrovia"
         },
         {
@@ -274,10 +270,10 @@
       }
     },
     "sgv": {
-      "summary": "- $250K awarded for San Gabriel Valley transportation improvements\n- James Hardie partners with Habitat for Humanity for wildfire rebuilds\n- Rep. Judy Chu honors San Gabriel Valley Congressional Women\n- Ganesha, South Hills lead SGV baseball top 10 rankings",
+      "summary": "- $250K awarded for San Gabriel Valley transportation improvements\n- James Hardie partners with Habitat for Humanity on wildfire rebuilds\n- Rep. Judy Chu honors San Gabriel Valley Congressional Women\n- Sunny start, weekend rain ahead for Greater Pasadena area",
       "headlines": [
         {
-          "headline": "San Gabriel Valley baseball Top 10: Ganesha, South Hills, La Mirada on top - San Gabriel Valley Tribune",
+          "headline": "Things to do in the San Gabriel Valley, April 10-18 - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -305,7 +301,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Things to do in the San Gabriel Valley, April 10-18 - San Gabriel Valley Tribune",
+          "headline": "San Gabriel Valley baseball Top 10: Ganesha, South Hills, La Mirada on top - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -397,15 +393,23 @@
           "source": "Pasadena Now"
         },
         {
+          "headline": "9-year-old found locked in utility van since 2024, malnourished and unable to walk",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Anaheim police searching for missing 17-year-old girl",
+          "source": "ABC7"
+        },
+        {
+          "headline": "SoCal couple shares warning after nearly losing down payment in mortgage fraud",
+          "source": "ABC7"
+        },
+        {
           "headline": "4 injured in shooting during street takeover in Rosemead",
           "source": "ABC7"
         },
         {
           "headline": "LAUSD reaches tentative 2-year agreement with teachers union",
-          "source": "ABC7"
-        },
-        {
-          "headline": "9-year-old found locked in utility van since 2024, malnourished and unable to walk",
           "source": "ABC7"
         },
         {
@@ -467,14 +471,6 @@
         {
           "headline": "Ichiro Suzuki's statue unveiling has a mishap as bat snaps during ceremony",
           "source": "ABC7"
-        },
-        {
-          "headline": "Hormone replacement therapy: What doctors want women to know about HRT",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Pope Leo XIV blasts 'delusion of omnipotence' fueling US-Israeli war in Iran",
-          "source": "ABC7"
         }
       ],
       "relevance": {
@@ -508,10 +504,10 @@
         "27": false,
         "28": false,
         "29": false,
-        "30": true,
+        "30": false,
         "31": false,
         "32": false,
-        "33": false,
+        "33": true,
         "34": false,
         "35": false,
         "36": false,
@@ -521,14 +517,14 @@
       }
     },
     "county": {
-      "summary": "- LAUSD reaches tentative deal with teachers ahead of Tuesday strike vote\n- La Brea Tar Pits closing for two-year renovation before 2028 Olympics\n- Officials warn 2028 Olympics could potentially bankrupt Los Angeles financially\n- Small plane crashes on Catalina Island, two passengers killed",
+      "summary": "- LAUSD reaches tentative deal with teachers but schools may close Tuesday\n- LA Olympics could bankrupt city, warn officials amid budget concerns\n- La Brea Tar Pits closing two years for 2028 Olympics renovation\n- Small plane crashes on Catalina Island, killing two people",
       "headlines": [
         {
-          "headline": "LAUSD reaches tentative labor deal with teachers ahead of Tuesday strike",
+          "headline": "LAUSD reaches tentative labor deal with teachers. But schools could still be closed on Tuesday",
           "source": "LAist"
         },
         {
-          "headline": "Route 66\u2019s dark side: Inside the facade of the iconic road trip",
+          "headline": "Route 66\u2019s dark side: behind the myth of the iconic road trip",
           "source": "LAist"
         },
         {
@@ -572,15 +568,15 @@
           "source": "LAist"
         },
         {
+          "headline": "Trump claims US will close Strait of Hormuz after Iran peace talks collapse",
+          "source": "LAist"
+        },
+        {
           "headline": "Pope Leo says 'delusion of omnipotence' is fueling US-Israeli war in Iran",
           "source": "LAist"
         },
         {
           "headline": "US.-Iran peace talks underway in Islamabad after weeks of frantic diplomacy",
-          "source": "LAist"
-        },
-        {
-          "headline": "There's growing disquiet in the military. The Iran war made it worse",
           "source": "LAist"
         },
         {
@@ -684,47 +680,47 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Sunday Storm Brings Much Needed Rain to Southland",
+          "headline": "LA County Issues Water Contact Warning After Rain",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Police Arrest Demonstrators Waving Sex Toys at DTLS Anti-ICE Protest",
+          "headline": "Man Killed in El Monte; No Suspect Information Available",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Karol G, Fatboy Slim Close Out Coachella Weekend 1",
+          "headline": "$2.24 Million Powerball Ticket Sold in Calabasas",
           "source": "MyNewsLA"
         },
         {
-          "headline": "$2.2M Powerball Ticket Sold in Calabasas",
+          "headline": "Man Fatally Shot in Long Beach",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Fire Damages Winnetka Home",
+          "headline": "Four Shot During Street Takeover in Rosemead",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Plaintiff Asks Judge to Deny Kim Kardashian Attorneys\u2019 Fees, Costs",
+          "headline": "Woman Killed By Hit-And-Run Vehicle in South Los Angeles",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Judge Grants Woman\u2019s Bid for More Time to Unmask Child Abuse Claimant",
+          "headline": "Alleged Lindsey Buckingham Stalker Arrested in Indiana",
           "source": "MyNewsLA"
         },
         {
-          "headline": "RivCo Expects Rain Over Coachella Weekend",
+          "headline": "Two Teens Arrested in Moreno Valley Homicide",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Road Closures in Place for Coachella Festival Traffic",
+          "headline": "`The Super Mario Galaxy Movie\u2019 Hauls in $69M in Second Weekend",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Woman Wounded in Metro Bus Stabbing in DTLA",
+          "headline": "Last Day of Coachella Music Fest Weekend 1 Set for Sunday in Indio",
           "source": "MyNewsLA"
         },
         {
-          "headline": "El Mercado in Boyle Heights Catches Fire",
+          "headline": "Riverside County Gas Prices Drop for Fourth Straight Day",
           "source": "MyNewsLA"
         },
         {
@@ -732,7 +728,15 @@
           "source": "Google News LA"
         },
         {
-          "headline": "4 shot during street takeover in Rosemead - ABC7 Los Angeles",
+          "headline": "LA County Issues Water Contact Warning After Rain - MyNewsLA.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "UCLA Receives $33M to Expand Youth Mental Health Training - Santa Monica Daily Press",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "FALLING POPULATION IMPERILS L.A. COUNTY | Los Angeles Times - newspaper - Magzter",
           "source": "Google News LA"
         },
         {
@@ -744,23 +748,19 @@
           "source": "Google News LA"
         },
         {
+          "headline": "4 shot during street takeover in Rosemead - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
           "headline": "212 218 E Imperial Hwy, Los Angeles, CA 90061 - Realtor.com",
           "source": "Google News LA"
         },
         {
-          "headline": "LA County directs health director to aid hospice fraud probe - MSN",
+          "headline": "A major population drop is hitting Los Angeles County as high costs push people out - MSN",
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County Sheriff\u2019s Department, Missing Persons Detail, is asking for the public\u2019s help locating At-Risk Missing Person, Jose Elluterio Lopez. Mr. Lopez was last seen on April 10, 2026, at 1:50 a.m., on the 1300 block of West 97th Street, in the city of L - Facebook",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles County sheriff's deputies searching for missing man last seen in Maywood days ago - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Coroner accused of stealing valuables from the dead pleads no contest - MSN",
+          "headline": "LAUSD reaches tentative agreement with teachers union ahead of potential strike - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -768,23 +768,19 @@
           "source": "Google News LA"
         },
         {
+          "headline": "Los Angeles County Sheriff\u2019s Department, Missing Persons Detail, is asking for the public\u2019s help locating At-Risk Missing Person, Jose Elluterio Lopez. Mr. Lopez was last seen on April 10, 2026, at 1:50 a.m., on the 1300 block of West 97th Street, in the city of L - Facebook",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Demonstrators throw sex toys at police during anti-ICE protest in downtown LA, LAPD says - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
           "headline": "Los Angeles County Sheriff's Department. Randy Newman \u00b7 You've Got a Friend in Me (From \"Toy Story\"/Soundtrack Version). Every dog has its day, and today is Therapy Dog Appreciation Day! Did you know the Los Angeles County has dedicated therapy do - Facebook",
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County Sheriff's Department - Facebook",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles County Sheriff's Department. . LASD Live Graduation Whittier, CA Class #488 - Facebook",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "EXCLUSIVE: Dior Reveals Location of Cruise 2027 Show in Los Angeles - WWD",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles County Superhero Run Walk Health & Safety Expo empowers crime victims - MSN",
+          "headline": "Los Angeles County sheriff's deputies searching for missing man last seen in Maywood days ago - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -792,19 +788,19 @@
           "source": "Google News LA"
         },
         {
-          "headline": "How LACMA put L.A. ahead of the curve again | Los Angeles Times - newspaper - Magzter",
+          "headline": "Susan Shelley: Los Angeles County Public Health fails the typhus test - MSN",
           "source": "Google News LA"
         },
         {
-          "headline": "Average LA County gas price records largest decrease since Dec. 12 - Spectrum News",
+          "headline": "Coroner accused of stealing valuables from the dead pleads no contest - MSN",
           "source": "Google News LA"
         },
         {
-          "headline": "LA County Officials Meet To Secure \u2018Baywatch\u2019 Production\u2019s Future In Venice - IMDb",
+          "headline": "LA County directs health director to aid hospice fraud probe - MSN",
           "source": "Google News LA"
         },
         {
-          "headline": "News/Media Alliance Led Amicus Brief in Variety Media, LLC v. The Superior Court of Los Angeles County - News/Media Alliance",
+          "headline": "Residence likely will not affect Pratt's bid for mayor | Los Angeles Times - newspaper - Magzter",
           "source": "Google News LA"
         }
       ],
