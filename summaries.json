@@ -1,10 +1,14 @@
 {
-  "generated": "2026-04-17T19:52:54.757305+00:00",
-  "briefing": "12 PM",
+  "generated": "2026-04-18T02:06:53.127873+00:00",
+  "briefing": "5 PM",
   "columns": {
     "monrovia": {
-      "summary": "- County awards Monrovia $460,000 for Recreation Park upgrades\n- Community Job Fair at Monrovia Community Adult School, April 23\n- New designs selected for city utility boxes\n- Monrovia Fire & Rescue pancake breakfast, May 9",
+      "summary": "- County awards Monrovia $460,000 for Recreation Park upgrades\n- Unity Center serves nearly 15,000 people in community\n- School Board receives positive 2024-25 audit report\n- Community Job Fair at Adult School, April 23",
       "headlines": [
+        {
+          "headline": "Unity Center reports serving 14,949 people",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Family Movie Night at Clifton School tonight",
           "source": "Monrovia Now"
@@ -82,10 +86,6 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Femineer program to host showcase at high school",
-          "source": "Monrovia Now"
-        },
-        {
           "headline": "California Residents: Support the California Wildlife Coexistence Act to Save Wild Animals - IDA - In Defense of Animals",
           "source": "Google News"
         },
@@ -104,6 +104,14 @@
         {
           "headline": "Karen Bass brings more misery to suffering Angelenos with radical 14-point climate plan - New York Post",
           "source": "Google News"
+        },
+        {
+          "headline": "Rapper Ice Spice Attacked By Fan At Hollywood McDonald's: Report",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "Head Of Santa Monica-Based Private Equity Firm To Buy San Diego Padres: Report",
+          "source": "Patch Monrovia"
         },
         {
           "headline": "LA Area Pet Owners Targeted By Impersonation Scam, County Animal Care and Control Says",
@@ -170,16 +178,16 @@
         "0": true,
         "1": true,
         "2": true,
-        "3": false,
+        "3": true,
         "4": true,
         "5": true,
         "6": true,
-        "7": false,
+        "7": true,
         "8": true,
         "9": true,
-        "10": false,
-        "11": false,
-        "12": true,
+        "10": true,
+        "11": true,
+        "12": false,
         "13": true,
         "14": true,
         "15": true,
@@ -197,27 +205,27 @@
         "27": false,
         "28": false,
         "29": false,
-        "30": true,
-        "31": true,
+        "30": false,
+        "31": false,
         "32": true,
         "33": true,
         "34": true,
         "35": true,
         "36": true,
         "37": true,
-        "38": false,
+        "38": true,
         "39": true
       }
     },
     "sgv": {
-      "summary": "- Four shot during Rosemead street takeover incident\n- San Gabriel Valley baseball Top 10: La Mirada leads, Ganesha second\n- Mt. SAC Relays to feature top San Gabriel Valley track athletes\n- Tiny home community coming soon to Pomona",
+      "summary": "- Four shot during Rosemead street takeover; investigation ongoing\n- Southern California job growth 48% below normal\n- Covina councilmember's ethics questioned over cannabis permit vote\n- Painful eye-biting flies swarm San Gabriel Valley foothills",
       "headlines": [
         {
           "headline": "San Gabriel Valley baseball Top 10: La Mirada in top spot, Ganesha No. 2 - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "4 shot during Rosemead street takeover - NBC Los Angeles",
+          "headline": "4 shot during Rosemead street takeover - nbclosangeles.com",
           "source": "Google News SGV"
         },
         {
@@ -225,7 +233,11 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel Valley Boys Athlete of the Week: Kaleb Derosier, Maranatha - Whittier Daily News",
+          "headline": "Painful 'eye-biting' flies swarm San Gabriel Valley foothill communities - MSN",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "The Mt. SAC Relays to host several of the San Gabriel Valley\u2019s top athletes - Whittier Daily News",
           "source": "Google News SGV"
         },
         {
@@ -237,15 +249,11 @@
           "source": "Google News SGV"
         },
         {
+          "headline": "Things to do in the San Gabriel Valley area, April 17-25 - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
           "headline": "A cult-favorite Sichuan spot turns up the heat with a new San Gabriel Valley location - MSN",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "Meet Richard, Chili, Gonzo and Enzo, this week\u2019s Pets of the Week in the San Gabriel Valley - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "The Mt. SAC Relays to host several of the San Gabriel Valley\u2019s top athletes - Whittier Daily News",
           "source": "Google News SGV"
         },
         {
@@ -253,7 +261,11 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Things to do in the San Gabriel Valley area, April 17-25 - San Gabriel Valley Tribune",
+          "headline": "San Gabriel Valley Boys Athlete of the Week: Kaleb Derosier, Maranatha - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Meet Richard, Chili, Gonzo and Enzo, this week\u2019s Pets of the Week in the San Gabriel Valley - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -274,10 +286,6 @@
         },
         {
           "headline": "A tiny home community is coming soon to Pomona - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "Photos: Monterey Park\u2019s Cherry Blossom Festival blooms anew - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -333,11 +341,15 @@
           "source": "Pasadena Now"
         },
         {
+          "headline": "Altadena Rebuild Trade Show to Support Eaton Fire Survivors with Resources and Guidance",
+          "source": "Colorado Blvd"
+        },
+        {
           "headline": "Alhambra Unified Opens New Scanlon Early Education Center in Alhambra",
           "source": "Colorado Blvd"
         },
         {
-          "headline": "East Pasadena Deserves Better Than This Housing Proposal",
+          "headline": "Guest Opinion | East Pasadena Deserves Better Than This Housing Proposal",
           "source": "Colorado Blvd"
         },
         {
@@ -377,11 +389,43 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Monrovia\u2019s Underdog Bookstore Offers Job Seekers a Free Interview Skills Workshop",
-          "source": "Colorado Blvd"
+          "headline": "Celeste Rivas Hernandez's family to give statement on Monday after D4vd's arrest",
+          "source": "ABC7"
         },
         {
-          "headline": "3 Southern California residents sentenced in bear suit insurance fraud scheme",
+          "headline": "Rams drop 'Thursday' 2026 NFL draft teaser featuring sons of 'Friday' stars",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Fires that burned 2 Amazon cargo containers in Boyle Heights are tied to theft, arson, LAFD says",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Loaded firearm prompts shelter-in-place order for high school in Perris; student in custody",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Past ABC7 Sweepstakes & Promotions",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Hulu's biggest reality stars will be under one roof for Hulu's Get Real event and livestream",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Camp Marin-Sierra: The spirit of scouting 75 years strong",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Man accused of killing Charlie Kirk pushes to ban cameras from court",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Nonprofit internet radio station turns up the volume on community",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Celebrity choreographer\u00a0teaches 'Cinderellas' with Saving Our Daughters",
           "source": "ABC7"
         },
         {
@@ -394,10 +438,6 @@
         },
         {
           "headline": "Garret Anderson, talented outfielder and Angels career hits leader, dies at 53",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Man accused of killing Charlie Kirk pushes to ban cameras from court",
           "source": "ABC7"
         },
         {
@@ -427,38 +467,6 @@
         {
           "headline": "Pilots help patients reach medical care through Angel Flight East",
           "source": "ABC7"
-        },
-        {
-          "headline": "More Than Waffles overflows in Encino with breakfast favorites, both savory and sweet",
-          "source": "ABC7"
-        },
-        {
-          "headline": "SoCal chase comes to wild end after suspect climbs out of moving car, jumps off roof",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Spirit Airlines reportedly on the verge of shutting down amid bankruptcy, rising fuel costs",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Europe has 'maybe 6 weeks of jet fuel left,' energy agency head warns",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Wild chase ends when speeding Corvette crashes into tree in Torrance",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Singer D4vd arrested in connection with murder of teen, LAPD says",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Homeless and encampment-related fires noticeably increased in LA, new data shows",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Driver found with gunshot wound on 105 Freeway in South LA",
-          "source": "ABC7"
         }
       ],
       "relevance": {
@@ -466,8 +474,8 @@
         "1": true,
         "2": true,
         "3": true,
-        "4": false,
-        "5": true,
+        "4": true,
+        "5": false,
         "6": true,
         "7": true,
         "8": true,
@@ -499,16 +507,20 @@
         "34": true,
         "35": true,
         "36": false,
-        "37": true,
-        "38": false,
+        "37": false,
+        "38": true,
         "39": false
       }
     },
     "county": {
-      "summary": "- LAPD officers ordered to pay $11.7 million for partially blinding man\n- Unhoused Angelenos report wildfires endangered their lives, new study shows\n- UC hospital and service workers set to strike next month\n- LA city leaders push to shift homelessness spending away from LAHSA",
+      "summary": "- UC service and hospital workers set to strike next month across LA County\n- Study finds wildfires endangered lives of most unhoused Angelenos\n- LAPD officers ordered to pay $11.7 million to man partially blinded\n- LA city leaders push to shift homelessness spending away from LAHSA",
       "headlines": [
         {
           "headline": "UC\u2019s service and hospital workers are set to strike next month",
+          "source": "LAist"
+        },
+        {
+          "headline": "Garret Anderson, one of the heroes of the Angels' 2002 World Series run, dies at 53",
           "source": "LAist"
         },
         {
@@ -516,7 +528,7 @@
           "source": "LAist"
         },
         {
-          "headline": "California marine protected areas have revitalized patches of ocean. Will they expand or shrink?",
+          "headline": "LA-area insurance fraudsters who used a bear suit to attack luxury cars are convicted",
           "source": "LAist"
         },
         {
@@ -552,7 +564,11 @@
           "source": "LAist"
         },
         {
-          "headline": "A treehouse, a racetrack, an Echo Park living room: LA\u2019s most unusual places to caffeinate",
+          "headline": "AirTalk Food: Dtown Pizzeria",
+          "source": "LAist"
+        },
+        {
+          "headline": "Route 66\u2019s dark side: behind the myth of the iconic road trip",
           "source": "LAist"
         },
         {
@@ -560,11 +576,11 @@
           "source": "LAist"
         },
         {
-          "headline": "How Koreatown Run Club accidentally built one of LA\u2019s largest running communities",
+          "headline": "LACMA unveils new, sleek $720 million galleries",
           "source": "LAist"
         },
         {
-          "headline": "Route 66\u2019s dark side: behind the myth of the iconic road trip",
+          "headline": "The Strait of Hormuz opens for commercial ships but the US blockade continues on Iran",
           "source": "LAist"
         },
         {
@@ -576,16 +592,20 @@
           "source": "LAist"
         },
         {
-          "headline": "Trump says Iran talks could resume in days as US military blocks Iranian ports",
+          "headline": "The Strait of Hormuz opens for commercial ships but the US blockade continues on Iran",
           "source": "LAist"
         },
         {
-          "headline": "Top 5 takeaways from Homeland Security budget hearings",
-          "source": "LAist"
+          "headline": "Mountains 2 Beach Marathon 2026: Full list of Ventura County road closures",
+          "source": "Fox 11 LA"
         },
         {
-          "headline": "Trump nominates former Coast Guard doctor as CDC chief",
-          "source": "LAist"
+          "headline": "14-year-old arrested after electric motorcycle hits 81-year-old man in OC",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "TMZ investigates: Why singer D4vd was arrested for Celeste Rivas Hernandez's murder",
+          "source": "Fox 11 LA"
         },
         {
           "headline": "LAPD investigating 6th burglary this week in San Fernando Valley",
@@ -605,18 +625,6 @@
         },
         {
           "headline": "51st Acura Grand Prix of Long Beach kicks off with IndyCar practice, Lupe Fiasco concert",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "D4vd arrested in connection with murder of 14-year-old Celeste Rivas Hernandez",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Little Lake City School District teachers strike over health care, class sizes",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Person shot on 105 Freeway in Los Angeles County",
           "source": "Fox 11 LA"
         },
         {
@@ -652,11 +660,11 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Nancy Guthrie disappearance: Day 76 latest updates",
+          "headline": "President Donald Trump spoke at Turning Point USA event in Phoenix",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "President Trump scheduled to speak at Turning Point USA event in Phoenix",
+          "headline": "Nancy Guthrie disappearance: Day 76 latest updates",
           "source": "Fox 11 LA"
         },
         {
@@ -668,47 +676,47 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Police Arrest Two For Alleged Dangerous E-Bike Stunts in Beverly Hills",
+          "headline": "Brush Fire in Meadowbrook Chars Almost 150 Acres",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Suspect Crashes, Burns in Highland Park Storm Drain",
+          "headline": "Brush Fire in Meadowbrook Chars 15 Acres",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Correctional Officer, Alleged Drug Trafficker Charged With Smuggling Cocaine",
+          "headline": "Man Pleads Guilty to Fatally Stabbing Sister in Lake Forest",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Baldwin Hills Apartment Balcony Catches Fire",
+          "headline": "Student Suspected of Bringing Handgun onto Perris School Campus",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Judge Sentences Man Who Killed Wife, Her Lover",
+          "headline": "Man to Stand Trial for Allegedly Shooting Other Driver on 91 Freeway",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Retired LAPD Detective Tracks Down Accused Killer of Beheaded Inglewood Man",
+          "headline": "`Project Hail Mary\u2019 Actor James Ortiz to Receive Impact Award",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Council Committee Advances $360M for Affordable Housing in LA",
+          "headline": "Ex-Correctional Officer, Suspected Drug Trafficker Charged",
           "source": "MyNewsLA"
         },
         {
-          "headline": "February Unemployment Rate in LA County Holds Steady",
+          "headline": "Vigils Planned Next Week to Honor Victims of Violent Crime",
           "source": "MyNewsLA"
         },
         {
-          "headline": "`Rust\u2019 Lighting Technician\u2019s Suit vs. Baldwin, El Dorado Can Head to Trial",
+          "headline": "LB Mayor Laments Cancellation of Big Bang Fireworks Show",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Riverside County\u2019s Jobless Rate Drops Slightly During Winter Season",
+          "headline": "Man Stabbed to Death on Jurupa Valley Street, Suspected Apprehended",
           "source": "MyNewsLA"
         },
         {
-          "headline": "FBI, LAPD Serve Search Warrant in Van Nuys for Undisclosed Investigation",
+          "headline": "Bass Directs LAPD Deployment to Address Recent Burglaries on Ventura Boulevard",
           "source": "MyNewsLA"
         },
         {
@@ -724,11 +732,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "February Unemployment Rate in LA County Holds Steady - MyNewsLA.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "L.A. County office building adds glass exterior at 550 S. Vermont Ave. in Koreatown - Urbanize LA",
+          "headline": "Green Valley, Los Angeles County Air Quality Index (AQI) and USA Air Pollution - IQAir",
           "source": "Google News LA"
         },
         {
@@ -736,31 +740,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Green Valley, Los Angeles County Air Quality Index (AQI) and USA Air Pollution - IQAir",
+          "headline": "L.A. County office building adds glass exterior at 550 S. Vermont Ave. in Koreatown - Urbanize LA",
           "source": "Google News LA"
         },
         {
-          "headline": "#LASD is Asking for the Public's Help Locating At-Risk Missing Person, Luna Catherine Navarrete #Whittier Los Angeles County Sheriff\u2019s Department, Missing Persons Detail, is asking for the public\u2019s help locating At-Risk Missing Person, Luna Catherine AKA - Facebook",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Governor Newsom announces judicial appointments - California State Portal | CA.gov",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "West Hollywood San Vicente Bungalows Restaurant Closed by L.A. County Over Vermin Infestation - wehotimes.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "LA County Deputy Levi Vargas remembered for loyalty and kindness - MSN",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "LA agency tries centralized finance: $100M for 10 housing projects - The Real Deal",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Cities scramble to comply with or fight major state housing law - CalMatters",
+          "headline": "What to know about singer D4vd's arrest in 14-year-old's killing - PBS",
           "source": "Google News LA"
         },
         {
@@ -768,11 +752,15 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County Sheriff's Department. . Today, the members of the Los Angeles County Sheriff\u2019s Department pause to honor the life and legacy of Armando Santa Anna of the El Monte Police Department. Officer Santa Anna\u2019s courage, commitment, and self - Facebook",
+          "headline": "Ice block mysteriously crashes through roof, LA County family says - MSN",
           "source": "Google News LA"
         },
         {
-          "headline": "Latino Workers Central to Wildfire Recovery in Los Angeles County Face Lower Wages and Weaker Economic Safety Nets - Latino Policy & Politics Institute",
+          "headline": "#LASD is Asking for the Public's Help Locating At-Risk Missing Person, Luna Catherine Navarrete #Whittier Los Angeles County Sheriff\u2019s Department, Missing Persons Detail, is asking for the public\u2019s help locating At-Risk Missing Person, Luna Catherine AKA - facebook.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Governor Newsom announces judicial appointments - California State Portal | CA.gov",
           "source": "Google News LA"
         },
         {
@@ -780,15 +768,35 @@
           "source": "Google News LA"
         },
         {
-          "headline": "County, LAUSD see big drops in enrollment | Los Angeles Times - newspaper - Magzter",
+          "headline": "February Unemployment Rate Steady in LACo - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Houston-born singer D4vd arrested on suspicion of killing 14-year-old girl found dead in his Tesla - Houston Public Media",
+          "headline": "Man found 1 week after he was reported missing from Maywood, Los Angeles County sheriff's deputies say - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "Burbank, Los Angeles County Air Quality Index (AQI) and USA Air Pollution - IQAir",
+          "headline": "LA County Deputy Levi Vargas remembered for loyalty and kindness - MSN",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "D4vd arrested in Hollywood Hills: Timeline of the investigation into the death of 14-year-old Celeste Rivas Hernandez - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Latino Workers Central to Wildfire Recovery in Los Angeles County Face Lower Wages and Weaker Economic Safety Nets - Latino Policy & Politics Institute",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Cities scramble to comply with or fight major state housing law - CalMatters",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LA agency tries centralized finance: $100M for 10 housing projects - The Real Deal",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Singer D4vd is arrested in the killing of 14-year-old Celeste Rivas Hernandez - PBS",
           "source": "Google News LA"
         }
       ],
