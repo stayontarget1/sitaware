@@ -1,9 +1,9 @@
 {
-  "generated": "2026-04-19T02:28:10.168074+00:00",
-  "briefing": "5 PM",
+  "generated": "2026-04-19T15:42:17.869634+00:00",
+  "briefing": "8 AM",
   "columns": {
     "monrovia": {
-      "summary": "- County grants Monrovia $460,000 for Recreation Park upgrades\n- Community Job Fair at Monrovia Community Adult School, April 23\n- Fire & Rescue pancake breakfast fundraiser, May 9\n- Cambodian chicken wings restaurant opening at former BurgerIM location",
+      "summary": "- County awards Monrovia $460,000 for Recreation Park upgrades\n- Burger Basket owners robbed of life savings in burglary\n- Community Job Fair at Monrovia Community Adult School April 23\n- Fire & Rescue pancake breakfast fundraiser May 9",
       "headlines": [
         {
           "headline": "Trivia night for adults at the Library,  May 1",
@@ -90,6 +90,10 @@
           "source": "Google News"
         },
         {
+          "headline": "Burglars steal life savings from beloved Monrovia restaurant owners - CBS News",
+          "source": "Google News"
+        },
+        {
           "headline": "Watch: Bear wanders into California reporter\u2019s live shot while she\u2019s covering previous attack - MSN",
           "source": "Google News"
         },
@@ -114,11 +118,15 @@
           "source": "Google News"
         },
         {
-          "headline": "Potential For Further Scandal Looms As CA Governor's Race Is Reshuffled By Swalwell's Exit",
+          "headline": "Kid On E-Moto Hits Man, 81, And Flees | CEO So Sorry | Guy Fieri Backlash | Tiny House Goes For $19M: CA News",
           "source": "Patch Monrovia"
         },
         {
-          "headline": "Rapper Ice Spice Attacked By Fan At Hollywood McDonald's: Report",
+          "headline": "Disney Star Tackles Intruder At LA Home: Reports",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "Potential For Further Scandal Looms As CA Governor's Race Is Reshuffled By Swalwell's Exit",
           "source": "Patch Monrovia"
         },
         {
@@ -208,10 +216,10 @@
         "18": true,
         "19": true,
         "20": false,
-        "21": false,
+        "21": true,
         "22": false,
-        "23": true,
-        "24": true,
+        "23": false,
+        "24": false,
         "25": false,
         "26": false,
         "27": false,
@@ -222,15 +230,15 @@
         "32": false,
         "33": false,
         "34": false,
-        "35": true,
-        "36": true,
+        "35": false,
+        "36": false,
         "37": true,
         "38": true,
         "39": true
       }
     },
     "sgv": {
-      "summary": "- Four shot during Rosemead street takeover incident\n- Southern California job growth 48% below normal\n- Painful eye-biting flies swarm San Gabriel Valley foothills\n- Mt. SAC Relays feature top valley track athletes",
+      "summary": "- Four shot during Rosemead street takeover incident\n- Southern California job growth 48% below normal\n- Painful eye-biting flies swarm San Gabriel Valley foothills\n- Mt. SAC Relays feature valley's top track athletes",
       "headlines": [
         {
           "headline": "San Gabriel Valley baseball Top 10: La Mirada in top spot, Ganesha No. 2 - San Gabriel Valley Tribune",
@@ -258,6 +266,10 @@
         },
         {
           "headline": "San Gabriel Valley Boys Athlete of the Week: Kaleb Derosier, Maranatha - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "The Golden Guzman: A Gen Z Jazz Musician\u2019s Bid to Reshape San Gabriel City Council - Local News Pasadena",
           "source": "Google News SGV"
         },
         {
@@ -293,7 +305,15 @@
           "source": "Google News SGV"
         },
         {
+          "headline": "\u2018I\u2019m a public servant, not a politician\u2019 \u2013 San Gabriel Councilmember John Wu - Local News Pasadena",
+          "source": "Google News SGV"
+        },
+        {
           "headline": "Southern California job growth 48% below normal - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "San Gabriel Valley baseball top 10: Ganesha, South Hills, La Mirada on top - MSN",
           "source": "Google News SGV"
         },
         {
@@ -301,19 +321,27 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "The Golden Guzman: A Gen Z Jazz Musician\u2019s Bid to Reshape San Gabriel City Council - Local News Pasadena",
-          "source": "Google News SGV"
+          "headline": "Today\u2019s Wiggle Waggle Walk & Run Will Help Fund Solutions to Local \u201cSurrender Crisis\u201d",
+          "source": "Pasadena Now"
         },
         {
-          "headline": "\u2018I\u2019m a public servant, not a politician\u2019 \u2013 San Gabriel Councilmember John Wu - Local News Pasadena",
-          "source": "Google News SGV"
+          "headline": "Puppy Who Lost Most of His Nose Now Available for Adoption at Pasadena Humane",
+          "source": "Pasadena Now"
         },
         {
-          "headline": "A tiny home community is coming soon to Pomona - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
+          "headline": "Earth Day in the Arroyo Seco Brings Hooves and an Appetite",
+          "source": "Pasadena Now"
         },
         {
-          "headline": "Pasadena Water and Power Celebrates Water Awareness Month in May with Educational Events, Tours, and Contests",
+          "headline": "With Tours, Storytime and Free Plants, Pasadena\u2019s Water Utility Preaches Conservation",
+          "source": "Pasadena Now"
+        },
+        {
+          "headline": "Bungalow Heaven Home Tour Returns For 35th Year on April 26th",
+          "source": "Pasadena Now"
+        },
+        {
+          "headline": "Last Week in Review: Top Pasadena Stories of The Week",
           "source": "Pasadena Now"
         },
         {
@@ -333,24 +361,20 @@
           "source": "Pasadena Now"
         },
         {
-          "headline": "Pasadena Scientists Map the Milky Way\u2019s Frozen Water Supply With JPL Space Telescope",
-          "source": "Pasadena Now"
+          "headline": "Cooling Trend and Early\u2011Week Rainfall Expected Across L.A. County",
+          "source": "Colorado Blvd"
         },
         {
-          "headline": "Burglars Flee After Homeowner Confronts Them Inside Pasadena Residence",
-          "source": "Pasadena Now"
+          "headline": "Arroyos & Foothills Conservancy Marks 25 Years of Land Stewardship and Community Impact",
+          "source": "Colorado Blvd"
         },
         {
-          "headline": "Housing Restrictions a Top Driver of Pet Surrender, Pasadena Humane Programs Chief Says Ahead of Sunday\u2019s Walk",
-          "source": "Pasadena Now"
+          "headline": "Pasadena Water and Power Celebrates Water Awareness Month With Free Community Events",
+          "source": "Colorado Blvd"
         },
         {
-          "headline": "Pasadena Plants 15 Trees in District 5 Today for Annual Arbor Day Celebration",
-          "source": "Pasadena Now"
-        },
-        {
-          "headline": "Pasadena Police Sergeant Completes Rigorous California Leadership Institute",
-          "source": "Pasadena Now"
+          "headline": "Thoughts for Pennies: \u201cRebuilding\u201d",
+          "source": "Colorado Blvd"
         },
         {
           "headline": "Altadena Town Council to Convene April 21 at Community Center",
@@ -385,20 +409,40 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Bring Your Own Chair: Free Outdoor Jazz Festival at Caltech April 18",
-          "source": "Colorado Blvd"
+          "headline": "Chase ends in rollover crash on 134 Freeway in Burbank",
+          "source": "ABC7"
         },
         {
-          "headline": "Brazilian Actor Channels Rilke in U.S. Premiere at Sierra Madre Playhouse",
-          "source": "Colorado Blvd"
+          "headline": "Billionaire Tom Steyer's spending binge dwarfs rival campaigns in California governor's race",
+          "source": "ABC7"
         },
         {
-          "headline": "San Gabriel Police to Host First-Ever \u2018Silent Day Out\u2019 for Autism Awareness Month",
-          "source": "Colorado Blvd"
+          "headline": "Chase suspect in custody after firing shots into air in standoff on 210 Freeway in Azusa, CHP says",
+          "source": "ABC7"
         },
         {
-          "headline": "Pasadena Police Delay Release of Officer-Involved Shooting Video",
-          "source": "Colorado Blvd"
+          "headline": "SoCal sees gradual cooldown ahead of possible showers",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Video shows hot air balloon carrying 13 people make emergency landing in Temecula backyard",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Jewelry store break-in caught on video in Sherman Oaks is latest in rash of Valley burglaries",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Mayor Bass orders increased LAPD patrols after string of recent burglaries in San Fernando Valley",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Former President Obama meets Zohran Mamdani in New York City before reading to preschoolers",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Kennard scores 27, LeBron leads Lakers to surprising 107-98 win over Rockets in playoff opener",
+          "source": "ABC7"
         },
         {
           "headline": "Long Beach officer stabbed multiple times by knife-wielding suspect, police say",
@@ -406,10 +450,6 @@
         },
         {
           "headline": "Skydiver rescued after crashing into scoreboard, dangles from parachute at Virginia Tech: VIDEO",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Video shows hot air balloon carrying 13 people make emergency landing in Temecula backyard",
           "source": "ABC7"
         },
         {
@@ -422,10 +462,6 @@
         },
         {
           "headline": "Suspect replaced valuable Lego pieces with dried pasta, Irvine police say",
-          "source": "ABC7"
-        },
-        {
-          "headline": "SoCal warms up Saturday ahead of cooldown and possible showers",
           "source": "ABC7"
         },
         {
@@ -450,34 +486,6 @@
         },
         {
           "headline": "Long Beach's Big Bang on the Bay fireworks show is canceled after state panel denies permit",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Mother of Iskander brothers says Rebecca Grossman requested visit from her in prison",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Nat Geo and Disney celebrate Earth Month with 'Hoppers' star Piper Curda",
-          "source": "ABC7"
-        },
-        {
-          "headline": "6 injured, including 2 pedestrians, in multi-vehicle crash in Panorama City",
-          "source": "ABC7"
-        },
-        {
-          "headline": "3 Southern California residents sentenced in bear suit insurance fraud scheme",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Celeste Rivas Hernandez's family to give statement on Monday after D4vd's arrest",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Rams drop 'Thursday' 2026 NFL draft teaser featuring sons of 'Friday' stars",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Fires that burned 2 Amazon cargo containers in Boyle Heights are tied to theft, arson, LAFD says",
           "source": "ABC7"
         }
       ],
@@ -512,21 +520,25 @@
         "27": false,
         "28": false,
         "29": false,
-        "30": true,
+        "30": false,
         "31": false,
         "32": false,
-        "33": true,
+        "33": false,
         "34": false,
-        "35": true,
-        "36": true,
+        "35": false,
+        "36": false,
         "37": false,
         "38": false,
-        "39": true
+        "39": false
       }
     },
     "county": {
-      "summary": "- LAPD jury awards $11.7M to man partially blinded during Dodgers celebration\n- LA approves $360M in Measure ULA funds for 4,000 affordable housing units\n- State hasn't signed promised Olympic Games financial backup deal for LA\n- 17-year-old arrested for alleged kidnapping of girlfriend in Simi Valley",
+      "summary": "- LAPD paid $11.7M for partially blinding man during Dodgers celebration riot\n- LA approves $360M Measure ULA funds for 4,000 affordable housing units\n- Eleven missing or dead scientists under federal scrutiny, including four LA County\n- Immigration delays put millions at heightened risk of deportation across country",
       "headlines": [
+        {
+          "headline": "How does a city get its own Monopoly game? Just ask Long Beach",
+          "source": "LAist"
+        },
         {
           "headline": "The LA Central Library has received a massive donation of maps",
           "source": "LAist"
@@ -536,7 +548,7 @@
           "source": "LAist"
         },
         {
-          "headline": "Organizer cancels Big Bang Independence Day in Long Beach after Coastal Commission says no fireworks",
+          "headline": "Logjam of US immigration applications puts millions at greater risk of deportation",
           "source": "LAist"
         },
         {
@@ -548,15 +560,11 @@
           "source": "LAist"
         },
         {
+          "headline": "Why LA is being treated to early jacaranda blooms",
+          "source": "LAist"
+        },
+        {
           "headline": "In Pasadena, a 600-goat herd is taking a bite out of fire fuel",
-          "source": "LAist"
-        },
-        {
-          "headline": "Saturday is National Record Store Day!",
-          "source": "LAist"
-        },
-        {
-          "headline": "CA hasn\u2019t signed off on a promised deal to help bail out LA if the Olympic Games lose money",
           "source": "LAist"
         },
         {
@@ -608,6 +616,10 @@
           "source": "LAist"
         },
         {
+          "headline": "11 missing or dead scientists draw federal scrutiny, including 4 tied to LA County",
+          "source": "Fox 11 LA"
+        },
+        {
           "headline": "17-year-old arrested for alleged kidnapping of girlfriend in Simi Valley following 2nd battery report",
           "source": "Fox 11 LA"
         },
@@ -633,10 +645,6 @@
         },
         {
           "headline": "2 teens arrested at Culver City High School after reckless use of electric motorcycles",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "'Operation Bear Claw: California trio sentenced in $142K bear suit insurance fraud",
           "source": "Fox 11 LA"
         },
         {
@@ -688,48 +696,52 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Female Victim Wounded in Long Beach Shooting",
+          "headline": "Organizers Prep for Sunday \u201cLA Stands for Iran\u201d Protest at Third Street Promenade",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Firefighters Put out Fire inside Downtown Apartment Building",
+          "headline": "LACMA Sets Date for Ribbon Cutting Ceremony for New David Geffen Galleries",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Protest of Iran\u2019s Government Set for Sunday in Downtown Santa Monica",
+          "headline": "Coachella Weekend Two Wraps Sunday Night with Karol G",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Irvine Police Investigate Injury Crash",
+          "headline": "Judge Rules Demonstrator Injured at Pro-Palestine Rally Can Proceed With Lawsuit vs. UC Regents",
           "source": "MyNewsLA"
         },
         {
-          "headline": "One Arrested, 22 Cited at Palm Desert DUI Checkpoint",
+          "headline": "Ex-LADWP Worker Tentatively Settles Age, Disability Discrimination Suit",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Two Dogs Killed in Woodland Hills Kitchen Fire",
+          "headline": "Man Drops Sexual Abuse Suit Against Covina Valley Unified School District",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Pedestrian Struck by Vehicle, Killed in East San Gabriel",
+          "headline": "16-Year-Old Boy With Mental Health Condition Goes Missing in San Dimas",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Firefighters Knock Down Attic Fire at One-Story Duplex in Arleta",
+          "headline": "Felix Rosenqvist Seeks Second Career Victory at Long Beach Grand Prix",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Boy Shot to Death in Baldwin Park",
+          "headline": "Powerball Jackpot Rises to $87M",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Motorcycle Rider Killed on Freeway Transition Road Near Industry",
+          "headline": "Sunnylands Center and Gardens to Host Annual Family Day",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Man Suffering From Alzheimer\u2019s Disease Missing in LA\u2019s Palms Area",
+          "headline": "90-Year-Old Pedestrian Struck by Vehicle, Killed in East San Gabriel",
           "source": "MyNewsLA"
+        },
+        {
+          "headline": "Burbank, Los Angeles County Air Quality Index (AQI) and USA Air Pollution - IQAir",
+          "source": "Google News LA"
         },
         {
           "headline": "Unemployment Rate in LA County Holds Steady Los Angeles County\u2019s seasonally adjusted unemployment rate held steady at 5.5% in February compared to January, but was below the 5.8% rate from the same month a year earlier, according to figures releas - Facebook",
@@ -740,11 +752,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Tax documents for school employees potentially stolen across Los Angeles County - DataBreaches.Net",
+          "headline": "Governor Newsom announces judicial appointments - California State Portal | CA.gov",
           "source": "Google News LA"
         },
         {
-          "headline": "Green Valley, Los Angeles County Air Quality Index (AQI) and USA Air Pollution - IQAir",
+          "headline": "Ribbon Cutting Set for LACMA\u2019s New David Geffen Galleries - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
@@ -752,23 +764,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County Sheriff Seeks Public's Help Locating Missing 72-Year-Old Thomas Daewoo Hong, Last Seen in Burbank - Sierra Sun Times",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Angelenos\u2019 outlook turns glum | Los Angeles Times - newspaper - Magzter",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Governor Newsom announces judicial appointments - California State Portal | CA.gov",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Climate Change, Disasters Driving Homelessness Surge: UCLA Research - Santa Monica Daily Press",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "L.A. County office building adds glass exterior at 550 S. Vermont Ave. in Koreatown - Urbanize LA",
+          "headline": "Tax documents for school employees potentially stolen across Los Angeles County - DataBreaches.Net",
           "source": "Google News LA"
         },
         {
@@ -776,7 +772,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "LA County Launches Mental Health Awareness Campaign - MyNewsLA.com",
+          "headline": "L.A. County office building adds glass exterior at 550 S. Vermont Ave. in Koreatown - Urbanize LA",
           "source": "Google News LA"
         },
         {
@@ -784,11 +780,19 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County Sheriff Seeks Public's Help Locating At-Risk Missing Person Luna Navarrete, Last Seen in Whittier - Sierra Sun Times",
+          "headline": "Green Valley, Los Angeles County Air Quality Index (AQI) and USA Air Pollution - IQAir",
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County DA Calls for Passage of AB 2727 to Limit Elder Parole for Violent Sex Offenders - Sierra Sun Times",
+          "headline": "Los Angeles County Sheriff's Department. Ron Steele \u00b7 Empowering. Today, Sheriff Luna attended the LASD Search and Rescue (SAR) Appreciation Luncheon, where we recognized the incredible volunteers who give their time, skills, and heart to serving our - Facebook",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LA County Launches Mental Health Awareness Campaign - MyNewsLA.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Rolling Hills, Los Angeles County air quality map - IQAir",
           "source": "Google News LA"
         },
         {
@@ -796,19 +800,23 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Burbank, Los Angeles County Air Quality Index (AQI) and USA Air Pollution - IQAir",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "CDCR Correctional Officer, Suspected Drug Trafficker Charged with Smuggling Cocaine into Los Angeles County - Sierra Sun Times",
-          "source": "Google News LA"
-        },
-        {
           "headline": "Rolling Hills, Los Angeles County Air Quality Index (AQI) and USA Air Pollution - IQAir",
           "source": "Google News LA"
         },
         {
+          "headline": "Los Angeles County Sheriff Seeks Public's Help Locating Missing 72-Year-Old Thomas Daewoo Hong, Last Seen in Burbank - Sierra Sun Times",
+          "source": "Google News LA"
+        },
+        {
           "headline": "What to know about singer D4vd's arrest in 14-year-old's killing - PBS",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Los Angeles County Sheriff's Department. . Today, the members of the Los Angeles County Sheriff\u2019s Department pause to honor the life and legacy of Armando Santa Anna of the El Monte Police Department. Officer Santa Anna\u2019s courage, commitment, and self - Facebook",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Los Angeles area police chases: Suspect in custody following lengthy chase involving stolen truck through Antelope Valley - ABC7 Los Angeles",
           "source": "Google News LA"
         }
       ],
