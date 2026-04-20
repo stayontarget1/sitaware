@@ -1,10 +1,14 @@
 {
-  "generated": "2026-04-20T16:15:42.328238+00:00",
-  "briefing": "8 AM",
+  "generated": "2026-04-20T19:55:59.311639+00:00",
+  "briefing": "12 PM",
   "columns": {
     "monrovia": {
-      "summary": "- County awards Monrovia $460,000 for Recreation Park upgrades\n- Burger Basket owners' life savings stolen in burglary\n- Cambodian chicken wings restaurant opening at former BurgerIM\n- Fire & Rescue pancake breakfast fundraiser May 9",
+      "summary": "- County awards Monrovia $460,000 for Recreation Park upgrades\n- Beloved restaurant owners robbed of life savings by burglars\n- Monrovia Fire & Rescue pancake breakfast fundraiser May 9\n- Cambodian chicken wings restaurant opening at former BurgerIM location",
       "headlines": [
+        {
+          "headline": "Legislature considering non-lethal requirements to human-wildlife conflicts",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Trip planned to see Sound of Music May 8",
           "source": "Monrovia Now"
@@ -82,10 +86,6 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "New designs selected for city utility boxes",
-          "source": "Monrovia Now"
-        },
-        {
           "headline": "Burglars steal life savings from beloved Monrovia restaurant owners - CBS News",
           "source": "Google News"
         },
@@ -106,16 +106,16 @@
           "source": "Google News"
         },
         {
+          "headline": "Karen Bass brings more misery to suffering Angelenos with radical 14-point climate plan - New York Post",
+          "source": "Google News"
+        },
+        {
           "headline": "Bryon Allen - Monrovia Wildcats Girls Basketball (Monrovia, CA) - Sports Illustrated",
           "source": "Google News"
         },
         {
-          "headline": "Jaron Davis - Sports Illustrated",
-          "source": "Google News"
-        },
-        {
-          "headline": "Karen Bass brings more misery to suffering Angelenos with radical 14-point climate plan - New York Post",
-          "source": "Google News"
+          "headline": "5-Hour Freeway Standoff | Emergency Hot Air Balloon Landing | Beach Bomb Threat | Rain Ahead: SoCal In Brief",
+          "source": "Patch Monrovia"
         },
         {
           "headline": "TV Star Turned Amazon Deliveryman | Fine Dining's Secret $19 Steak | Eatery 'Ponzi Scheme': CA Business News",
@@ -123,10 +123,6 @@
         },
         {
           "headline": "How These 55 CA Stations Can Offer Gas $1 Cheaper Per Gallon Than Most",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Automaker Recalls 1.4M Of One America\u2019s Most Popular Models: Recall Roundup",
           "source": "Patch Monrovia"
         },
         {
@@ -196,7 +192,7 @@
       ],
       "relevance": {
         "0": false,
-        "1": true,
+        "1": false,
         "2": true,
         "3": true,
         "4": true,
@@ -208,19 +204,19 @@
         "10": true,
         "11": true,
         "12": true,
-        "13": false,
-        "14": true,
+        "13": true,
+        "14": false,
         "15": true,
-        "16": false,
+        "16": true,
         "17": false,
-        "18": true,
+        "18": false,
         "19": true,
         "20": true,
         "21": true,
         "22": false,
         "23": false,
         "24": false,
-        "25": true,
+        "25": false,
         "26": false,
         "27": false,
         "28": false,
@@ -231,21 +227,17 @@
         "33": false,
         "34": false,
         "35": false,
-        "36": false,
+        "36": true,
         "37": true,
         "38": true,
         "39": true
       }
     },
     "sgv": {
-      "summary": "- Boy shot and killed in Baldwin Park, investigation underway\n- Southern California job growth 48% below normal levels\n- La Mirada, Ganesha lead baseball and softball rankings\n- Mt. SAC Relays to feature top valley track athletes",
+      "summary": "- Boy shot and killed in Baldwin Park, prompting investigation\n- Mt. SAC Relays to feature San Gabriel Valley's top track athletes\n- El Monte detective Armando Santa Anna honored by family, colleagues\n- Sichuan restaurant opens new San Gabriel Valley location",
       "headlines": [
         {
-          "headline": "San Gabriel Valley baseball Top 10: La Mirada in top spot, Ganesha No. 2 - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "DBSA San Gabriel Valley Support Alliance - ColoradoBoulevard.net",
+          "headline": "San Gabriel Valley Boys Athlete of the Week: Kaleb Derosier, Maranatha - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -257,7 +249,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel Valley Boys Athlete of the Week: Kaleb Derosier, Maranatha - San Gabriel Valley Tribune",
+          "headline": "Things to do in the San Gabriel Valley area, April 17-25 - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -266,14 +258,6 @@
         },
         {
           "headline": "The Golden Guzman: A Gen Z Jazz Musician\u2019s Bid to Reshape San Gabriel City Council - Local News Pasadena",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "Things to do in the San Gabriel Valley area, April 17-25 - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "\u2018I\u2019m a public servant, not a politician\u2019 \u2013 San Gabriel Councilmember John Wu - Local News Pasadena",
           "source": "Google News SGV"
         },
         {
@@ -301,7 +285,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Southern California job growth 48% below normal - San Gabriel Valley Tribune",
+          "headline": "Santa Anita consensus picks for Saturday, April 18, 2026 - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -309,15 +293,27 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Santa Anita consensus picks for Saturday, April 18, 2026 - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
           "headline": "Photos: Sun to set on Coachella 2026 festival - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
+          "headline": "TinyFest brings supersmall living to Southern California house hunters - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
           "headline": "Boy shot and killed in Baldwin Park, prompting investigation - Los Angeles Times",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "San Gabriel Valley boys and girls track and field leaders - MSN",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Burroughs baseball sweeps Arcadia for first time since 2015 - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Family, colleagues honor life of El Monte detective Armando \u2018Mando\u2019 Santa Anna - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -359,6 +355,10 @@
         {
           "headline": "Free Legal Clinic Helps Pasadena Renters Navigate Eviction and Benefits Battles",
           "source": "Pasadena Now"
+        },
+        {
+          "headline": "Pasadena Expands Housing Outreach With \u2018Chats & Snacks\u2019 Event in District 2",
+          "source": "Colorado Blvd"
         },
         {
           "headline": "When Politicians Learn to \u2018Manage the Message\u2019: What Alhambra\u2019s Media Training Reveals",
@@ -405,11 +405,27 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Sierra Madre\u2019s Mount Wilson Trail Race Returns With Full Course This Spring",
-          "source": "Colorado Blvd"
+          "headline": "Man pleads guilty to all charges in deadly LASD recruit crash",
+          "source": "ABC7"
         },
         {
-          "headline": "Sweet secrets of NYC's oldest chocolate company",
+          "headline": "Mexico's Sheinbaum demands explanations after US Embassy officials die in Chihuahua",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Singer D4vd charged with first-degree murder in 'brutal and horrific' killing of 14-year-old girl",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Small plane snaps power pole, overturns in crash in Pacoima parking lot; pilot hospitalized",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Democrat Betty Yee drops out of race for California governor",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Meet NYC's rooftop beekeeper",
           "source": "ABC7"
         },
         {
@@ -417,11 +433,11 @@
           "source": "ABC7"
         },
         {
-          "headline": "Mother, 6 children killed in explosion and fire at Pennsylvania home",
+          "headline": "Sweet secrets of NYC's oldest chocolate company",
           "source": "ABC7"
         },
         {
-          "headline": "Charges expected to be filed against D4vd in teen's death, sources say",
+          "headline": "Mother, 6 children killed in explosion and fire at Pennsylvania home",
           "source": "ABC7"
         },
         {
@@ -467,26 +483,6 @@
         {
           "headline": "Family searches for 78-year-old La Brea woman missing for several days",
           "source": "ABC7"
-        },
-        {
-          "headline": "Man shot by Ontario police during domestic call",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Mark Consuelos makes official Broadway debut in 'Fallen Angels'",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Chase suspect in custody after firing shots into air in standoff on 210 Freeway in Azusa, CHP says",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Long Beach's Big Bang on the Bay fireworks show is canceled after state panel denies permit",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Woodland Hills woman arrested at LAX for alleged weapons trafficking on Iran government's behalf",
-          "source": "ABC7"
         }
       ],
       "relevance": {
@@ -502,15 +498,15 @@
         "9": true,
         "10": true,
         "11": true,
-        "12": true,
+        "12": false,
         "13": true,
-        "14": true,
+        "14": false,
         "15": true,
         "16": true,
-        "17": false,
-        "18": false,
+        "17": true,
+        "18": true,
         "19": true,
-        "20": true,
+        "20": false,
         "21": false,
         "22": false,
         "23": false,
@@ -520,11 +516,11 @@
         "27": false,
         "28": false,
         "29": false,
-        "30": true,
-        "31": false,
+        "30": false,
+        "31": true,
         "32": false,
         "33": false,
-        "34": true,
+        "34": false,
         "35": false,
         "36": false,
         "37": false,
@@ -533,10 +529,14 @@
       }
     },
     "county": {
-      "summary": "- Rancho Palos Verdes beloved trails permanently altered by devastating landslide\n- Woman arrested at LAX for allegedly helping Iran sell weapons\n- LA approves $360M Measure ULA funds for 4,000 affordable housing units\n- Stingrays stinging more Southern Californians; experts explain recent increase in attacks",
+      "summary": "- Woman arrested at LAX for allegedly helping Iran sell weapons to hostile actors\n- LA approves $360M in Measure ULA funds for 4,000 affordable housing units\n- Rancho Palos Verdes' beloved trails permanently altered by devastating landslide\n- Unclaimed California cash deadline approaches April 30; residents urged to claim funds",
       "headlines": [
         {
           "headline": "A landslide brought it down: How Rancho Palos Verdes\u2019 beloved trails have been forever altered",
+          "source": "LAist"
+        },
+        {
+          "headline": "You could have unclaimed cash from the state \u2014 but the deadline is April 30",
           "source": "LAist"
         },
         {
@@ -544,15 +544,11 @@
           "source": "LAist"
         },
         {
-          "headline": "How does a city get its own Monopoly game? Just ask Long Beach",
+          "headline": "Tickets go on sale soon for the FIFA World Cup fan festival this summer",
           "source": "LAist"
         },
         {
           "headline": "Woman arrested at LAX for allegedly helping Iran sell weapons. Here are some details",
-          "source": "LAist"
-        },
-        {
-          "headline": "Logjam of US immigration applications puts millions at greater risk of deportation",
           "source": "LAist"
         },
         {
@@ -588,15 +584,15 @@
           "source": "LAist"
         },
         {
+          "headline": "Peace talks are in doubt as the US seizes an Iranian ship",
+          "source": "LAist"
+        },
+        {
           "headline": "U.S. seizes Iranian cargo ship in Strait of Hormuz",
           "source": "LAist"
         },
         {
           "headline": "Iran says it has closed the Strait of Hormuz again, as ceasefire nears its end",
-          "source": "LAist"
-        },
-        {
-          "headline": "The Strait of Hormuz opens for commercial ships but the US blockade continues on Iran",
           "source": "LAist"
         },
         {
@@ -612,7 +608,7 @@
           "source": "LAist"
         },
         {
-          "headline": "Live Nation is supporting two California bills to lower prices. Can fans trust it?",
+          "headline": "Lagging in polls and fundraising, Betty Yee drops out of California governor\u2019s race",
           "source": "LAist"
         },
         {
@@ -648,6 +644,10 @@
           "source": "Fox 11 LA"
         },
         {
+          "headline": "Judge rules man shot by ICE in California must stay in federal custody",
+          "source": "Fox 11 LA"
+        },
+        {
           "headline": "From trauma to triumph: Peanut the resilient pup now up for adoption",
           "source": "Fox 11 LA"
         },
@@ -676,71 +676,71 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Newsom announces August special election to fill Swalwell\u2019s vacated congressional seat",
+          "headline": "Iran latest: Trump says US 'highly unlikely' to renew two-week ceasefire",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Two US Embassy personnel killed in 'accident' in Mexico, ambassador says",
+          "headline": "North Carolina shooting: 2 dead after planned fight escalates",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Tariff refund system launches today: Here\u2019s who it\u2019s for",
+          "headline": "Shreveport, Louisiana shooting: Timeline of events",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Iran latest: US seizes Iranian-flagged ship as questions persist over new talks",
+          "headline": "Canadian PM calls Canada\u2019s economic ties with US a 'weakness' that must change",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Shreveport, Louisiana shooting: 8 children killed in \u2018domestic disturbance\u2019",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Teachers to Continue Strike but Stalled Negotiations Resume",
+          "headline": "Karen Bass Unveils $14.8B Proposed Budget for Fiscal Year 2026-27",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Malibu Lane Closures Set This Week for Fire Repairs",
+          "headline": "Perris Man Charged with Possessing Tens of Thousands of Synthetic Drugs",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Starbucks Wins Round in Court Over Production of Prior Burn Accident Info",
+          "headline": "Two Killed, One Wounded in Shooting in Santa Ana",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Man Killed in Hawthorne Shooting",
+          "headline": "Carl\u2019s Jr. Workers to Strike in North Hollywood Over Safety",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Agoura Road to Close Again for Wildlife Crossing Work",
+          "headline": "CHP: Man Drove on Wrong Side of Freeway, Killed in Collision with Truck",
           "source": "MyNewsLA"
         },
         {
-          "headline": "One Killed in Collision Golden State Freeway in Burbank",
+          "headline": "Teachers Strike Continues as Talks Resume in Little Lake District",
           "source": "MyNewsLA"
         },
         {
-          "headline": "DA Hochman, LAPD Chief McDonell to Hold D4vd Case News Conference",
+          "headline": "First Responders Pull One From Downed Plane in Pacoima",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Karen Bass to Release Proposed 2026-2027 Budget",
+          "headline": "Betty Yee Drops from CA Governor Race",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Average Gas Price Decreases Slightly Again in LACo",
+          "headline": "El Monte Receives Grant for Dodgers Dreamteam Youth Program",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LAX People Mover to Commence Running Sans Passengers",
+          "headline": "Singer D4vd Faces Capitol Murder Charge for Dismembered Teen Girl Found in Tesla",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Officers Arrest Man Who Allegedly Robbed, Set Senior on Fire in DTLA",
+          "headline": "Adult Film Actress\u2019 Mom Seeks $3M from Rehab Facility",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Burbank, Los Angeles County Air Quality Index (AQI) and USA Air Pollution - IQAir",
+          "headline": "Rolling Hills, Los Angeles County Air Quality Index (AQI) and USA Air Pollution - IQAir",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Singer D4vd charged with murder of 14-year-old found decomposed in his car - PBS",
           "source": "Google News LA"
         },
         {
@@ -748,15 +748,19 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Broken Rails: What Went Wrong with LA Metro - Reason Foundation",
-          "source": "Google News LA"
-        },
-        {
           "headline": "April 20 is widely recognized, but safety on our roadways is every day. Driving under the influence of marijuana is illegal and puts lives at risk. Driving high slows reaction time, affects judgment, and can have serious consequences for you and everyone on the - Facebook",
           "source": "Google News LA"
         },
         {
-          "headline": "Newsom Appoints Two to L.A. Superior Court - Metropolitan News-Enterprise",
+          "headline": "Broken Rails: What Went Wrong with LA Metro - Reason Foundation",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "KB Home is Moving Headquarters - Los Angeles Business Journal",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Burbank, Los Angeles County Air Quality Index (AQI) and USA Air Pollution - IQAir",
           "source": "Google News LA"
         },
         {
@@ -764,15 +768,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Unemployment Rate in LA County Holds Steady Los Angeles County\u2019s seasonally adjusted unemployment rate held steady at 5.5% in February compared to January, but was below the 5.8% rate from the same month a year earlier, according to figures releas - Facebook",
-          "source": "Google News LA"
-        },
-        {
           "headline": "Burbank, Los Angeles County air quality map - IQAir",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Rolling Hills, Los Angeles County Air Quality Index (AQI) and USA Air Pollution - IQAir",
           "source": "Google News LA"
         },
         {
@@ -780,11 +776,27 @@
           "source": "Google News LA"
         },
         {
+          "headline": "Los Angeles County Sheriff Seeks Public\u2019s Help Locating Runaway Missing Juvenile Nathan Almanzar, Last Seen in San Dimas - Sierra Sun Times",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "D4vd charged with murder in 'brutal and horrific' death of teen: DA - Good Morning America",
+          "source": "Google News LA"
+        },
+        {
           "headline": "Green Valley, Los Angeles County air quality map - IQAir",
           "source": "Google News LA"
         },
         {
-          "headline": "Green Valley, Los Angeles County Air Quality Index (AQI) and USA Air Pollution - IQAir",
+          "headline": "Unemployment Rate in LA County Holds Steady Los Angeles County\u2019s seasonally adjusted unemployment rate held steady at 5.5% in February compared to January, but was below the 5.8% rate from the same month a year earlier, according to figures releas - Facebook",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Newsom Appoints Two to L.A. Superior Court - Metropolitan News-Enterprise",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "District Attorney and Police Chief to Hold D4vd Case News Conference - KOST 103.5",
           "source": "Google News LA"
         },
         {
@@ -796,27 +808,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Justice for Homicide Victims 41st Memorial Today, Sheriff Robert Luna attended a Justice for Homicide Victims event recognizing and honoring those lost to homicide. This event also marks the beginning of National Crime Victims\u2019 Rights Week. The gathering - Facebook",
+          "headline": "Bill Cosby loses civil sex assault lawsuit in Los Angeles County; faces $19-million judgment - MSN",
           "source": "Google News LA"
         },
         {
           "headline": "Calif. board postpones \u2018unsuitable\u2019 ruling for troubled L.A. juvenile site - Corrections1",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "LA District Attorney and Police Chief to Hold D4vd Case News Conference - MyNewsLA.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "D4vd Arrested In Connection With Death Of Celeste Rivas Hernandez - Canyon News",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Tax documents for school employees potentially stolen across Los Angeles County - DataBreaches.Net",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Zev Yaroslavsky Reflects on Declining Quality of Life in Los Angeles Times Report - UCLA Luskin",
           "source": "Google News LA"
         }
       ],
