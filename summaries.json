@@ -1,10 +1,14 @@
 {
-  "generated": "2026-04-25T19:38:28.170228+00:00",
-  "briefing": "12 PM",
+  "generated": "2026-04-26T02:31:32.029948+00:00",
+  "briefing": "5 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Bear cubs trapped in storm drain, tree in north Monrovia\n- Steve Baker's former homes becoming restaurant and inn development\n- Monrovia Historical Museum opens 'Engines of Change' exhibit April 30\n- Veterans Thank You Dinner at Library May 6",
+      "summary": "- Bear cubs trapped in storm drain, tree in north Monrovia\n- Burger Basket burglary tracking website launched; fundraiser helps affected family\n- Former City Historian's homes becoming restaurant and inn\n- Monrovia Historical Museum opens 'Engines of Change' exhibit April 30",
       "headlines": [
+        {
+          "headline": "A website to track Burger Basket burglars set up; also a fundraising site to help family",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Veterans Thank You Dinner at Library, May 6",
           "source": "Monrovia Now"
@@ -82,10 +86,6 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Trivia night for adults at the Library,  May 1",
-          "source": "Monrovia Now"
-        },
-        {
           "headline": "Video shows bear cub trapped inside a Southern California storm drain, another stuck in tree - CBS News",
           "source": "Google News"
         },
@@ -127,6 +127,10 @@
         },
         {
           "headline": "Economic Watch: Rising diesel costs are squeezing U.S. truckers - Xinhua",
+          "source": "Google News"
+        },
+        {
+          "headline": "Pursuit suspect jumps out of car, sets it on fire in northeast Los Angeles - dailydispatch.com",
           "source": "Google News"
         },
         {
@@ -243,13 +247,13 @@
         "9": true,
         "10": true,
         "11": true,
-        "12": true,
+        "12": false,
         "13": true,
-        "14": false,
-        "15": true,
-        "16": false,
-        "17": true,
-        "18": true,
+        "14": true,
+        "15": false,
+        "16": true,
+        "17": false,
+        "18": false,
         "19": true,
         "20": false,
         "21": true,
@@ -263,18 +267,18 @@
         "29": false,
         "30": false,
         "31": false,
-        "32": true,
-        "33": false,
-        "34": true,
+        "32": false,
+        "33": true,
+        "34": false,
         "35": true,
-        "36": false,
+        "36": true,
         "37": false,
         "38": false,
         "39": false
       }
     },
     "sgv": {
-      "summary": "- CHP arrests driver after high-speed pursuit in San Gabriel Valley\n- San Gabriel Valley Regional Housing Trust elects new leadership for affordable housing\n- Electric scooter on 110 Freeway causes seven-vehicle crash\n- Habitat celebrates first Altadena rebuild following Eaton Fire",
+      "summary": "- CHP arrests driver after high-speed pursuit in San Gabriel Valley\n- Electric scooter on 110 Freeway causes seven-vehicle crash\n- San Gabriel Valley Regional Housing Trust elects new leadership\n- Habitat celebrates first Altadena home rebuild after Eaton Fire",
       "headlines": [
         {
           "headline": "Police chase ends at scene of unrelated crash in San Gabriel Valley - NBC Los Angeles",
@@ -397,6 +401,10 @@
           "source": "Pasadena Now"
         },
         {
+          "headline": "Why Did Mike Futrell Withdraw From Pasadena City Manager Role?",
+          "source": "Colorado Blvd"
+        },
+        {
           "headline": "San Gabriel Fire Service Day Opens the Doors to Safety and to the Community",
           "source": "Colorado Blvd"
         },
@@ -441,19 +449,27 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Cultivating Tomorrow\u2019s Trailblazers: Pasadena Unified Students Gather for Districtwide Conference",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Stagecoach Country Music Festival set to continue with Lainey Wilson headlining on Day 2",
+          "headline": "Evacuation warnings issued for brush fire burning in Orange County",
           "source": "ABC7"
         },
         {
-          "headline": "2 police officers wounded, 1 critically, in shooting at Chicago hospital, officials say",
+          "headline": "1 police officer killed, another wounded, in shooting at Chicago hospital, officials say",
           "source": "ABC7"
         },
         {
-          "headline": "LAUSD teachers, administrators ratify respective new contracts after strike averted",
+          "headline": "19-year-old man killed in violent chain-reaction crash caught on video on 101 Fwy in Encino",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Meet the 8-year-old boy from NorCal training to become a pilot: 'I want to be like Top Gun Maverick'",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Bodycam video shows California police officer stuck inside robbery suspect's getaway car",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Little Lake City School District superintendent moves up his departure date amid teachers' strike",
           "source": "ABC7"
         },
         {
@@ -461,15 +477,19 @@
           "source": "ABC7"
         },
         {
-          "headline": "Cal Fire paramedic arrested for alleged sexual assaults, Riverside County authorities say",
+          "headline": "Stagecoach Country Music Festival set to continue with Lainey Wilson headlining on Day 2",
+          "source": "ABC7"
+        },
+        {
+          "headline": "LAUSD teachers, administrators ratify respective new contracts after strike averted",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Cal Fire firefighter arrested for alleged sexual assaults, Riverside County authorities say",
           "source": "ABC7"
         },
         {
           "headline": "Roommate charged with two counts of murder in death, disappearance of two Florida students",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Bodycam video shows California police officer stuck inside robbery suspect's getaway car",
           "source": "ABC7"
         },
         {
@@ -478,10 +498,6 @@
         },
         {
           "headline": "SoCal to see showers, cooler temperatures this weekend",
-          "source": "ABC7"
-        },
-        {
-          "headline": "1 killed in multi-vehicle crash on 101 Freeway in Encino; several lanes closed",
           "source": "ABC7"
         },
         {
@@ -511,18 +527,6 @@
         {
           "headline": "Stanley Tucci and Emily Blunt reflect on 20 years of 'The Devil Wears Prada' ahead of sequel release",
           "source": "ABC7"
-        },
-        {
-          "headline": "Elderly woman strangled during home invasion robbery in Hollywood Hills; suspects outstanding",
-          "source": "ABC7"
-        },
-        {
-          "headline": "3 killed, including husband and wife, in Baldwin Park shooting",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Texas agency finds Camp Mystic emergency plan insufficient, risks not opening for summer",
-          "source": "ABC7"
         }
       ],
       "relevance": {
@@ -546,30 +550,30 @@
         "17": true,
         "18": true,
         "19": true,
-        "20": false,
-        "21": false,
-        "22": false,
-        "23": false,
-        "24": false,
+        "20": true,
+        "21": true,
+        "22": true,
+        "23": true,
+        "24": true,
         "25": false,
-        "26": false,
-        "27": false,
+        "26": true,
+        "27": true,
         "28": false,
         "29": false,
         "30": true,
-        "31": false,
+        "31": true,
         "32": false,
-        "33": true,
-        "34": false,
-        "35": false,
-        "36": false,
+        "33": false,
+        "34": true,
+        "35": true,
+        "36": true,
         "37": false,
         "38": false,
-        "39": false
+        "39": true
       }
     },
     "county": {
-      "summary": "- LA Unified teachers, principals approve new 2-year labor contracts after negotiations\n- California blocks Trump administration from withholding homelessness funds in policy clash\n- Appeals court rules Trump's asylum ban at border is illegal\n- World's largest wildlife crossing over 101 Freeway in Agoura Hills opening soon",
+      "summary": "- LA Unified teachers, principals approve new 2-year labor contracts\n- California blocks Trump administration from withholding homelessness funds\n- Appeals court rules Trump's asylum ban at border illegal\n- $19M and counting in LA mayor and city attorney races",
       "headlines": [
         {
           "headline": "Justice Department makes it easier to deport those with DACA status",
@@ -584,15 +588,15 @@
           "source": "LAist"
         },
         {
+          "headline": "Trump rushed from White House Correspondents' Dinner after shooting incident",
+          "source": "LAist"
+        },
+        {
           "headline": "$19M and counting in LA races. Campaigns for LA mayor and city attorney lead the fundraising",
           "source": "LAist"
         },
         {
           "headline": "LA Unified teachers, principals approve new 2-year labor contracts. Next up: school staffers",
-          "source": "LAist"
-        },
-        {
-          "headline": "2,000 free plants will be given away Saturday in Leimert Park",
           "source": "LAist"
         },
         {
@@ -652,7 +656,15 @@
           "source": "LAist"
         },
         {
-          "headline": "Rebecca Grossman faces $100M civil trial over Iskander brothers' deaths",
+          "headline": "Torrance police warn of unpermitted RAT Beach party set for Saturday",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "LA bride Kiara Brokenbrough, who went viral for $47 wedding dress, dies at 32 during childbirth",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Rebecca Grossman, former Dodger face $100M civil trial over Iskander brothers' deaths",
           "source": "Fox 11 LA"
         },
         {
@@ -660,7 +672,7 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "World's largest wildlife crossing over 101 Freeway in Agoura Hills sets opening date",
+          "headline": "World's largest wildlife crossing sets opening date",
           "source": "Fox 11 LA"
         },
         {
@@ -672,15 +684,7 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Man killed in multi-vehicle chain-reaction crash on 101 Freeway in Encino",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Recurring fires at Sun Valley 'hoarder house' spark neighborhood outrage, legal action",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Oscar Hernandez: LA soccer coach Mario Edgardo Garcia-Aquino to stand trial for 13-year-old's murder",
+          "headline": "Man killed in 101 Freeway chain-reaction crash in Encino",
           "source": "Fox 11 LA"
         },
         {
@@ -716,11 +720,15 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "President Trump to host King Charles III, Queen Camilla for state visit at White House next week",
+          "headline": "Live updates: President Trump, first lady safe after shooting outside White House Correspondents' Dinner",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Iran latest: Pakistan visit off; US hunting for mines in Strait of Hormuz",
+          "headline": "Iran latest: Pakistan visit off; Trump says new Iran offers rejected",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "President Trump to host King Charles III, Queen Camilla for state visit at White House next week",
           "source": "Fox 11 LA"
         },
         {
@@ -728,51 +736,47 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "DOJ to allow firing squads for executions",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Average LA County Gas Price Back Over $6 a Gallon",
+          "headline": "Brush Fire in Brea Now 200 Acres, Burning in Steep Terrain",
           "source": "MyNewsLA"
         },
         {
-          "headline": "One Person Killed in 101 Freeway Crash in Encino",
+          "headline": "Progress Made on Brush Fire in Brea Firefight; Some Evacuations Lifted",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Burglars Target Another Home in the San Fernando Valley",
+          "headline": "Culver City Costco Evacuated by Shooting Threat Call",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Riverside County Gas Prices Going Back Up",
+          "headline": "Authorities Arrest 20 People at DUI Checkpoint in Riverside",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Allegedly Armed Man Holed Up Inside A Home in Lancaster",
+          "headline": "Vegetation Fire Burns Over 2 Acres in Mead Valley",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LA Astronomical Society to Mark 100 Years with 100 Telescopes at Griffith Park",
+          "headline": "Rain, Gusty Winds to Expected to Continue Through Weekend",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Potential Light Rain, Cooler Temps Heads to Southland",
+          "headline": "Car Fire Threatens Surrounding Structures in Silver Lake",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Fatal 101 Freeway Crash in Encino",
+          "headline": "Evacuation Warnings Issued Due to Brush Fire in Brea",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Stagecoach Country Music Festival Continues with Lainey Wilson",
+          "headline": "Granada Hills Charter High School Wins National Academic Decathlon",
           "source": "MyNewsLA"
         },
         {
-          "headline": "`Deb\u2019 Producer Denies Sexual Harassment Accusations",
+          "headline": "Man Killed in Chain-Reaction Crash on 101 Freeway in Encino",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Fire Damages Santa Ana Home",
+          "headline": "Evacuation Warnings Issued Due to Brush Fire in Brea",
           "source": "MyNewsLA"
         },
         {
@@ -780,23 +784,23 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Rolling Hills, Los Angeles County Air Quality Index (AQI) and USA Air Pollution - IQAir",
-          "source": "Google News LA"
-        },
-        {
           "headline": "LA County Department of Mental Health Launches Month-Long Mental Health Awareness Campaign - Santa Monica Daily Press",
           "source": "Google News LA"
         },
         {
-          "headline": "1 killed in multi-vehicle crash on 101 Freeway in Encino; several lanes closed - ABC7 Los Angeles",
+          "headline": "April is Child Abuse Prevention Month, and a time to raise awareness, strengthen families, and protect every child\u2019s right to feel safe and supported. LASD Detective Division Chief Jose G. Mendoza, Detective Division Commander Richard Ruiz, Special Victims - facebook.com",
           "source": "Google News LA"
         },
         {
-          "headline": "LA County Stormwater Capture Jumps to 120 Billion Gallons Los Angeles County captured more than 120 billion gallons of stormwater during the 2025-26 storm season, a sharp increase from the previous year that will significantly boost the region\u2019s groundw - facebook.com",
+          "headline": "Green Valley, Los Angeles County air quality map - IQAir",
           "source": "Google News LA"
         },
         {
-          "headline": "LA County sees nation's biggest population decline - MSN",
+          "headline": "D4vd murder case: A timeline of the investigation into 14-year-old girl's death - ABC11 Raleigh-Durham",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LA County supervisor thanks Trump for meeting on wildfire recovery, says other states \u2018in line\u2019 asking for FEMA help - The Hill",
           "source": "Google News LA"
         },
         {
@@ -808,7 +812,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Green Valley, Los Angeles County air quality map - IQAir",
+          "headline": "Armenian Genocide Remembrance Day commemorated across Southern California with events in Los Angeles, Glendale and Beverly Hills - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -816,7 +820,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "L.A. County Begins Mailing Sample Ballots for the 2026 Statewide Direct Primary Election - - Random Lengths News",
+          "headline": "Rolling Hills, Los Angeles County Air Quality Index (AQI) and USA Air Pollution - IQAir",
           "source": "Google News LA"
         },
         {
@@ -824,15 +828,11 @@
           "source": "Google News LA"
         },
         {
+          "headline": "LA County Stormwater Capture Jumps to 120 Billion Gallons Los Angeles County captured more than 120 billion gallons of stormwater during the 2025-26 storm season, a sharp increase from the previous year that will significantly boost the region\u2019s groundw - facebook.com",
+          "source": "Google News LA"
+        },
+        {
           "headline": "Today, the Los Angeles County Sheriff\u2019s Department honors the memory of all who perished during the Armenian Genocide of 1915. We mourn with the Armenian community, and pay tribute to the lives affected and lost by this historical tragedy. - facebook.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "D4vd identified as 'target' in murder probe tied to teen found in his Tesla - MSN",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Armenian Genocide Remembrance Day commemorated across Southern California with events in Los Angeles, Glendale and Beverly Hills - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -840,7 +840,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Joint Statement from Supervisor Barger and Mayor Bass - COUNTY OF LOS ANGELES (.gov)",
+          "headline": "L.A. County Begins Mailing Sample Ballots for the 2026 Statewide Direct Primary Election - - Random Lengths News",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "D4vd identified as 'target' in murder probe tied to teen found in his Tesla - MSN",
           "source": "Google News LA"
         },
         {
@@ -848,11 +852,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "L.A. County Fire Dept. Open House Set For Palos Verdes Peninsula - Patch",
+          "headline": "Engineer sues LA County for right to work from home when Pride flag is displayed - MSN",
           "source": "Google News LA"
         },
         {
-          "headline": "Trump says will be looking into banks regarding Los Angeles wildfires - MSN",
+          "headline": "Broken Rails: What Went Wrong with LA Metro - Reason Foundation",
           "source": "Google News LA"
         }
       ],
