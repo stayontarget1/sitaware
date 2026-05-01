@@ -1,10 +1,18 @@
 {
-  "generated": "2026-04-30T20:05:33.847061+00:00",
-  "briefing": "12 PM",
+  "generated": "2026-05-01T02:48:40.737624+00:00",
+  "briefing": "5 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Bear cubs spotted in north Monrovia; one rescued from storm drain\n- Monrovia Days festival coming May 14-17 with community events\n- Water district offers free climate-appropriate plants to residents\n- Last Eaton Fire shelter animal adopted; community volunteers needed",
+      "summary": "- Bear cubs trapped in storm drain, tree rescued in Monrovia neighborhood\n- Monrovia Days festival coming May 14-17 with community activities\n- Police respond to shotgun incident, hit-and-run, fake utility texts\n- Historical Museum opens 'Engines of Change' exhibit April 30",
       "headlines": [
+        {
+          "headline": "Dinner at Pie Life Pizza",
+          "source": "Monrovia Now"
+        },
+        {
+          "headline": "Rare photo of McDonald Brother's first food stand - a giant orange - on display May 3; Also, a re-creation of that food stand",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Monrovia Police: Shotgun drawn in business dispute; Driver high on nitrous, possible hit-and-run; Fake Edison texts demand gift cards; Shoplifter caught at store exit; Etc.",
           "source": "Monrovia Now"
@@ -78,15 +86,11 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Coming Up in Monrovia",
-          "source": "Monrovia Now"
-        },
-        {
-          "headline": "Troublesome bear cubs in north Monrovia",
-          "source": "Monrovia Now"
-        },
-        {
           "headline": "Video shows bear cub trapped inside a Southern California storm drain, another stuck in tree - CBS News",
+          "source": "Google News"
+        },
+        {
+          "headline": "Mario Ernst Miscavish Obituary - Monrovia, CA (1944-2026) - Pasadena Star News",
           "source": "Google News"
         },
         {
@@ -114,10 +118,6 @@
           "source": "Google News"
         },
         {
-          "headline": "Massive Wildfires Continue To Devastate South Georgia, With The Largest Fire Burning Almost 30,000 Acres & Is Only 10% Contained \u2014 71% Of The State In 'Extreme Drought' - Secret Atlanta",
-          "source": "Google News"
-        },
-        {
           "headline": "TransGlobal Insurance Data Breach Lawsuit Investigation - Claim Depot",
           "source": "Google News"
         },
@@ -138,10 +138,6 @@
           "source": "Google News"
         },
         {
-          "headline": "Lawsuit brewing against Trader Joe\u2019s over coffee\u2019s caffeine label - MSN",
-          "source": "Google News"
-        },
-        {
           "headline": "Trader Joe\u2019s pulls 10 million pounds of frozen food after glass shards found - MSN",
           "source": "Google News"
         },
@@ -154,31 +150,19 @@
           "source": "Google News"
         },
         {
-          "headline": "D4vd Lured Teen, Used Chainsaw To Dismember Her \u2014 How He Did It, According To Prosecutors",
+          "headline": "$400M Mansion Nation's Priciest | Contents Of Mystery Safe | United's Close-Call With Drone: Patch PM",
           "source": "Patch Monrovia"
         },
         {
-          "headline": "Nick Reiner's Murder Trial Delayed As Attorneys Juggle Terabytes Of Evidence",
+          "headline": "Britney Spears, Accused Of Driving Drunk And High, Could Avoid Jail Time: Prosecutors",
           "source": "Patch Monrovia"
         },
         {
-          "headline": "El Ni\u00f1o Summer Forecast: How Hot And Stormy Will It Be In CA?",
+          "headline": "$400M Listing For LA Mega Mansion Aims To Be Country's Most Expensive Home Ever Sold",
           "source": "Patch Monrovia"
         },
         {
-          "headline": "6 Plead Guilty To LA Protest Violence That Left CHP Car On Fire: DOJ",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "DJ Let Go After Nearly 20 Years At KCRW As Santa Monica Station Brings Aboard 2 New Voices",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Knife-Wielding Woman Holed Up In LA Hospital Bathroom During Tense Standoff: LAPD",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Popular Chocolate Recalled Over Salmonella Risk",
+          "headline": "Major Lane Closures To Snarl LA County Freeway Starting Friday",
           "source": "Patch Monrovia"
         },
         {
@@ -236,9 +220,9 @@
         "2": true,
         "3": true,
         "4": true,
-        "5": false,
+        "5": true,
         "6": true,
-        "7": true,
+        "7": false,
         "8": true,
         "9": true,
         "10": true,
@@ -252,15 +236,15 @@
         "18": true,
         "19": true,
         "20": false,
-        "21": false,
-        "22": true,
-        "23": false,
+        "21": true,
+        "22": false,
+        "23": true,
         "24": false,
         "25": false,
         "26": false,
         "27": false,
         "28": false,
-        "29": false,
+        "29": true,
         "30": false,
         "31": false,
         "32": false,
@@ -274,7 +258,7 @@
       }
     },
     "sgv": {
-      "summary": "- CHP arrests driver after high-speed pursuit in San Gabriel Valley\n- Burglar breaks into four San Gabriel Valley businesses in one night\n- San Gabriel Valley Housing Trust elects new leadership amid affordable housing crisis\n- Food distribution event helps families across San Gabriel Valley",
+      "summary": "- CHP arrests driver after high-speed pursuit in San Gabriel Valley\n- Burglar strikes four Valley businesses in single night; suspect sought\n- San Gabriel Valley Housing Trust elects new leadership amid affordability crisis\n- Food distribution event supports families across the San Gabriel Valley",
       "headlines": [
         {
           "headline": "CHP takes pursuit driver into custody in San Gabriel Valley - NBC Los Angeles",
@@ -309,7 +293,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "CHP takes pursuit driver into custody in San Gabriel Valley - NBC Los Angeles",
+          "headline": "Food distribution event helps families in the San Gabriel Valley - NBC Los Angeles",
           "source": "Google News SGV"
         },
         {
@@ -329,7 +313,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Food distribution event helps families in the San Gabriel Valley - NBC Los Angeles",
+          "headline": "CHP takes pursuit driver into custody in San Gabriel Valley - NBC Los Angeles",
           "source": "Google News SGV"
         },
         {
@@ -345,15 +329,15 @@
           "source": "Google News SGV"
         },
         {
+          "headline": "California officials warn of increase in tiny black flies known for painful bites - FOX 11 Los Angeles",
+          "source": "Google News SGV"
+        },
+        {
           "headline": "Driver wanted for speeding arrested in San Gabriel Valley after high-speed police pursuit - MSN",
           "source": "Google News SGV"
         },
         {
           "headline": "Divers take center stage ahead of next week\u2019s CIF-SS swimming finals - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "Meet Zoey, Bleu and Smudge, this week\u2019s Pets of the Week in the San Gabriel Valley - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -397,6 +381,18 @@
           "source": "Pasadena Now"
         },
         {
+          "headline": "Rabid Bat Found in Pasadena Prompts Public Health Warning",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Understanding Ridv\u00e1n, the Holiest Festival in the Bah\u00e1\u2019\u00ed Faith",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Pasadena\u2019s Soul Is in Its People\u2014Not in Its Parking Spots",
+          "source": "Colorado Blvd"
+        },
+        {
           "headline": "Pasadena Tournament of Roses Opens Doors for Free Public Tours Beginning May 7, 2026",
           "source": "Colorado Blvd"
         },
@@ -433,27 +429,55 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Sierra Madre Council Advances Major Infrastructure Software Upgrade and Approves Lima Street Subdivision",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Alhambra Needs to Get Serious About Sustainability",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Pasadena Firefighter Honored for Service and Courage",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Cal Fire closing hiking, off-roading trails in Riverside County amid heightened fire risk",
+          "headline": "Thousands get brush-clearance notices for first time after LA fire zones expand",
           "source": "ABC7"
         },
         {
-          "headline": "LA's top federal prosecutor discusses arrest of more than 40 Mexican Mafia members, associates",
+          "headline": "Updated death certificate for Celeste Rivas Hernandez states it's unclear if she was pregnant",
           "source": "ABC7"
         },
         {
-          "headline": "Watch STOMP Out Bullying's 2026 Culture Shock",
+          "headline": "California governor candidates lay out their plans to boost film and television production",
+          "source": "ABC7"
+        },
+        {
+          "headline": "LAPD steps up patrols on Western Avenue to combat prostitution near homes and schools",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Supreme Court weakens landmark Civil Rights-era law, aids GOP efforts to control US House",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Stanley Tucci and Emily Blunt honored with stars on Hollywood Walk of Fame",
+          "source": "ABC7"
+        },
+        {
+          "headline": "'9-1-1: Nashville's' Kimberly Williams-Paisley talks juggling latest projects, giving back",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Mark Rober, Disney team up to make young leukemia survivor's dream come true",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Genesis brand moves further upscale, remains in large luxury sedan segment",
+          "source": "ABC7"
+        },
+        {
+          "headline": "2 Glendale residents arrested in alleged $300K Nordstrom refund scheme",
+          "source": "ABC7"
+        },
+        {
+          "headline": "LA councilmember wants to allow noncitizens to vote in city elections",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Mexico goalkeeper Guillermo 'Memo' Ochoa eyes an emotional farewell after the World Cup",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Brawl breaks out at softball game between 2 Central California high schools",
           "source": "ABC7"
         },
         {
@@ -461,47 +485,15 @@
           "source": "ABC7"
         },
         {
-          "headline": "Mt. SAC students participate in active shooter drill simulating emergency response, triage",
+          "headline": "'General Hospital' stars Braedyn Bruner, Giovanni Mazza talk 'Aladdin' crossover + their love story",
           "source": "ABC7"
         },
         {
-          "headline": "Trial begins for Nick Pasqual, actor accused of stabbing his girlfriend multiple times in Sunland",
+          "headline": "'Ready or Not 2: Here I Come' to bring the screams and the laughs with digital, DVD release",
           "source": "ABC7"
         },
         {
-          "headline": "Mom sentenced after father convicted of killing twin daughters",
-          "source": "ABC7"
-        },
-        {
-          "headline": "David Allan Coe, who wrote 'Take This Job and Shove It' and other country hits, dies at 86",
-          "source": "ABC7"
-        },
-        {
-          "headline": "California to share data on immigrant drivers nationally, report says",
-          "source": "ABC7"
-        },
-        {
-          "headline": "King Charles, Queen Camilla to visit Virginia on final day of trip",
-          "source": "ABC7"
-        },
-        {
-          "headline": "SoCal sees gradual warmup with several sunny days ahead",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Costco makes rare change to popular hot dog combo",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Here's what happens to your money if inflation relief funds are not claimed by Thursday deadline",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Whooping cough outbreak: Pasadena health officials confirm 4 cases at school",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Talks to bail out Spirit Airlines stall as company teeters toward collapse",
+          "headline": "Britney Spears charged with driving under the influence of alcohol and drugs",
           "source": "ABC7"
         },
         {
@@ -509,19 +501,11 @@
           "source": "ABC7"
         },
         {
-          "headline": "New images show WHCD shooting suspect run through metal detector",
+          "headline": "LA's top federal prosecutor discusses arrest of more than 40 Mexican Mafia members, associates",
           "source": "ABC7"
         },
         {
-          "headline": "3.4-magnitude earthquake rattles Loma Linda area, USGS says",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Little Lake City School District and union reach tentative deal to end teachers strike",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Curacao launches program to pay off debt for customers who are detained and deported",
+          "headline": "Menu is as easy as 'Sunday Morning': Bakery only serves cinnamon rolls",
           "source": "ABC7"
         }
       ],
@@ -543,7 +527,7 @@
         "14": true,
         "15": true,
         "16": true,
-        "17": true,
+        "17": false,
         "18": true,
         "19": true,
         "20": true,
@@ -557,7 +541,7 @@
         "28": false,
         "29": true,
         "30": true,
-        "31": true,
+        "31": false,
         "32": true,
         "33": true,
         "34": true,
@@ -569,14 +553,14 @@
       }
     },
     "county": {
-      "summary": "- MyLA311 service-request system faces tech problems requiring fixes from officials\n- Federal judge expresses concern for immigrants at Adelanto detention facility\n- California economic relief debit cards deadline is today, use now\n- Little Lake teachers end strike with tentative contract agreement reached",
+      "summary": "- SoCal Gas ratepayers shouldn't fund company's green hydrogen, state regulators say\n- Federal judge expresses concern for immigrants detained at Adelanto facility\n- Pasadena parents worry as district considers school closures and mergers\n- Six plead guilty in violent 2025 LA freeway riot against CHP",
       "headlines": [
         {
-          "headline": "Officials aim to fix tech problems in MyLA311, LA's service-request system",
+          "headline": "SoCal Gas ratepayers should not pay for company\u2019s  \u2018green\u2019 hydrogen, state regulators say",
           "source": "LAist"
         },
         {
-          "headline": "California voters greenlit billions of dollars to fix schools. How much has it helped?",
+          "headline": "Two otters form a mother-daughter bond in Aquarium\u2019s surrogacy program",
           "source": "LAist"
         },
         {
@@ -584,7 +568,19 @@
           "source": "LAist"
         },
         {
-          "headline": "Today's the deadline to use those California economic relief debit cards",
+          "headline": "Britney Spears charged with misdemeanor DUI",
+          "source": "LAist"
+        },
+        {
+          "headline": "The lomo saltado burrito that broke the internet",
+          "source": "LAist"
+        },
+        {
+          "headline": "California voters greenlit billions of dollars to fix schools. How much has it helped?",
+          "source": "LAist"
+        },
+        {
+          "headline": "Officials aim to fix tech problems in MyLA311, LA's service-request system",
           "source": "LAist"
         },
         {
@@ -593,14 +589,6 @@
         },
         {
           "headline": "Plans to fence MacArthur Park made headlines, residents say they\u2019re still waiting on details",
-          "source": "LAist"
-        },
-        {
-          "headline": "Cakes, cookies and bagels: the best gluten-free bakeries in LA",
-          "source": "LAist"
-        },
-        {
-          "headline": "This LA apartment building was revolutionary. After years of neglect, it has finally been restored",
           "source": "LAist"
         },
         {
@@ -644,15 +632,23 @@
           "source": "LAist"
         },
         {
-          "headline": "Meet the candidates for California lieutenant governor: \u2018A job about nothing\u2019",
-          "source": "LAist"
-        },
-        {
           "headline": "Supreme Court ruling on voting won\u2019t change California districts, but could hurt Democrats",
           "source": "LAist"
         },
         {
-          "headline": "Does D4vd face the death penalty?",
+          "headline": "Pasadena parents worry as district considers school closures and mergers",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Swatting call draws heavy LAPD presence at a middle school in Cypress Park",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Ventura County sheriff warns of spike in armed catalytic converter thefts",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Is D4vd facing the death penalty? Prosecutors detail why singer meets the legal threshold",
           "source": "Fox 11 LA"
         },
         {
@@ -672,15 +668,7 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Hit-and-run driver kills woman in crosswalk with cane, witnesses say",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "'The Brady Experience' returns to Studio City this summer: What to know",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "D4vd accused of killing, dismembering Celeste Rivas Hernandez, 14, to protect singer's music career",
+          "headline": "Leaving California makes homeownership 48% more likely, study finds",
           "source": "Fox 11 LA"
         },
         {
@@ -700,6 +688,10 @@
           "source": "Fox 11 LA"
         },
         {
+          "headline": "Twitch streamer 'Minister Zay' hit by car during faith walk from Philadelphia to California",
+          "source": "Fox 11 LA"
+        },
+        {
           "headline": "Man living in Arizona under alias arrested in 34-year-old California cold case murder",
           "source": "Fox 11 LA"
         },
@@ -708,15 +700,7 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Google co-founder rips California billionaire tax: 'I fled socialism'",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "California billionaire tax measure secures signatures for November ballot",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "House approves bill to fund DHS ending a record shutdown",
+          "headline": "Trump signs DHS funding bill, ending a record shutdown",
           "source": "Fox 11 LA"
         },
         {
@@ -732,47 +716,47 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Tournament of Roses to Offer Free Tours of Tournament House",
+          "headline": "Orange County Reports Third Case of Measles This Year",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Driver Suspected of DUI Crashes into Power Pole Near Desert Hot Springs",
+          "headline": "Missing 25-Year-Old Man in Bellflower Located",
           "source": "MyNewsLA"
         },
         {
-          "headline": "May Day Rally, March Planned from MacArthur Park to Grand Park",
+          "headline": "Man Found Dead in Menifee Home, Autopsy Pending",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Port of LA to Offer Free Harbor Boat Tours for World Trade Week",
+          "headline": "City Attorney Opposes Split to Office as Leaders Take Up Charter Reform",
           "source": "MyNewsLA"
         },
         {
-          "headline": "G League Team Affiliate of LA Lakers to Move in Coachella Valley",
+          "headline": "Second Mead Valley Fire Scorches Nearly Seven Acres",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Lucas Museum Previews 20 Inaugural Exhibitions Ahead of September Opening",
+          "headline": "Woman Who Died in Fall on Cruise Ship Identified",
           "source": "MyNewsLA"
         },
         {
-          "headline": "G League Team Affiliate of LA Lakers to Move in Coachella Valley",
+          "headline": "Monterey Park, East Los Angeles College Partner on Entrepreneurship Center",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Man Tells Judge He Wants to Plead Guilty in Killings of Officer, Second Man",
+          "headline": "1 Injured in Sylmar RV Fire",
           "source": "MyNewsLA"
         },
         {
-          "headline": "More Lane Reductions, Ramp Closures Scheduled on 405 Through Sepulveda Pass",
+          "headline": "Man, Woman Arrested in $300K Nordstrom Fraud Case in Glendale",
           "source": "MyNewsLA"
         },
         {
-          "headline": "DA Says D4vd Bought Body Bag, Chainsaws, Left Teen\u2019s Body in Car, Went on Tour",
+          "headline": "Second Fire Breaks out in Mead Valley, Spreading over Hills",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Torrance Suspect in DC Shooting to Remain Jailed",
+          "headline": "Hoax Call Prompts Lockdown at Cypress Park Middle School",
           "source": "MyNewsLA"
         },
         {
@@ -784,7 +768,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Preparing for the next Los Angeles | Mathews - Ventura County Star",
+          "headline": "LA County launches $2.1-million eviction diversion pilot program - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -792,7 +776,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "LA County launches $2.1-million eviction diversion pilot program - ABC7 Los Angeles",
+          "headline": "Preparing for the next Los Angeles | Mathews - Ventura County Star",
           "source": "Google News LA"
         },
         {
@@ -804,6 +788,18 @@
           "source": "Google News LA"
         },
         {
+          "headline": "Meet Alex Villanueva, Candidate For Los Angeles County Sheriff - Patch",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Britney Spears formally charged with DUI in California - France 24",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "#LASD is Asking for the Public's Help Locating At-Risk Missing Juvenile, Madison Ezabella Arellano #Unincorp #Covina Los Angeles County Sheriff\u2019s Department San Dimas Station Detectives are asking for the public\u2019s help locating At-Risk Missing Juvenile, - facebook.com",
+          "source": "Google News LA"
+        },
+        {
           "headline": "SUP. HORVATH INTRODUCES MOTION TO STRENGTHEN SAFETY AT WHITEMAN AIRPORT - COUNTY OF LOS ANGELES (.gov)",
           "source": "Google News LA"
         },
@@ -812,11 +808,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "In Memory of Deputy Gordon D. Erickson EOW: April 30, 1970 On April 24, 1970, Deputy Gordon Erickson and his partner were dropping off prisoners at Citrus Court in West Covina. The bus made a sudden left turn and Erickson fell out the open bus door and - facebook.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Short-Term Rental Regulation News April 2026: LA, Santa Ana, Saratoga - RSU by PriceLabs",
+          "headline": "Los Angeles County Sheriff Seeks Public\u2019s Help Locating At-Risk Missing 83-Year-Old Jessie Ray Kalinowski, Last Seen in West Hollywood - Sierra Sun Times",
           "source": "Google News LA"
         },
         {
@@ -824,15 +816,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "How LA County\u2019s JCOD is Reimaging Life After Incarceration - Local News Pasadena",
-          "source": "Google News LA"
-        },
-        {
           "headline": "Los Angeles weather: Southern California sees gradual warmup with several sunny days ahead - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Hard Work and Dedication: Giving Inmates a Second Chance The Los Angeles County Sheriff\u2019s Department proudly recognizes the graduation of Class 64 from our Inmate Fire Training Program. Over the course of an intensive 80-hour training, participants de - facebook.com",
           "source": "Google News LA"
         },
         {
@@ -840,19 +824,19 @@
           "source": "Google News LA"
         },
         {
+          "headline": "Hard Work and Dedication: Giving Inmates a Second Chance The Los Angeles County Sheriff\u2019s Department proudly recognizes the graduation of Class 64 from our Inmate Fire Training Program. Over the course of an intensive 80-hour training, participants de - facebook.com",
+          "source": "Google News LA"
+        },
+        {
           "headline": "SUP. HORVATH SECURES EXTENSION OF PRICE GOUGING PROTECTIONS FOR FIRE-IMPACTED RESIDENTS - COUNTY OF LOS ANGELES (.gov)",
           "source": "Google News LA"
         },
         {
-          "headline": "Board Approves Horvath Motion to Coordinate Wildfire Prevention Across Santa Monica Mountains - COUNTY OF LOS ANGELES (.gov)",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "The Magic is Fading? The Heartbreaking Reason Los Angeles Just Hit Its Worst Travel Slump in Years - Travel And Tour World",
-          "source": "Google News LA"
-        },
-        {
           "headline": "Los Angeles homeless services agency to lay off 284 workers - The Center Square",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "How LA County\u2019s JCOD is Reimaging Life After Incarceration - Local News Pasadena",
           "source": "Google News LA"
         }
       ],
