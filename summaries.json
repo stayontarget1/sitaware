@@ -1,9 +1,9 @@
 {
-  "generated": "2026-05-07T16:56:20.942496+00:00",
-  "briefing": "8 AM",
+  "generated": "2026-05-07T20:07:45.805901+00:00",
+  "briefing": "12 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Monrovia High School Battle of the Bands Friday at 5 p.m.\n- Special Ed teacher Rebecca Alarcon named Teacher of the Year\n- Monrovia Historical Museum opens Route 66 exhibit, 'A Road Through Time'\n- Monrovia School District holds Femineer engineering summit",
+      "summary": "- Special Ed teacher Rebecca Alarcon named Monrovia Teacher of the Year\n- Monrovia High School hosts Battle of the Bands Friday at 5pm\n- Route 66 Centennial Celebration at Recreation Park May 3 with museum exhibit\n- Monrovia teams rank top 10 in regional Stock Market Game competition",
       "headlines": [
         {
           "headline": "Monrovia High School Battle of the Bands Friday at 5 p.m.",
@@ -106,10 +106,6 @@
           "source": "Google News"
         },
         {
-          "headline": "Trader Joe's ditches pastels for stripes with upcoming mini tote launch - USA Today",
-          "source": "Google News"
-        },
-        {
           "headline": "Mattawan Air Quality Index (AQI) and USA Air Pollution - IQAir",
           "source": "Google News"
         },
@@ -127,6 +123,10 @@
         },
         {
           "headline": "Forte Racing Earns Two Podiums at Miami Grand Prix Weekend - SpeedwayMedia.com",
+          "source": "Google News"
+        },
+        {
+          "headline": "LA County Voter Guide: Whats On The June 2 Ballot - Patch",
           "source": "Google News"
         },
         {
@@ -216,7 +216,7 @@
         "2": true,
         "3": true,
         "4": true,
-        "5": false,
+        "5": true,
         "6": true,
         "7": true,
         "8": true,
@@ -235,7 +235,7 @@
         "21": false,
         "22": false,
         "23": true,
-        "24": false,
+        "24": true,
         "25": false,
         "26": false,
         "27": false,
@@ -254,14 +254,10 @@
       }
     },
     "sgv": {
-      "summary": "- Coalition opposes proposed data centers and battery storage projects in Industry\n- LA County detectives investigate fatal shooting of woman in Rosemead\n- Police search for man suspected of four burglaries in single night\n- San Gabriel Valley women's summit discusses resilience following Eaton fire",
+      "summary": "- Coalition opposes data centers, battery storage projects proposed in City of Industry\n- Woman fatally shot in Rosemead; LA County homicide detectives investigating\n- San Gabriel Valley softball, baseball top 20 rankings released this week\n- Women's summit discusses resilience and recovery following Eaton fire impact",
       "headlines": [
         {
           "headline": "San Gabriel Valley softball Top 20: La Mirada, California lead the way - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "San Gabriel Valley Boys Athlete of the Week: Brenden Neeley, Walnut - Pasadena Star News",
           "source": "Google News SGV"
         },
         {
@@ -269,11 +265,15 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel Valley softball Top 20: La Mirada, Cal lead the way - Whittier Daily News",
+          "headline": "San Gabriel Valley Boys Athlete of the Week: Brenden Neeley, Walnut - Pasadena Star News",
           "source": "Google News SGV"
         },
         {
-          "headline": "Greater Pasadena Area and San Gabriel Valley Set for Major Warmup After Early-Week Chill - ColoradoBoulevard.net",
+          "headline": "DBSA San Gabriel Valley Support Alliance - ColoradoBoulevard.net",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "San Gabriel Valley softball Top 20: La Mirada, Cal lead the way - Whittier Daily News",
           "source": "Google News SGV"
         },
         {
@@ -293,7 +293,11 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel Valley Girls Athlete of the Week: Alison Ortega, La Mirada - Whittier Daily News",
+          "headline": "Greater Pasadena Area and San Gabriel Valley Set for Major Warmup After Early-Week Chill - ColoradoBoulevard.net",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "San Gabriel Valley Girls Athlete of the Week: Alison Ortega, La Mirada - Pasadena Star News",
           "source": "Google News SGV"
         },
         {
@@ -301,15 +305,19 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Greater Pasadena Area and San Gabriel Valley Set for Major Warmup After Early-Week Chill - ColoradoBoulevard.net",
-          "source": "Google News SGV"
-        },
-        {
           "headline": "Column: San Gabriel Valley Women\u2019s summit gathers panel on resilience after the Eaton fire - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "Police in San Gabriel Valley search for man who allegedly committed 4 burglaries in one night - MSN",
+          "headline": "Photos: San Gabriel Valley, Whittier welcome Easter - MSN",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Greater Pasadena Area and San Gabriel Valley Set for Major Warmup After Early-Week Chill - ColoradoBoulevard.net",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "San Gabriel Valley Girls Athlete of the Week: Alison Ortega, La Mirada - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -321,20 +329,20 @@
           "source": "Google News SGV"
         },
         {
+          "headline": "Police in San Gabriel Valley search for man who allegedly committed 4 burglaries in one night - MSN",
+          "source": "Google News SGV"
+        },
+        {
           "headline": "San Gabriel Valley Residents to Rally Against Proposed Data Centers and Battery Storage Projects - ColoradoBoulevard.net",
           "source": "Google News SGV"
         },
         {
-          "headline": "Riverside\u2019s historic Mission Inn sold to San Manuel Nation - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
+          "headline": "Newsweek Names 13 Kaiser Permanente Southern California Hospitals on Its America\u2019s Best Maternity Hospitals 2026 List",
+          "source": "Pasadena Now"
         },
         {
-          "headline": "Photos: San Gabriel Valley, Whittier welcome Easter - MSN",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "More 605 paving work closures slated between Cerritos, Irwindale - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
+          "headline": "Before the Gavel: Pasadena Committee to Review Housing, Planning and Rent Stabilization Budgets",
+          "source": "Pasadena Now"
         },
         {
           "headline": "Kaiser Permanente Funds Three Years of Trauma Care for Pasadena Unified Students",
@@ -369,12 +377,8 @@
           "source": "Pasadena Now"
         },
         {
-          "headline": "Nursing Home That Served Pasadena and Altadena for Decades Sues Edison Over Eaton Fire",
-          "source": "Pasadena Now"
-        },
-        {
-          "headline": "Nana\u2019s Green Tea Plants Its U.S. Flag on Raymond Avenue",
-          "source": "Pasadena Now"
+          "headline": "Alhambra to Host Town Hall on 710 Mobility Improvement Projects May 26",
+          "source": "Colorado Blvd"
         },
         {
           "headline": "San Gabriel Recognizes Veterans, AAPI Community and Confronts Staffing Modernization",
@@ -421,11 +425,51 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "\u201cOur Democracy Deserves Protection\u201d Talk Set for May 31 in Pasadena",
-          "source": "Colorado Blvd"
+          "headline": "Metrolink sees surge in ridership as soaring gas prices push SoCal commuters toward public transit",
+          "source": "ABC7"
         },
         {
-          "headline": "Rubio faces challenge in Pope Leo meeting after Trump's criticism over Iran",
+          "headline": "Man who firebombed a demonstration in Colorado, killing 1, is sentenced to life in prison",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Pregnant woman critically injured in Koreatown hit-and-run crash",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Road rage incident escalates into shooting in Van Nuys, police say",
+          "source": "ABC7"
+        },
+        {
+          "headline": "New 'Hamilton' Collector's Edition available in 4K this June",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Hang with hedgehogs at Tokyo's Chiku Chiku Caf\u00e9",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Desperate for help, people face 6-hour wait at Oxnard food distribution",
+          "source": "ABC7"
+        },
+        {
+          "headline": "LAPD found not liable for officer's fatal shooting of 14-year-old girl in Burlington store",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Man shot on 215 Freeway in Murrieta, forcing hourslong closure of southbound lanes",
+          "source": "ABC7"
+        },
+        {
+          "headline": "7-year-old boy found safe after going missing in Santa Monica; father in custody",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Everything we know about this summer's 'Dancing with the Stars' Con",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Hanford community comes together to honor the life of Adrian Valdovinos during emotional vigil",
           "source": "ABC7"
         },
         {
@@ -433,15 +477,15 @@
           "source": "ABC7"
         },
         {
+          "headline": "Vatican and State Department stress solid ties after Rubio's fence-mending visit over Trump attacks",
+          "source": "ABC7"
+        },
+        {
           "headline": "Fans say buying FIFA World Cup tickets has become costly and confusing",
           "source": "ABC7"
         },
         {
-          "headline": "Search underway for missing 7-year-old boy in Santa Monica",
-          "source": "ABC7"
-        },
-        {
-          "headline": "California among 3 states monitoring residents who were aboard hantavirus cruise ship",
+          "headline": "California among 4 states monitoring residents who were aboard hantavirus cruise ship",
           "source": "ABC7"
         },
         {
@@ -457,51 +501,7 @@
           "source": "ABC7"
         },
         {
-          "headline": "Man shot on 215 Freeway in Murrieta area, forcing closure of southbound lanes",
-          "source": "ABC7"
-        },
-        {
           "headline": "Forget the panic! Our Mother's Day gift guide has you covered with incredible last-minute finds",
-          "source": "ABC7"
-        },
-        {
-          "headline": "DOJ probing $2.6 billion in oil trades related to Iran war, sources say",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Young adults with disabilities step in the ring at Joe Hand Boxing Gym",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Man creates 'Burden the Bear' after life-changing accident",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Family killed in apparent murder-suicide at million dollar home ID'd as TX restaurant owners",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Hundreds of homes damaged in Mississippi storms as multiple tornadoes reported",
-          "source": "ABC7"
-        },
-        {
-          "headline": "8-year-old boy attacked by beaver at New Jersey park, hospitalized",
-          "source": "ABC7"
-        },
-        {
-          "headline": "3 leading candidates for LA mayor face off on homelessness, wildfires, film industry in fiery debate",
-          "source": "ABC7"
-        },
-        {
-          "headline": "UCLA medical school illegally used race in admissions, Department of Justice says",
-          "source": "ABC7"
-        },
-        {
-          "headline": "San Bernardino County firefighters sharpen skills during controlled burn",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Huntington Park good Samaritan rewarded for helping find missing woman with dementia",
           "source": "ABC7"
         }
       ],
@@ -509,8 +509,8 @@
         "0": false,
         "1": true,
         "2": true,
-        "3": false,
-        "4": true,
+        "3": true,
+        "4": false,
         "5": true,
         "6": true,
         "7": true,
@@ -523,40 +523,36 @@
         "14": true,
         "15": true,
         "16": true,
-        "17": false,
+        "17": true,
         "18": true,
         "19": true,
-        "20": true,
-        "21": true,
+        "20": false,
+        "21": false,
         "22": false,
         "23": false,
-        "24": true,
-        "25": true,
-        "26": true,
-        "27": true,
-        "28": true,
-        "29": true,
+        "24": false,
+        "25": false,
+        "26": false,
+        "27": false,
+        "28": false,
+        "29": false,
         "30": true,
-        "31": false,
+        "31": true,
         "32": false,
-        "33": true,
-        "34": false,
+        "33": false,
+        "34": true,
         "35": false,
-        "36": true,
-        "37": true,
-        "38": true,
-        "39": true
+        "36": false,
+        "37": false,
+        "38": false,
+        "39": false
       }
     },
     "county": {
-      "summary": "- Metro D Line extension opens Friday, expanding Wilshire Boulevard access\n- LA streets in crisis; report warns of dire future and costly repairs\n- Federal authorities raid MacArthur Park, seize $10M fentanyl, arrest 18 people\n- Search underway for missing 7-year-old Santa Monica boy",
+      "summary": "- Metro D Line extension opens Friday, expanding Wilshire Boulevard transit access\n- LAPD verdict reached in shooting death of girl trying on Christmas dresses\n- Feds seize $10M fentanyl, arrest 18 in massive MacArthur Park drug raid\n- LA streets face dire future, costly long-term solutions needed, report warns",
       "headlines": [
         {
           "headline": "A $10M fundraiser could save the land around Big Bear's bald eagle nest. It's halfway over",
-          "source": "LAist"
-        },
-        {
-          "headline": "This artist doodled on 40 famous LA restaurant menus. See them at Johnie's Coffee Shop",
           "source": "LAist"
         },
         {
@@ -564,7 +560,19 @@
           "source": "LAist"
         },
         {
+          "headline": "Did Newsom\u2019s $3.8 billion hotels-to-housing program pay off?",
+          "source": "LAist"
+        },
+        {
           "headline": "LA streets face \u2018dire future,\u2019 according to a new report, and the long-term solution will be costly",
+          "source": "LAist"
+        },
+        {
+          "headline": "Pockets of Rancho Palos Verdes have no cell service \u2014 and residents want to keep it that way",
+          "source": "LAist"
+        },
+        {
+          "headline": "Three new, \u2018nimble\u2019 bachelor degree types approved by California State University",
           "source": "LAist"
         },
         {
@@ -572,11 +580,7 @@
           "source": "LAist"
         },
         {
-          "headline": "Trump administration alleges UCLA medical school illegally uses race in admissions",
-          "source": "LAist"
-        },
-        {
-          "headline": "The birria soup dumpling is here and it's the most LA thing we've ever eaten",
+          "headline": "SoCal History: The Catholic sisters who helped remake the Church from Los Angeles",
           "source": "LAist"
         },
         {
@@ -608,6 +612,10 @@
           "source": "LAist"
         },
         {
+          "headline": "Border czar promises 'mass deportations are coming' to fulfill Trump's promises",
+          "source": "LAist"
+        },
+        {
           "headline": "Trump administration alleges UCLA medical school illegally uses race in admissions",
           "source": "LAist"
         },
@@ -616,7 +624,7 @@
           "source": "LAist"
         },
         {
-          "headline": "Californians without health insurance could double, state analyst warns",
+          "headline": "For the lone woman left in the California governor\u2019s race, it\u2019s all about \u2018temperament\u2019",
           "source": "LAist"
         },
         {
@@ -624,19 +632,27 @@
           "source": "LAist"
         },
         {
-          "headline": "California House Dems demand answers about treatment of pregnant migrant minors in federal custody",
-          "source": "LAist"
+          "headline": "LA Mayoral debate: Bass, Pratt, Raman clash over wildfire failures, homelessness",
+          "source": "Fox 11 LA"
         },
         {
-          "headline": "In the six-way race to be California\u2019s treasurer, it likely comes down to two Democrats",
-          "source": "LAist"
+          "headline": "Desert Surf Park opening in Palm Desert this summer",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Verdict reached in trial of teen girl shot dead by LAPD gunfire while trying on Christmas dresses",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Thousand Oaks man accused of labor trafficking 14-year-old in clothing resale scheme",
+          "source": "Fox 11 LA"
         },
         {
           "headline": "'She lit my car on fire': Downtown LA renters detail harrowing allegations against landlord",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Search underway for missing 7-year-old Santa Monica boy",
+          "headline": "Missing 7-year-old boy found safe after father taken into custody in Hawthorne",
           "source": "Fox 11 LA"
         },
         {
@@ -645,22 +661,6 @@
         },
         {
           "headline": "Feds: 18 arrested, $10M worth of fentanyl seized in massive MacArthur Park drug raid",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "2026 Los Angeles mayor\u2019s race: Meet the candidates",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "LA County Sheriff Election: Meet the 8 certified candidates in the June 2 primary",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "50+ sloths dead in failed Sloth World project; Florida leaders want accountability",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "First phase of Metro D Line extension opens Friday",
           "source": "Fox 11 LA"
         },
         {
@@ -712,55 +712,59 @@
           "source": "Fox 11 LA"
         },
         {
+          "headline": "$50,000 Offered in South LA Hit-and-Run That Killed Chicago Man",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Pedestrian Struck by Vehicle in Rancho Mirage",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Golden Globes Announce Dates, Rules for 2027 Ceremony",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "James Cameron and Walt Disney Co. Sued in LA Over `Avatar\u2019 Character",
+          "source": "MyNewsLA"
+        },
+        {
           "headline": "Man Hit, Killed by Train in Highland Park",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Shooting on Interstate 215 Wounds Motorcyclist, Shuts Down Southbound Lanes",
+          "headline": "Imperial Irrigation District, Trump Administration Invest in Grid Project",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Police Highlight Motorcycle Safety as Warmer Weather Increases Road Risk",
+          "headline": "Jury Rules in Favor of LA City in Accidental Shooting of Teen at Burlington Store",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Norm Langer to Address Raid at MacArthur Park, Call for End to Needle Exchange",
+          "headline": "Getaway Driver Gets Time Served",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Nordstrom Rack to Open Stores in Marina Del Rey, Torrance",
+          "headline": "Playa del Rey Hit-and-Run Suspect in Custody",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LA Seeks Additional Time to Respond to Former Fire Chief\u2019s Retaliation Suit",
+          "headline": "Theft Ring Member ID\u2019d in Beverlywood Break-in",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Tunnel Fire Beneath 110 Freeway Doused; One Northbound Lane Still Closed",
+          "headline": "Police Announce $50K Reward for Help Solving South LA Hit-and-Run",
           "source": "MyNewsLA"
         },
         {
-          "headline": "97.1 The Fan Names Hosts for Weekday Lineup",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "$50,000 Offered In South L.A. Hit-and-Run Case",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "CSU Approves 3 New Bachelor\u2019s Degree Pathways",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Metro D Line Extension Opens Friday",
-          "source": "MyNewsLA"
+          "headline": "Los Angeles County works to modernize its public health data infrastructure - Route Fifty",
+          "source": "Google News LA"
         },
         {
           "headline": "LA County Coordinated Joint Information Center Update \u2013 5/6/2026 - LA County Recovers (.gov)",
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County works to modernize its public health data infrastructure - Route Fifty",
+          "headline": "Thanks @lapdhq Commander Blake Chow! As Commander Bille said, LASD accepts your challenge & pass it on to @chpinlanddivision Officer Sandoval! The challenge is on! \ud83d\udd25 Visit sosc.org/torchrun to either join your local torch run leg or support a team nea - facebook.com",
           "source": "Google News LA"
         },
         {
@@ -768,15 +772,19 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Recent survey shows 3 California commutes amongst the worst - Ventura County Star",
+          "headline": "This Asian American and Pacific Islander (AAPI) Heritage Month, we honor the culture, stories and lasting impact of AAPI communities across the nation. With more than 2.1 million AAPI residents in the Los Angeles area, the city serves as the largest hub for AA - instagram.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Fire in Access Portal Beneath 110 Freeway Prompts Extended Closure in Wilmington - Los Angeles Fire Department",
+          "headline": "LA County Fair Opens Thursday With Theme of `Play Your Way\u2019 - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
-          "headline": "*UPDATE* #LASD is Advising Critical Missing Juvenile, Serenitee Corey Anderson (AKA \"TT\" or \"Smiley Face\") has been #Found #Lancaster Los Angeles County Sheriff's Lancaster Station Detective Bureau is advising Critical Missing Juvenile Serenitee Core - facebook.com",
+          "headline": "SCV News | May is National Bicycle Safety Month - SCVNews.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Things To Do This Weekend in Los Angeles [5-8--2026 to 5-10-2026] - WE LIKE L.A.",
           "source": "Google News LA"
         },
         {
@@ -788,7 +796,19 @@
           "source": "Google News LA"
         },
         {
+          "headline": "Fire in Access Portal Beneath 110 Freeway Prompts Extended Closure in Wilmington - Los Angeles Fire Department",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Los Angeles County Sheriff Seeks Public\u2019s Help Locating At-Risk Missing Person Erika Peregrina Durazo, Last Seen in Whittier - Sierra Sun Times",
+          "source": "Google News LA"
+        },
+        {
           "headline": "Play your way at the 2026 L.A. County Fair opening Thursday - KTLA",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Recent survey shows 3 California commutes amongst the worst - Ventura County Star",
           "source": "Google News LA"
         },
         {
@@ -800,39 +820,19 @@
           "source": "Google News LA"
         },
         {
+          "headline": "Verdict reached in lawsuit over deadly LAPD shooting of 14-year-old girl at Burlington store - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "*UPDATE* #LASD is Advising Critical Missing Juvenile, Serenitee Corey Anderson (AKA \"TT\" or \"Smiley Face\") has been #Found #Lancaster Los Angeles County Sheriff's Lancaster Station Detective Bureau is advising Critical Missing Juvenile Serenitee Core - facebook.com",
+          "source": "Google News LA"
+        },
+        {
           "headline": "LA County Orders Chiquita Canyon Landfill to Install Specialized Cover - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Pet cat faces off with wild coyote in Los Angeles County neighborhood - MSN",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Latest News - The Valley Chronicle",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "LA County Scrutinizes Whiteman Airport Operations - FLYING Magazine",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles County Sheriff's Department Missing Person Unit is advising Romilio Quintana has been located. Thank you to the public, the media, and deputy personnel for their tireless efforts in the search for Mr. Quintana. - facebook.com",
-          "source": "Google News LA"
-        },
-        {
           "headline": "BOARD APPROVES HORVATH MOTION TO STRENGTHEN SAFETY AT WHITEMAN AIRPORT - COUNTY OF LOS ANGELES (.gov)",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles County Sheriff\u2019s Department Missing Persons Unit investigators are asking for the public\u2019s help locating At Risk Missing Person Primitivo Joe Caballero. He is a 81 year-old male White who was last seen on the 1300 block of Highland Avenue in D - facebook.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Four Los Angeles Area Men Arrested for Residential Burglaries in Thousand Oaks and Santa Clarita - edhat",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "CalFresh Awareness Month: Strengthening Food Security Across Los Angeles County - Los Angeles Regional Food Bank",
           "source": "Google News LA"
         }
       ],
