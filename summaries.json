@@ -1,10 +1,26 @@
 {
-  "generated": "2026-05-08T16:19:32.552336+00:00",
-  "briefing": "8 AM",
+  "generated": "2026-05-08T20:03:44.425656+00:00",
+  "briefing": "12 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Police warn of catalytic converter thefts on Lime, Lemon avenues\n- Planning Commission to decide future of city-owned historic house\n- Pasadena church relocating to Monrovia\n- Route 66 centennial celebration at Recreation Park May 3",
+      "summary": "- Planning Commission considers future of city-owned historic house property\n- Monrovia ACTV bike and pedestrian project survey open through June 26\n- Police report catalytic converter thefts on Lime and Lemon avenues\n- Monrovia High School Battle of the Bands Friday at 5 p.m.",
       "headlines": [
+        {
+          "headline": "Firefighters Pancake Breakfast tomorrow, May 9",
+          "source": "Monrovia Now"
+        },
+        {
+          "headline": "Art Night Tonight at Grey & Cash",
+          "source": "Monrovia Now"
+        },
+        {
+          "headline": "Monrovia ACTV Phase 1 bike and pedestrian project survey open through June 26",
+          "source": "Monrovia Now"
+        },
+        {
+          "headline": "Free garden tools workshop at Monrovia Community Garden South, May 23",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Coming Up in Monrovia",
           "source": "Monrovia Now"
@@ -70,22 +86,6 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Monrovia teams in top 10 in regional Stock Market Game",
-          "source": "Monrovia Now"
-        },
-        {
-          "headline": "Special Ed teacher Rebecca Alarcon named Teacher of the Year",
-          "source": "Monrovia Now"
-        },
-        {
-          "headline": "'Get Your Kicks' Route 66 Centennial Celebration at Recreation Park, May 3",
-          "source": "Monrovia Now"
-        },
-        {
-          "headline": "Walk with a Doc free monthly walks at Recreation Park; next walk May 2",
-          "source": "Monrovia Now"
-        },
-        {
           "headline": "Carmen Anthony DiPoalo - The Santa Barbara Independent",
           "source": "Google News"
         },
@@ -126,11 +126,19 @@
           "source": "Google News"
         },
         {
+          "headline": "Mischa Lue-long - Sports Illustrated",
+          "source": "Google News"
+        },
+        {
           "headline": "Rudy Hohenstein Obituary (2026) - Crawfordsville, IN - Hunt & Son Funeral Home - Crawfordsville - Legacy | Obituary",
           "source": "Google News"
         },
         {
           "headline": "Forte Racing Earns Two Podiums at Miami Grand Prix Weekend - SpeedwayMedia.com",
+          "source": "Google News"
+        },
+        {
+          "headline": "Phone Phachaleun Obituary - Monrovia, CA - Dignity Memorial",
           "source": "Google News"
         },
         {
@@ -142,8 +150,8 @@
           "source": "Google News"
         },
         {
-          "headline": "Lawsuit brewing against Trader Joe\u2019s over coffee\u2019s caffeine label - MSN",
-          "source": "Google News"
+          "headline": "10 Can't-Miss Events In Southern California In May, Including The Flower Fields",
+          "source": "Patch Monrovia"
         },
         {
           "headline": "Boy, 7, Still Missing Days After Santa Monica Disappearance: Police",
@@ -229,10 +237,10 @@
         "19": true,
         "20": false,
         "21": false,
-        "22": true,
+        "22": false,
         "23": false,
         "24": true,
-        "25": true,
+        "25": false,
         "26": false,
         "27": false,
         "28": false,
@@ -240,7 +248,7 @@
         "30": false,
         "31": false,
         "32": false,
-        "33": false,
+        "33": true,
         "34": false,
         "35": false,
         "36": false,
@@ -250,7 +258,7 @@
       }
     },
     "sgv": {
-      "summary": "- LA County detectives investigating woman's fatal shooting in Rosemead\n- New coalition opposes proposed data centers in City of Industry\n- San Gabriel Valley softball and baseball Top 20 rankings released\n- Women's summit addresses resilience following Eaton fire impacts",
+      "summary": "- LA County detectives investigate fatal shooting of woman in Rosemead\n- Coalition opposes data center projects planned for City of Industry\n- San Gabriel Valley women's summit addresses resilience following Eaton fire\n- Local high school athletes honored as weekly award recipients",
       "headlines": [
         {
           "headline": "San Gabriel Valley softball Top 20: La Mirada, California lead the way - San Gabriel Valley Tribune",
@@ -258,10 +266,6 @@
         },
         {
           "headline": "New coalition decries \u2018parasite\u2019 data centers proposed in City of Industry - Los Angeles Times",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "San Gabriel Valley Boys Athlete of the Week: Brenden Neeley, Walnut - Pasadena Star News",
           "source": "Google News SGV"
         },
         {
@@ -289,11 +293,19 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Column: San Gabriel Valley women\u2019s summit gathers panel on resilience after the Eaton fire - MSN",
+          "headline": "San Gabriel Valley baseball top 20: Maranatha, Ganesha take over top spots - MSN",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Column: San Gabriel Valley Women\u2019s summit gathers panel on resilience after the Eaton fire - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
           "headline": "Greater Pasadena Area and San Gabriel Valley Set for Major Warmup After Early-Week Chill - ColoradoBoulevard.net",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "San Gabriel Valley Boys Athlete of the Week: Brenden Neeley, Walnut - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -306,6 +318,10 @@
         },
         {
           "headline": "Things to do in the San Gabriel Valley, May 8-16 - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Pasadena City Council approves capital improvement spending, kicks off operating budget talks - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -322,14 +338,6 @@
         },
         {
           "headline": "Pasadena, Alhambra cancer survivors meet life-saving donors at City of Hope reunion - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "More 605 paving work closures slated between Cerritos, Irwindale - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "Ed Delgado, AD-60 candidate, 2026 primary election questionnaire - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -373,6 +381,14 @@
           "source": "Pasadena Now"
         },
         {
+          "headline": "Pasadena Officials Highlight Water Safety During National Water Safety Month",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Lawmakers Warn of Housing Crisis if FEMA Fire Assistance Expires",
+          "source": "Colorado Blvd"
+        },
+        {
           "headline": "South Pasadena Police Arrest Burglary Suspect Following Residential Break-In",
           "source": "Colorado Blvd"
         },
@@ -413,19 +429,75 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "The Wrecking Ball Is Not Progress: The 80-Year Cost of Demolishing San Rafael Elementary",
-          "source": "Colorado Blvd"
+          "headline": "Machete-wielding man shot by police inside SoCal restaurant, video shows",
+          "source": "ABC7"
         },
         {
-          "headline": "Pasadena Village to Discuss Books on the Changing Landscape of LGBTQ+ Bars",
-          "source": "Colorado Blvd"
+          "headline": "Pentagon begins releasing new files on UFOs and says the public can draw its own conclusions",
+          "source": "ABC7"
         },
         {
-          "headline": "LIVE: Authorities update public on search of home tied to man convicted of killing Kristin Smart",
+          "headline": "WATCH: Hulu releases the trailer for Mindy Kaling's new comedy series, 'Not Suitable For Work'",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Metro D Line extension set to open Friday, adding 3 new stations along Mid-Wilshire corridor",
+          "source": "ABC7"
+        },
+        {
+          "headline": "17 best Mother's Day gifts for 2026 that will make her smile",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Prosecutors seek death penalty for man accused of killing 2 South Florida students from Bangladesh",
           "source": "ABC7"
         },
         {
           "headline": "California to provide free diapers to newborns leaving hospitals in 1st-in-the-nation program",
+          "source": "ABC7"
+        },
+        {
+          "headline": "2 LAPD officers injured in crash while responding to call",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Swatting report of man with gun at North Hollywood middle school leads to brief lockdown",
+          "source": "ABC7"
+        },
+        {
+          "headline": "SoCal smash-and-grabs: Thieves crash cars into stores in West Hollywood, Eagle Rock",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Artist turns everyday t-shirts into billboards",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Evidence points to human remains at home linked to Kristin Smart's killing, sheriff says",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Irvine music teacher honored as one of CMA Foundation's Music Teachers of Excellence",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Desperate for help, people face 6-hour wait at Oxnard food distribution",
+          "source": "ABC7"
+        },
+        {
+          "headline": "CDC classifies hantavirus outbreak as 'Level 3' emergency response",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Diverse tastes and good community will have you going to Town in Montrose",
+          "source": "ABC7"
+        },
+        {
+          "headline": "FIFA triples price to $32,970 for its best available tickets to the World Cup final",
+          "source": "ABC7"
+        },
+        {
+          "headline": "'Monster with a badge': How an officer was convicted in teen's shocking murder",
           "source": "ABC7"
         },
         {
@@ -435,91 +507,27 @@
         {
           "headline": "Enter Thomas Edison's world at the lab where modernity buzzed to life",
           "source": "ABC7"
-        },
-        {
-          "headline": "Former FBI Director James Comey waives NC court appearance in Trump threat case",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Pope Leo prays for end to 'fratricidal hatred' as he celebrates anniversary with visit to Pompeii",
-          "source": "ABC7"
-        },
-        {
-          "headline": "ABC reveals unscripted series renewals and summer 2026 premiere dates!",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Judge to rule Friday whether Charlie Kirk murder case can be filmed, photographed",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Significant warmup begins building across SoCal. Here's how hot it will get",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Pentagon begins releasing new files on UFOs and says the public can draw its own conclusions",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Forget the panic! Our Mother's Day gift guide has you covered with incredible last-minute finds",
-          "source": "ABC7"
-        },
-        {
-          "headline": "FIFA triples price to $32,970 for its best available tickets to the World Cup final",
-          "source": "ABC7"
-        },
-        {
-          "headline": "SoCal smash-and-grabs: Thieves crash cars into stores in West Hollywood, Eagle Rock",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Trump drives across Lincoln Memorial Reflecting Pool to inspect new blue coating he's putting on it",
-          "source": "ABC7"
-        },
-        {
-          "headline": "CDC classifies hantavirus outbreak as 'Level 3' emergency response",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Appeals court appears ready to reject Hegseth's bid to punish Mark Kelly over 'illegal orders' video",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Several SoCal schools impacted by widespread data breach involving Canvas learning software",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Man stabbed to death in Los Feliz; investigation underway",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Brush fire in Pi\u00f1on Hills temporarily shuts down Highway 138",
-          "source": "ABC7"
-        },
-        {
-          "headline": "LA student accepted to 65 colleges, selects Columbia University",
-          "source": "ABC7"
         }
       ],
       "relevance": {
-        "0": false,
+        "0": true,
         "1": true,
         "2": true,
         "3": true,
-        "4": true,
-        "5": false,
+        "4": false,
+        "5": true,
         "6": true,
         "7": true,
-        "8": false,
+        "8": true,
         "9": true,
         "10": true,
         "11": true,
         "12": true,
         "13": true,
-        "14": false,
-        "15": false,
-        "16": true,
-        "17": true,
+        "14": true,
+        "15": true,
+        "16": false,
+        "17": false,
         "18": true,
         "19": true,
         "20": true,
@@ -533,19 +541,19 @@
         "28": true,
         "29": true,
         "30": true,
-        "31": true,
+        "31": false,
         "32": true,
         "33": true,
         "34": true,
         "35": true,
-        "36": false,
-        "37": false,
-        "38": true,
+        "36": true,
+        "37": true,
+        "38": false,
         "39": false
       }
     },
     "county": {
-      "summary": "- Metro D Line extension opens with new Wilshire subway stations starting service today\n- LA streets face dire future; costly long-term solution needed, new report warns\n- Newsom's $3.8 billion hotels-to-housing program results evaluated for effectiveness and impact\n- $10M fundraiser halfway complete to save land around Big Bear's bald eagle nest",
+      "summary": "- Metro D Line extension opens with new Wilshire subway stations beginning service today\n- LA health officials monitoring hantavirus cases linked to cruise ship outbreak affecting residents\n- LA streets face \"dire future,\" long-term repair solutions will be costly, report warns\n- LA City Council moves to ban LAPD from making pretextual traffic stops",
       "headlines": [
         {
           "headline": "All aboard the D Line! First phase of historic Metro line extension opens today",
@@ -560,15 +568,19 @@
           "source": "LAist"
         },
         {
-          "headline": "LA Sheriff Department has hundreds of surveillance cameras. Officials say data isn't shared with ICE",
+          "headline": "LA health officials monitoring potential hantavirus reports tied to cruise ship outbreak",
           "source": "LAist"
         },
         {
-          "headline": "An arts and culture spectacle is coming to LA. Olympic organizers just released a first look",
+          "headline": "Tribes want Cal State to return Native remains and artifacts. Here\u2019s why it\u2019s not so easy",
           "source": "LAist"
         },
         {
           "headline": "LA streets face \u2018dire future,\u2019 according to a new report, and the long-term solution will be costly",
+          "source": "LAist"
+        },
+        {
+          "headline": "An arts and culture spectacle is coming to LA. Olympic organizers just released a first look",
           "source": "LAist"
         },
         {
@@ -624,8 +636,20 @@
           "source": "LAist"
         },
         {
-          "headline": "LA Sheriff Department has hundreds of surveillance cameras. Officials say data isn't shared with ICE",
-          "source": "LAist"
+          "headline": "Jewish Federation denounces \"vile\" antisemitic tropes in official California voter guide",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Chicago man killed in South LA hit-and-run; $50,000 reward offered for info",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "13-year-old killed after losing control of electric motorcycle in Garden Grove",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Cosm Los Angeles to feature FIFA World Cup 2026 matches: See the dates",
+          "source": "Fox 11 LA"
         },
         {
           "headline": "LA to DC pipeline: Feds bust transnational \"sexchem\" ring sourcing meth from California",
@@ -636,27 +660,11 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Metro D line extension opens: New Wilshire subway stations start service",
+          "headline": "Metro D line extension opens: New Wilshire subway stations begin service",
           "source": "Fox 11 LA"
         },
         {
           "headline": "Smash-and-grab thieves use stolen truck to rob The RealReal in West Hollywood",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Dr. Oz defends Trump administration's crackdown on Medicare fraud, blasts Gavin Newsom",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Altadena teacher surprised after losing home and classroom in Eaton Fire",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "LA locals, city leaders clash over needle programs amid recent MacArthur Park fentanyl bust",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Moorpark man sentenced to 11 years for killing girlfriend in hotel",
           "source": "Fox 11 LA"
         },
         {
@@ -708,59 +716,55 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Craig Melvin to Receive LA Press Club President\u2019s Award",
+          "headline": "Palm Springs Create \u2018Whistleblower Hotline\u2019 for Suspicious, Unethical Conduct",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Man With Medical Needs Missing From Bellflower",
+          "headline": "Riverside Museum to Host `Ice Cream Social\u2019 with Patriotic Theme",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Two Plaintiffs Settle Apple Watch Water Resistance Suit",
+          "headline": "DA: GM to Pay $12.75M to Settle Consumer Protection Lawsuit",
           "source": "MyNewsLA"
         },
         {
-          "headline": "More Lane Closures Set for 5 Freeway in Castaic Area",
+          "headline": "It\u2019s Deja Vu All Over Again As More 605 Paving Work Closures Slated",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Edward James Olmos, City Leaders to Honor Latino Film Festival",
+          "headline": "Missing Man with Medical Needs Located",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Health Officials: No Imminent Local Threat from Hantavirus Outbreak",
+          "headline": "LA General Medical Center Seeks Help Identifying Patient Involved in Crash",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Norah Jones, Janet Jackson to be Featured at Grammy Hall of Fame Gala",
+          "headline": "Metro to Open D Line Extension Friday",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Thieves Rob High-End Consignment Store in West Hollywood",
+          "headline": "Boy, 13, Riding E-Bike Suffers Fatal Injuries in Garden Grove Crash",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Long Awaited Metro D Line Extension Opens",
+          "headline": "Motorcyclist Killed in Single-Vehicle Crash in Hemet",
           "source": "MyNewsLA"
         },
         {
-          "headline": "15-Day Streak of Rising LA Gas Prices Ends",
+          "headline": "Thieves Crash Truck into Eagle Rock 7-Eleven, Reportedly Steal ATM",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Schools  Nationwide Affected by Cyberattack",
+          "headline": "Judge Says Violinist Must Shore Up Harassment Suit vs. Will Smith",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LA County Coordinated Joint Information Center Update \u2013 5/6/2026 - LA County Recovers (.gov)",
+          "headline": "Celebrating National Nurses Week - Fire Department - Los Angeles County (.gov)",
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County Sheriff\u2019s Department Missing Persons Detail are asking for the public\u2019s help locating At-Risk Missing Person Steven Michael Savage. He is a 61 year-old male White adult who was last seen on Thursday, May 7, 2026 at 8:05 a.m. on the 40 - facebook.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles County works to modernize its public health data infrastructure - Route Fifty",
+          "headline": "Los Angeles County Sheriff\u2019s Department Missing Persons Detail are asking for the public\u2019s help locating At-Risk Missing Person Steven Michael Savage. He is a 61 year-old male White adult who was last seen on Thursday, May 7, 2026 at 8:05 a.m. on the 40 - Facebook",
           "source": "Google News LA"
         },
         {
@@ -768,15 +772,15 @@
           "source": "Google News LA"
         },
         {
+          "headline": "SoCal smash-and-grabs: Thieves crash cars into The RealReal in West Hollywood, 7-Eleven in Eagle Rock - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
           "headline": "SCV News | Unwind, Relax at L.A. County Parks at Sunset - SCVNews.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Man stabbed to death in Los Feliz; investigation underway - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Things To Do This Weekend in Los Angeles [5-8--2026 to 5-10-2026] - WE LIKE L.A.",
+          "headline": "Los Angeles County works to modernize its public health data infrastructure - Route Fifty",
           "source": "Google News LA"
         },
         {
@@ -784,39 +788,23 @@
           "source": "Google News LA"
         },
         {
+          "headline": "Things To Do This Weekend in Los Angeles [5-8--2026 to 5-10-2026] - WE LIKE L.A.",
+          "source": "Google News LA"
+        },
+        {
           "headline": "Man force-fed middle schooler Adderall and made him sell clothes online, police say - Law and Crime News",
           "source": "Google News LA"
         },
         {
-          "headline": "Jury finds LA police officer not liable in death of teen killed by stray bullet in 2021 - The Guardian",
+          "headline": "*UPDATE LOCATED* #LASD is Advising Missing Person, Luis Hernandez Has Been #Located #Bellflower Los Angeles County Sheriff's Department Missing Person Unit is advising Luis Hernandez has been located. Thank you to the public, the media, and de - Facebook",
           "source": "Google News LA"
         },
         {
-          "headline": "2 Found Dead In Palmdale, Investigation Ongoing: Los Angeles County Sheriffs - MSN",
+          "headline": "Man stabbed to death in East Hollywood; investigation underway - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "Fire in Access Portal Beneath 110 Freeway Prompts Extended Closure in Wilmington - Los Angeles Fire Department",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Voting for an LA Superior Court Judge? Here\u2019s what you should know - LA Public Press",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles Progressive Voter Guide - LA Progressive",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "This Asian American and Pacific Islander (AAPI) Heritage Month, we honor the culture, stories and lasting impact of AAPI communities across the nation. With more than 2.1 million AAPI residents in the Los Angeles area, the city serves as the largest hub for AA - instagram.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Thanks @lapdhq Commander Blake Chow! As Commander Bille said, LASD accepts your challenge & pass it on to @chpinlanddivision Officer Sandoval! The challenge is on! \ud83d\udd25 Visit sosc.org/torchrun to either join your local torch run leg or support a team nea - facebook.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "May 6, 2026: Man Arraigned on Charges of Labor Trafficking a Los Angeles County Middle Schooler - Los Angeles County District Attorney's Office (.gov)",
+          "headline": "LA County Coordinated Joint Information Center Update \u2013 5/6/2026 - LA County Recovers (.gov)",
           "source": "Google News LA"
         },
         {
@@ -828,7 +816,27 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Road rage incident escalates into shooting in Van Nuys, police say - ABC7 Los Angeles",
+          "headline": "Thanks @lapdhq Commander Blake Chow! As Commander Bille said, LASD accepts your challenge & pass it on to @chpinlanddivision Officer Sandoval! The challenge is on! \ud83d\udd25 Visit sosc.org/torchrun to either join your local torch run leg or support a team nea - Facebook",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "May 6, 2026: Man Arraigned on Charges of Labor Trafficking a Los Angeles County Middle Schooler - Los Angeles County District Attorney's Office (.gov)",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Los Angeles Progressive Voter Guide - LA Progressive",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Los Angeles County Probation Department Strengthens New Officers Through Facility Training Program - Random Lengths News",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Fire in Access Portal Beneath 110 Freeway Prompts Extended Closure in Wilmington - Los Angeles Fire Department",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Voting for an LA Superior Court Judge? Here\u2019s what you should know - LA Public Press",
           "source": "Google News LA"
         }
       ],
