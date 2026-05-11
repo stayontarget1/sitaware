@@ -1,9 +1,9 @@
 {
-  "generated": "2026-05-10T19:53:04.627938+00:00",
-  "briefing": "12 PM",
+  "generated": "2026-05-11T02:52:25.791215+00:00",
+  "briefing": "5 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Police warn of catalytic converter thefts on Lime and Lemon avenues\n- Monrovia ACTV bike and pedestrian project survey open through June 26\n- Planning Commission to consider future of city-owned historic house\n- Boys and Girls Club carnival May 31",
+      "summary": "- Catalytic converter thefts spike on Lime and Lemon avenues; four stolen\n- Monrovia ACTV Phase 1 bike and pedestrian project survey open through June 26\n- Monrovia High School Battle of the Bands Friday at 5 p.m.\n- Planning Commission considers future of city-owned house",
       "headlines": [
         {
           "headline": "Happy Mothers' Day to a Monrovia mom from USS Nimitz",
@@ -130,27 +130,23 @@
           "source": "Google News"
         },
         {
-          "headline": "Mischa Lue-long - Sports Illustrated",
-          "source": "Google News"
-        },
-        {
           "headline": "Duo Kidnaps Baby To Force Mom Into Sex Work | Secret Waterfall | Neighbors Terrorized By Nude Antics: CA News",
           "source": "Patch Monrovia"
         },
         {
-          "headline": "Outbreaks Of Highly Contagious Disease Reach Record High In CA",
+          "headline": "Chonkers, A Sea Lion As Big As A Bison, Is Having A Moment: Weird News & Oddities",
           "source": "Patch Monrovia"
         },
         {
-          "headline": "How To Get $95 In $250M Phone Settlement: What To Know In CA",
+          "headline": "'Mortal Kombat II' Review: Karl Urban And Adeline Rudolph Anchor The Movie The Reboot Should Have Been",
           "source": "Patch Monrovia"
         },
         {
-          "headline": "What Do You Do If You Find A Lost Dog Or Cat? Block Talk",
+          "headline": "When Grieving, These Words And Deeds Offer Comfort [The Question]",
           "source": "Patch Monrovia"
         },
         {
-          "headline": "Mother\u2019s Day 2026 Inspires Powerful Stories Of Strength, Sacrifice And Love",
+          "headline": "Effort To Bring Grizzly Bears Back To CA Draws Backlash",
           "source": "Patch Monrovia"
         },
         {
@@ -220,7 +216,7 @@
         "10": true,
         "11": true,
         "12": true,
-        "13": false,
+        "13": true,
         "14": true,
         "15": true,
         "16": true,
@@ -246,11 +242,11 @@
         "36": false,
         "37": false,
         "38": false,
-        "39": false
+        "39": true
       }
     },
     "sgv": {
-      "summary": "- Data centers, battery storage hubs spark San Gabriel Valley environmental health concerns\n- San Gabriel Valley softball teams dominate Division 1 playoffs with six teams\n- A Line trains generate momentum from Pomona through San Gabriel Valley\n- Pasadena City Council advances capital improvement spending, begins operating budget discussions",
+      "summary": "- San Gabriel Valley data center, battery storage hub expansion sparks local opposition\n- Six SGV softball teams advance to Division 1 playoffs this season\n- Hot, dry conditions raise wildfire risk across San Gabriel Valley region\n- A Line trains generate momentum from Pomona westward through valley",
       "headlines": [
         {
           "headline": "Amid San Gabriel Valley data center concerns, local critics question battery energy storage hubs - San Gabriel Valley Tribune",
@@ -285,15 +281,19 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Greater Pasadena Area and San Gabriel Valley Set for Major Warmup After Early-Week Chill - ColoradoBoulevard.net",
-          "source": "Google News SGV"
-        },
-        {
           "headline": "San Gabriel Valley Girls Athlete of the Week: Alison Ortega, La Mirada - Pasadena Star News",
           "source": "Google News SGV"
         },
         {
+          "headline": "Greater Pasadena Area and San Gabriel Valley Set for Major Warmup After Early-Week Chill - ColoradoBoulevard.net",
+          "source": "Google News SGV"
+        },
+        {
           "headline": "Why the \u2018nothing special\u2019 moments mean everything, especially on Mother\u2019s Day - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Hot, Dry Conditions Raise Fire Risk in San Gabriel Valley - ColoradoBoulevard.net",
           "source": "Google News SGV"
         },
         {
@@ -314,10 +314,6 @@
         },
         {
           "headline": "Endorsement: Adam Miller for mayor of Los Angeles - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "Editorial: The wisdom of F.A. Hayek - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -373,6 +369,10 @@
           "source": "Pasadena Now"
         },
         {
+          "headline": "Hot, Dry Conditions Raise Fire Risk in San Gabriel Valley",
+          "source": "Colorado Blvd"
+        },
+        {
           "headline": "Pasadena Police to Join LA Fleet Week During Memorial Day Weekend",
           "source": "Colorado Blvd"
         },
@@ -417,8 +417,28 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Lawmakers Warn of Housing Crisis if FEMA Fire Assistance Expires",
-          "source": "Colorado Blvd"
+          "headline": "First look: Best new Toy Story 5 merch available before the June 19th adventure begins",
+          "source": "ABC7"
+        },
+        {
+          "headline": "18-year-old cancer patient dies day after reunion in Mexico with parents detained by ICE",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Firefighters battle massive container fire at shipping yard in Good Hope",
+          "source": "ABC7"
+        },
+        {
+          "headline": "4 hospitalized after crash into fire hydrant triggered geyser in Winnetka",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Imperial County earthquake swarm begins to slow after over 350 recorded quakes",
+          "source": "ABC7"
+        },
+        {
+          "headline": "53-year-old hiker dies on Mt. Wilson trail after suffering medical emergency",
+          "source": "ABC7"
         },
         {
           "headline": "Man faces attempted murder charges after bloody attack with samurai sword in Venice Beach",
@@ -475,52 +495,28 @@
         {
           "headline": "Anaheim Global Medical Center temporarily barred from receiving 911 ambulance patients",
           "source": "ABC7"
-        },
-        {
-          "headline": "'Full House' star Dave Coulier shares health update amid cancer battle",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Mountain lion spotted in Pasadena backyard near schools and park",
-          "source": "ABC7"
-        },
-        {
-          "headline": "What to know about the latest wave of changes to congressional districts",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Katy Perry will perform at SoFi Stadium before first World Cup game in US",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Donor pays off student loans for NC State graduating class",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Janet Jackson says \"it's an honor\" to see Rhythm Nation 1814 inducted into the Grammy Hall of Fame",
-          "source": "ABC7"
         }
       ],
       "relevance": {
         "0": true,
         "1": true,
-        "2": true,
+        "2": false,
         "3": true,
-        "4": true,
+        "4": false,
         "5": true,
         "6": true,
-        "7": true,
-        "8": true,
+        "7": false,
+        "8": false,
         "9": true,
-        "10": true,
+        "10": false,
         "11": true,
-        "12": true,
-        "13": true,
+        "12": false,
+        "13": false,
         "14": true,
-        "15": false,
+        "15": true,
         "16": false,
         "17": true,
-        "18": true,
+        "18": false,
         "19": true,
         "20": true,
         "21": true,
@@ -533,30 +529,30 @@
         "28": true,
         "29": true,
         "30": true,
-        "31": false,
+        "31": true,
         "32": true,
         "33": true,
         "34": true,
-        "35": false,
-        "36": true,
+        "35": true,
+        "36": false,
         "37": true,
         "38": true,
         "39": true
       }
     },
     "county": {
-      "summary": "- Los Angeles mayor primary June 2: candidates and why it matters\n- LA County sheriff primary June 2: candidates and why it matters\n- Fire survivors call on Trump administration to extend federal disaster support\n- Explosive garage fire in Jefferson Park injures two; arson investigation underway",
+      "summary": "- LA Metro loses 15,000 items yearly. Here's where they end up\n- LA mayor primary June 2. Candidates and why it matters\n- LA County sheriff primary June 2. Candidates and why it matters\n- Fire survivors urge Trump administration to extend federal disaster support",
       "headlines": [
         {
           "headline": "15,000 items are lost every year on LA's Metro. Here's where they end up",
           "source": "LAist"
         },
         {
-          "headline": "No bar. No phones. Just music at McCabe\u2019s Guitar Shop",
+          "headline": "Soccer was once considered niche in the US. Then came the 1994 World Cup",
           "source": "LAist"
         },
         {
-          "headline": "The mothers who walked for peace in Boyle Heights",
+          "headline": "No bar. No phones. Just music at McCabe\u2019s Guitar Shop",
           "source": "LAist"
         },
         {
@@ -568,15 +564,15 @@
           "source": "LAist"
         },
         {
-          "headline": "Fire survivors call on Trump administration to extend federal support",
-          "source": "LAist"
-        },
-        {
           "headline": "LAUSD closed off RFK Inspiration Park in Koreatown. There are no plans to reopen it to the public",
           "source": "LAist"
         },
         {
-          "headline": "LA health officials say there's no known hantavirus risk here tied to cruise ship outbreak",
+          "headline": "The mothers who walked for peace in Boyle Heights",
+          "source": "LAist"
+        },
+        {
+          "headline": "Fire survivors call on Trump administration to extend federal support",
           "source": "LAist"
         },
         {
@@ -628,6 +624,10 @@
           "source": "LAist"
         },
         {
+          "headline": "San Fernando Valley man attacked while confronting suspects breaking into neighbor's home",
+          "source": "Fox 11 LA"
+        },
+        {
           "headline": "Explosive garage fire in Jefferson Park leaves 2 injured; arson investigation underway",
           "source": "Fox 11 LA"
         },
@@ -653,10 +653,6 @@
         },
         {
           "headline": "Jewish Federation denounces \"vile\" antisemitic tropes in official California voter guide",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Chicago man killed in South LA hit-and-run; $50,000 reward offered for info",
           "source": "Fox 11 LA"
         },
         {
@@ -708,19 +704,19 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "LA, Orange County Gas Prices Decline Slightly",
+          "headline": "Biker Killed in Vehicle Crash on 170 Freeway in North Hollywood",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Suspects Snatch Items From Chatsworth Home While Owners Were Inside",
+          "headline": "Woman Killed in Solo-Vehicle Crash on 215 Freeway in Riverside",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Black Former LACo DA Tentatively Settles Racial Discrimination Suit",
+          "headline": "Motorcyclist Killed in Single-Vehicle Crash in Lake Elsinore",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Man Suffers Non-Life-Threatening Stab Wounds in Long Beach",
+          "headline": "Four Hospitalized, Fire Hydrant Sheared in Two-Car Crash in Winnetka",
           "source": "MyNewsLA"
         },
         {
@@ -728,11 +724,15 @@
           "source": "MyNewsLA"
         },
         {
-          "headline": "Marilyn Monroe Memorabilia Headed to Auction for 100th Birthday on June 4th",
+          "headline": "Widespread Animal Abuse Alleged in LA\u2019s Skid Row",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Riverside County Gas Prices Drop Slightly",
+          "headline": "Best Boys, Grips Suing Ice Cube Want Default Judgment vs. Video Producer",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Booking Firm, LAFC Win Exit from Drakeo Family\u2019s Suit Over Fatal Stabbing",
           "source": "MyNewsLA"
         },
         {
@@ -744,11 +744,7 @@
           "source": "MyNewsLA"
         },
         {
-          "headline": "Dodgers, Churches, Cemeteries and More to Celebrate LA Mothers",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Firefighters Battle Blaze at DTLA Commercial Building",
+          "headline": "Masked Suspects Spray Intervening Neighbor During Studio City Burglary",
           "source": "MyNewsLA"
         },
         {
@@ -756,15 +752,15 @@
           "source": "Google News LA"
         },
         {
-          "headline": "L.A. County\u2019s juvenile hall \u2018depopulation\u2019 is almost complete; is it working? - Corrections1",
-          "source": "Google News LA"
-        },
-        {
           "headline": "The Los Angeles County District Attorney\u2019s Office wishes mothers everywhere a Happy Mother\u2019s Day. May today be a celebration of your dedication, resilience and compassion and a much-needed day of rest and relaxation. You have shaped our families and - instagram.com",
           "source": "Google News LA"
         },
         {
-          "headline": "When in doubt, call your Mom, Ma, Madre, Mimi, Mum, Amma, Moeder, Omma, Mae, Mama. No matter what hats you wear, the most important is the one of Mom. From the Los Angeles County Sheriff\u2019s Department- Happy Mother\u2019s Day! \ud83d\udc90 - facebook.com",
+          "headline": "L.A. County\u2019s juvenile hall \u2018depopulation\u2019 is almost complete; is it working? - Corrections1",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "As we begin the 2026 Police Unity Tour, we ride united in honor of the fallen and in support of the mission that brings us together. Every mile traveled reflects the strength of our law enforcement family and ensures the memory of those who made the ultimate s - facebook.com",
           "source": "Google News LA"
         },
         {
@@ -780,11 +776,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "L.A. County Fair opens for the season with rides, concerts and fried food fun in Pomona - LA Metro",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "California Fire Map: Track updates on fires across California - San Francisco Chronicle",
+          "headline": "D4vd case findings revealed 7 months after teen Celeste Rivas found dead - MSN",
           "source": "Google News LA"
         },
         {
@@ -792,23 +784,19 @@
           "source": "Google News LA"
         },
         {
-          "headline": "County Drops Pandemic Outdoor Dining Suit vs. Tinhorn Flats Owner - MyNewsLA.com",
-          "source": "Google News LA"
-        },
-        {
           "headline": "Knock LA Voter Guide, June 2026: Judges - Knock LA",
           "source": "Google News LA"
         },
         {
-          "headline": "1 dead, another injured after argument ends in shooting at Red West Pizza restaurant in Wilmington, Los Angeles - ABC7 Los Angeles",
+          "headline": "When in doubt, call your Mom, Ma, Madre, Mimi, Mum, Amma, Moeder, Omma, Mae, Mama. No matter what hats you wear, the most important is the one of Mom. From the Los Angeles County Sheriff\u2019s Department- Happy Mother\u2019s Day! \ud83d\udc90 - facebook.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "53-year-old hiker dies on Mt. Wilson trail after suffering medical emergency; second hiker death in 2 weeks - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
           "headline": "Los Angeles County DA Hochman Honors Three Courageous Individuals for Their Roles in Securing Justice - Sierra Sun Times",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "*UPDATE LOCATED* #LASD is Advising Missing Person, Luis Hernandez Has Been #Located #Bellflower Los Angeles County Sheriff's Department Missing Person Unit is advising Luis Hernandez has been located. Thank you to the public, the media, and de - facebook.com",
           "source": "Google News LA"
         },
         {
@@ -820,15 +808,23 @@
           "source": "Google News LA"
         },
         {
+          "headline": "1 dead, another injured after argument ends in shooting at Red West Pizza restaurant in Wilmington, Los Angeles - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Man faces attempted murder charges after bloody attack with samurai sword in Venice Beach - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
           "headline": "Los Angeles traffic: All WB lanes of the 105 Freeway reopen in South LA hours after truck carrying bleach overturns - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "Your LA Local voter guide - LA Local",
+          "headline": "Over 150 quakes, including 4.5 magnitude, rattle Brawley in Imperial County during reported earthquake swarm - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "Everything You Need to Know About LACMA\u2019s New David Geffen Galleries - LACMA",
+          "headline": "LACo Drops Lawsuit Against Tinhorn Flats Saloon Owner - MyNewsLA.com",
           "source": "Google News LA"
         }
       ],
