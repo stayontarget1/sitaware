@@ -1,10 +1,14 @@
 {
-  "generated": "2026-05-13T17:20:07.674898+00:00",
+  "generated": "2026-05-13T20:26:54.623595+00:00",
   "briefing": "12 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Monrovia Days Parade kicks off tomorrow with full festival schedule\n- Firefighters Pancake Breakfast tomorrow, May 9\n- Monrovia High School Battle of the Bands Friday, 5 p.m.\n- Fire Resilient Gardening workshop June 27",
+      "summary": "- Monrovia Days starts tomorrow with parade and weekend festivities\n- Planning Commission considers future use of city-owned historic house\n- Pasadena church plans relocation to Monrovia\n- Free 'Flourishing in Retirement' course begins May 10 at community church",
       "headlines": [
+        {
+          "headline": "Free adult dog adoptions May 15-24",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Monrovia Days starts tomorrow, Thursday, with Monrovia Days Parade",
           "source": "Monrovia Now"
@@ -82,10 +86,6 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Monrovia High School Battle of the Bands Friday at 5 p.m.",
-          "source": "Monrovia Now"
-        },
-        {
           "headline": "Carmen Anthony DiPoalo - The Santa Barbara Independent",
           "source": "Google News"
         },
@@ -114,10 +114,6 @@
           "source": "Google News"
         },
         {
-          "headline": "Chicken of the Sea to Source All Retail Tuna from MSC-Certified Fisheries by End of 2026 - News and Statistics - IndexBox",
-          "source": "Google News"
-        },
-        {
           "headline": "California Reporter's Segment On Bear Attack Derailed By Giant Bear That Crashed The Scene - BroBible",
           "source": "Google News"
         },
@@ -132,6 +128,10 @@
         {
           "headline": "Galena Air Quality Index (AQI) and USA Air Pollution - IQAir",
           "source": "Google News"
+        },
+        {
+          "headline": "Highly Contagious Human Parvovirus Circulating In CA: What To Know",
+          "source": "Patch Monrovia"
         },
         {
           "headline": "Girl, 6, Missing For 3 Weeks After LA County Disappearance",
@@ -199,13 +199,13 @@
         }
       ],
       "relevance": {
-        "0": true,
-        "1": false,
-        "2": true,
+        "0": false,
+        "1": true,
+        "2": false,
         "3": true,
         "4": true,
         "5": true,
-        "6": true,
+        "6": false,
         "7": true,
         "8": true,
         "9": true,
@@ -216,8 +216,8 @@
         "14": true,
         "15": true,
         "16": true,
-        "17": false,
-        "18": true,
+        "17": true,
+        "18": false,
         "19": true,
         "20": false,
         "21": false,
@@ -242,7 +242,7 @@
       }
     },
     "sgv": {
-      "summary": "- Hot, dry conditions raise fire risk across San Gabriel Valley\n- Data center and battery storage concerns prompt local criticism\n- CIF-SS softball and baseball playoffs underway for SGV teams\n- Film shoot gunfire sounds expected in San Gabriel Valley area",
+      "summary": "- Hot, dry conditions raise fire risk across San Gabriel Valley\n- Six SGV teams advance to CIF-SS Division 1 softball playoffs\n- Data center and battery storage concerns spark local opposition debate\n- Film shoot gunfire sounds expected in San Gabriel Valley area",
       "headlines": [
         {
           "headline": "Gunfire sounds expected during San Gabriel Valley film shoot - KTLA",
@@ -289,10 +289,6 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Why the \u2018nothing special\u2019 moments mean everything, especially on Mother\u2019s Day - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
           "headline": "San Gabriel Valley schedule: CIF-SS softball playoffs - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
@@ -314,6 +310,10 @@
         },
         {
           "headline": "Meet Daymond, Saba and Gemma, this week\u2019s Pets of the Week in the San Gabriel Valley - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Desperate measures: LA\u2019s plan to tax everything that moves - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -365,6 +365,10 @@
           "source": "Pasadena Now"
         },
         {
+          "headline": "Assemblymember John Harabedian Honors Caroline Que Anderson During AAPI Heritage Month Ceremony",
+          "source": "Colorado Blvd"
+        },
+        {
           "headline": "PUSD Advisory Committee Rejects All Six School Closure Proposals in Final Vote",
           "source": "Colorado Blvd"
         },
@@ -409,15 +413,47 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Inside the PUSD Consolidation Plan: Emails Reveal Early Strategy, Private Coordination, and Brown Act Questions",
-          "source": "Colorado Blvd"
+          "headline": "Vance says $1.3 billion in Medicaid money to CA will be deferred over suspicions of fraud",
+          "source": "ABC7"
         },
         {
-          "headline": "13 injured in Santa Clarita overturn crash involving bus, big rig and car",
+          "headline": "E-scooter rider critically injured in Reseda hit-and-run crash; search underway for driver",
           "source": "ABC7"
         },
         {
           "headline": "2 LA students awarded prestigious $20,000 Coca-Cola scholarship",
+          "source": "ABC7"
+        },
+        {
+          "headline": "SoCal food distribution event draws long lines, some turned away after food runs out",
+          "source": "ABC7"
+        },
+        {
+          "headline": "PRIDE 365: Southern California LGBTQIA+ events",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Former California gubernatorial candidate Stephen Cloobeck arrested in West Hollywood, LASD says",
+          "source": "ABC7"
+        },
+        {
+          "headline": "11 injured in Santa Clarita crash involving bus, big rig and cars",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Senate confirms Trump pick Warsh as chairman of the Federal Reserve, following Powell",
+          "source": "ABC7"
+        },
+        {
+          "headline": "'American Horror Story' Season 13 conjures up 'Love Story' star Paul Anthony Kelly",
+          "source": "ABC7"
+        },
+        {
+          "headline": "4th person sentenced in Matthew Perry's overdose death gets 2 years in prison",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Gunfire breaks out in Philippine Senate where authorities tried to arrest a senator",
           "source": "ABC7"
         },
         {
@@ -449,47 +485,11 @@
           "source": "ABC7"
         },
         {
-          "headline": "2nd person set to be sentenced in Matthew Perry's ketamine overdose",
-          "source": "ABC7"
-        },
-        {
           "headline": "11 rescued after small plane crashes off Florida coast",
           "source": "ABC7"
         },
         {
           "headline": "Waymo driverless car avoids crash on 10 Freeway in LA, video shows",
-          "source": "ABC7"
-        },
-        {
-          "headline": "ICE will not help with security at SoFi Stadium during World Cup, officials clarify",
-          "source": "ABC7"
-        },
-        {
-          "headline": "More than 100 burglary arrests made in last month, LA Mayor Bass says",
-          "source": "ABC7"
-        },
-        {
-          "headline": "WeHo couple speaks out after viral altercation with 'MAGA influencer' ends in arrest",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Ralph Lauren partners with USPS to release America 250 stamps",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Commerce, Bell Gardens fight back against new cardroom regulations, including blackjack ban",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Jason Collins, first openly gay NBA player, dies from cancer at 47, family says",
-          "source": "ABC7"
-        },
-        {
-          "headline": "LA mayor's race: Nithya Raman says voters can 'pick a different path forward'",
-          "source": "ABC7"
-        },
-        {
-          "headline": "OC mom appears in court after being charged in death of man, 81, struck by teen son on e-motorcycle",
           "source": "ABC7"
         }
       ],
@@ -514,30 +514,30 @@
         "17": true,
         "18": true,
         "19": true,
-        "20": false,
-        "21": false,
+        "20": true,
+        "21": true,
         "22": true,
-        "23": false,
-        "24": false,
-        "25": false,
+        "23": true,
+        "24": true,
+        "25": true,
         "26": true,
-        "27": false,
-        "28": false,
+        "27": true,
+        "28": true,
         "29": true,
-        "30": false,
+        "30": true,
         "31": true,
-        "32": false,
+        "32": true,
         "33": false,
         "34": true,
-        "35": false,
-        "36": false,
+        "35": true,
+        "36": true,
         "37": true,
         "38": true,
-        "39": false
+        "39": true
       }
     },
     "county": {
-      "summary": "- LA County addresses homelessness with new housing and shelter options agreement\n- Multiple primary races on June 2 ballot shape LA County's future\n- Matthew Perry death: Drug counselor faces sentencing for delivering fatal ketamine\n- Solar program fails low-income households, developers say state rollout is slow",
+      "summary": "- Former addiction counselor sentenced to prison for role in Matthew Perry's death\n- LA agrees to boost housing and shelter options for people experiencing homelessness\n- Los Angeles mayor primary June 2: Candidates address homelessness crisis solutions\n- Mystery illness killing birds on local beaches, cause still unknown",
       "headlines": [
         {
           "headline": "Solar developers say state program is a mess and slow to help low-income households",
@@ -548,7 +548,11 @@
           "source": "LAist"
         },
         {
-          "headline": "How one South LA school teaches the \u2018nitty-gritty\u2019 work of democracy",
+          "headline": "Something is killing birds on local beaches \u2014 and no one knows why",
+          "source": "LAist"
+        },
+        {
+          "headline": "Former addiction counselor sentenced to two years in prison for role in Matthew Perry\u2019s death",
           "source": "LAist"
         },
         {
@@ -556,15 +560,11 @@
           "source": "LAist"
         },
         {
-          "headline": "California colleges went big on online learning tools. Then the worst happened",
+          "headline": "How one South LA school teaches the \u2018nitty-gritty\u2019 work of democracy",
           "source": "LAist"
         },
         {
           "headline": "A month out from World Cup, LA advocates say human rights are an afterthought",
-          "source": "LAist"
-        },
-        {
-          "headline": "The future of LA County General Hospital is taking shape. Here\u2019s what we know so far",
           "source": "LAist"
         },
         {
@@ -620,7 +620,19 @@
           "source": "LAist"
         },
         {
-          "headline": "Matthew Perry death case: Drug counselor who delivered fatal ketamine vials faces sentencing",
+          "headline": "Billionaire Stephen Cloobeck arrested in West Hollywood for alleged witness tampering",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Matthew Perry death case: Drug counselor who delivered fatal ketamine vials sentenced",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "13 injured in Santa Clarita crash involving bus, gravel truck",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "RV encampment grows outside LA Housing Authority building despite nearby 'Safe Parking'",
           "source": "Fox 11 LA"
         },
         {
@@ -640,15 +652,7 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Brandon Clarke, Grizzlies forward, dies at Los Angeles home: 'The gentlest soul'",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "OC mother faces manslaughter charges after son's e-motorcycle kills Vietnam veteran",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Arcadia mayor Eileen Wang resigns amid China foreign agent allegations",
+          "headline": "Former beauty mogul, co-founder of e.l.f. Cosmetics left his fortune and will soon be ordained a priest",
           "source": "Fox 11 LA"
         },
         {
@@ -680,7 +684,11 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "This California program will give 400 free diapers to families of newborn babies",
+          "headline": "Amazon expanding 30-minute delivery to several cities - See where",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Federal judge cracks down on ICE, rules agents in violation of limits on warrantless arrests",
           "source": "Fox 11 LA"
         },
         {
@@ -692,59 +700,55 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Iran latest: Hegseth tells Congress 'We control the strait'",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Trump's Golden Dome would cost over $1 trillion, CBO projects",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Help Sought Identifying Patient Found in Downtown LA",
+          "headline": "Santa Clarita Crash Involving Bus, Gravel Truck Sends 8 to Hospital",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LA County Students Urged to Check Eligibility for Scholarships",
+          "headline": "Former Gubernatorial Hopeful Stephen Cloobeck Arrested in West Hollywood",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LA Phil Unveils 2026 Season at The Ford",
+          "headline": "Hernandez Launches Two New Street Cleaning Teams in Chinatown, Pico Union",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Walk of Fame Star Honoring Brazilian Percussionist Da Costa to be Unveiled",
+          "headline": "Driver Who Hit Bicyclist a Year Ago Sought by LAPD",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Plaintiff Seeks $250K Default Judgment vs. Chrisean Rock Over Alleged Assault",
+          "headline": "Rob Bonta Seeks Answers from FIFA Over Ticketing Practices",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Ketamine Middleman to be Sentenced for His Involvement in Matthew Perry\u2019s Death",
+          "headline": "Los Angeles LGBT Center to Honor Marcia Gay Harden at Gala",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Average LA, OC Gas Prices Remain Unchanged",
+          "headline": "Crews Put Out Electrical Fire at Hyde Park Church",
           "source": "MyNewsLA"
         },
         {
-          "headline": "The Broad to Place Final Steel Beam on Expansion",
+          "headline": "Ketamine Middleman in Death of Matthew Perry Sentenced to Prison",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Medical Examiner IDs Exposition Park Stabbing Suspect",
+          "headline": "Blaze Along Santa Ana River Bottom Quickly Stopped",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Florence-Manchester Commercial Building Catches Fire",
+          "headline": "Fleet Week Returning to Port of LA Memorial Day Weekend",
           "source": "MyNewsLA"
         },
         {
-          "headline": "South LA Collision Victim Identified",
+          "headline": "Santa Clarita Crash Involving Bus, Gravel Truck Leaves 13 Injured",
           "source": "MyNewsLA"
         },
         {
           "headline": "Free relationship help for couples in Los Angeles County - Newsroom | UCLA",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Los Angeles weather: Southern California to see cloudy skies as May gray conditions linger - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -760,11 +764,19 @@
           "source": "Google News LA"
         },
         {
+          "headline": "Former Democratic donor and candidate arrested in Los Angeles area - Politico",
+          "source": "Google News LA"
+        },
+        {
           "headline": "In Los Angeles and beyond, landfills and gas stations are the new public spaces - Planetizen",
           "source": "Google News LA"
         },
         {
-          "headline": "Former Democratic donor and candidate arrested in Los Angeles area - Politico",
+          "headline": "Five Guys closing multiple California stores, including 2 LA County locations - MSN",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Latest articles - LACMA",
           "source": "Google News LA"
         },
         {
@@ -772,11 +784,35 @@
           "source": "Google News LA"
         },
         {
-          "headline": "How Los Angeles County residents displaced by wildfires can still receive their ballots - MSN",
+          "headline": "Coroner IDs 18-Year-Old Victim Killed in South Los Angeles Crash - MyNewsLA.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Ex-Democratic California gubernatorial candidate Stephen Cloobeck arrested in L.A. County - KTLA",
           "source": "Google News LA"
         },
         {
           "headline": "New Director Representing the City of Los Angeles Joins Metropolitan Board of Directors - Business Wire",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Stephen Cloobeck, billionaire and ex-California gubernatorial candidate arrested in West Hollywood, authorities say - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "How Los Angeles County residents displaced by wildfires can still receive their ballots - MSN",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Continued Temporary Housing Assistance Still Available for Los Angeles County Wildfire Survivors - Cal OES News (.gov)",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "2 LA students awarded prestigious $20,000 Coca-Cola scholarship - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Sexual abuse survivors criticize LA County's effort limit future lawsuits and settlements - MSN",
           "source": "Google News LA"
         },
         {
@@ -785,42 +821,6 @@
         },
         {
           "headline": "445 N Rossmore Ave Apt 221, Los Angeles, CA 90004 - Realtor.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "The Broad Set to Place Final Steel Beam on Expansion - MyNewsLA.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Girl, 6, Missing For 3 Weeks After LA County Disappearance - Patch",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Sexual abuse survivors criticize LA County's effort limit future lawsuits and settlements - MSN",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Continued Temporary Housing Assistance Still Available for Los Angeles County Wildfire Survivors - Cal OES News (.gov)",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "South LA Collision Victim Identified - MyNewsLA.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "LACo Receives Funding for Homeless Housing Developments - MyNewsLA.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "4815 S Normandie Ave Unit 1/2, Los Angeles, CA 90037 - Realtor.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Cole Tomas Allen: What we know about California man held in shooting at Trump event - MSN",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "$36 Million in New State Homekey Funds Sent to County as Homelessness Fraud Questions Remain - westsidecurrent.com",
           "source": "Google News LA"
         }
       ],
