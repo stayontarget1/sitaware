@@ -1,10 +1,18 @@
 {
-  "generated": "2026-05-15T16:53:57.809376+00:00",
-  "briefing": "8 AM",
+  "generated": "2026-05-15T20:10:17.836812+00:00",
+  "briefing": "12 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Monrovia Days parade kicks off tomorrow with festivities throughout the week\n- School Board considers summer pool program and contractic sniffer dog initiative\n- Police report catalytic converter thefts, child endangerment, and arson arrests this week\n- Library book sale Saturday; free dog adoptions May 15-24 available now",
+      "summary": "- Monrovia Days parade starts tomorrow with week-long festival celebration\n- School Board considers summer pool program and security dogs\n- Police catch trash-can arsonist, recover stolen catalytic converters\n- Firefighters pancake breakfast tomorrow benefits local community",
       "headlines": [
+        {
+          "headline": "Harbaugh named schools' Classified Employee of the Year",
+          "source": "Monrovia Now"
+        },
+        {
+          "headline": "Summer Solstice Garden Party, June 20",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Library book sale Saturday, May 16",
           "source": "Monrovia Now"
@@ -78,14 +86,6 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Monrovia ACTV Phase 1 bike and pedestrian project survey open through June 26",
-          "source": "Monrovia Now"
-        },
-        {
-          "headline": "Free garden tools workshop at Monrovia Community Garden South, May 23",
-          "source": "Monrovia Now"
-        },
-        {
           "headline": "Orphaned bear cubs hit 'milestone' after months at California center - The Desert Sun",
           "source": "Google News"
         },
@@ -110,10 +110,6 @@
           "source": "Google News"
         },
         {
-          "headline": "San Luis Obispo County Air Quality Index (AQI) and USA Air Pollution - IQAir",
-          "source": "Google News"
-        },
-        {
           "headline": "Monrovia\u2019s orphaned bear cubs move into outdoor habitat in San Diego County - San Gabriel Valley Tribune",
           "source": "Google News"
         },
@@ -126,11 +122,11 @@
           "source": "Google News"
         },
         {
-          "headline": "Duarte vs Monrovia Softball - Feb 28, 2026 - Sports Illustrated",
+          "headline": "Lake California Air Quality Index (AQI) and USA Air Pollution - IQAir",
           "source": "Google News"
         },
         {
-          "headline": "PHOTOS: Orphaned bear cubs receive change of scenery at Ramona Humane Society - fox5sandiego.com",
+          "headline": "Duarte vs Monrovia Softball - Feb 28, 2026 - Sports Illustrated",
           "source": "Google News"
         },
         {
@@ -138,7 +134,11 @@
           "source": "Google News"
         },
         {
-          "headline": "Lake California Air Quality Index (AQI) and USA Air Pollution - IQAir",
+          "headline": "The Best Things To Do in Los Angeles This Weekend With Kids - Mommy Poppins",
+          "source": "Google News"
+        },
+        {
+          "headline": "PHOTOS: Orphaned bear cubs receive change of scenery at Ramona Humane Society - fox5sandiego.com",
           "source": "Google News"
         },
         {
@@ -147,10 +147,6 @@
         },
         {
           "headline": "Galena Air Quality Index (AQI) and USA Air Pollution - IQAir",
-          "source": "Google News"
-        },
-        {
-          "headline": "The Best Things To Do in Los Angeles This Weekend With Kids - Mommy Poppins",
           "source": "Google News"
         },
         {
@@ -166,15 +162,19 @@
           "source": "Google News"
         },
         {
+          "headline": "Orphaned Bear Cubs Reach \u2018Major Milestone\u2019 at Rescue Center - The Australian",
+          "source": "Google News"
+        },
+        {
+          "headline": "Memorial Day Events In Southern California Celebrate America's 250th",
+          "source": "Patch Monrovia"
+        },
+        {
           "headline": "$10M Counterfeit Bust Uncovers Fake Luxury Goods Operation: LASD",
           "source": "Patch Monrovia"
         },
         {
           "headline": "5th CA Resident Linked To Hantavirus Outbreak On Cruise Ship",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Ex-CA Gov Candidate Threatened Witnesses In Fiancee\u2019s Dating-App Burglary Case: Prosecutors",
           "source": "Patch Monrovia"
         },
         {
@@ -227,7 +227,7 @@
         }
       ],
       "relevance": {
-        "0": true,
+        "0": false,
         "1": true,
         "2": true,
         "3": true,
@@ -235,13 +235,13 @@
         "5": true,
         "6": true,
         "7": true,
-        "8": false,
+        "8": true,
         "9": true,
-        "10": true,
+        "10": false,
         "11": true,
         "12": true,
         "13": true,
-        "14": true,
+        "14": false,
         "15": true,
         "16": true,
         "17": true,
@@ -253,13 +253,13 @@
         "23": false,
         "24": true,
         "25": true,
-        "26": false,
+        "26": true,
         "27": true,
         "28": true,
-        "29": true,
+        "29": false,
         "30": false,
-        "31": false,
-        "32": true,
+        "31": true,
+        "32": false,
         "33": false,
         "34": false,
         "35": false,
@@ -270,7 +270,7 @@
       }
     },
     "sgv": {
-      "summary": "- Data centers and battery storage hubs spark San Gabriel Valley community concerns\n- Hot, dry conditions raise significant fire risk across San Gabriel Valley\n- Ruthie Hopkins, pioneering Black publisher and community leader, passes at eighty-three\n- Local athletes compete in CIF-SS track and field finals this week",
+      "summary": "- Data centers and battery storage facilities spark community concerns in SGV\n- Hot, dry conditions elevate wildfire risk across San Gabriel Valley\n- Hidden cameras discovered during SGV burglary investigations raise security alarms\n- Ruthie Hopkins, pioneering Black publisher and community leader, dies at 83",
       "headlines": [
         {
           "headline": "Gunfire sounds expected during San Gabriel Valley film shoot - KTLA",
@@ -297,10 +297,6 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel Valley Women\u2019s Summit to Feature Dr. Kimberly Harris - The National Law Review",
-          "source": "Google News SGV"
-        },
-        {
           "headline": "Woman injured when car crashes into San Gabriel Valley laundromat - KTLA",
           "source": "Google News SGV"
         },
@@ -317,7 +313,15 @@
           "source": "Google News SGV"
         },
         {
+          "headline": "Hidden cameras found in San Gabriel Valley yards during burglary investigations - KTLA",
+          "source": "Google News SGV"
+        },
+        {
           "headline": "San Gabriel Valley schedule: CIF-SS baseball playoffs - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Hidden cameras found in SoCal yards during burglary investigations - KTLA",
           "source": "Google News SGV"
         },
         {
@@ -346,10 +350,6 @@
         },
         {
           "headline": "The Broad Museum places final steel beam on expansion - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "Sichuan Ambition: Mountain House\u2019s West Coast flagship opens in San Gabriel Valley - Pasadena Weekly",
           "source": "Google News SGV"
         },
         {
@@ -441,6 +441,42 @@
           "source": "Colorado Blvd"
         },
         {
+          "headline": "2 people found dead inside a plane that crashed into an Ohio home",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Stars praise incredible action, touching storyline in 'The Mandalorian and Grogu'",
+          "source": "ABC7"
+        },
+        {
+          "headline": "These teachers have turned their classroom anecdotes into laugh-out-loud stand-up comedy",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Judge declares a mistrial in Harvey Weinstein's rape retrial after jury says it is deadlocked",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Hollywood residents divided as construction begins on 51-unit tiny home village to house homeless",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Original Tommy's marks 80th anniversary with 80-cent chili cheeseburgers",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Ferri's Pizza is a one-of-a-kind Pizza Shop in the Poconos",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Viral DJ drops new toddler techno album, remixing some of Disney Jr.'s biggest hits",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Justice Department to seek death penalty for man charged with killing 2 Israeli Embassy staffers",
+          "source": "ABC7"
+        },
+        {
           "headline": "The Giving Tree extends outside Mureta & Co.",
           "source": "ABC7"
         },
@@ -481,43 +517,7 @@
           "source": "ABC7"
         },
         {
-          "headline": "2 people found dead inside a plane that crashed into an Ohio home",
-          "source": "ABC7"
-        },
-        {
           "headline": "Past ABC7 Sweepstakes & Promotions",
-          "source": "ABC7"
-        },
-        {
-          "headline": "42-year-old woman found shot to death on Tustin street; search underway for gunman",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Jury awards $49.5M to the family of a woman killed in 2019 Boeing Max crash",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Leading contenders for CA governor meet for final debate before votes are counted",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Military aircraft escorted through Torrance",
-          "source": "ABC7"
-        },
-        {
-          "headline": "3 dead, including child, after Montebello house fire; domestic violence suspected, officials say",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Chino Hills brush fire sparked by Tesla rollover crash, officials confirm",
-          "source": "ABC7"
-        },
-        {
-          "headline": "LA mayoral candidate Rae Huang says she would bring 'complete, utter change' to City Hall",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Lynwood woman speaks out after gold necklace ripped off her in front yard; suspect sought",
           "source": "ABC7"
         }
       ],
@@ -527,20 +527,20 @@
         "2": true,
         "3": true,
         "4": true,
-        "5": true,
-        "6": false,
-        "7": true,
+        "5": false,
+        "6": true,
+        "7": false,
         "8": true,
-        "9": true,
+        "9": false,
         "10": true,
-        "11": true,
-        "12": true,
-        "13": true,
-        "14": true,
+        "11": false,
+        "12": false,
+        "13": false,
+        "14": false,
         "15": true,
-        "16": true,
+        "16": false,
         "17": true,
-        "18": true,
+        "18": false,
         "19": true,
         "20": true,
         "21": true,
@@ -549,8 +549,8 @@
         "24": true,
         "25": true,
         "26": true,
-        "27": false,
-        "28": false,
+        "27": true,
+        "28": true,
         "29": true,
         "30": true,
         "31": true,
@@ -558,14 +558,14 @@
         "33": true,
         "34": true,
         "35": true,
-        "36": false,
+        "36": true,
         "37": false,
         "38": true,
         "39": false
       }
     },
     "county": {
-      "summary": "- LA City Council delays minimum wage boosts for tourism workers amid pressure\n- LA County Sheriff race heats up ahead of June 2 primary election\n- Montebello house fire kills 3 in suspected domestic violence arson case\n- Orange County halts chemicals poisoning creeks and coastal waters",
+      "summary": "- LA City Council delays minimum wage hikes for tourism workers amid economic pressure\n- June 2 primary: LA mayor, sheriff, and court judges races heating up\n- Orange County halts creek and coast-poisoning chemicals, protecting environment and public health\n- Montebello house fire kills three in suspected domestic violence arson incident",
       "headlines": [
         {
           "headline": "Huntington Beach's MAGA coalition is fracturing over 'cronyism'",
@@ -577,6 +577,10 @@
         },
         {
           "headline": "Jurupa Oak to be preserved under lawsuit settlement",
+          "source": "LAist"
+        },
+        {
+          "headline": "California governor debate: Rivals gang up on Democratic frontrunner Becerra",
           "source": "LAist"
         },
         {
@@ -644,11 +648,15 @@
           "source": "LAist"
         },
         {
-          "headline": "Officials say shoring up California\u2019s oil supply will come \u2018at a price\u2019",
-          "source": "LAist"
+          "headline": "LA unveils interactive 'Top 100 Problem Rental Properties' tracker for housing violations",
+          "source": "Fox 11 LA"
         },
         {
-          "headline": "Original Tommy\u2019s offers 80-cent chili cheeseburgers for 80-year milestone",
+          "headline": "Trespasser arrested for third time this week at Chris Brown\u2019s San Fernando Valley estate",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Original Tommy\u2019s offering 80-cent chili cheeseburgers for 80-year milestone",
           "source": "Fox 11 LA"
         },
         {
@@ -672,11 +680,15 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Anti-ICE activists rally in downtown LA after federal search warrants target organizers",
+          "headline": "Parents beware: Your kid's e-bike could land you a felony charge",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Oxnard police arrest suspect for grand theft of $35,000 copper fountain",
+          "headline": "El Ni\u00f1o explainer: Some forecast models suggest possible record-setting event",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "California gubernatorial candidates clash over affordability in final primary debate",
           "source": "Fox 11 LA"
         },
         {
@@ -700,15 +712,11 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Map: How much are federal, state gas taxes?",
+          "headline": "Bodies of 2 children found inside burning car in San Antonio",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "\u2018Too Fast, Too Furious\u2019: Amazon halts e-bike sales in California amid fatal crashes",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Tsunami of sewage from Mexico barrels toward US coastline, officials warn",
+          "headline": "FBI offering $200K reward for former counterintelligence agent charged for spying for Iran",
           "source": "Fox 11 LA"
         },
         {
@@ -720,59 +728,63 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Medical plane crash in New Mexico kills 4, FAA says",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "US Border Patrol chief resigns 'effective immediately'",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "At-Risk Septuagenarian Missing from Long Beach",
+          "headline": "LACo Releases Master Plan for Historic General Hospital Campus",
           "source": "MyNewsLA"
         },
         {
-          "headline": "More Lane Closures Set for 5 Freeway in Castaic Area",
+          "headline": "Man Who Hacked Disney Employee\u2019s Computer to Serve Just Over a Year in Prison",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Crews Douse Blaze in Vacant, Previously Burned South L.A. Building",
+          "headline": "Driver Suffers Minor Injuries in I-10 Vehicle Rollover in Cabazon",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Tustin Police Investigating Fatal Shooting of Woman, 42",
+          "headline": "Fatal Incident on I-215 in Riverside",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Chargers To Open Season Against Cardinals at SoFi Stadium",
+          "headline": "Teen Dirt Bikers Allegedly Caused Deputy to Crash",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Pasadena Launches Survey on Streets, Fire Protection",
+          "headline": "LBPD Searched for At-Risk Septuagenarian",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Sentencing Due for LACo Man Who Hacked Disney Employee\u2019s Computer",
+          "headline": "Lane Closures Set for 5 Freeway in Castaic Area",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Orange County Launches Zero Waste Curriculum for Students",
+          "headline": "LAFD Battles Blaze in Vacant, Previously Burned South L.A. Building",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Man Detained For Third Alleged Trespass on Chris Brown\u2019s Estate",
+          "headline": "Tustin Police Investigate Fatal Shooting of Woman",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Woman Killed Crossing The Street in Westwood Identified",
+          "headline": "Chargers To Open Season Against Cardinals at Home",
           "source": "MyNewsLA"
         },
         {
-          "headline": "77-Year-Old Woman Reported Missing in Santa Clarita",
+          "headline": "City of Pasadena Launches Survey on Streets, Fire Protection",
           "source": "MyNewsLA"
+        },
+        {
+          "headline": "A guide to voter guides in LA County - LA Public Press",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "California\u2019s Two Biggest Cities Are Heading in Different Directions - Governing",
+          "source": "Google News LA"
         },
         {
           "headline": "Los Angeles County Sheriff's Department Missing Person Unit is advising Lara Kimberley Bryant has been located. Thank you to the public, the media, and deputy personnel for their tireless efforts in the search for Ms. Bryant. - facebook.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LA County Releases Master Plan for Historic General Hospital Campus - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
@@ -780,11 +792,27 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Christian Lifeguard Captain Seeks Federal Court Ruling Against L.A. County for Punishing His Religious Beliefs - Thomas More Society",
+          "headline": "School Start & End Dates: 2023-24 Academic Year Calendars for LA County Schools - Mommy Poppins",
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles weather: Southern California to see cool to mild conditions Friday before temperatures warm up - ABC7 Los Angeles",
+          "headline": "SCV News | May 18: Deadline to Register for June 2, 2026 Statewide Direct Primary Election - SCVNews.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "L.A. County distributes $5 million to businesses hit by immigration enforcement - The Business Journals",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Why are flags at half-staff in California? Why they'll stay lowered May 15 - The Desert Sun",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Alleged fentanyl trafficker arrested in Arcadia, nearly 40 pounds seized - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Christian Lifeguard Captain Seeks Federal Court Ruling Against L.A. County for Punishing His Religious Beliefs - Thomas More Society",
           "source": "Google News LA"
         },
         {
@@ -800,55 +828,27 @@
           "source": "Google News LA"
         },
         {
-          "headline": "6335 W 85th Pl, Los Angeles, CA 90045 - Realtor.com",
+          "headline": "SCV News | May 18-31: LASD Reminds Travelers 'Click It or Ticket' - SCVNews.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Why LA is struggling while San Francisco is beginning to boom again - The Detroit News",
+          "headline": "Barger Backs Newsom\u2019s Proposed $100 Million Wildfire Rebuilding Fund Los Angeles County Supervisor Kathryn Barger on Thursday endorsed a $100 million Disaster Rebuilding Fund proposed by Governor Gavin Newsom, saying it could help Eaton Fire s - facebook.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Lawmaker warns that West Los Angeles veterans campus could become vast \u2018skid row\u2019 - The American Legion",
+          "headline": "Los Angeles weather: Southern California to see cool to mild conditions Friday before temperatures warm up - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "Skanska Completes LA Metro Purple Line Extension Section 1 in Los Angeles - Construction Owners Club",
+          "headline": "SCV News | LASD is Asking for Public\u2019s Help Locating Missing Santa Clarita Woman - SCVNews.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Former Democratic donor and candidate arrested in Los Angeles area - Politico",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "In Los Angeles and beyond, landfills and gas stations are the new public spaces - Planetizen",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Sky News Australia. . Los Angeles resident Roxanne Hoge says LA mayoral candidate Spencer Pratt is the \u201canswer to our prayers\u201d as his mayoral campaign begins to gain traction. - facebook.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Has psychiatric care become a get-out-of-jail-free card in California? The debate is heating up - CalMatters",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "545 San Juan Ave Unit 2, Los Angeles, CA 90291 - Realtor.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Stephen Cloobeck, billionaire and ex-California gubernatorial candidate, arrested in West Hollywood, authorities say - ABC7 Los Angeles",
+          "headline": "Sky News Australia. . Los Angeles resident Roxanne Hoge says former Arcadia mayor Eileen Wang pleaded guilty to being a Chinese government agent. - facebook.com",
           "source": "Google News LA"
         },
         {
           "headline": "*UPDATE LOCATED* #LASD is Advising Missing Juvenile, Madison Ezabella Arellano Has Been #Located #SanDimas Los Angeles County Sheriff's Department San Dimas Station Detectives are advising Madison Ezabella Arellano has been located. Thank - facebook.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "1517 W 28th St Apt 6, Los Angeles, CA 90007 - Realtor.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles County Sheriff's Department. Paul M. Grove \u00b7 Full Military Honors. The Los Angeles County Sheriff\u2019s Department stood in solemn silence at the Tomb of the Unknown Soldier, honoring the brave men and women who made the ultimate sacrifice in - facebook.com",
           "source": "Google News LA"
         }
       ],
