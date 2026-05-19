@@ -1,10 +1,18 @@
 {
-  "generated": "2026-05-18T20:21:17.412363+00:00",
-  "briefing": "12 PM",
+  "generated": "2026-05-19T02:55:57.278084+00:00",
+  "briefing": "5 PM",
   "columns": {
     "monrovia": {
-      "summary": "- City considers $76 million bond for renovations and consolidated elections\n- Monrovia Days parade starts tomorrow with week-long community celebration\n- School Board to consider summer pool program and sniffer dogs\n- Local orphaned bear cubs reach milestone at wildlife center",
+      "summary": "- City Council discusses 2028 Olympics planning and $76 million bond for renovations\n- Monrovia Days parade and festivities begin Thursday with community celebrations\n- School Board considers summer pool program and security measures with sniffer dogs\n- Monrovia's orphaned bear cubs reach major milestone at wildlife center",
       "headlines": [
+        {
+          "headline": "City Council to discuss planning for 2028 Olympics",
+          "source": "Monrovia Now"
+        },
+        {
+          "headline": "Boys & Girls Club rally honors Youth of the Year, May 31",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "City to consider issuing $76 million bond for renovations, consolidating elections",
           "source": "Monrovia Now"
@@ -78,14 +86,6 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Happy Mothers' Day to a Monrovia mom from USS Nimitz",
-          "source": "Monrovia Now"
-        },
-        {
-          "headline": "Special seat belt enforcement campaign begins May 18",
-          "source": "Monrovia Now"
-        },
-        {
           "headline": "Orphaned bear cubs hit 'milestone' after months at California center - The Desert Sun",
           "source": "Google News"
         },
@@ -142,7 +142,7 @@
           "source": "Google News"
         },
         {
-          "headline": "GOOD NEWS: Hawaii\u2019s bill to undo Citizens United is heading to the governor\u2019s desk - Center for American Progress",
+          "headline": "Winston County Air Quality Index (AQI) and USA Air Pollution - IQAir",
           "source": "Google News"
         },
         {
@@ -150,7 +150,7 @@
           "source": "Google News"
         },
         {
-          "headline": "Winston County Air Quality Index (AQI) and USA Air Pollution - IQAir",
+          "headline": "GOOD NEWS: Hawaii\u2019s bill to undo Citizens United is heading to the governor\u2019s desk - Center for American Progress",
           "source": "Google News"
         },
         {
@@ -162,8 +162,24 @@
           "source": "Google News"
         },
         {
-          "headline": "Monrovia Weekly_5/18/2026 - heysocal.com",
+          "headline": "Why is the Cost of Gas so High? - Calaveras Enterprise",
           "source": "Google News"
+        },
+        {
+          "headline": "Gray Wolf Spotted In Sequoia National Park For First In More Than 100 Years",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "Woman Paid Cash To Skid Row Homeless Who Registered To Vote: DOJ",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "Mark Fuhrman, Infamous LAPD Detective In O.J. Simpson Trial, Dies at 74",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "5 Dead, Including 2 Suspects, In San Diego Mosque Shooting",
+          "source": "Patch Monrovia"
         },
         {
           "headline": "KNX Ends FM Broadcast, New LA Sports Station Launches In Its Place",
@@ -171,18 +187,6 @@
         },
         {
           "headline": "Airline Ditches Drink Service | Manson Mansion Rents For $248K A Month: CA Business News",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "'Deceptive' Kars4Kids Jingle Ads Banned In CA Amid Undisclosed Religious Affiliation",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Deli Meats Linked To Listeria Outbreak: Recall Roundup",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Andes Hantavirus: What You Should And Should Not Worry About",
           "source": "Patch Monrovia"
         },
         {
@@ -235,14 +239,14 @@
         }
       ],
       "relevance": {
-        "0": true,
+        "0": false,
         "1": true,
         "2": true,
         "3": true,
         "4": true,
         "5": true,
         "6": true,
-        "7": true,
+        "7": false,
         "8": true,
         "9": true,
         "10": true,
@@ -250,9 +254,9 @@
         "12": true,
         "13": true,
         "14": true,
-        "15": false,
+        "15": true,
         "16": true,
-        "17": true,
+        "17": false,
         "18": true,
         "19": true,
         "20": false,
@@ -263,7 +267,7 @@
         "25": true,
         "26": true,
         "27": true,
-        "28": false,
+        "28": true,
         "29": false,
         "30": true,
         "31": false,
@@ -274,14 +278,14 @@
         "36": false,
         "37": false,
         "38": false,
-        "39": true
+        "39": false
       }
     },
     "sgv": {
-      "summary": "- Data center boom raises environmental concerns across San Gabriel Valley\n- Hidden cameras discovered in SGV yards during burglary investigations\n- Immigrant legal services receive record funding boost in region\n- Ruthie Hopkins, pioneering Black publisher and community leader, dies",
+      "summary": "- Data centers transforming San Gabriel Valley with significant community concerns\n- Ruthie Hopkins, pioneering Black publisher and community leader, dies at 83\n- Hidden cameras discovered in San Gabriel Valley yards during burglary investigations\n- Fire breaks out in mountains above San Gabriel Valley",
       "headlines": [
         {
-          "headline": "San Gabriel Valley standouts could shine at CIF-SS track and field finals - San Gabriel Valley Tribune",
+          "headline": "Local News - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -293,11 +297,15 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Shock Waves in the San Gabriel Valley - Local News Pasadena",
+          "headline": "Fire Breaks Out In Mountains Above San Gabriel Valley - Patch",
           "source": "Google News SGV"
         },
         {
-          "headline": "Ruthie Hopkins, Pioneering Black Publisher and San Gabriel Valley Community Leader, Passes at 83 - Los Angeles Sentinel",
+          "headline": "Ruthie Hopkins, Pioneering Black Publisher and San Gabriel Valley Community Leader, Passes at 83 - The San Diego Voice & Viewpoint",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Shock Waves in the San Gabriel Valley - Local News Pasadena",
           "source": "Google News SGV"
         },
         {
@@ -309,7 +317,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Legal help for immigrants in the San Gabriel Valley gets a record-breaking boost - San Gabriel Valley Tribune",
+          "headline": "San Gabriel Valley standouts could shine at CIF-SS track and field finals - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -321,15 +329,19 @@
           "source": "Google News SGV"
         },
         {
+          "headline": "Legal help for immigrants in the San Gabriel Valley gets a record-breaking boost - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
           "headline": "Hidden cameras found in SoCal yards during burglary investigations - KTLA",
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel Valley Girls Athlete of the Week: Natalia Shanovich, Pasadena - San Gabriel Valley Tribune",
+          "headline": "Truck stolen from San Gabriel Valley animal rescue organization during fire response - KTLA",
           "source": "Google News SGV"
         },
         {
-          "headline": "Truck stolen from San Gabriel Valley animal rescue organization during fire response - KTLA",
+          "headline": "San Gabriel Valley Girls Athlete of the Week: Natalia Shanovich, Pasadena - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -338,10 +350,6 @@
         },
         {
           "headline": "Graduation 2026 schedule: Dates, times for San Gabriel Valley high schools, universities - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "SGV baseball second round playoff schedule - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -357,8 +365,12 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "\u2018Thanks USA Healthcare Fair\u2019 Launches AAPI Heritage Month in San Gabriel - Local News Pasadena",
-          "source": "Google News SGV"
+          "headline": "Judge Inclined to Deny UC Dismissal Motion in Rose Bowl Suit",
+          "source": "Pasadena Now"
+        },
+        {
+          "headline": "Probe Finds No Fault in West Altadena Evacuation Decisions in Eaton Fire",
+          "source": "Pasadena Now"
         },
         {
           "headline": "In Memoriam: Marguerite Shuster",
@@ -393,12 +405,16 @@
           "source": "Pasadena Now"
         },
         {
-          "headline": "Capital Improvement Program Third-Quarter Update Heads to Finance/Audit Committee",
-          "source": "Pasadena Now"
+          "headline": "Alhambra Library to Host Family Memory Box Workshop Inspired by \u201cThey Called Us Enemy\u201d",
+          "source": "Colorado Blvd"
         },
         {
-          "headline": "Pasadena Center Operating Company to Present $32 Million Budget Proposal Anchored by Convention Center, Civic Auditorium and Ice Skating Operations",
-          "source": "Pasadena Now"
+          "headline": "South Pasadena Firefighters Contain Two Residential Fires Sunday",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Pasadena Media Wins Top Honors at 2026 Hometown Media Awards",
+          "source": "Colorado Blvd"
         },
         {
           "headline": "Eaton Fire Investigation Finds No Intentional Delay in West Altadena Evacuations",
@@ -437,23 +453,35 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Where Armenia Chose Life",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Fire Recovery Efforts Continue at Rubio Canyon Preserve More Than a Year After Eaton Fire",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Los Angeles County Investigates Fifth Measles Case of 2026 Linked to International Traveler",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Threat 'neutralized' after active shooter reported at Islamic Center of San Diego: Police",
+          "headline": "3 men killed in San Diego mosque shooting and both teenage suspects dead, police say",
           "source": "ABC7"
         },
         {
-          "headline": "Fast-moving brush fire erupts in Simi Valley; AIR7 spots home burning",
+          "headline": "San Diego shooting: Suspect's mom alerted police that son was a runaway, weapons were missing",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Pacoima business owners say city cleared troubled street overrun by encampment after ABC7 probe",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Disney creates magic for military families at The Library of Congress with Blue Star Families",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Mark Fuhrman, LAPD detective at center of controversy in OJ Simpson's murder trial, dies at age 74",
+          "source": "ABC7"
+        },
+        {
+          "headline": "2 dead after building fire in Glendale",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Fast-moving brush fire erupts in Simi Valley; evacuation orders and warnings issued",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Disney reveals 'Disney Blockbuster Summer' with 'The Mandalorian and Grogu' and 'Toy Story 5'",
           "source": "ABC7"
         },
         {
@@ -481,10 +509,6 @@
           "source": "ABC7"
         },
         {
-          "headline": "2 dead after building fire in Glendale",
-          "source": "ABC7"
-        },
-        {
           "headline": "2 Americans arrested after one climbed into Punch the monkey's habitat in Japan",
           "source": "ABC7"
         },
@@ -507,84 +531,68 @@
         {
           "headline": "Penn Grows is finding creative ways to incorporate mircogreens into more than just food",
           "source": "ABC7"
-        },
-        {
-          "headline": "Santa Monica kidnapping suspect in custody following police chase, shooting",
-          "source": "ABC7"
-        },
-        {
-          "headline": "2 Navy jets crash during air show in Idaho, 4 crew members eject safely",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Family turns to ABC7 On Your Side after urn purchased from Amazon arrived with ashes already inside",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Community mourns death of teenage boy shot and killed in East Los Angeles",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Pedro Pascal surprises guests as 'The Mandalorian' at Star Wars: Galaxy's Edge in Disneyland",
-          "source": "ABC7"
         }
       ],
       "relevance": {
-        "0": true,
+        "0": false,
         "1": true,
         "2": true,
         "3": true,
-        "4": true,
+        "4": false,
         "5": true,
-        "6": false,
-        "7": true,
+        "6": true,
+        "7": false,
         "8": true,
         "9": true,
-        "10": false,
+        "10": true,
         "11": true,
-        "12": true,
+        "12": false,
         "13": true,
         "14": true,
         "15": true,
         "16": true,
-        "17": false,
-        "18": true,
+        "17": true,
+        "18": false,
         "19": true,
         "20": false,
         "21": false,
-        "22": true,
+        "22": false,
         "23": false,
         "24": true,
         "25": false,
         "26": true,
-        "27": true,
+        "27": false,
         "28": true,
         "29": true,
         "30": true,
         "31": true,
         "32": true,
-        "33": true,
+        "33": false,
         "34": true,
         "35": true,
         "36": false,
         "37": true,
-        "38": false,
+        "38": true,
         "39": false
       }
     },
     "county": {
-      "summary": "- County confirms fifth measles case in Los Angeles County\n- LA Mayor primary June 2: candidates and key issues explained\n- LA County Sheriff primary June 2: who's running and why\n- Sandy Fire prompts evacuation orders in Simi Valley area",
+      "summary": "- Fifth measles case confirmed in Los Angeles County this week\n- Sandy Fire in Simi Valley prompts evacuations, threatens multiple homes\n- Critical fire weather persists across Southern California region currently\n- June 2 primary elections approaching for LA mayor, sheriff, judges",
       "headlines": [
         {
           "headline": "One LA clinic tracks the heavy toll Trump's immigration crackdown takes on mental health",
           "source": "LAist"
         },
         {
-          "headline": "California colleges are seeing a rise of conservative voices. Some classes are tense",
+          "headline": "New report on Eaton Fire evacuation alerts finds \u2018no failure\u2019 by officials",
           "source": "LAist"
         },
         {
-          "headline": "Introducing Voter Game Plan+: New features for LAist\u2019s popular voter guides",
+          "headline": "Ebola outbreak latest, gut-brain connection, Cinerama Dome's history and more",
+          "source": "LAist"
+        },
+        {
+          "headline": "One home burned and others threatened by Sandy Fire in Simi Valley",
           "source": "LAist"
         },
         {
@@ -600,11 +608,7 @@
           "source": "LAist"
         },
         {
-          "headline": "Why this tiny bookstore is becoming one of LA\u2019s most perfect Sunday hangs",
-          "source": "LAist"
-        },
-        {
-          "headline": "4 food halls in Southern California serving up more than just good eats",
+          "headline": "A grassroots soccer program is changing the game for girls in Boyle Heights",
           "source": "LAist"
         },
         {
@@ -636,23 +640,23 @@
           "source": "LAist"
         },
         {
-          "headline": "Solar developers say state program is a mess and slow to help low-income households",
+          "headline": "Data centers are guzzling California\u2019s water. We have no idea how much",
           "source": "LAist"
         },
         {
-          "headline": "OC halts use of chemicals that critics say poison the county\u2019s creeks and coast",
+          "headline": "New report on Eaton Fire evacuation alerts finds \u2018no failure\u2019 by officials",
           "source": "LAist"
         },
         {
-          "headline": "What a persistent ocean heatwave means for sea life and a possible El Ni\u00f1o year",
+          "headline": "What is California's \u2018jungle primary\u2019 \u2014 and why does it matter so much for the governor\u2019s race?",
+          "source": "LAist"
+        },
+        {
+          "headline": "Huntington Beach faces $50k monthly fine for ignoring state housing mandate",
           "source": "LAist"
         },
         {
           "headline": "Inflation jumps to its highest level since 2023. Here are 3 things costing a lot more",
-          "source": "LAist"
-        },
-        {
-          "headline": "Iran ceasefire tested as cargo ship catches fire after being hit off Qatar's coast",
           "source": "LAist"
         },
         {
@@ -688,7 +692,15 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "LIVE: San Diego police respond to 'reported active shooter' at Islamic center",
+          "headline": "Islamic Center of San Diego shooting: What we know about the suspects",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Mark Fuhrman, former LA detective at center of OJ Simpson murder trial, dies at 74",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "3 victims killed, 2 teen suspects dead in San Diego Islamic center shooting",
           "source": "Fox 11 LA"
         },
         {
@@ -712,14 +724,6 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Xavier Becerra surges to lead California gubernatorial race in new poll",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "San Francisco 2-year-old son & nanny hit by truck",
-          "source": "Fox 11 LA"
-        },
-        {
           "headline": "Iran latest: US plans to attack Iran on Tuesday called off, Trump says",
           "source": "Fox 11 LA"
         },
@@ -736,47 +740,47 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Police ID Suspect Shot by Officers in Boyle Heights",
+          "headline": "Mother Pleads No Contest to Child Abuse in 2-Year-Old Son\u2019s Drug Death",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Horse Suffers Fatal Racing Injury at Santa Anita",
+          "headline": "LAPD, LASD Increase Patrols After Deadly San Diego Mosque Shooting",
           "source": "MyNewsLA"
         },
         {
-          "headline": "StubHub Launches LA Ticket Program Including SoFi World Cup Games",
+          "headline": "SD County Man Charged with Hate Crime for Alleged Assault on Jewish Man in LA",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Jurors Resume Deliberations in Trial of Man Accused of Shooting Girl in Car",
+          "headline": "Sex Offender Pleads Guilty to Child Annoyance in Newport Beach",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Probe Finds No Fault in Evacuation Decisions in Eaton Fire",
+          "headline": "Palm Desert Aquatic Center Fully Operational",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Investigation Launches into Fatal Fire at Glendale Commercial Building",
+          "headline": "Woman Killed by Bus in Santa Monica Identified",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Police Arrest Man for Allegedly Assaulting Jewish Man During Hate Motivated Attack",
+          "headline": "Clinic Spending Initiative Qualifies for November Ballot",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Former Ballot Initiative Signature Collector to Plead Guilty to Paying People in Skid Row to Vote",
+          "headline": "Clinic Spending Initiative Qualifies for November Ballot",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LA28 Organizers Announces Recipients of `Resilience Champions Fund\u2019 Initiative",
+          "headline": "Brush Fire in Lancaster Quickly Knocked Down",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Palm Springs Convention Center to Host Tech Summit",
+          "headline": "Judge Inclined to Deny UC Dismissal Motion in Rose Bowl Suit",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Little Change To Average LA, OC Gas Prices",
+          "headline": "Jury Begins Hearing Trial of Man Charged in Deadly Trader Joe\u2019s Shooting",
           "source": "MyNewsLA"
         },
         {
@@ -784,15 +788,19 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Ninth Circuit Clears Path for Foster Youth Lawsuit Against Los Angeles County - Munger, Tolles & Olson",
-          "source": "Google News LA"
-        },
-        {
           "headline": "Register Now for America\u2019s Favorite Couple and Help Fight Hunger in LA County - Los Angeles Regional Food Bank",
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County Official Calls for Investigation of State Gun Chain After Reporting by The Trace - thetrace.org",
+          "headline": "Evacuation Information Tips - Los Angeles County Sheriff's Department",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Ninth Circuit Clears Path for Foster Youth Lawsuit Against Los Angeles County - Munger, Tolles & Olson",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "An American in Paris: screening - Discover Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -804,7 +812,39 @@
           "source": "Google News LA"
         },
         {
+          "headline": "LA Authorities Increase Patrols After Deadly San Diego Mosque Shooting - MyNewsLA.com",
+          "source": "Google News LA"
+        },
+        {
           "headline": "Q1 Airports Passenger Traffic Flat - Los Angeles Business Journal",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Insurance commissioner candidates float bigger California role - CalMatters",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Public Health Confirms Measles Case in LA County - Fullerton Observer",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Community mourns death of teenage boy shot and killed in East Los Angeles - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Independent report finds no evidence evacuation orders were delayed during deadly Eaton Fire in Altadena - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Santa Monica kidnapping suspect in custody following police chase, shooting in South Los Angeles - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Los Angeles County reports 5th case of measles so far in 2026 - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Corral, Grand fires update: All evacuation warnings, shelter-in-place lifted for 2 wildfires burning in Antelope Valley - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -816,47 +856,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Community mourns death of teenage boy shot and killed in East Los Angeles - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
           "headline": "Wolf\u2019s \u2018remarkable journey\u2019 makes it first to enter Sequoia National Park in over 100 years - yourcentralvalley.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Public Health Confirms Measles Case in LA County - Fullerton Observer",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Insurance commissioner candidates float bigger California role - CalMatters",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Page 54 - LACMA",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "L.A. County vehicle theft turns into shopping spree with stolen credit cards - KTLA",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Independent report finds evacuation orders were not delayed during Eaton Fire in Altadena - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Santa Monica kidnapping suspect in custody following police chase, shooting in South Los Angeles - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Independent report finds no evidence evacuation orders were delayed during deadly Eaton Fire in Altadena - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles County reports 5th case of measles so far in 2026 - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Corral, Grand fires update: All evacuation warnings, shelter-in-place lifted for 2 wildfires burning in Antelope Valley - ABC7 Los Angeles",
+          "headline": "LA County Care Community Campus Breaks Ground - Construction Equipment Guide",
           "source": "Google News LA"
         }
       ],
