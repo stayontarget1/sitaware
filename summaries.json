@@ -1,10 +1,14 @@
 {
-  "generated": "2026-05-19T17:39:58.996589+00:00",
+  "generated": "2026-05-19T20:25:01.313273+00:00",
   "briefing": "12 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Monrovia bear cubs reach major milestone, move to outdoor habitat\n- City Council discusses 2028 Olympics planning and $76 million bond\n- Monrovia Days parade and festivities begin Thursday\n- School Board considers summer pool program and safety measures",
+      "summary": "- Monrovia bear cubs reach major milestone, move to outdoor habitat\n- City Council discusses $76 million bond for renovations, consolidations\n- Monrovia Days parade starts Thursday with full festival weekend\n- School Board considers summer pool program, addresses safety concerns",
       "headlines": [
+        {
+          "headline": "Goofy Cheeto is a pool-loving Lab mix with big silly energy",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "A Moment in Monrovia History: Almera Romney and her Huntington School class",
           "source": "Monrovia Now"
@@ -82,10 +86,6 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "A Moment in Monrovia History: Where the McDonalds got their start",
-          "source": "Monrovia Now"
-        },
-        {
           "headline": "Orphaned bear cubs hit 'milestone' after months at California center - The Desert Sun",
           "source": "Google News"
         },
@@ -95,6 +95,10 @@
         },
         {
           "headline": "Monrovia bear cubs move to outdoor habitat at wildlife center - NBC Los Angeles",
+          "source": "Google News"
+        },
+        {
+          "headline": "Ulysses Quartet Appoints New Violist - The Violin Channel",
           "source": "Google News"
         },
         {
@@ -134,10 +138,6 @@
           "source": "Google News"
         },
         {
-          "headline": "Original Tommy\u2019s marks 80th anniversary with 80-cent burgers - San Gabriel Valley Tribune",
-          "source": "Google News"
-        },
-        {
           "headline": "Monrovia Weekly_5/18/2026 - heysocal.com",
           "source": "Google News"
         },
@@ -164,6 +164,10 @@
         {
           "headline": "Man Accused Of Abusing Ducklings | Farmers Market Guide | Brush Fire | Fatal Standoff: Patch PM - Patch",
           "source": "Google News"
+        },
+        {
+          "headline": "Whooping Cough Outbreak Hits Pasadena School",
+          "source": "Patch Monrovia"
         },
         {
           "headline": "Frantic Manhunt For Suicidal Teen Preceded Deadly CA Mosque Shooting, Police Say",
@@ -239,9 +243,9 @@
         }
       ],
       "relevance": {
-        "0": true,
+        "0": false,
         "1": true,
-        "2": true,
+        "2": false,
         "3": true,
         "4": true,
         "5": true,
@@ -257,18 +261,18 @@
         "15": true,
         "16": true,
         "17": true,
-        "18": false,
-        "19": true,
+        "18": true,
+        "19": false,
         "20": false,
         "21": true,
-        "22": true,
-        "23": true,
+        "22": false,
+        "23": false,
         "24": true,
         "25": true,
-        "26": false,
+        "26": true,
         "27": false,
-        "28": true,
-        "29": false,
+        "28": false,
+        "29": true,
         "30": false,
         "31": false,
         "32": false,
@@ -282,7 +286,7 @@
       }
     },
     "sgv": {
-      "summary": "- Data centers rapidly expanding in San Gabriel Valley amid growing community concerns\n- Hidden cameras discovered in SGV yards during ongoing burglary investigations\n- Mountain fire breaks out above San Gabriel Valley amid fire season\n- Ruthie Hopkins, pioneering Black publisher and SGV community leader, dies at 83",
+      "summary": "- Data centers rapidly expanding across San Gabriel Valley amid community concerns\n- Hidden cameras discovered in San Gabriel Valley yards during burglary investigations\n- Whooping cough cases quadruple in Pasadena as second school affected\n- Fire breaks out in mountains above San Gabriel Valley region",
       "headlines": [
         {
           "headline": "Local News - San Gabriel Valley Tribune",
@@ -317,19 +321,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Commentary: Californians on a confounding race for governor: 'I haven't ... a clue who I'm going to vote for' - Los Angeles Times",
-          "source": "Google News SGV"
-        },
-        {
           "headline": "San Gabriel Valley standouts could shine at CIF-SS track and field finals - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "Hidden cameras found in SoCal yards during burglary investigations - KTLA",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "Legal help for immigrants in the San Gabriel Valley gets a record-breaking boost - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -337,11 +329,27 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel Valley Girls Athlete of the Week: Natalia Shanovich, Pasadena - San Gabriel Valley Tribune",
+          "headline": "Legal help for immigrants in the San Gabriel Valley gets a record-breaking boost - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Hidden cameras found in SoCal yards during burglary investigations - KTLA",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Meet Daymond, Saba and Gemma, this week\u2019s Pets of the Week in the San Gabriel Valley - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
           "headline": "Things to do in the San Gabriel Valley, May 15-23 - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "CIF-SS baseball playoffs: SGV schedule for the second round - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "San Gabriel Valley Girls Athlete of the Week: Natalia Shanovich, Pasadena - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -361,8 +369,8 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Sichuan Ambition: Mountain House\u2019s West Coast flagship opens in San Gabriel Valley - Pasadena Weekly",
-          "source": "Google News SGV"
+          "headline": "Public Safety Committee Faces Wave of Public Input Over Pasadena Flock Cameras",
+          "source": "Pasadena Now"
         },
         {
           "headline": "Pasadena Spotlights the Workforce That Kept the City Running After the Eaton Fire",
@@ -398,10 +406,6 @@
         },
         {
           "headline": "City Delays Release of Documents Detailing New Parcel Tax Until Next Month",
-          "source": "Pasadena Now"
-        },
-        {
-          "headline": "Cole Warns of \u2018Systemic\u2019 Fiscal Shift for City, Urges Chief Financial Officer Role for Pasadena",
           "source": "Pasadena Now"
         },
         {
@@ -453,11 +457,39 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "E-bike, e-motorcycle injuries are top reason for OC children's visits to ER, district attorney says",
+          "headline": "Jurupa Valley brush fire prompts evacuation orders in nearby Riverside, burns at least 20 acres",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Search underway for missing LA County man with special needs",
+          "source": "ABC7"
+        },
+        {
+          "headline": "PRIDE 365: Southern California LGBTQIA+ events",
+          "source": "ABC7"
+        },
+        {
+          "headline": "US government agrees to drop tax claims against Trump in broadening of IRS lawsuit settlement",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Penn Grows is finding creative ways to incorporate mircogreens into more than just food",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Antoni Porowski explores unique experiences in Nat Geo's 'Best of the World' trailer",
           "source": "ABC7"
         },
         {
           "headline": "Mother of 2 young brothers killed in Westlake Village crash testifies in civil trial",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Jellycat's new plushies drop is here! Shop the collection to meet your next adorable sidekick",
+          "source": "ABC7"
+        },
+        {
+          "headline": "E-bike, e-motorcycle injuries are top reason for OC children's visits to ER, district attorney says",
           "source": "ABC7"
         },
         {
@@ -485,7 +517,7 @@
           "source": "ABC7"
         },
         {
-          "headline": "Teenage suspects in deadly shooting at San Diego mosque identified, sources say",
+          "headline": "San Diego mosque shooters met online and left writings expressing hate, FBI says",
           "source": "ABC7"
         },
         {
@@ -503,34 +535,6 @@
         {
           "headline": "Find great deals on summer travel essentials with ABC Secret Savings",
           "source": "ABC7"
-        },
-        {
-          "headline": "NextEra, Dominion want to create a massive power company as AI drives energy demand in the US",
-          "source": "ABC7"
-        },
-        {
-          "headline": "3 men killed in San Diego mosque shooting and both teenage suspects dead, police say",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Descanso Gardens breaks ground on water reclamation project",
-          "source": "ABC7"
-        },
-        {
-          "headline": "San Bernardino brush fire destroys 2 outbuildings near abandoned structure in Cajon Pass",
-          "source": "ABC7"
-        },
-        {
-          "headline": "LA mayor's race: AI videos supporting Spencer Pratt shake up political playbook",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Mark Fuhrman, LAPD detective at center of controversy in OJ Simpson's murder trial, dies at age 74",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Fast-moving brush fire erupts in Simi Valley; evacuation orders and warnings issued",
-          "source": "ABC7"
         }
       ],
       "relevance": {
@@ -543,41 +547,41 @@
         "6": false,
         "7": false,
         "8": false,
-        "9": false,
-        "10": false,
-        "11": true,
+        "9": true,
+        "10": true,
+        "11": false,
         "12": true,
-        "13": false,
-        "14": true,
-        "15": true,
+        "13": true,
+        "14": false,
+        "15": false,
         "16": true,
         "17": false,
         "18": false,
-        "19": true,
+        "19": false,
         "20": true,
         "21": true,
         "22": true,
         "23": true,
         "24": true,
         "25": true,
-        "26": false,
-        "27": true,
+        "26": true,
+        "27": false,
         "28": true,
         "29": true,
         "30": true,
         "31": false,
-        "32": true,
+        "32": false,
         "33": true,
         "34": true,
         "35": true,
-        "36": true,
+        "36": false,
         "37": true,
         "38": true,
         "39": true
       }
     },
     "county": {
-      "summary": "- Sandy Fire in Simi Valley grows to 1,400 acres, thousands evacuated, one home destroyed\n- Huntington Beach faces $50k monthly fine for defying state housing mandate requirements\n- June 2 primary features competitive LA mayor and county sheriff races\n- Critical fire weather persists across Southern California as containment efforts continue",
+      "summary": "- Sandy Fire in Simi Valley explodes to nearly 1,400 acres, thousands evacuated\n- Huntington Beach faces $50k monthly fine for ignoring state housing mandate\n- June 2 primary elections approach for LA mayor, sheriff, and judges\n- Islamic Center attacks prompt increased local mosque patrols and community responses",
       "headlines": [
         {
           "headline": "One home destroyed, school canceled as containment begins on Sandy Fire in Simi Valley",
@@ -596,11 +600,11 @@
           "source": "LAist"
         },
         {
-          "headline": "How to watch the US Men\u2019s soccer team practice in Irvine before the World Cup",
+          "headline": "Arroyo Secodelic lands in Highland Park this weekend. What to know about the new music festival",
           "source": "LAist"
         },
         {
-          "headline": "Data centers are guzzling California\u2019s water. We have no idea how much",
+          "headline": "How to watch the US Men\u2019s soccer team practice in Irvine before the World Cup",
           "source": "LAist"
         },
         {
@@ -660,6 +664,18 @@
           "source": "LAist"
         },
         {
+          "headline": "Alison Sweeney has 'no regrets' leaving Los Angeles for Arizona to escape the 'rat race'",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "E-bike injuries top cause of OC pediatric ER visits, DA says",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "AGBU students turn national academic title into a community victory",
+          "source": "Fox 11 LA"
+        },
+        {
           "headline": "Hollywood group conducts independent homeless count amid concerns over LA tally",
           "source": "Fox 11 LA"
         },
@@ -677,18 +693,6 @@
         },
         {
           "headline": "Spencer Pratt\u2019s viral AI campaign ads spark buzz in Los Angeles mayor\u2019s race",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Sandy Fire in Simi Valley destroys home, forces thousands to evacuate",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Critical fire weather persists in Southern California",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Pursuit suspect accused of making criminal threats arrested after standoff in South Gate",
           "source": "Fox 11 LA"
         },
         {
@@ -724,6 +728,14 @@
           "source": "Fox 11 LA"
         },
         {
+          "headline": "American tourists arrested in Japan after alleged break-in at viral monkey Punch's enclosure",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "House hunting? Data suggests the most affordable cities to buy a home",
+          "source": "Fox 11 LA"
+        },
+        {
           "headline": "NFL owners approve Nashville as host of the 2030 Super Bowl",
           "source": "Fox 11 LA"
         },
@@ -732,56 +744,52 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Iran latest: US plans to attack Iran on Tuesday called off, Trump says",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Trump drops $10B IRS lawsuit in deal to compensate prosecuted allies",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Train and Vehicle Collide in Watts, But No One Was Injured",
+          "headline": "LACo Health Officials Urge Residents to Participate in Community Survey",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Judge Mulls LAUSD Dismissal Request of `America\u2019s Most Wanted\u2019 Abuse Case",
+          "headline": "Take It Down Act Requires Snapchat, TikTok to Remove Intimate Images",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Skirball Exhibitions to Explore Comics, Punk Movement, Jewish Identity",
+          "headline": "Jurupa Valley Brush Fire Erupts Near Santa Ana River Bottom",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Clippers, ExTrainer Seek Further Stay of Suit So As to Facilitate Arbitration",
+          "headline": "Fatal Shooting at Home Gardens Residence",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Andie MacDowell to be Honored at Gracie Awards in Beverly Hills",
+          "headline": "Jury Finds Parolee Guilty of Shooting Girl in Downtown Indio",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LAFD Providing Mutual Aid To Ventura County in Sandy Fire",
+          "headline": "LACo Board Appoints Joseph Nicchitta as New CEO",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Judge Orders Mediation in LAFD Battalion Chief\u2019s Whistleblower Lawsuit",
+          "headline": "LA Phil Bestows Dudamel with Two Honorary Titles",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Non-Injury Fire Breaks Out in Stable Near Glendale Apartment Building",
+          "headline": "LA Supervisors Decline to Extend Price Gouging Protections on Rentals",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Report Reveals America is Experiencing the Worst Airline Delays, Cancellations In Years",
+          "headline": "Motorcyclist Heads to Hospital After Collision with SUV in Indio",
           "source": "MyNewsLA"
         },
         {
-          "headline": "JetBlue Offers Settlement to Family Hit by Falling Ice Block",
+          "headline": "Judge Orders Competency Hearing for Woman Charged with Opening Fire at Rihanna\u2019s Home",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LASD Sargent Seeks Internal Records Ahead of Pending Trial of Lawsuit",
+          "headline": "City of LA Seeks Over $270K in Officer Bicycle Training Death Suit Costs",
           "source": "MyNewsLA"
+        },
+        {
+          "headline": "LA County Urges Residents to Participate in Health Survey - MyNewsLA.com",
+          "source": "Google News LA"
         },
         {
           "headline": "Los Angeles weather: Light Santa Ana winds continue as temperatures begin to rise across - ABC7 Los Angeles",
@@ -792,11 +800,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Sandy Fire: California wildfires in Simi Valley and Santa Rosa Island seen from space - BBC",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "The number of pharmacies in Los Angeles county. (IMAGE) - EurekAlert!",
+          "headline": "The Sandy Fire outside Los Angeles County has grown to more than 1,300 acres, forcing the evacuation of over 10,000 homes as Southern California firefighters battle the first major blaze of the year. https://wapo.st/4uixf3n - facebook.com",
           "source": "Google News LA"
         },
         {
@@ -804,19 +808,23 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Broken Rails: What Went Wrong with LA Metro - Reason Foundation",
+          "headline": "Random L.A. County residents can get paid to fill out health department survey: Here\u2019s who - KTLA",
           "source": "Google News LA"
         },
         {
-          "headline": "Evacuation Information Tips - Los Angeles County Sheriff's Department",
+          "headline": "Sandy Fire: California wildfires in Simi Valley and Santa Rosa Island seen from space - BBC",
           "source": "Google News LA"
         },
         {
-          "headline": "Fires in California today. Here is the latest on containment - Victorville Daily Press",
+          "headline": "Sandy Fire - CAL FIRE (.gov)",
           "source": "Google News LA"
         },
         {
-          "headline": "Register Now for America\u2019s Favorite Couple and Help Fight Hunger in LA County - Los Angeles Regional Food Bank",
+          "headline": "LA County Declines to Extend Price Gouging Protections on Rental Housing - MyNewsLA.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Sandy Fire: Incident Update on 05/18/2026 at 10:14 PM - CAL FIRE (.gov)",
           "source": "Google News LA"
         },
         {
@@ -824,11 +832,15 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Sandy Fire: Incident Update on 05/18/2026 at 7:08 PM - CAL FIRE (.gov)",
+          "headline": "Eaton Fire survivors demand accountability over unspent recovery funds - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "Eaton Fire survivors demand accountability over unspent recovery funds - ABC7 Los Angeles",
+          "headline": "LACo Board Appoints Joseph Nicchitta as New CEO - MyNewsLA.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Broken Rails: What Went Wrong with LA Metro - Reason Foundation",
           "source": "Google News LA"
         },
         {
@@ -836,31 +848,23 @@
           "source": "Google News LA"
         },
         {
+          "headline": "Register Now for America\u2019s Favorite Couple and Help Fight Hunger in LA County - Los Angeles Regional Food Bank",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Fires in California today. Here is the latest on containment - Victorville Daily Press",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Evacuation Information Tips - Los Angeles County Sheriff's Department",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Descanso Gardens' water reclamation project breaks ground to help fight wildfires and irrigate gardens - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
           "headline": "Ninth Circuit Clears Path for Foster Youth Lawsuit Against Los Angeles County - Munger, Tolles & Olson",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Sandy Fire latest: Brush fire erupts in Simi Valley; evacuation orders and warnings issued as flames threaten homes - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Community mourns death of teenage boy shot and killed in East Los Angeles - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "How Los Angeles County residents displaced by wildfires can still receive their ballots - MSN",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Mandatory evacuations underway as wildfire threatens several homes and structures in Southern California - FOX Weather",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "An American in Paris: screening - Discover Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles County reports 5th case of measles so far in 2026 - ABC7 Los Angeles",
           "source": "Google News LA"
         }
       ],
