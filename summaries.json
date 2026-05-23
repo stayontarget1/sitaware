@@ -1,10 +1,22 @@
 {
-  "generated": "2026-05-23T02:45:10.214920+00:00",
-  "briefing": "5 PM",
+  "generated": "2026-05-23T16:04:27.970631+00:00",
+  "briefing": "8 AM",
   "columns": {
     "monrovia": {
-      "summary": "- Summer Concerts begin Sunday, May 24 at Library Park\n- Viola's Bar & Bistro opening at historic Monrovia property\n- Online community meeting on bike/pedestrian project, June 4\n- Monrovia High School pool opens to public June 8",
+      "summary": "- Summer Concerts begin this Sunday, May 24\n- Street sweeping parking restrictions will be more strictly enforced\n- Monrovia High School pool open to public June 8\u2013July 31\n- Online community meeting on Monrovia bike/pedestrian project, June 4",
       "headlines": [
+        {
+          "headline": "Summer Reading Kickoff Party at the Library, June 6",
+          "source": "Monrovia Now"
+        },
+        {
+          "headline": "Family storytime at the Library, June 3",
+          "source": "Monrovia Now"
+        },
+        {
+          "headline": "Craft Night at the Library, June 2",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Flags for Memorial Day on display at Library Park",
           "source": "Monrovia Now"
@@ -74,23 +86,11 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Monrovia Police: Four catalytic converters stolen; Door-rattling trespasser finally arrested; Counterfeit buyer caught with controlled substance; Stolen vehicle driver had warrant; Etc.",
-          "source": "Monrovia Now"
-        },
-        {
-          "headline": "School district appoints four administrators; looking for two more",
-          "source": "Monrovia Now"
-        },
-        {
-          "headline": "Monrovia police tips on bicycle safety",
-          "source": "Monrovia Now"
-        },
-        {
-          "headline": "Southern California fires: Air quality concerns rise as smoke from Sandy, Bain, Verona and Santa Rosa Island fires spreads - ABC7 Los Angeles",
+          "headline": "Maine high court denies California man\u2019s appeal to overturn drug charges - Bangor Daily News",
           "source": "Google News"
         },
         {
-          "headline": "Maine high court denies California man\u2019s appeal to overturn drug charges - Bangor Daily News",
+          "headline": "Southern California fires: Air quality concerns rise as smoke from Sandy, Bain, Verona and Santa Rosa Island fires spreads - ABC7 Los Angeles",
           "source": "Google News"
         },
         {
@@ -106,23 +106,15 @@
           "source": "Google News"
         },
         {
-          "headline": "Duarte vs Monrovia Softball - Feb 28, 2026 - Sports Illustrated",
-          "source": "Google News"
-        },
-        {
           "headline": "Miami Terminal Market Report: Herb and Vegetable Supplies (May 2026) - IndexBox",
           "source": "Google News"
         },
         {
-          "headline": "JoAnn Normanly-Long Obituary (2026) - Grenada, MS - McKibben & Guinn Funeral Service - Grenada - Legacy",
+          "headline": "2026 Indiana (IHSAA) Class 2A Section 42 Monrovia Softball Bracket Softball More - Sports Illustrated",
           "source": "Google News"
         },
         {
           "headline": "Xencor Inc stock (US98401F1057): JPMorgan lifts target while investors eye Q1 2026 update - AD HOC NEWS",
-          "source": "Google News"
-        },
-        {
-          "headline": "2026 Indiana (IHSAA) Class 2A Section 42 Monrovia Softball Bracket Softball More - Sports Illustrated",
           "source": "Google News"
         },
         {
@@ -196,10 +188,10 @@
         "2": true,
         "3": true,
         "4": true,
-        "5": false,
+        "5": true,
         "6": true,
         "7": true,
-        "8": true,
+        "8": false,
         "9": true,
         "10": true,
         "11": true,
@@ -207,7 +199,7 @@
         "13": true,
         "14": true,
         "15": true,
-        "16": false,
+        "16": true,
         "17": true,
         "18": true,
         "19": true,
@@ -225,8 +217,8 @@
         "31": false,
         "32": false,
         "33": false,
-        "34": false,
-        "35": false,
+        "34": true,
+        "35": true,
         "36": true,
         "37": true,
         "38": true,
@@ -234,18 +226,18 @@
       }
     },
     "sgv": {
-      "summary": "- Fire breaks out in mountains above San Gabriel Valley amid smoke advisories\n- San Gabriel Valley housing trust awards nearly $25 million for development\n- Memorial Day ceremonies across region honor fallen service members this week\n- CIF-SS baseball and softball playoffs continue with key matchups scheduled",
+      "summary": "- Fire breaks out in mountains above San Gabriel Valley, smoke spreads\n- Whooping cough spreads through Pasadena schools, hitting third campus\n- San Gabriel Valley housing trust awards nearly $25 million\n- Memorial Day ceremonies across San Gabriel Valley honor the fallen",
       "headlines": [
         {
           "headline": "Fire Breaks Out In Mountains Above San Gabriel Valley - Patch",
           "source": "Google News SGV"
         },
         {
-          "headline": "Things to do in the San Gabriel Valley, May 22-30 - San Gabriel Valley Tribune",
+          "headline": "Shock Waves in the San Gabriel Valley - Local News Pasadena",
           "source": "Google News SGV"
         },
         {
-          "headline": "Shock Waves in the San Gabriel Valley - Local News Pasadena",
+          "headline": "Things to do in the San Gabriel Valley, May 22-30 - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -265,10 +257,6 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Drinking Water Projects: San Gabriel Valley, California - Water Online",
-          "source": "Google News SGV"
-        },
-        {
           "headline": "Commentary: Californians on a confounding race for governor: 'I haven't ... a clue who I'm going to vote for' - Los Angeles Times",
           "source": "Google News SGV"
         },
@@ -285,7 +273,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Meet Gromit and Cheeto, this week\u2019s Pets of the Week in the San Gabriel Valley - San Gabriel Valley Tribune",
+          "headline": "Deputy shoots charging man with knife near Azusa, authorities say - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -297,10 +285,6 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "The best free summer events across Southern California - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
           "headline": "CIF-SS softball playoffs: Wednesday\u2019s scores, Saturday\u2019s semifinals schedule - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
@@ -309,12 +293,44 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Taiwan\u2019s president defends US arms purchases that Trump called \u2018bargaining chip\u2019 - San Gabriel Valley Tribune",
+          "headline": "Garden Grove chemical threat updates - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "Santa Anita consensus picks for Friday, May 22, 2026 - San Gabriel Valley Tribune",
+          "headline": "Letter: LA Metro is committed to improvement - San Gabriel Valley Tribune",
           "source": "Google News SGV"
+        },
+        {
+          "headline": "CIF-SS softball playoffs: SGV schedule for Wednesday\u2019s quarterfinals - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Cancer Support Community Opens Its Sierra Madre Doors for an Evening on the Future of Cancer Care The Cancer Support Community Greater San Gabriel Valley invites patients, survivors, caregivers, families and clinicians into its Sierra Madre headquarter - facebook.com",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Driver Dies Following Rollover Collision on Avenue 64",
+          "source": "Pasadena Now"
+        },
+        {
+          "headline": "Whooping Cough Spreads Through Pasadena Schools, Hitting a Third Campus With Six New Cases",
+          "source": "Pasadena Now"
+        },
+        {
+          "headline": "Pasadena Begins Work on Its First Environmental Justice Element, Asking Residents Where the Burdens Fall Hardest",
+          "source": "Pasadena Now"
+        },
+        {
+          "headline": "LA County Unemployment Rate Up Slightly in April",
+          "source": "Pasadena Now"
+        },
+        {
+          "headline": "Free World Cup 2026 Watch Party at Civic Auditorium Plaza for Team USA Opener",
+          "source": "Pasadena Now"
+        },
+        {
+          "headline": "After 68 Years, Caltech Will Have to Bid to Keep JPL Contract",
+          "source": "Pasadena Now"
         },
         {
           "headline": "Fredericks: PUSD Board Evaluating Allegations of Brown Act Violations",
@@ -333,28 +349,36 @@
           "source": "Pasadena Now"
         },
         {
-          "headline": "Pasadena Officer Recognized Statewide for Drug Prevention Work",
-          "source": "Pasadena Now"
+          "headline": "Pasadena to Host Free World Cup Watch Party for USA vs. Paraguay Match",
+          "source": "Colorado Blvd"
         },
         {
-          "headline": "Caltech Study Explores Education During Times of Economic Crisis",
-          "source": "Pasadena Now"
+          "headline": "City of Arcadia Opens Applications to Fill District 3 Council Seat",
+          "source": "Colorado Blvd"
         },
         {
-          "headline": "Central Library Sheds Its Historic Roof Tiles for Earthquake Retrofit",
-          "source": "Pasadena Now"
+          "headline": "Students Plant Second TREEAMS Nursery as Youth\u2011Led Wildfire Recovery Expands Across Los Angeles",
+          "source": "Colorado Blvd"
         },
         {
-          "headline": "Webinar Takes On Ableism With Free Session for Residents",
-          "source": "Pasadena Now"
+          "headline": "Boston Court Pasadena Welcomes a Weekend of British Theatre on the Big Screen",
+          "source": "Colorado Blvd"
         },
         {
-          "headline": "Metropolitan Water District Raises Wholesale Water Rates 6.2% for Next Two Years, Adding to Pasadena\u2019s Rising Costs",
-          "source": "Pasadena Now"
+          "headline": "Forest Lawn Memorial Celebrates Memorial Day with Style",
+          "source": "Colorado Blvd"
         },
         {
-          "headline": "California Bill Moves to Make Cheaper Alternative Fuel Available to More Drivers",
-          "source": "Pasadena Now"
+          "headline": "Rotation Theatre Company Presents a Bold New \u201cPride and Prejudice\u201d",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "South Pasadena Unified Recognizes Outstanding Educators, Long\u2011Serving Staff, and Retirees",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "South Pasadena Police Arrest Suspect in Midday Residential Burglary",
+          "source": "Colorado Blvd"
         },
         {
           "headline": "Sierra Madre Announces Free \u201cMovies in the Park\u201d Summer Series",
@@ -373,36 +397,32 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Three Lives, One Performer: A Tour de Force at Sierra Madre Playhouse",
-          "source": "Colorado Blvd"
+          "headline": "Fiery semitruck crash on 5 Freeway in East LA area closes multiple lanes, snarls traffic",
+          "source": "ABC7"
         },
         {
-          "headline": "MUSE/IQUE Opens Season at The Huntington With Harlem Renaissance Extravaganza",
-          "source": "Colorado Blvd"
+          "headline": "6.0 magnitude earthquake detected off Hawaii coast",
+          "source": "ABC7"
         },
         {
-          "headline": "Pasadena Central Library Begins Removal of Historic Roof Tiles",
-          "source": "Colorado Blvd"
+          "headline": "Coal mine explosion in China kills 90 people, state media say",
+          "source": "ABC7"
         },
         {
-          "headline": "Historic West Altadena Deserves Truth, Accountability, and Justice",
-          "source": "Colorado Blvd"
+          "headline": "Customers say packages bound for Mexico are missing after shipping company closed in La Puente",
+          "source": "ABC7"
         },
         {
-          "headline": "What To Do This Weekend: May 22-24, 2026",
-          "source": "Colorado Blvd"
+          "headline": "Cooling trend moves into SoCal Memorial Day weekend",
+          "source": "ABC7"
         },
         {
-          "headline": "Monrovia Sets November Municipal Election Amid Busy Council Agenda",
-          "source": "Colorado Blvd"
+          "headline": "LA mayoral candidates Bass, Huang, Miller, Pratt and Raman make their case in interviews with ABC7",
+          "source": "ABC7"
         },
         {
-          "headline": "PUSD\u2019s Fauxchella Brings Music, Arts, and Community to Eliot Campus",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "From Tall Tales to Drum Circles: South Pasadena\u2019s Summer Reading Returns",
-          "source": "Colorado Blvd"
+          "headline": "Oil spills onto East LA streets, reaches LA River after pipeline rupture",
+          "source": "ABC7"
         },
         {
           "headline": "What is methyl methacrylate? Chemical inside Garden Grove tank and its effects on humans, animals",
@@ -429,15 +449,7 @@
           "source": "ABC7"
         },
         {
-          "headline": "Drilling mistake sends gallons of crude oil into East LA streets, prompting road closures",
-          "source": "ABC7"
-        },
-        {
           "headline": "Newsom's office warns Californians to avoid Chevron this holiday weekend, citing high gas prices",
-          "source": "ABC7"
-        },
-        {
-          "headline": "LA mayoral candidates Bass, Huang, Miller, Pratt and Raman make their case in interviews with ABC7",
           "source": "ABC7"
         },
         {
@@ -457,31 +469,11 @@
           "source": "ABC7"
         },
         {
-          "headline": "Cooling trend moves into SoCal Memorial Day weekend",
-          "source": "ABC7"
-        },
-        {
           "headline": "SpaceX tries to launch a bigger version of Starship but hits a series of last-minute problems",
           "source": "ABC7"
         },
         {
           "headline": "Tank spews toxic chemicals in Garden Grove",
-          "source": "ABC7"
-        },
-        {
-          "headline": "New video shows Britney Spears' DUI arrest in Ventura County",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Spencer Pratt claims homeless people have homes, but choose to be drug addicts",
-          "source": "ABC7"
-        },
-        {
-          "headline": "NASCAR champion Kyle Busch dies at the age of 41: 'Sudden and tragic'",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Family disputes deputies' account of fatal shooting in Lucerne Valley",
           "source": "ABC7"
         }
       ],
@@ -493,58 +485,58 @@
         "4": true,
         "5": true,
         "6": true,
-        "7": true,
-        "8": false,
+        "7": false,
+        "8": true,
         "9": true,
         "10": true,
         "11": true,
         "12": true,
         "13": true,
-        "14": true,
+        "14": false,
         "15": false,
-        "16": true,
-        "17": false,
-        "18": false,
+        "16": false,
+        "17": true,
+        "18": true,
         "19": true,
-        "20": true,
+        "20": false,
         "21": true,
         "22": true,
-        "23": true,
+        "23": false,
         "24": true,
         "25": true,
         "26": true,
-        "27": true,
-        "28": true,
+        "27": false,
+        "28": false,
         "29": false,
         "30": true,
         "31": true,
         "32": true,
-        "33": false,
-        "34": true,
-        "35": true,
+        "33": true,
+        "34": false,
+        "35": false,
         "36": true,
         "37": true,
-        "38": false,
+        "38": true,
         "39": true
       }
     },
     "county": {
-      "summary": "- 40,000 Orange County residents evacuated due to potentially explosive toxic tank\n- Career prosecutors accuse LA city attorney of dropping cases for donors\n- Crude oil spill reaches Los Angeles River from ruptured pipeline\n- LA mayor's race offers starkly different choices on housing approach",
+      "summary": "- Garden Grove chemical tank crisis: 40,000 evacuated, explosion or leak risk remains\n- Crude oil spill in East LA reaches Los Angeles River watershed\n- Altadena volunteers clearing Eaton Fire lots ahead of dangerous fire season\n- LA Mayor primary June 2: candidates and stakes explained for voters",
       "headlines": [
         {
-          "headline": "40,000 OC residents ordered to evacuate area around toxic Garden Grove tank that could explode",
+          "headline": "Garden Grove chemical tank crisis: 40,000 in OC still out of their homes",
           "source": "LAist"
         },
         {
-          "headline": "Career prosecutors accuse LA city attorney of dropping cases to help donors",
+          "headline": "This man operates Angels Flight every Saturday \u2014 and will tell you all its secrets",
           "source": "LAist"
         },
         {
-          "headline": "In the race for LA mayor, voters face starkly different choices on city\u2019s approach to housing",
+          "headline": "Altadena volunteers clear Eaton Fire lots before fire season \u2014 they need your help",
           "source": "LAist"
         },
         {
-          "headline": "Crude oil spill in East LA reaches Los Angeles River",
+          "headline": "Caltech could lose management of JPL when contract is opened to competitive bidding",
           "source": "LAist"
         },
         {
@@ -552,15 +544,15 @@
           "source": "LAist"
         },
         {
-          "headline": "As tents disappear from some LA neighborhoods, the population of 'rough sleepers' continues to grow",
+          "headline": "Crude oil spill in East LA reaches Los Angeles River",
           "source": "LAist"
         },
         {
-          "headline": "California moves closer to banning fabrication of popular countertops",
+          "headline": "More unsheltered Angelenos are \u2018rough sleeping\u2019 without a tent, study says",
           "source": "LAist"
         },
         {
-          "headline": "The most polluted beach in SoCal won't shock Angelenos. But what are the cleanest ones?",
+          "headline": "Career prosecutors accuse LA city attorney of dropping cases to help donors",
           "source": "LAist"
         },
         {
@@ -592,24 +584,28 @@
           "source": "LAist"
         },
         {
-          "headline": "Paramount finally has a craft beer taproom. It's Latino-owned and built for the community",
+          "headline": "A new baseball stadium, California\u2019s largest mall, and candy-making gone viral: Ontario's got it all",
           "source": "LAist"
         },
         {
-          "headline": "4 food halls in Southern California serving up more than just good eats",
+          "headline": "Bingo with a twist \u2014 you can bet on chickens pooping at this Lincoln Heights brewery",
           "source": "LAist"
         },
         {
-          "headline": "It\u2019s fish and chips, but not as you know it",
-          "source": "LAist"
-        },
-        {
-          "headline": "A Pasadena pub owner's perfect afternoon: Belgian lager, sunny patio and no rush",
+          "headline": "How to watch the US Men\u2019s soccer team practice in Irvine before the World Cup",
           "source": "LAist"
         },
         {
           "headline": "Republicans call off vote on Iran war resolution that was on the verge of passing",
           "source": "LAist"
+        },
+        {
+          "headline": "Inflation jumps to its highest level since 2023. Here are 3 things costing a lot more",
+          "source": "LAist"
+        },
+        {
+          "headline": "Garden Grove chemical threat: 40,000 evacuated as overheated tank faces explosion or leak",
+          "source": "Fox 11 LA"
         },
         {
           "headline": "Ruptured underground pipeline dumps about 2,400 gallons of crude oil into LA River",
@@ -637,10 +633,6 @@
         },
         {
           "headline": "Residents alarmed by multiple vacant building fires near downtown LA apartment complex",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Navy sailor shot six times during live streamed Tarzana home invasion",
           "source": "Fox 11 LA"
         },
         {
@@ -692,55 +684,55 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Amber Alert Issued For 3-Month-Old Abducted in Alhambra",
+          "headline": "Silver Alert Issued For 64-Year-Old Man Reported Missing in Carthay Square",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Man Who Gunned Down DHS Resident Nearly 10 Years Ago Sentenced",
+          "headline": "More Than 120 Vote Centers Opening Across LA County; 38 in Orange County",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Expelled Director Moves Forward With Suit vs. DGA",
+          "headline": "40,000+ Garden Grove Area Residents Remain Evacuated Amid Hazmat Threat",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Influencer Charged in Alleged Murder-for-Hire Plot Released From Jail",
+          "headline": "More Than 40k Garden Grove Residents Evacuate Amid Hazmat Threat",
           "source": "MyNewsLA"
         },
         {
-          "headline": "RideShare Driver Pleads Guilty to Sex Assault on Teen",
+          "headline": "Over 150 Voting Centers Open Across LACo and OC",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Man Gets Time Served in Jail for Hit-and-Run in Anaheim",
+          "headline": "Jurupa Valley \u2018Bain Fire\u2019 Now 83% Contained",
           "source": "MyNewsLA"
         },
         {
-          "headline": "MoVal Teacher Suspected of Sexually Molesting Student",
+          "headline": "Fatal Crash on 60 Freeway in Montebello",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Man Charged with Fatal DUI Crash in Fullerton",
+          "headline": "Woman Who Stabbed Man in Long Beach Remains At-Large",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Vehicle Engulfed in Flames in Cathedral City",
+          "headline": "Snoop Dogg LLC Seeks Exit From Drakeo Wrongful Death Suit",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Beach Warnings Issued for Memorial Day Weekend",
+          "headline": "RivCo Opens 21 Vote Centers Open for Early Voting",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Motorist Sustained Major Injuries in Two-Vehicle Big Rig Crash on I-10",
+          "headline": "CHP Issues Silver Alert For Man Reported Missing in Carthay Square",
           "source": "MyNewsLA"
         },
         {
-          "headline": "CROB and NROB Fire Service Days - Fire Department - Los Angeles County (.gov)",
+          "headline": "East Los Angeles Oil Spill - LA County Recovers (.gov)",
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles weather: Cooling trend moves into Southern California Memorial Day weekend - ABC7 Los Angeles",
+          "headline": "Los Angeles County District Attorney Nathan J. Hochman and Bureau of Investigation Chief Tony Lee joined @lasdhq outside the Hall of Justice earlier this week for the 2nd Annual Asian American and Pacific Islander Heritage Celebration. We are proud to re - instagram.com",
           "source": "Google News LA"
         },
         {
@@ -752,10 +744,6 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County District Attorney Nathan J. Hochman and Bureau of Investigation Chief Tony Lee joined @lasdhq outside the Hall of Justice earlier this week for the 2nd Annual Asian American and Pacific Islander Heritage Celebration. We are proud to re - instagram.com",
-          "source": "Google News LA"
-        },
-        {
           "headline": "Bi-Coastal Fleet Accord: City of New York and Los Angeles County Launch Nation\u2019s First-Ever Municipa - NYC.gov",
           "source": "Google News LA"
         },
@@ -764,23 +752,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Burst pipe sends hundreds of gallons of crude oil into East LA streets, prompting road closures due to hazmat situation - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
           "headline": "LA County Coordinated Joint Information Center Update \u2013 5/20/2026 - LA County Recovers (.gov)",
           "source": "Google News LA"
         },
         {
-          "headline": "May 20, 2026: Seven Charged in Series of Residential Burglaries Throughout Los Angeles County - Los Angeles County District Attorney's Office (.gov)",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "SCV News | Applications Open for 67th Annual L.A. County Holiday Celebration - SCVNews.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Crude oil spill in East LA reaches Los Angeles River - LA Local",
+          "headline": "CROB and NROB Fire Service Days - Fire Department - Los Angeles County (.gov)",
           "source": "Google News LA"
         },
         {
@@ -788,7 +764,31 @@
           "source": "Google News LA"
         },
         {
-          "headline": "LA County Warns Consumers About Brad\u2019s Kale Snacks - MyNewsLA.com",
+          "headline": "Los Angeles weather: Cooling trend moves into Southern California Memorial Day weekend - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "More than 40,000 evacuated in Orange County due to chemical tank leak - BBC",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LA County brings Palisades, Eaton fire recovery efforts under one roof with new agency - The Real Deal",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "SCV News | Applications Open for 67th Annual L.A. County Holiday Celebration - SCVNews.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Los Angeles County Sheriff's Department. . 57th Annual Los Angeles County Peace Officers' Memorial Ceremony - Live - facebook.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Burst pipe sends hundreds of gallons of crude oil into East LA streets, reaches LA River - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LA County\u2019s post-fire rent gouging ban goes up in smoke - The Real Deal",
           "source": "Google News LA"
         },
         {
@@ -800,19 +800,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "LA County brings Palisades, Eaton fire recovery efforts under one roof with new agency - The Real Deal",
+          "headline": "Figueroa Street and the Ethical Duty of Care - COUNTY OF LOS ANGELES (.gov)",
           "source": "Google News LA"
         },
         {
-          "headline": "Man Injured in Azusa LASD Shooting - Carrillo Law Firm, LLP",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "LA County awarded more than $255M for affordable housing initiatives - MSN",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles County Sheriff's Department - facebook.com",
+          "headline": "1050 S Fairfax Ave, Los Angeles, CA 90019 - Realtor.com",
           "source": "Google News LA"
         }
       ],
