@@ -1,10 +1,18 @@
 {
-  "generated": "2026-05-26T17:56:47.575675+00:00",
+  "generated": "2026-05-26T20:50:27.860512+00:00",
   "briefing": "12 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Viola's Bar & Bistro opening at historic Monrovia property\n- Summer concerts begin Sunday, May 24 in Monrovia\n- Street sweeping parking restrictions will be more strictly enforced\n- Monrovia High School pool opens to public June 8",
+      "summary": "- Summer Concerts begin Sunday, May 24 in Monrovia Parks\n- Monrovia High School pool opens to public June 8\n- Summer Reading Kickoff Party at Library, June 6\n- Online community meeting on Monrovia bike/pedestrian project, June 4",
       "headlines": [
+        {
+          "headline": "San Gabriel Valley Choral Company Celebrates 30th Anniversary June 20",
+          "source": "Monrovia Now"
+        },
+        {
+          "headline": "Gentle Koda is a sweet senior cattle dog who just wants a calm home and sniff breaks",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "A Moment in Monrovia History: A.E. Cronenwett's Orange Ranch",
           "source": "Monrovia Now"
@@ -78,14 +86,6 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "LA County Mobile Voting Center at Friday Night Street Fair, May 29",
-          "source": "Monrovia Now"
-        },
-        {
-          "headline": "Memorial Day closures and service changes",
-          "source": "Monrovia Now"
-        },
-        {
           "headline": "Maine high court denies California man\u2019s appeal to overturn drug charges - Bangor Daily News",
           "source": "Google News"
         },
@@ -110,15 +110,15 @@
           "source": "Google News"
         },
         {
-          "headline": "Miami Terminal Market Report: Herb and Vegetable Supplies (May 2026) - IndexBox",
-          "source": "Google News"
-        },
-        {
           "headline": "Covenant Christian vs Monrovia Softball - May 25, 2026 - Sports Illustrated",
           "source": "Google News"
         },
         {
           "headline": "Monrovia Weekly_5/25/2026 - heysocal.com",
+          "source": "Google News"
+        },
+        {
+          "headline": "California bill moves to make cheaper alternative fuel available to more drivers - MSN",
           "source": "Google News"
         },
         {
@@ -134,10 +134,6 @@
           "source": "Patch Monrovia"
         },
         {
-          "headline": "Hell Is For Sale For About $666K: Weird News & Oddities",
-          "source": "Patch Monrovia"
-        },
-        {
           "headline": "Over 60 ICE Detainees On Hunger Strike At SoCal Facilities: Reports",
           "source": "Patch Monrovia"
         },
@@ -146,7 +142,7 @@
           "source": "Patch Monrovia"
         },
         {
-          "headline": "Strangers Next Door May Prefer Keeping Their Distance: Block Talk",
+          "headline": "LA County Voter Guide: What's On The June 2 Ballot",
           "source": "Patch Monrovia"
         },
         {
@@ -199,8 +195,8 @@
         }
       ],
       "relevance": {
-        "0": true,
-        "1": true,
+        "0": false,
+        "1": false,
         "2": true,
         "3": true,
         "4": true,
@@ -209,16 +205,16 @@
         "7": true,
         "8": true,
         "9": true,
-        "10": false,
+        "10": true,
         "11": true,
-        "12": true,
+        "12": false,
         "13": true,
         "14": true,
         "15": true,
         "16": true,
         "17": true,
-        "18": false,
-        "19": false,
+        "18": true,
+        "19": true,
         "20": false,
         "21": false,
         "22": false,
@@ -226,8 +222,8 @@
         "24": true,
         "25": false,
         "26": false,
-        "27": false,
-        "28": true,
+        "27": true,
+        "28": false,
         "29": false,
         "30": false,
         "31": false,
@@ -236,13 +232,13 @@
         "34": false,
         "35": false,
         "36": false,
-        "37": false,
+        "37": true,
         "38": true,
         "39": true
       }
     },
     "sgv": {
-      "summary": "- Memorial Day ceremonies honor fallen across San Gabriel Valley this week\n- Air quality advisory issued due to smoke from Southern California wildfires\n- CIF-SS softball playoffs underway with SGV teams competing in quarterfinals, semifinals\n- Summer events guide highlights art, music, night markets in San Gabriel Valley",
+      "summary": "- Memorial Day ceremonies honor fallen across San Gabriel Valley this week\n- Air quality advisory issued due to wildfire smoke across Southern California\n- CIF-SS softball playoffs underway with SGV teams advancing toward finals\n- Summer events guide highlights art, music, night markets in valley",
       "headlines": [
         {
           "headline": "Finding the \u2018small joys\u2019 in San Gabriel Valley, Whittier \u2018Trinket Boxes\u2019 - San Gabriel Valley Tribune",
@@ -257,7 +253,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Ruthie Hopkins, \u2018an empowering voice\u2019 in Pasadena and beyond, leaves legacy - Pasadena Star News",
+          "headline": "San Gabriel Valley Boys Athlete of the Week: Logan Schmidt, Ganesha - Pasadena Star News",
           "source": "Google News SGV"
         },
         {
@@ -273,15 +269,15 @@
           "source": "Google News SGV"
         },
         {
+          "headline": "Ruthie Hopkins, \u2018an empowering voice\u2019 in Pasadena and beyond, leaves legacy - Pasadena Star News",
+          "source": "Google News SGV"
+        },
+        {
           "headline": "Memorial Day in San Gabriel Valley/Whittier brings reflection, gratitude - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
           "headline": "San Gabriel Valley Girls Athlete of the Week: Danni Lopez, Whittier Christian - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "San Gabriel Valley Boys Athlete of the Week: Logan Schmidt, Ganesha - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -325,6 +321,10 @@
           "source": "Google News SGV"
         },
         {
+          "headline": "Before the Gavel: Water Plan Hearing Delayed Until Next Municipal Services Committee Meeting",
+          "source": "Pasadena Now"
+        },
+        {
           "headline": "Pasadena Bike Advocates to Launch Their Own Network Plan Ahead of City\u2019s",
           "source": "Pasadena Now"
         },
@@ -358,10 +358,6 @@
         },
         {
           "headline": "Today: Pasadena Rent Agency Teams With Landlord Group to Decode California Housing Rules",
-          "source": "Pasadena Now"
-        },
-        {
-          "headline": "The Rose Bowl Transforms Into a Three-Day Soccer Showcase as Mexico Prepares for Its World Cup Send-Off",
           "source": "Pasadena Now"
         },
         {
@@ -413,6 +409,50 @@
           "source": "Colorado Blvd"
         },
         {
+          "headline": "Search continues for 7 villagers trapped in a flooded cave in Laos",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Republicans Ken Calvert, Young Kim in tough race over who's more loyal to President Trump",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Help ABC7 Feed SoCal end hunger in Southern California",
+          "source": "ABC7"
+        },
+        {
+          "headline": "ABC7 Feed SoCal: Grace Resources in Lancaster standing in the gap to feed the hungry in Antelope Valley",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Woman fired by Indiana university over Charlie Kirk post to receive $225K legal settlement",
+          "source": "ABC7"
+        },
+        {
+          "headline": "California voters urged to mail ballots by today due to recent postal service change",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Alcatraz ferry slams into San Francisco's Pier 31, shattering passenger windows",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Amber Alert for missing girl tied to LA death investigation; suspect ID'd as person of interest",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Students evacuated from elementary school in El Sereno after brush fire erupts on nearby hillside",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Nephew of Joaquin 'El Chapo' Guzman arrested in Mexico; more than 1,500 pounds of cocaine seized",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Mom out thousands after scammers use AI to mimic daughter's voice in fake kidnapping",
+          "source": "ABC7"
+        },
+        {
           "headline": "4 dead, 5 hurt in a crash between train and school bus in Belgium",
           "source": "ABC7"
         },
@@ -447,50 +487,6 @@
         {
           "headline": "Outrage grows over NorCal officer tied to violent teen arrest, excessive force allegations",
           "source": "ABC7"
-        },
-        {
-          "headline": "May Gray conditions bring cool temps, chance of drizzle to Southern California",
-          "source": "ABC7"
-        },
-        {
-          "headline": "America's schools face a backlash on digital devices as screens saturate classrooms",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Mother & daughter share full-circle moment on Temple graduation stage",
-          "source": "ABC7"
-        },
-        {
-          "headline": "New directive could change how some immigrants adjust their legal status",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Robbery attempt at South LA taco stand ends in shooting, police say",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Changes to Yosemite's reservation system lead to 'chaos' in park over holiday weekend",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Amber Alert issued for 4-year-old girl last seen in Arlington Heights",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Cleanup continues after 2,400 gallons of oil spill and spread into LA River, impacting wildlife",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Sonny Rollins, saxophonist and restless genius of jazz, dead at 95",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Pope calls for robust regulation of AI in manifesto that ponders the future of humanity",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Beloved 2018 Mister Rogers stamps return after winning USPS contest",
-          "source": "ABC7"
         }
       ],
       "relevance": {
@@ -506,7 +502,7 @@
         "9": true,
         "10": false,
         "11": true,
-        "12": false,
+        "12": true,
         "13": false,
         "14": true,
         "15": true,
@@ -516,8 +512,8 @@
         "19": true,
         "20": true,
         "21": true,
-        "22": false,
-        "23": true,
+        "22": true,
+        "23": false,
         "24": true,
         "25": true,
         "26": true,
@@ -537,7 +533,7 @@
       }
     },
     "county": {
-      "summary": "- Garden Grove chemical tank evacuation orders lift for thousands of residents\n- Career prosecutors accuse LA city attorney of dropping cases for donors\n- Dozens of oiled birds rescued after East LA oil spill incident\n- Los Angeles mayor race June 2 primary candidates and their platforms",
+      "summary": "- Garden Grove chemical tank crisis: Evacuation orders lifted for thousands after explosion threat eases\n- Dozens of oiled birds rescued following East LA oil spill; avoid handling affected wildlife\n- Los Angeles mayor race June 2 primary: Key candidates and issues explained for voters\n- Career prosecutors accuse LA city attorney of dismissing cases to benefit major donors",
       "headlines": [
         {
           "headline": "Don't get played by World Cup ticket scams. Here's what to look out for",
@@ -556,6 +552,10 @@
           "source": "LAist"
         },
         {
+          "headline": "LA Philharmonic names next music director",
+          "source": "LAist"
+        },
+        {
           "headline": "Beach bus connecting Antelope Valley to Santa Monica returns for summer season",
           "source": "LAist"
         },
@@ -564,7 +564,7 @@
           "source": "LAist"
         },
         {
-          "headline": "Get a taste of the beautiful game through art at exhibits across LA",
+          "headline": "Immigration courts are using a new tactic to speed up deportations",
           "source": "LAist"
         },
         {
@@ -616,10 +616,6 @@
           "source": "LAist"
         },
         {
-          "headline": "Inflation jumps to its highest level since 2023. Here are 3 things costing a lot more",
-          "source": "LAist"
-        },
-        {
           "headline": "Former GKN employee speaks out on Garden Grove chemical threat",
           "source": "Fox 11 LA"
         },
@@ -652,6 +648,14 @@
           "source": "Fox 11 LA"
         },
         {
+          "headline": "University of California sued by DOJ over UCLA antisemitism claims",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "FIFA World Cup 2026: Base camp locations for all 48 teams revealed",
+          "source": "Fox 11 LA"
+        },
+        {
           "headline": "California Tesla road rage driver sentenced in Hawaii; LA victims demand extradition",
           "source": "Fox 11 LA"
         },
@@ -676,11 +680,7 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "California gas prices reaching all-time highs ahead of Memorial Day",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Nephew's DNA ID's World War II Marine killed in 1944",
+          "headline": "Dog accidentally fires shotgun, striking woman yards away during chaotic gas station stop",
           "source": "Fox 11 LA"
         },
         {
@@ -696,56 +696,48 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Top 5 US housing markets where home prices are dropping right now",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Loyola Law Professor Sues Farmers Insurance Over Collision Claim Offer",
+          "headline": "July Trial Date Set for Man Accused of Trying to Kill Gym Patron",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Committee Advances Nominee to Lead LA Animal Services Department",
+          "headline": "LA Council Delays Hotel, Airport Wage Hikes",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Endangered Alert Issued for 21-Year-Old Man in Murrieta",
+          "headline": "21-Year-Old Remains in Custody for Allegedly Attacking Jewish Man Walking Home From Synagogue",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Amber Alert Issued For Abducted 4-Year-Old Girl Last Seen in LA",
+          "headline": "15-Year-Old Girl Missing in Watts Area",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Sherman Oaks Crash Leaves Motorcyclist Gravely Injured",
+          "headline": "Authorities Believe Father Kidnapped 5-Year-Old After Killing Wife",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LA Phil Names Daniel Harding New Music Director",
+          "headline": "Westlake Village City Managers Testify About Fatal Accident Site at Grossman Trial",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Amber Alert Issued For Abducted 4-Year-Old Spotted in LA",
+          "headline": "Three LACo Spellers Advance to Third Round of National Spelling Bee",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Fired Police Captain Seeks Reinstatement, Bank Pay, Benefits from City of LA",
+          "headline": "Trump Administration Alleges Anti-Semitic Environment at UCLA in Lawsuit Against UCs",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Teams Rescue Oiled Birds From River After Spill in East Los Angeles",
+          "headline": "Ex-Con Arrested for Alleged Possession of Narcotics, Firearm",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Pacific Park Celebrates 30 Years on the Santa Monica Pier",
+          "headline": "Norco Teen Found Safe Following Weeks-Long Search",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Little Change To Average LACo Gas Price",
+          "headline": "Man Pleads Guilty to Killing Man and Woman in Santa Ana",
           "source": "MyNewsLA"
-        },
-        {
-          "headline": "Dog Daycare Leptospirosis Outbreak in Los Angeles Reveals Broader Public Health Risks - UC Davis",
-          "source": "Google News LA"
         },
         {
           "headline": "Los Angeles weather: May Gray conditions bring cool temps, chance of drizzle to Southern California - ABC7 Los Angeles",
@@ -753,6 +745,14 @@
         },
         {
           "headline": "California judges are testing a new AI clerk, and you won\u2019t know if it\u2019s looking at your case - CalMatters",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Dog Daycare Leptospirosis Outbreak in Los Angeles Reveals Broader Public Health Risks - UC Davis",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "The Los Angeles County Sheriff\u2019s Department Century Station Detectives are asking for the public\u2019s help locating Critical Missing Juvenile, Khiley Smith Breland. She is a 15-year-old female Black who was last seen May 25th, 2026, at approximately 1:30 PM. - facebook.com",
           "source": "Google News LA"
         },
         {
@@ -764,7 +764,15 @@
           "source": "Google News LA"
         },
         {
+          "headline": "Charter school buys Bolour\u2019s Hollywood campus, skirts ULA tax - The Real Deal",
+          "source": "Google News LA"
+        },
+        {
           "headline": "Oiled Birds Recovered From River After Spill in East Los Angeles - MyNewsLA.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Iranian Hackers Responsible for Los Angeles Transit System Breach, Israeli Researchers Say - Algemeiner.com",
           "source": "Google News LA"
         },
         {
@@ -772,23 +780,11 @@
           "source": "Google News LA"
         },
         {
+          "headline": "Daleza Fregoso abducted by Ruben Fregoso: Amber Alert for missing girl tied to Los Angeles death investigation - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
           "headline": "LA County Unemployment Rate Up Slightly in April Los Angeles County\u2019s seasonally adjusted unemployment rate increased slightly to 5.5% in April, up a revised 5.4% in March, according to figures released Friday by the state Employment Development Depa - facebook.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Robbery attempt at South Los Angeles taco stand ends in shooting - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Boy Fatally Shot in East Los Angeles Identified - MyNewsLA.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Tim Bovard, the last full-time taxidermist at any museum in the U.S., has amassed an encyclopedic knowledge of the natural world. Since 1984, he has worked at the Natural History Museum of Los Angeles County, where the care and keeping of animals and d - facebook.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Cleanup continues after 2,400 gallons of crude oil spill and spread into LA River, impacting wildlife - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -796,7 +792,15 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Memorial Day observances planned for throughout Los Angeles, Orange counties - ABC7 Los Angeles",
+          "headline": "Authorities Reveal Identity of 17-Year-Old Boy Fatally Shot in East LA - MyNewsLA.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Cleanup continues after 2,400 gallons of crude oil spill and spread into LA River, impacting wildlife - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Robbery attempt at South Los Angeles taco stand ends in shooting - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -808,19 +812,11 @@
           "source": "Google News LA"
         },
         {
+          "headline": "Tim Bovard, the last full-time taxidermist at any museum in the U.S., has amassed an encyclopedic knowledge of the natural world. Since 1984, he has worked at the Natural History Museum of Los Angeles County, where the care and keeping of animals and d - facebook.com",
+          "source": "Google News LA"
+        },
+        {
           "headline": "Amber Alert issued for 4-year-old girl last seen near Crenshaw District in Los Angeles - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Iranian hackers responsible for Los Angeles transit system breach, Israeli researchers say By Reuters - Investing.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Malibu Pauses County Legal Fight Over Palisades Fire Amid $250 Million Water System Upgrade Plan - westsidecurrent.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "\u2018Pompeii, but in the middle of a massive city\u2019: the ice age fossil site hidden in Los Angeles - The Guardian",
           "source": "Google News LA"
         }
       ],
