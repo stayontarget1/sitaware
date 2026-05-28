@@ -1,9 +1,9 @@
 {
-  "generated": "2026-05-28T18:14:59.547691+00:00",
+  "generated": "2026-05-28T21:02:43.944776+00:00",
   "briefing": "12 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Summer concert series begins Sunday, May 24 at Library Park\n- Monrovia High School pool opens to public June 8 through July 31\n- Online community meeting on bike and pedestrian project scheduled June 4\n- Summer Reading Kickoff Party at Library June 6; SPOT teen program starts June 5",
+      "summary": "- Summer concert series kicks off this Sunday, May 24\n- Monrovia High School pool opens to public June 8\n- Street sweeping parking restrictions to be more strictly enforced\n- Online community meeting on bike/pedestrian project June 4",
       "headlines": [
         {
           "headline": "Monrovia Police: Bicyclist packing brass knuckles; Shoplifter caught holding stolen goods; Shoplifter ran, caught steps away; Dumpster set on fire; Etc.",
@@ -106,6 +106,10 @@
           "source": "Google News"
         },
         {
+          "headline": "Americas Only Surviving Bubble House Is For Sale In CA - Patch",
+          "source": "Google News"
+        },
+        {
           "headline": "Marcia Ware Obituary May 26, 2026 - Douglass & Zook - Legacy obituary",
           "source": "Google News"
         },
@@ -114,15 +118,7 @@
           "source": "Google News"
         },
         {
-          "headline": "John Thomas Edwards Obituary (2026) - Pasadena, CA - Cabot & Sons Funeral Home - Legacy obituary",
-          "source": "Google News"
-        },
-        {
-          "headline": "Newborn Among 3 Family Members Killed By Mother In LA County Murder-Suicide: Police",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Bat-Wielding Man And Dog Attack Jewish Couple | Waymos Yanked From SoCal Freeways: Patch PM",
+          "headline": "Mom Kills Newborn, Child And Man In LA County Murder-Suicide: Police",
           "source": "Patch Monrovia"
         },
         {
@@ -221,7 +217,7 @@
         "31": false,
         "32": false,
         "33": false,
-        "34": false,
+        "34": true,
         "35": true,
         "36": true,
         "37": true,
@@ -230,7 +226,7 @@
       }
     },
     "sgv": {
-      "summary": "- Tournament of Roses grants awarded to San Gabriel Valley community groups\n- Work begins on mass transit link connecting San Fernando, San Gabriel valleys\n- Memorial Day ceremonies across San Gabriel Valley honor fallen service members\n- CIF-SS baseball playoffs underway with SGV teams competing in quarterfinals",
+      "summary": "- Tournament of Roses grants awarded to San Gabriel Valley groups\n- Work begins on mass transit connecting San Fernando, San Gabriel valleys\n- Memorial Day ceremonies across San Gabriel Valley honor the fallen\n- June 2 ballot measures announced for San Gabriel Valley elections",
       "headlines": [
         {
           "headline": "Tournament of Roses grants awarded to San Gabriel Valley groups - Pasadena Star News",
@@ -246,10 +242,6 @@
         },
         {
           "headline": "San Gabriel Valley Girls Athlete of the Week: Danni Lopez, Whittier Christian - Whittier Daily News",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "San Gabriel Valley schedule: CIF-SS softball playoffs - MSN",
           "source": "Google News SGV"
         },
         {
@@ -297,6 +289,10 @@
           "source": "Google News SGV"
         },
         {
+          "headline": "St. John Bosco baseball wins battle with La Mirada in Division 1 quarterfinals - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
           "headline": "San Gabriel Valley\u2019s best hope to shine at CIF-SS track and field finals - MSN",
           "source": "Google News SGV"
         },
@@ -305,12 +301,16 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "St. John Bosco baseball wins battle with La Mirada in Division 1 quarterfinals - San Gabriel Valley Tribune",
+          "headline": "Union Station adds brewery to a historic 1930s room - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "Union Station adds brewery to a historic 1930s room - San Gabriel Valley Tribune",
+          "headline": "Pressured shoppers keep stretching budgets, aiding retailers - San Gabriel Valley Tribune",
           "source": "Google News SGV"
+        },
+        {
+          "headline": "Guest Opinion | Elbie J. Hickambottom Jr.: Turning Al Lowe\u2019s Legacy Upside Down",
+          "source": "Pasadena Now"
         },
         {
           "headline": "Pasadena Fertility Clinic Expands Genetic Testing Through Global Partnership",
@@ -346,10 +346,6 @@
         },
         {
           "headline": "Pasadena Immunization Clinic Offers Free and Low-Cost Vaccines as Measles Cases Surge",
-          "source": "Pasadena Now"
-        },
-        {
-          "headline": "Latino Eaton Fire Survivors in Pasadena, Altadena the Focus of New Outreach Effort",
           "source": "Pasadena Now"
         },
         {
@@ -399,6 +395,34 @@
         {
           "headline": "Golden Hour Music Comes to Pasadena\u2019s Norton Simon Museum",
           "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Anthropic vaults to a $965 billion valuation with new funding as Claude demand surges",
+          "source": "ABC7"
+        },
+        {
+          "headline": "2026 Los Angeles Assyrian Food Festival: Discover the culture and cuisine of the 'Cradle of Civilization' in Tarzana this weekend",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Newsom vows California will impose 100% tax on Trump's $1.8 billion 'Anti-Weaponization Fund'",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Orange County registrar details ballot collection and security process ahead of Election Day",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Claude Lemieux, a feisty winger and a four-time Stanley Cup champion, dies at 60",
+          "source": "ABC7"
+        },
+        {
+          "headline": "LA mayoral race tightens as incumbent Bass fights for re-election, new poll finds",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Hop into the animal world this summer by watching Disney and Pixar's 'Hoppers' at home",
+          "source": "ABC7"
         },
         {
           "headline": "4 dead, including 6-day-old girl and 2-year-old boy, in North Hills murder-suicide: Authorities",
@@ -451,34 +475,6 @@
         {
           "headline": "Papa Johns to launch Pizza Planet pop-up in LA for 'Toy Story 5'",
           "source": "ABC7"
-        },
-        {
-          "headline": "4 suspects arrested, accused of staging IE crashes in alleged insurance fraud scheme",
-          "source": "ABC7"
-        },
-        {
-          "headline": "ABC7 Feed SoCal: Older adults team up with Food Share of Ventura County to help feed their own",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Evacuations lifted after bomb squad removes large cache of illegal fireworks from South LA home",
-          "source": "ABC7"
-        },
-        {
-          "headline": "DHS boss' threat to airports in sanctuary cities could halt LAX international travel",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Soaring temperatures in vehicles can quickly lead to hot car deaths. How to keep kids and pets safe",
-          "source": "ABC7"
-        },
-        {
-          "headline": "NJ, NY attorneys general launch investigation into FIFA World Cup ticket sales",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Miley Cyrus adopts 20-year-old tortoise",
-          "source": "ABC7"
         }
       ],
       "relevance": {
@@ -491,29 +487,29 @@
         "6": true,
         "7": true,
         "8": true,
-        "9": true,
+        "9": false,
         "10": false,
-        "11": false,
-        "12": true,
-        "13": false,
+        "11": true,
+        "12": false,
+        "13": true,
         "14": true,
         "15": true,
         "16": true,
         "17": true,
-        "18": true,
+        "18": false,
         "19": false,
-        "20": true,
-        "21": false,
+        "20": false,
+        "21": true,
         "22": false,
-        "23": false,
-        "24": true,
+        "23": true,
+        "24": false,
         "25": true,
         "26": true,
         "27": true,
         "28": true,
         "29": true,
         "30": true,
-        "31": false,
+        "31": true,
         "32": true,
         "33": false,
         "34": true,
@@ -525,14 +521,14 @@
       }
     },
     "county": {
-      "summary": "- LA expands mental health crisis response program to divert calls from police\n- Hollywood homelessness count shows no reduction, recent uptick in tent encampments\n- June 2 primary elections set for LA mayor, sheriff, court judges\n- Garden Grove chemical plant explosion threat defused, all evacuation orders lifted",
+      "summary": "- Chemical tank facilities near you: How to check if dangerous sites exist locally\n- June 2 primary elections for LA mayor, sheriff, and court judges coming soon\n- Four people fatally shot in separate North Hills and Anaheim incidents this week\n- LA River oil spill contained as cleanup efforts underway in county waterways",
       "headlines": [
         {
           "headline": "Is there a facility like the Garden Grove chemical tank near you? How to find out",
           "source": "LAist"
         },
         {
-          "headline": "LA\u2019s program that diverts mental health crisis calls away from police to expand",
+          "headline": "Tickets to watch the US Men's soccer team prepare for the World Cup go out soon",
           "source": "LAist"
         },
         {
@@ -540,11 +536,11 @@
           "source": "LAist"
         },
         {
-          "headline": "Hollywood unhoused count finds no reductions in street homelessness, but recent uptick in tents",
+          "headline": "Rent gouging charges after the LA fires were rare. This Altadena couple is now filing their own case",
           "source": "LAist"
         },
         {
-          "headline": "LA City Council delays minimum wage increases for tourism workers",
+          "headline": "Hollywood unhoused count finds no reductions in street homelessness, but recent uptick in tents",
           "source": "LAist"
         },
         {
@@ -608,7 +604,15 @@
           "source": "LAist"
         },
         {
-          "headline": "2 children, 2 kids adults fatally shot in North Hills",
+          "headline": "Newport Beach mother faces possible criminal charges after son's arrest involving e-motorcycle",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Man pleads not guilty in shooting death of Caltech scientist Carl Johann Grillmair",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "2 children, 2 adults fatally shot in North Hills",
           "source": "Fox 11 LA"
         },
         {
@@ -629,14 +633,6 @@
         },
         {
           "headline": "LA River oil spill contained as cleanup efforts continue",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "All evacuation orders lifted after Garden Grove chemical plant explosion threat defused",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "South Gate business owner says fire near homeless encampment destroyed family shop",
           "source": "Fox 11 LA"
         },
         {
@@ -688,47 +684,47 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "$20,000 Pledged for Woman Killed, Daughter Injured in Hawthorne Crash",
+          "headline": "Silver Lake Speller Set To Compete in National Bee Finals",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Downtown Riverside Police Station Due for Demolition",
+          "headline": "Burbank Man Sentenced to Prison for Dodging Over $11.2M in Taxes",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Getty Center Renovation Project to Include Replacement of Visitor Tram",
+          "headline": "E Line Train Strikes, Kills Pedestrian in West Adams Area",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Average LA County Gas Price Drops For Ninth Time in 10 Days",
+          "headline": "Man Gunned Down Near South LA Taco Stand Identified",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Elderly Man Arrested for Alleged Possession of Narcotics, Firearm",
+          "headline": "Investigation Continues into South LA Fireworks Bust",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Motorcycle Rider Killed in Hit-and-Run Collision in Sun Valley",
+          "headline": "Bass Appointed as Metro Board Chair for Fiscal Year 2026-27",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Motorcycle Rider Killed in Hit-and-Run Collision in Sun Valley",
+          "headline": "2 Children, 2 Adults Fatally Shot in Suspected Murder-Suicide",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Black LAPD Officer Tentatively Settles Discrimination Suit",
+          "headline": "Man Pleads Not Guilty in Pursuit That Resulted in Deadly Crash",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Police, Code Enforcement Roll Out Smoke Shop Initiative in Redondo",
+          "headline": "Help Sought Finding 80-Year-Old Woman Missing from Westlake District",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Grammy Museum to Open Songwriting Exhibit in LA",
+          "headline": "Augustine Casino to Host Grand Opening of New Coffee Shop Next Week",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Pedestrian Dead, Vehicle Carjacked From Scene",
+          "headline": "Girl, 15, Who Went Missing in Watts Area Located",
           "source": "MyNewsLA"
         },
         {
@@ -736,7 +732,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "What is Measure ER? Why some say Los Angeles County sales tax increase is crucial after health cuts - ABC7 Los Angeles",
+          "headline": "Los Angeles weather: 1 more May Gray day before sunshine, warm temperatures return to Southern California - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -748,11 +744,23 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Endorsement: Irene Lee for Los Angeles County Superior Court Office No. 14 - MSN",
+          "headline": "What is Measure ER? Why some say Los Angeles County sales tax increase is crucial after health cuts - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "Latest News - The Valley Chronicle",
+          "headline": "Bass Appointed as Metro Board Chair for Fiscal Year 2026-27 - MyNewsLA.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Here's the latest in the Rebecca Grossman, Scott Erickson civil trial - Ventura County Star",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Mom Kills Newborn, Child And Man In LA County Murder-Suicide: Police - Patch",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Endorsement: Irene Lee for Los Angeles County Superior Court Office No. 14 - MSN",
           "source": "Google News LA"
         },
         {
@@ -764,7 +772,23 @@
           "source": "Google News LA"
         },
         {
+          "headline": "Latest News - The Valley Chronicle",
+          "source": "Google News LA"
+        },
+        {
           "headline": "County Launches Heat Tracker to Map Related Deaths and Emergency Room Visits - westsidecurrent.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Santa Monica's 2026 Election: A Guide to 134 Candidates - Santa Monica Daily Press",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "No shame: A last-minute election guide for undecided CA voters - CalMatters",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "North Hills murder-suicide: 4 dead, including 6-day-old baby and 2-year-old toddler, LAPD and medical examiner say - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -776,39 +800,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles weather: 1 more May Gray day before sunshine, warm temperatures return to Southern California - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Santa Monica's 2026 Election: A Guide to 134 Candidates - Santa Monica Daily Press",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Two Pasadena Apartment-Complex Murder Cases Reach Courtrooms Today Two murder cases stemming from fatal shootings at Pasadena apartment complexes \u2014 both from August 2023, 13 days apart \u2014 are set for court proceedings today at two different L - facebook.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "LA County awarded more than $255M for affordable housing initiatives - MSN",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "No shame: A last-minute election guide for undecided CA voters - CalMatters",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "AI in California Courts Drafts Orders in Secret: Litigants Get No Disclosure - Tech Times",
-          "source": "Google News LA"
-        },
-        {
           "headline": "VIDEO: Crews battle industrial fire burning in Los Angeles County - dailydispatch.com",
           "source": "Google News LA"
         },
         {
           "headline": "Between LA and OC, Long Beach carves an identity of its own with a melting pot of cultures - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Daleza Fregoso abducted by Ruben Fregoso: Amber Alert for missing girl tied to death of child's mother in Los Angeles - ABC7 Bay Area",
           "source": "Google News LA"
         }
       ],
