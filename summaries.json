@@ -1,9 +1,9 @@
 {
-  "generated": "2026-05-30T16:07:49.741186+00:00",
-  "briefing": "8 AM",
+  "generated": "2026-05-30T20:02:53.167562+00:00",
+  "briefing": "12 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Monrovia named finalist for National Civic League's 2026 All-America City Award\n- Summer Concerts in the Park begin Sunday, May 24 through August 9\n- Library Foundation receives $10,000 Tournament of Roses grant for robotics tools\n- Summer Reading Kickoff Party at Library June 6, multiple June programs offered",
+      "summary": "- Monrovia named finalist for National Civic League All-America City Award\n- Library Foundation receives $10,000 Tournament of Roses grant for robotics\n- Summer Concerts in the Park begin Sunday, May 24\n- Summer Reading Kickoff Party at Library June 6",
       "headlines": [
         {
           "headline": "LEGO free play at the Library on June 5",
@@ -86,7 +86,7 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Damon Gregory Shay Obituary - Monrovia (1956-2026) - San Gabriel Valley Tribune",
+          "headline": "Damon Gregory Shay Obituary - Monrovia (1956-2026) - Pasadena Star News",
           "source": "Google News"
         },
         {
@@ -114,11 +114,15 @@
           "source": "Google News"
         },
         {
+          "headline": "What To Watch This Weekend: 'Pressure,' 'Backrooms,' 'Power Ballad,' 'Spider-Noir' And 'The Last Viking'",
+          "source": "Patch Monrovia"
+        },
+        {
           "headline": "Covert Chinese Agent, Arcadia's Ex-Mayor, Pleads Guilty In Federal Case: DOJ",
           "source": "Patch Monrovia"
         },
         {
-          "headline": "7 Events To Show LGBTQ+ Support During Pride Month In Southern California",
+          "headline": "High Grocery Prices Still Squeezing CA Families: What To Know",
           "source": "Patch Monrovia"
         },
         {
@@ -127,6 +131,10 @@
         },
         {
           "headline": "2 Mountain Lion Kittens Killed On LA County Roads Ahead Of Wildlife Crossing Debut: Report",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "How To Shut Down Nosiness Without Being A Jerk [The Question]",
           "source": "Patch Monrovia"
         },
         {
@@ -222,15 +230,15 @@
         "32": false,
         "33": false,
         "34": false,
-        "35": true,
-        "36": true,
+        "35": false,
+        "36": false,
         "37": true,
         "38": true,
         "39": true
       }
     },
     "sgv": {
-      "summary": "- Tournament of Roses grants awarded to San Gabriel Valley community groups\n- Monterey Park hosts 5th Annual San Gabriel Valley Pride Parade Festival\n- San Gabriel Valley teams compete in CIF-SS track and field finals\n- June 2 ballot measures announced across San Gabriel Valley communities",
+      "summary": "- Tournament of Roses grants awarded to San Gabriel Valley community groups\n- Monterey Park hosts 5th Annual San Gabriel Valley Pride Parade Festival\n- SGV teams compete in CIF-SS track and field championship finals\n- Gunfire sounds expected during San Gabriel Valley film shoot production",
       "headlines": [
         {
           "headline": "Tournament of Roses grants awarded to San Gabriel Valley groups - Pasadena Star News",
@@ -297,11 +305,11 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Pomona Unified indicates Ganesha\u2019s top players will participate in Saturday\u2019s championship against Loyola - San Gabriel Valley Tribune",
+          "headline": "Pasadena High School celebrates major campus improvements - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "St. John Bosco baseball wins battle with La Mirada in Division 1 quarterfinals - San Gabriel Valley Tribune",
+          "headline": "Pomona Unified indicates Ganesha\u2019s top players will participate in Saturday\u2019s championship against Loyola - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -353,6 +361,14 @@
           "source": "Pasadena Now"
         },
         {
+          "headline": "Movie Review | Backrooms",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "ArtCenter\u2019s Design Invitational Celebrates Italian Automotive Design",
+          "source": "Colorado Blvd"
+        },
+        {
           "headline": "San Gabriel\u2019s Smith Park Pool Opens Saturday, June 6",
           "source": "Colorado Blvd"
         },
@@ -393,12 +409,12 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Pasadena Residents Push to End Flock License Plate Reader Program",
-          "source": "Colorado Blvd"
+          "headline": "Trump vents about judge who blocked the Kennedy Center renovation and fumes over his legal setbacks",
+          "source": "ABC7"
         },
         {
-          "headline": "What To Do This Weekend: May 29-31, 2026",
-          "source": "Colorado Blvd"
+          "headline": "OC judge dismisses indictment against doctor accused of poisoning her husband with Drano",
+          "source": "ABC7"
         },
         {
           "headline": "Capitol rioters clamor for payouts from Trump's new 'anti-weaponization' fund despite backlash",
@@ -449,6 +465,10 @@
           "source": "ABC7"
         },
         {
+          "headline": "Judge orders Trump's name be removed from Kennedy Center, rules that rebranding violates the law",
+          "source": "ABC7"
+        },
+        {
           "headline": "How older Californians can utilize resources to prioritize mental health, meaningful connections",
           "source": "ABC7"
         },
@@ -465,25 +485,13 @@
           "source": "ABC7"
         },
         {
-          "headline": "Judge orders Trump's name be removed from Kennedy Center, rules that rebranding violates the law",
-          "source": "ABC7"
-        },
-        {
           "headline": "California sues 23andMe, alleging it failed to protect user data in 2023 breach",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Alicia Keys brings her semi-autobiographical musical 'Hell's Kitchen' to Hollywood",
-          "source": "ABC7"
-        },
-        {
-          "headline": "3 climbers who fell near treacherous pass on Alaska's Mount McKinley are dead, 1 rescued",
           "source": "ABC7"
         }
       ],
       "relevance": {
         "0": true,
-        "1": false,
+        "1": true,
         "2": true,
         "3": true,
         "4": false,
@@ -495,38 +503,58 @@
         "10": true,
         "11": true,
         "12": true,
-        "13": false,
+        "13": true,
         "14": true,
-        "15": false,
-        "16": false,
-        "17": false,
+        "15": true,
+        "16": true,
+        "17": true,
         "18": true,
-        "19": false,
-        "20": false,
-        "21": false,
+        "19": true,
+        "20": true,
+        "21": true,
         "22": false,
-        "23": false,
-        "24": false,
+        "23": true,
+        "24": true,
         "25": false,
-        "26": false,
-        "27": false,
-        "28": false,
-        "29": false,
-        "30": true,
-        "31": false,
-        "32": false,
-        "33": false,
-        "34": false,
-        "35": false,
-        "36": false,
+        "26": true,
+        "27": true,
+        "28": true,
+        "29": true,
+        "30": false,
+        "31": true,
+        "32": true,
+        "33": true,
+        "34": true,
+        "35": true,
+        "36": true,
         "37": true,
-        "38": false,
-        "39": false
+        "38": true,
+        "39": true
       }
     },
     "county": {
-      "summary": "- LA County services for older adults at risk amid state funding shift discussions\n- LA City Council committee blocks ballot measure to cut mansion tax rate\n- Multiple judges running in June 2 primary elections across LA County\n- Altadena volunteers clearing Eaton Fire lots ahead of fire season, need help",
+      "summary": "- LA County voters face June 2 primary elections for mayor, sheriff, judges\n- Measure ER proposes LA County sales tax increase, needs voter approval\n- Services for older adults at risk amid state funding shift discussions\n- Mountain lion spotted in Santa Monica, officials warn residents to stay alert",
       "headlines": [
+        {
+          "headline": "Los Angeles County Superior Court Judges: Who's running in the June 2 primary and why it matters",
+          "source": "LAist"
+        },
+        {
+          "headline": "Los Angeles mayor: Who's running in the June 2 primary and why it matters",
+          "source": "LAist"
+        },
+        {
+          "headline": "Measure ER: What you need to know about the proposed sales tax hike in LA County",
+          "source": "LAist"
+        },
+        {
+          "headline": "LA County sheriff: Who's running in the June 2 primary and why it matters",
+          "source": "LAist"
+        },
+        {
+          "headline": "Governor of California: Who's running in the June 2 primary and why it matters",
+          "source": "LAist"
+        },
         {
           "headline": "Services for older adults in LA at risk as state leaders consider funding shift",
           "source": "LAist"
@@ -588,24 +616,120 @@
           "source": "LAist"
         },
         {
-          "headline": "Last chance to see the La Brea Tar Pits before they close for 2 years",
-          "source": "LAist"
+          "headline": "Massive apartment fire near UC Riverside leaves over 100 displaced",
+          "source": "Fox 11 LA"
         },
         {
-          "headline": "Altadena volunteers clear Eaton Fire lots before fire season \u2014 they need your help",
-          "source": "LAist"
+          "headline": "$26M Skid Row campus: Violence, drug use surge at 'Meth Mansion' as officials stay silent",
+          "source": "Fox 11 LA"
         },
         {
-          "headline": "This man operates Angels Flight every Saturday \u2014 and will tell you all its secrets",
-          "source": "LAist"
+          "headline": "Officials warn of mountain lion sighting in Santa Monica",
+          "source": "Fox 11 LA"
         },
         {
-          "headline": "Prospects fade for imminent end to Iran war as attacks restart",
-          "source": "LAist"
+          "headline": "Rebecca Haro pleads guilty to involuntary manslaughter, other charges for baby Emmanuel's murder",
+          "source": "Fox 11 LA"
         },
         {
-          "headline": "Republicans call off vote on Iran war resolution that was on the verge of passing",
-          "source": "LAist"
+          "headline": "Organizer of fake homeless encampment stunt outside Nithya Raman\u2019s home defends viral videos",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Tenants demand action at Boyle Heights apartment complex",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "1 dead in skydiving incident in Riverside County; 2nd person in critical condition",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Brush fire briefly breaks out near Getty Center along 405 Freeway",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "LIST: These California pizzerias ranked as the best in the nation",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Poll: Becerra, Hilton lead ahead in California governor's race",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "FIFA World Cup 2026: Base camp locations for all 48 teams revealed",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "World Cup 2026: Meet USMNT striker Haji Wright",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "University of California sued by DOJ over UCLA antisemitism claims",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "California Tesla road rage driver sentenced in Hawaii; LA victims demand extradition",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Powerball ticket worth $481,000 sold in California",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "California death row inmate convicted in 1983 murder of OC woman dies in prison at 66",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Three dead, one rescued after fall on Alaska\u2019s Mount McKinley",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Mysterious airport tunnels to open beneath hub long tied to conspiracy theories",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "UN says next five years to smash heat records",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "These are the biggest baby name trends of 2026, according to search data",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Vehicle Crashes into Metrolink Train in Pacoima",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Truck Crashes Into Telephone Pole in Ladera Ranch",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Firefighters Douse Electrical Vault Fire at Downtown LA Parking Garage",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Three People Arrested During DUI Checkpoint in San Jacinto",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Southland Gas Prices on Downward Trend",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Man\u2019s Body Found on Shoulder of 110 Freeway Off-Ramp in South LA",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Arbitration Rejected in Former Wedbush VP\u2019s Lawsuit",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Actress Kelly Curtis, Jamie Lee\u2019s Sister, Dies at Age 69",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Riverside County Gas Prices Drop For 10th Straight Day",
+          "source": "MyNewsLA"
         },
         {
           "headline": "Jurupa Valley Transgender Athlete Aims for 3 Girls\u2019 CIF Titles",
@@ -616,43 +740,7 @@
           "source": "MyNewsLA"
         },
         {
-          "headline": "Blackbear Wins Dismissal of Multiple Claims on Free Speech Grounds",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "HFPA, Former Member Seek Judgment in Organization\u2019s Favor",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Palm Springs Goes for Marilyn Monroe World Record",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "City of Malibu Seeks Exit From Influencer\u2019s Fatal Wreck Lawsuit",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "524 More Vote Centers Open in LACo",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Garage Catches Fire in Yorba Linda",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Judge Delivers Mixed Ruling to LACo Prosecutor Alleging Wrongful Demotion",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Deputies Investigate Death in East Los Angeles",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "RivCo Expands Early Voting With 131 Additional Vote Centers",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Los Angeles weather: From cool to warm, Southern California is heating up this weekend - ABC7 Los Angeles",
+          "headline": "More than 500 polling places to open in LA County Saturday as early voting continues - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -660,11 +748,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "524 More Vote Centers to Open in LA County Saturday - MyNewsLA.com",
+          "headline": "Vote Centers Open Across LA County | June 2 Primary - Santa Monica Daily Press",
           "source": "Google News LA"
         },
         {
-          "headline": "Vote Centers Open Across LA County | June 2 Primary - Santa Monica Daily Press",
+          "headline": "Los Angeles weather: From cool to warm, Southern California is heating up this weekend - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -672,7 +760,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Roads Reopened Near Los Angeles County Oil Spill Site; Clean-up and Containment Efforts Continue - edhat",
+          "headline": "Bruce Frank, retired correctional lieutenant - California Department of Corrections and Rehabilitation - CDCR (.gov)",
           "source": "Google News LA"
         },
         {
@@ -680,7 +768,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Bruce Frank, retired correctional lieutenant - California Department of Corrections and Rehabilitation - CDCR (.gov)",
+          "headline": "Roads Reopened Near Los Angeles County Oil Spill Site; Clean-up and Containment Efforts Continue - edhat",
           "source": "Google News LA"
         },
         {
@@ -692,10 +780,6 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles Is Spending More on Street Repairs, but Fixing Less. Here's Why (Video) - Palisades News",
-          "source": "Google News LA"
-        },
-        {
           "headline": "What is the poverty rate in Los Angeles County, CA? - USAFacts",
           "source": "Google News LA"
         },
@@ -704,11 +788,15 @@
           "source": "Google News LA"
         },
         {
+          "headline": "Go Metro to the best May events in Los Angeles this weekend: May 29-May 31 - LA Metro",
+          "source": "Google News LA"
+        },
+        {
           "headline": "Malibu & LA County Enter Tolling Agreement for Fire Recovery - Santa Monica Daily Press",
           "source": "Google News LA"
         },
         {
-          "headline": "LASD Investigates Death in East Los Angeles - MyNewsLA.com",
+          "headline": "LASD Investigates Death in East Los Angeles - mynewsla.com",
           "source": "Google News LA"
         },
         {
@@ -724,11 +812,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Go Metro to the best May events in Los Angeles this weekend: May 29-May 31 - LA Metro",
+          "headline": "Los Angeles County Sheriff's Department - facebook.com",
           "source": "Google News LA"
         },
         {
-          "headline": "California judges are testing a new AI clerk, and you won\u2019t know if it\u2019s looking at your case - capradio.org",
+          "headline": "Los Angeles Is Spending More on Street Repairs, but Fixing Less. Here's Why (Video) - Palisades News",
           "source": "Google News LA"
         }
       ],
