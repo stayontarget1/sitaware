@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-02T21:42:09.644821+00:00",
-  "briefing": "12 PM",
+  "generated": "2026-06-03T03:50:20.391994+00:00",
+  "briefing": "5 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Monrovia finalist for National Civic League's 2026 All-America City Award\n- Library Foundation receives $10,000 Tournament of Roses grant for robotics\n- Summer Concerts in the Park begin May 31 through August 9\n- Summer Reading Kickoff Party at Library June 6",
+      "summary": "- Monrovia finalist for National Civic League's 2026 All-America City Award\n- Library Foundation receives $10,000 Tournament of Roses grant for robotics\n- Summer Concerts in the Park begin May 31 through August\n- Summer Reading Kickoff Party at Library June 6",
       "headlines": [
         {
           "headline": "Restaurant reviewer Peter Dills praises Le Roy's restaurant",
@@ -122,15 +122,19 @@
           "source": "Google News"
         },
         {
-          "headline": "Election Day In LA County: What\u2019s On The Ballot For June 2 Primary",
+          "headline": "Real-Time Results: LA County Primary Election 2026",
           "source": "Patch Monrovia"
         },
         {
-          "headline": "Burned Mail-In Ballots, Vandalized Vote Center Trigger LA County Election Interference Probe",
+          "headline": "Real-Time Election Results: CA Governor's Primary Election 2026",
           "source": "Patch Monrovia"
         },
         {
-          "headline": "Campaign Controversies Have Voters Hesitating In Final Stretch Of CA Gubernatorial Primary",
+          "headline": "Sitcom Actor Sentenced To Prison For 'Savage' Attack Of Girlfriend: Judge",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "Massive Drug Tunnel From Tijuana Discovered Under Fake SoCal 'Buy For Less' Store",
           "source": "Patch Monrovia"
         },
         {
@@ -222,7 +226,7 @@
         "32": false,
         "33": false,
         "34": false,
-        "35": true,
+        "35": false,
         "36": true,
         "37": true,
         "38": true,
@@ -230,18 +234,18 @@
       }
     },
     "sgv": {
-      "summary": "- June 2 ballot measures decided for San Gabriel Valley communities\n- Tournament of Roses grants awarded to local San Gabriel Valley groups\n- Monterey Park hosts 5th Annual San Gabriel Valley Pride Parade Festival\n- San Gabriel Valley Habitat for Humanity named Assembly District 41 Nonprofit Year",
+      "summary": "- June 2 ballot measures decided across San Gabriel Valley communities\n- Monterey Park hosts 5th Annual San Gabriel Valley Pride Parade\n- Habitat for Humanity named Assembly District 41 Nonprofit of Year\n- SGV baseball, softball teams compete in CIF-SS playoff finals",
       "headlines": [
-        {
-          "headline": "Tournament of Roses grants awarded to San Gabriel Valley groups - Pasadena Star News",
-          "source": "Google News SGV"
-        },
         {
           "headline": "Election 2026: Here are all the local measures on the June 2 ballot in the San Gabriel Valley - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
           "headline": "San Gabriel Valley Comedy Festival Announces 2026 Headliners - The Killeen Daily Herald",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "San Gabriel Valley Boys Athlete of the Week: Santiago Garza, Glendora - Pasadena Star News",
           "source": "Google News SGV"
         },
         {
@@ -253,11 +257,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Video Games Live Festival Concert - TheaterMania",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "San Gabriel Valley Boys Athlete of the Week: Santiago Garza, Glendora - San Gabriel Valley Tribune",
+          "headline": "Arcadia, San Gabriel Valley: 2026 Comedy Festival Brings Star Comics and New Travel Buzz to Southern California - Travel And Tour World",
           "source": "Google News SGV"
         },
         {
@@ -265,11 +265,15 @@
           "source": "Google News SGV"
         },
         {
+          "headline": "San Gabriel Valley Girls Athlete of the Week: Bella Perez, Whittier Christian - Pasadena Star News",
+          "source": "Google News SGV"
+        },
+        {
           "headline": "San Gabriel Valley Boys Athlete of the Week: Santiago Garza, Glendora - Whittier Daily News",
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel Valley Girls Athlete of the Week: Bella Perez, Whittier Christian - San Gabriel Valley Tribune",
+          "headline": "2026 Election Results: San Gabriel Valley ballot measures, including Monterey Park\u2019s data center ban - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -313,7 +317,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Union Station Housing Navigator Erica Mu\u00f1oz Challenges Incumbent Justin Jones in District 3",
+          "headline": "Pasadena Incumbents Gliding Through Primary",
           "source": "Pasadena Now"
         },
         {
@@ -401,15 +405,75 @@
           "source": "Colorado Blvd"
         },
         {
+          "headline": "Who's winning the Los Angeles mayor race? See live election results below",
+          "source": "ABC7"
+        },
+        {
+          "headline": "APLA Health food pantries a lifeline for people living with HIV in Los Angeles",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Who's winning the California governor race? See live election results below",
+          "source": "ABC7"
+        },
+        {
+          "headline": "ABC7 Feed SoCal: Older adults team up with Food Share of Ventura County to help feed their own",
+          "source": "ABC7"
+        },
+        {
+          "headline": "ABC7 Feed SoCal: Grace Resources in Lancaster standing in the gap to feed the hungry in Antelope Valley",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Supreme Court allows Alabama to use congressional map favoring Republicans in this year's elections",
+          "source": "ABC7"
+        },
+        {
+          "headline": "ABC7 Feed SoCal: UC Riverside food pantry helps keep future leaders in their degree programs",
+          "source": "ABC7"
+        },
+        {
+          "headline": "1.3 million meals and counting for ABC7 Feed SoCal",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Police say man barricaded himself inside bank with others in California city of Bakersfield",
+          "source": "ABC7"
+        },
+        {
+          "headline": "LA-area Rep. Jimmy Gomez being investigated for sexual misconduct, report says",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Mother, daughter hit and killed by car while crossing street in Stanton, deputies say",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Pope names Mexican-American broadcasting executive to lead Vatican communications",
+          "source": "ABC7"
+        },
+        {
+          "headline": "PRIDE 365: Southern California LGBTQIA+ events",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Actor Nick Pasqual sentenced to 32 years to life for trying to kill estranged girlfriend in 2024",
+          "source": "ABC7"
+        },
+        {
           "headline": "Blanche says Trump administration is scrapping $1.8B fund meant to compensate president's allies",
           "source": "ABC7"
         },
         {
-          "headline": "Top candidates in tight race to replace Rep. Nancy Pelosi in California's District 11",
+          "headline": "Calls for change at Adelanto ICE facility grow after some detainees allegedly still on hunger strike",
           "source": "ABC7"
         },
         {
-          "headline": "Mother, daughter struck, killed by car in Stanton",
+          "headline": "Past ABC7 Sweepstakes & Promotions",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Top candidates in tight race to replace Rep. Nancy Pelosi in California's District 11",
           "source": "ABC7"
         },
         {
@@ -419,72 +483,12 @@
         {
           "headline": "Study finds carcinogenic chromium-6 near Palisades, Eaton fire cleanup zones",
           "source": "ABC7"
-        },
-        {
-          "headline": "Frontrunners for California governor make last-minute campaign stops in SoCal",
-          "source": "ABC7"
-        },
-        {
-          "headline": "BTS, Cardi B, Zara Larsson and more superstars set to perform at the 2026 iHeartRadio Music Festival",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Trump signs an executive order to vet top AI models for national security risks",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Real stories show how electric cars save money on gas and fit real life",
-          "source": "ABC7"
-        },
-        {
-          "headline": "PRIDE 365: Southern California LGBTQIA+ events",
-          "source": "ABC7"
-        },
-        {
-          "headline": "LA artist's sculpture at LAX explores imagination, culture and space",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Actor Nick Pasqual sentenced to 32 years to life for trying to kill estranged girlfriend in 2024",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Get to know the cast of Hulu's new comedy series 'Not Suitable for Work'",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Google wants to release 32M good mosquitoes in 2 states | Here's why",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Man wanted in connection with Nevada Amber Alert arrested in Palmdale; child found safe",
-          "source": "ABC7"
-        },
-        {
-          "headline": "President Trump taps housing regulator Bill Pulte to be acting director of national intelligence",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Onlooker struck by car doing donuts at illegal street takeover in Compton, video shows",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Fresno family of 5 killed in fiery crash in San Bernardino County",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Family fights for 2-year-old girl to not be declared brain dead after near-drowning",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Owner speaks out after teen allegedly injures 3 horses at equestrian competition",
-          "source": "ABC7"
         }
       ],
       "relevance": {
         "0": true,
-        "1": true,
-        "2": false,
+        "1": false,
+        "2": true,
         "3": true,
         "4": true,
         "5": false,
@@ -501,11 +505,11 @@
         "16": true,
         "17": true,
         "18": true,
-        "19": true,
-        "20": false,
-        "21": false,
-        "22": false,
-        "23": false,
+        "19": false,
+        "20": true,
+        "21": true,
+        "22": true,
+        "23": true,
         "24": true,
         "25": false,
         "26": false,
@@ -525,18 +529,22 @@
       }
     },
     "county": {
-      "summary": "- LA mayoral race offers starkly different choices on city's housing approach\n- June 2 primary election: Turnout starts slow for critical California races\n- CalFresh work requirements to impact 200,000 Los Angeles County residents\n- LA County election officials investigate separate interference incidents in primary",
+      "summary": "- LA mayor race: Bass leads early returns ahead of Pratt\n- Luna leads pack for Los Angeles County sheriff position\n- California primary election results coming in as polls close statewide\n- State law will put more housing near transit stops",
       "headlines": [
         {
-          "headline": "LA County sheriff: Who's running in the June 2 primary and why it matters",
+          "headline": "Live primary election results: All Orange County races",
           "source": "LAist"
         },
         {
-          "headline": "Los Angeles mayor: Who's running in the June 2 primary and why it matters",
+          "headline": "Live primary election results: Statewide races, including California governor",
           "source": "LAist"
         },
         {
-          "headline": "Los Angeles County Superior Court Judges: Who's running in the June 2 primary and why it matters",
+          "headline": "Live primary election results: Bass leads in early returns, followed by Pratt",
+          "source": "LAist"
+        },
+        {
+          "headline": "Live primary election results: Luna leads pack for Los Angeles County sheriff",
           "source": "LAist"
         },
         {
@@ -544,11 +552,11 @@
           "source": "LAist"
         },
         {
-          "headline": "Governor of California: Who's running in the June 2 primary and why it matters",
+          "headline": "In the race for LA mayor, voters face starkly different choices on city\u2019s approach to housing",
           "source": "LAist"
         },
         {
-          "headline": "In the race for LA mayor, voters face starkly different choices on city\u2019s approach to housing",
+          "headline": "Where LA ranks on Uber's list of most 'forgetful' cities and the strange items people leave behind",
           "source": "LAist"
         },
         {
@@ -604,8 +612,16 @@
           "source": "LAist"
         },
         {
-          "headline": "This LA County judge wants your vote even though he\u2019s accused of violating several ethics rules",
-          "source": "LAist"
+          "headline": "LIVE: California primary election results coming in as polls have closed",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "LIVE: Los Angeles mayor election results",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "LIVE: LA County sheriff election results",
+          "source": "Fox 11 LA"
         },
         {
           "headline": "Becerra leading polls in California gubernatorial race; Steyer & Hilton battle for second",
@@ -628,19 +644,15 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "California primary: LA County election officials investigate separate interference incidents",
+          "headline": "LIVE: California governor's race results, latest updates",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Los Angeles mayoral candidates make final push before June 2 primary",
+          "headline": "Hostage situation underway at Chase Bank in Bakersfield amid bomb threat",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Rancho Cucamonga teen, Shrey Parikh, wins Scripps National Spelling Bee championship",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Turnout starts off slow for critical primary California election",
+          "headline": "California primary election 2026: Voters head to polls as closing time nears",
           "source": "Fox 11 LA"
         },
         {
@@ -664,11 +676,15 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "World Cup 2026: Meet USMNT striker Haji Wright",
+          "headline": "Peabo Bryson dies after Grammy-winning singer suffered stroke: Report",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "University of California sued by DOJ over UCLA antisemitism claims",
+          "headline": "Hiker discovers body of missing New Mexico nuclear lab worker, police say",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "The states where residents earn the highest incomes",
           "source": "Fox 11 LA"
         },
         {
@@ -676,59 +692,47 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "White House Correspondents\u2019 Dinner rescheduled for July 24 with enhanced security measures",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Celebrity deaths of 2026: The entertainers and artists we lost this year",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "FBI's next move in Nancy Guthrie case could finally expose suspect, expert predicts",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Riverside to Host Drone Shows Leading up to July 4 Celebrations",
+          "headline": "Horvath, Durazo Take Big Leads in LACo Board of Supervisors Races",
           "source": "MyNewsLA"
         },
         {
-          "headline": "RivCo Board Approves List of Proposed Road Projects Eligible for State Funds",
+          "headline": "Fatal Shooting Between Anza, Palm Springs Prompts Full Highway Closure",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Mother, Baby Who Went Missing in West Rancho Dominguez Area Located",
+          "headline": "Hilton, Becerra, Steyer Battle It Out in Crowded CA Governor Race",
           "source": "MyNewsLA"
         },
         {
-          "headline": "5 Gangsters Convicted of Murder in Lookout Killings",
+          "headline": "Report: LA-Area Rep. Jimmy Gomez Facing Sex Misconduct Investigation",
           "source": "MyNewsLA"
         },
         {
-          "headline": "DA Charges Man Suspected in Series of UCLA Assaults",
+          "headline": "First West Nile Virus-Positive Mosquitoes of Year Detected in Orange County",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Pedestrian Dies Crossing 91 Freeway",
+          "headline": "Man, 34, Pronounced Dead at Pershing Square Station",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Ramon Road Bridge Project to Begin Construction in September",
+          "headline": "LAPD Detains Individual After Reported Shooting at Vehicle in Hollywood Hills",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Father Allegedly Abducts 5-Year-Old Daughter From Nevada Located Safely in Antelope Valley",
+          "headline": "Runoff Likely in Competitive, Crowded Los Angeles Mayoral Race",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LA Council Approves Funding to Support Westside Street Light Repair Crew",
+          "headline": "Shooting East of Anza Prompts Full Highway Closure",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Palm Springs International ShortFest Reveals Lineup",
+          "headline": "Woman Charged with Sex Assault on Girl in Irvine",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Long Beach Sprinter Sues Over Stripped Gold Medal",
+          "headline": "Man Charged with Sexual Assault in Huntington Beach Park",
           "source": "MyNewsLA"
         },
         {
@@ -736,11 +740,27 @@
           "source": "Google News LA"
         },
         {
+          "headline": "Los Angeles weather: Southern California heats up, with several days of warm weather and sunshine ahead - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Supervisor Kathryn Barger Spotlights First-Ever La Brea Tar Pits Mobile Museum Visit to Antelope Valley - COUNTY OF LOS ANGELES (.gov)",
+          "source": "Google News LA"
+        },
+        {
           "headline": "New pair of nesting bald eagles arrives in Los Angeles County - Victorville Daily Press",
           "source": "Google News LA"
         },
         {
-          "headline": "Inside LADA - Los Angeles County District Attorney's Office (.gov)",
+          "headline": "Real-Time Results: Los Angeles Primary Election 2026 - Patch",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "More Than a Necessity: Why Diaper Assistance Matters to Families in Los Angeles County - Los Angeles Regional Food Bank",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "California chooses its next insurance watchdog amid wildfire crisis - CalMatters",
           "source": "Google News LA"
         },
         {
@@ -748,15 +768,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Voters to Decide on Proposed Half-Cent LA County Sales Tax for Healthcare - mynewsla.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "California state Senate: Races to watch in 2026 midterm election - CalMatters",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "A bald eagle perch in L.A. County - Magzter",
+          "headline": "Voters to Decide on Proposed Half-Cent LA County Sales Tax for Healthcare - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
@@ -768,15 +780,19 @@
           "source": "Google News LA"
         },
         {
-          "headline": "LA County bald eagle pair confirmed as Big Bear chicks grow - The Stockton Record",
+          "headline": "Runoff Likely in Competitive, Crowded Los Angeles Mayoral Race - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles weather: Southern California heats up, with several days of warm weather and sunshine ahead - ABC7 Los Angeles",
+          "headline": "LA County bald eagle pair confirmed as Big Bear chicks grow - Victorville Daily Press",
           "source": "Google News LA"
         },
         {
-          "headline": "State Assembly - CalMatters",
+          "headline": "California state Senate: Races to watch in 2026 midterm election - CalMatters",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Horvath, Durazo Take Big Leads in LACo Board of Supervisors Races - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
@@ -784,31 +800,19 @@
           "source": "Google News LA"
         },
         {
+          "headline": "A bald eagle perch in L.A. County - Magzter",
+          "source": "Google News LA"
+        },
+        {
           "headline": "Ballots found with fire damage in downtown LA drop box; officials investigating possible election interference - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "Street takeovers drop across LA County, but deputies say the dangerous trend isn't going away - ABC7 Los Angeles",
+          "headline": "Kidnapped 5-Year-Old Girl Found In LA County, Police Say - Patch",
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles officials warn against election interference after ballots burned, voter center vandalized - The Hill",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Spencer Pratt\u2019s First Big Test - National Review",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "New CalFresh work requirements to impact 200,000 Los Angeles County residents - MSN",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Election Voter Guide - AM 870 The ANSWER",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "CDFW News | CDFW Investigation Finds SoCal Restaurant in Violation of Fishing and Advertising Laws - California Department of Fish and Wildlife (.gov)",
+          "headline": "State Assembly - CalMatters",
           "source": "Google News LA"
         }
       ],
