@@ -1,10 +1,30 @@
 {
-  "generated": "2026-06-05T17:21:34.251440+00:00",
+  "generated": "2026-06-05T20:45:46.697382+00:00",
   "briefing": "12 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Catalytic converter thefts surge in Monrovia; six stolen in single day\n- Monrovia schools show progress; smaller budget anticipated for next year\n- Library Foundation secures $10,000 grant for robotics tools and equipment\n- Summer Concerts in the Park begin May 31, run through August",
+      "summary": "- Monrovia Police warn of catalytic converter theft surge across city\n- Summer Reading Program kickoff at Library Park, June 6\n- MAP Block Party at Julian Fisher Park, June 13\n- Library Foundation receives $10,000 Tournament of Roses grant for robotics",
       "headlines": [
+        {
+          "headline": "Monrovia Garden Club 2026 Garden Award winners",
+          "source": "Monrovia Now"
+        },
+        {
+          "headline": "Photography exhibit 'Birds of Monrovia Canyon Park' opens June 7",
+          "source": "Monrovia Now"
+        },
+        {
+          "headline": "Summer Solstice Garden Party at Monrovia Community Garden, June 20",
+          "source": "Monrovia Now"
+        },
+        {
+          "headline": "Summer Reading Program kickoff at Library Park, June 6",
+          "source": "Monrovia Now"
+        },
+        {
+          "headline": "MAP Block Party at Julian Fisher Park, June 13",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Coming Up in Monrovia",
           "source": "Monrovia Now"
@@ -63,26 +83,6 @@
         },
         {
           "headline": "Library Foundation receives $10,000 Tournament of Roses grant for robotics tools",
-          "source": "Monrovia Now"
-        },
-        {
-          "headline": "Summer Concerts in the Park, Sundays May 31\u2013Aug. 9",
-          "source": "Monrovia Now"
-        },
-        {
-          "headline": "Coming Up in Monrovia",
-          "source": "Monrovia Now"
-        },
-        {
-          "headline": "Dinner at the new Shlap Muan",
-          "source": "Monrovia Now"
-        },
-        {
-          "headline": "Monrovia Police: Bicyclist packing brass knuckles; Shoplifter caught holding stolen goods; Shoplifter ran, caught steps away; Dumpster set on fire; Etc.",
-          "source": "Monrovia Now"
-        },
-        {
-          "headline": "San Gabriel Valley Choral Company Celebrates 30th Anniversary June 20",
           "source": "Monrovia Now"
         },
         {
@@ -217,20 +217,20 @@
         "3": true,
         "4": true,
         "5": true,
-        "6": false,
+        "6": true,
         "7": false,
         "8": true,
         "9": true,
-        "10": true,
-        "11": true,
-        "12": true,
+        "10": false,
+        "11": false,
+        "12": false,
         "13": true,
         "14": true,
         "15": true,
         "16": true,
         "17": true,
         "18": true,
-        "19": false,
+        "19": true,
         "20": false,
         "21": true,
         "22": false,
@@ -254,7 +254,7 @@
       }
     },
     "sgv": {
-      "summary": "- Monterey Park voters permanently ban data centers in 2026 ballot measure\n- LA County deputies pursue stolen vehicle across San Gabriel Valley\n- San Gabriel Valley Comedy Festival announces 2026 headliners, brings entertainment buzz\n- Monterey Park hosts 5th Annual San Gabriel Valley Pride Parade Festival",
+      "summary": "- Monterey Park voters approve permanent ban on data center development\n- Police pursue stolen vehicles in multiple San Gabriel Valley incidents\n- San Gabriel Valley Comedy Festival announces 2026 headliners, draws tourism\n- Medi-Cal dental coverage ends July 1 for Pasadena patients",
       "headlines": [
         {
           "headline": "Driver of suspected stolen car in custody after pursuit ends in San Bernardino County - NBC Los Angeles",
@@ -297,7 +297,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Monterey Park to Host 5th Annual San Gabriel Valley Pride Parade and Festival - ColoradoBoulevard.net",
+          "headline": "Police in pursuit of a white pickup truck in San Gabriel Valley - CBS News",
           "source": "Google News SGV"
         },
         {
@@ -309,11 +309,15 @@
           "source": "Google News SGV"
         },
         {
+          "headline": "Editorial: Bring back the SAT for UC admission - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
           "headline": "Pomona Unified indicates Ganesha\u2019s top players will participate in Saturday\u2019s championship against Loyola - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "Editorial: Bring back the SAT for UC admission - San Gabriel Valley Tribune",
+          "headline": "\u2018Dig In\u2019 is the 2027 LA County Fair theme - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -329,12 +333,20 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel Valley Comedy Festival - Travel And Tour World",
+          "headline": "Monterey Park to take landmark vote on banning data centers ban - Los Angeles Times",
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel\u2019s Smith Park Pool Opens Saturday, June 6 - ColoradoBoulevard.net",
-          "source": "Google News SGV"
+          "headline": "Pasadena Unified Sends Off Class of 2026 in Five Ceremonies at Civic Auditorium",
+          "source": "Pasadena Now"
+        },
+        {
+          "headline": "Some Medi-Cal Dental Patients in Pasadena Face Coverage Loss on July 1",
+          "source": "Pasadena Now"
+        },
+        {
+          "headline": "All Saints Choirs Take On Beethoven and Vaughan Williams in Spring Concert",
+          "source": "Pasadena Now"
         },
         {
           "headline": "Facing Backlash After Military Exercise in Northeast Pasadena, City Says It Wasn\u2019t Fully Informed, Was Powerless to Control",
@@ -365,16 +377,16 @@
           "source": "Pasadena Now"
         },
         {
-          "headline": "Cameras Roll Through Pasadena\u2019s Sewers for First Time in Nearly Two Decades",
-          "source": "Pasadena Now"
+          "headline": "Pasadena Police Introduce K\u20119 Seeka as Edo Steps Down",
+          "source": "Colorado Blvd"
         },
         {
-          "headline": "Results, Referrals, Rewards, Repeat \u2014 Pasadena Chamber Offers a Free Hour of Customer-Service Secrets",
-          "source": "Pasadena Now"
+          "headline": "LA County Launches First Interactive Map of Oil, Gas, and Industrial Sites",
+          "source": "Colorado Blvd"
         },
         {
-          "headline": "City Bucket Truck Crews Tackle Graffiti High on Pasadena\u2019s Century-Old Holly Street Bridge",
-          "source": "Pasadena Now"
+          "headline": "Kipke: Measure SP Vote Shows Confidence in South Pasadena Schools",
+          "source": "Colorado Blvd"
         },
         {
           "headline": "Pasadena\u2019s Tail Towns Cat Caf\u00e9 Throws a Kitty Carnival for Rescues",
@@ -413,16 +425,44 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Pasadena\u2019s 24th Annual Police Car Show Returns to City Hall on June 6",
-          "source": "Colorado Blvd"
+          "headline": "Police chasing possible carjacking suspect in a pickup truck in Los Angeles",
+          "source": "ABC7"
         },
         {
-          "headline": "[Updated] Military Training Exercise in Northeast Pasadena Draws Questions Over Late Public Notice",
-          "source": "Colorado Blvd"
+          "headline": "One year after immigration raids sparked clashes, chaos and backlash, SoCal faces lasting impact",
+          "source": "ABC7"
         },
         {
-          "headline": "Amber Alert Carjacking Suspect Caught Hiding in Alhambra Carport",
-          "source": "Colorado Blvd"
+          "headline": "Robbery suspect dies after police chase, shooting on 405 Freeway in Playa Vista; NB lanes closed",
+          "source": "ABC7"
+        },
+        {
+          "headline": "All lanes reopened on 5 Freeway in Commerce after report of shooting, CHP says",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Virginia man gets life in prison for double murder scheme in affair with Brazilian au pair",
+          "source": "ABC7"
+        },
+        {
+          "headline": "ABC7 anchor David Ono surprised on TV with Emmy Governors Award",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Homicide convictions reversed for Colorado paramedics who injected ketamine into Elijah McClain",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Chase suspect dies, passenger hospitalized after chase involving Anaheim police ends in crash",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Prosecutor tells jury that teen's killing at a Texas track meet was murder, not self-defense",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Actor Anthony Head, known for 'Buffy the Vampire Slayer,' has died at 72",
+          "source": "ABC7"
         },
         {
           "headline": "'Best of the World' with Antoni Porowski highlights global connections",
@@ -433,15 +473,7 @@
           "source": "ABC7"
         },
         {
-          "headline": "Actor Anthony Head, known for 'Buffy the Vampire Slayer,\" has died at 72",
-          "source": "ABC7"
-        },
-        {
           "headline": "Warm weather continues in SoCal ahead of weekend cooldown",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Robbery suspect dies after police chase, shooting on 405 Freeway in Playa Vista; NB lanes closed",
           "source": "ABC7"
         },
         {
@@ -461,10 +493,6 @@
           "source": "ABC7"
         },
         {
-          "headline": "One year after immigration raids sparked clashes, chaos and backlash, SoCal faces lasting impact",
-          "source": "ABC7"
-        },
-        {
           "headline": "New details released after United plane flew 15 feet above New Jersey Turnpike, striking pole, truck, NTSB report says",
           "source": "ABC7"
         },
@@ -474,34 +502,6 @@
         },
         {
           "headline": "El Monte restaurant owner helps save choking customer",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Kars4Kids jingle can remain on airwaves in California after appeals court ruling",
-          "source": "ABC7"
-        },
-        {
-          "headline": "House fire near Reseda becomes crime scene after man found with a gun",
-          "source": "ABC7"
-        },
-        {
-          "headline": "After waiting 90 minutes, Bay Area mom and baby leave ER before treatment. Then came a $4.9K bill.",
-          "source": "ABC7"
-        },
-        {
-          "headline": "'Camp Rock 3' unveils new clip alongside CMA Fest activation experience in Nashville",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Who's winning the Los Angeles mayor race? See live election results below",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Victim in fatal Tarzana stabbing identified as actor James Handy; girlfriend's son arrested",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Meet the Los Angeles family redefining what a 'traditional family' looks like",
           "source": "ABC7"
         }
       ],
@@ -520,17 +520,17 @@
         "11": true,
         "12": true,
         "13": true,
-        "14": false,
-        "15": false,
-        "16": true,
+        "14": true,
+        "15": true,
+        "16": false,
         "17": true,
-        "18": false,
+        "18": true,
         "19": true,
         "20": true,
         "21": true,
         "22": true,
         "23": true,
-        "24": false,
+        "24": true,
         "25": true,
         "26": true,
         "27": true,
@@ -538,18 +538,18 @@
         "29": true,
         "30": true,
         "31": false,
-        "32": false,
+        "32": true,
         "33": true,
         "34": true,
         "35": false,
-        "36": false,
-        "37": false,
-        "38": true,
-        "39": true
+        "36": true,
+        "37": true,
+        "38": false,
+        "39": false
       }
     },
     "county": {
-      "summary": "- Carcinogen from LA fire cleanup may have spread up to 9 miles downwind\n- Nearly 1 million votes remain to be counted in LA and OC\n- Federal immigration raids in LA started a year ago, left permanent mark\n- 405 Freeway shooting: Suspect dead after robbery, LAPD chase near LAX",
+      "summary": "- Nearly 1 million votes remain uncounted in LA and Orange County\n- Federal immigration raids in LA left permanent marks on communities\n- DACA renewal delays forcing LAPD officers to resign and surrender badges\n- LA mayor race: Can Raman overtake Pratt to challenge Bass?",
       "headlines": [
         {
           "headline": "California youth on track to make up a larger share of 2026 primary electorate",
@@ -560,7 +560,11 @@
           "source": "LAist"
         },
         {
-          "headline": "Carcinogen from LA fire cleanup may have spread up to 9 miles downwind, study shows",
+          "headline": "Orange County agency postpones toxic chemical cleanup in Garden Grove",
+          "source": "LAist"
+        },
+        {
+          "headline": "Feds investigating an LA gang allege one of its leaders worked as a city \u2018peace ambassador\u2019",
           "source": "LAist"
         },
         {
@@ -569,10 +573,6 @@
         },
         {
           "headline": "Nearly 1 million votes remain to be counted in LA and OC",
-          "source": "LAist"
-        },
-        {
-          "headline": "LA passes plan for new \u2018low-rise\u2019 housing, delaying state law that aims higher",
           "source": "LAist"
         },
         {
@@ -620,6 +620,10 @@
           "source": "LAist"
         },
         {
+          "headline": "California gubernatorial candidate Steve Hilton says he believes Joe Biden won the 2020 election",
+          "source": "LAist"
+        },
+        {
           "headline": "Five SoCal races we're watching as the vote count trickles in",
           "source": "LAist"
         },
@@ -628,11 +632,11 @@
           "source": "LAist"
         },
         {
-          "headline": "In race for LA mayor, second place counts. Can Raman overtake Pratt to face Bass in November?",
-          "source": "LAist"
+          "headline": "LIVE: Police chase underway in Los Angeles County",
+          "source": "Fox 11 LA"
         },
         {
-          "headline": "405 Freeway shooting: Suspect dead after robbery, LAPD chase near LAX",
+          "headline": "405 Freeway closure triggers gridlock near LAX; multi-hour delays expected after LAPD shooting",
           "source": "Fox 11 LA"
         },
         {
@@ -660,7 +664,7 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "13 arrested in federal drug bust at MacArthur Park in Los Angeles",
+          "headline": "'Top Gun: Maverick' actor James Handy ID'd as victim in deadly Reseda stabbing",
           "source": "Fox 11 LA"
         },
         {
@@ -692,7 +696,7 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "California primary election 2026: Voters head to polls as closing time nears",
+          "headline": "Arkansas sheriff candidate who killed daughter's accused abuser to not face murder charge",
           "source": "Fox 11 LA"
         },
         {
@@ -700,59 +704,55 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Kennedy Center begins scrubbing Trump\u2019s name following federal court ruling",
+          "headline": "172,000 jobs added in May as US job market remains resilient despite Iran war",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Preliminary 3.8-magnitude earthquake strikes near Las Vegas, USGS says",
+          "headline": "Senate passes $70 billion immigration enforcement bill, sending measure to House",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "College graduate who lost both legs during Carnival shore excursion files lawsuit",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Multi-Vehicle Crash Involving Two Big Rigs on 210 Freeway",
+          "headline": "Blaze Near Hemet Chars Nearly 17 Acres, 90% Contained",
           "source": "MyNewsLA"
         },
         {
-          "headline": "US Attorney Essayli Probes into Unspecified Alleged Election Fraud",
+          "headline": "LA County Launches Interactive Map of Hazardous Sites",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Tarzana Authorities Launch Investigation into Fatal Stabbing of Actor James Handy",
+          "headline": "Judge Dismisses Murder Indictment Against Ex-LAPD Officer",
           "source": "MyNewsLA"
         },
         {
-          "headline": "World\u2019s First AI Art Museum to Preview Ahead of DTLA Opening",
+          "headline": "County Fire Engine, Sedan Collide at Hemet Intersection, Causing Injuries",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Dinosaurs at Descanso Railroad!",
+          "headline": "Santa Monica Man Pleads Guilty to Harassing ICE Lawyer Online",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LAPD Guns Down Suspect on 405 During Pursuit",
+          "headline": "Two Treated at Scene of Dryer Fire in Canoga Park",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Businessman Denied Bail in Iran Sanctions Violations Case",
+          "headline": "Coachella Shelves Proposed Data Center, Enacts Moratorium on Projects",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Powerball Jackpot Rises to $212M",
+          "headline": "Blaze in San Bernardino National Forest Scorches Several Acres",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Meta, YouTube Seek New Trial in Bellwether in Addiction Liability Case",
+          "headline": "Removal of Toxic Chemicals from Garden Grove Tanks Delayed",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Sepulveda Pass to Implement Lane Reductions, Ramp Closures",
+          "headline": "World Cup Retailers Open Across LA",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Powerball Jackpot Rises to $212 Million",
+          "headline": "Riverside Community Meeting on Proposed Rehab of Historic Home Set Saturday",
           "source": "MyNewsLA"
         },
         {
@@ -764,7 +764,15 @@
           "source": "Google News LA"
         },
         {
-          "headline": "*UPD FOUND* #LASD is Advising At-Risk Missing Person, Darrel Felarca Carpio, has been #Found #Lakewood Los Angeles County Sheriff's Department Missing Person Unit advises Derrel Felarca Carpio has been found. Thank you to the public, the media, - facebook.com",
+          "headline": "New tool makes LA County\u2019s heat illness data public for the first time \u2014 and more UCLA media - Newsroom | UCLA",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "*UPD FOUND* #LASD is Advising At-Risk Missing Person, Darrel Felarca Carpio, has been #Found #Lakewood Los Angeles County Sheriff's Department Missing Person Unit advises Derrel Felarca Carpio has been found. Thank you to the public, the media, - Facebook",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LA County Launches Interactive Map of Hazardous Sites - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
@@ -776,11 +784,15 @@
           "source": "Google News LA"
         },
         {
-          "headline": "New tool makes LA County\u2019s heat illness data public for the first time \u2014 and more UCLA media - Newsroom | UCLA",
+          "headline": "Los Angeles Limo Car Service Addresses the Ground Transportation Gap at California's Busiest Airports - EIN News",
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles weather: High temperatures continue in Southern California Friday ahead of weekend cooldown - ABC7 Los Angeles",
+          "headline": "Jury awards $176M for wrongful deaths of young brothers struck by California socialite\u2019s car - myMotherLode.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Trump DOJ says it\u2019s probing California elections amid baseless fraud claims - Democracy Docket",
           "source": "Google News LA"
         },
         {
@@ -788,23 +800,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Man Killed in Littlerock Identified by County Authorities - MyNewsLA.com",
+          "headline": "Los Angeles County Sheriff\u2019s Department Missing Persons Detail is asking for the public\u2019s help locating At-Risk Missing Person, Antonio Constanza Martinez who was last seen on June 3, 2026, at approximately 6:20 pm, on the 14400 block of Olive View Drive - Facebook",
           "source": "Google News LA"
         },
         {
-          "headline": "Mar\u00eda Elena Durazo declares victory in race to succeed Hilda Solis on LA County Board of Supervisors - LA Local",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles multifamily sales activity picks up entering 2026 - Northmarq",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Altadena Community Center to Reopen Saturday With Free \u2018New Beginnings\u2019 Open House Los Angeles County Fifth District Supervisor Kathryn Barger and the Los Angeles County Department of Consumer and Business Affairs will host a free community ope - facebook.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles County Sheriff\u2019s Department Missing Persons Detail is asking for the public\u2019s help locating At-Risk Missing Person, Antonio Constanza Martinez who was last seen on June 3, 2026, at approximately 6:20 pm, on the 14400 block of Olive View Drive - facebook.com",
+          "headline": "Los Angeles weather: High temperatures continue in Southern California Friday ahead of weekend cooldown - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -816,11 +816,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles mayor race: Live election results and updates on front runners Karen Bass, Nithya Raman, Spencer Pratt - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "State Bar targets DTLA Law Group leaders in expanding multistate practice case - Daily Journal",
+          "headline": "Mar\u00eda Elena Durazo declares victory in race to succeed Hilda Solis on LA County Board of Supervisors - LA Local",
           "source": "Google News LA"
         },
         {
@@ -833,6 +829,10 @@
         },
         {
           "headline": "Real-Time Results: LA County Primary Election 2026 - Patch",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Proposed Half-Cent LA County Sales Tax for Healthcare Falling Short - MyNewsLA.com",
           "source": "Google News LA"
         }
       ],
