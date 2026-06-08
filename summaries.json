@@ -1,10 +1,14 @@
 {
-  "generated": "2026-06-07T20:06:13.609979+00:00",
-  "briefing": "12 PM",
+  "generated": "2026-06-08T03:42:24.610611+00:00",
+  "briefing": "5 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Grow Monrovia pushes city to hire arborist, expand tree protections\n- Frontier Communications outage leaves some Monrovia customers without service one month\n- Police warn residents about catalytic converter thefts across Monrovia\n- Wildfire evacuation workshop scheduled June 22 at library",
+      "summary": "- Frontier Communications outage leaves some Monrovia customers without service for month\n- Grow Monrovia petitions city to hire arborist, expand tree protections\n- Police report six catalytic converters stolen in single day citywide\n- Wildfire ecology and evacuation workshop scheduled for June 22",
       "headlines": [
+        {
+          "headline": "Talk on forefathers of Spiritualism on Father's Day",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Grow Monrovia petitioning for city to hire arborist and expand protections for trees",
           "source": "Monrovia Now"
@@ -82,10 +86,6 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "A Moment in Monrovia History:  Our second railway depot",
-          "source": "Monrovia Now"
-        },
-        {
           "headline": "Muir vs Monrovia Girls Tennis - Sep 29, 2026 - Sports Illustrated",
           "source": "Google News"
         },
@@ -122,10 +122,6 @@
           "source": "Google News"
         },
         {
-          "headline": "Monrovia vs Muir Boys Basketball - Jan 15, 2027 - Sports Illustrated",
-          "source": "Google News"
-        },
-        {
           "headline": "Monrovia vs La Canada Flag Football - Sep 16, 2026 - Sports Illustrated",
           "source": "Google News"
         },
@@ -134,19 +130,19 @@
           "source": "Patch Monrovia"
         },
         {
-          "headline": "Why Google Wants To Release 32M Mosquitoes Across CA",
+          "headline": "Iconic CA Burger Joint To Close 10 Restaurants And Sell Dozens More, Blaming $20 Minimum Wage",
           "source": "Patch Monrovia"
         },
         {
-          "headline": "E-Scooter Crashes Spark Questions About Rider Rules: Block Talk",
+          "headline": "Mysterious Death Of Missing Scientist Adds Intrigue To Scrutiny Of Top CA Scientists' Sudden Deaths",
           "source": "Patch Monrovia"
         },
         {
-          "headline": "How To Respond To Nosiness Without Being Rude [The Question]",
+          "headline": "Elephant-Sized Meteor Buzzes Earth: Weird News & Oddities",
           "source": "Patch Monrovia"
         },
         {
-          "headline": "These 10 CA Restaurants Named Among 50 Best In North America",
+          "headline": "High Grocery And Gas Prices Change What Americans Put On The Dinner Table",
           "source": "Patch Monrovia"
         },
         {
@@ -203,11 +199,11 @@
         }
       ],
       "relevance": {
-        "0": true,
+        "0": false,
         "1": true,
         "2": true,
-        "3": true,
-        "4": true,
+        "3": false,
+        "4": false,
         "5": true,
         "6": true,
         "7": true,
@@ -217,12 +213,12 @@
         "11": true,
         "12": true,
         "13": true,
-        "14": true,
+        "14": false,
         "15": true,
         "16": true,
         "17": false,
         "18": false,
-        "19": true,
+        "19": false,
         "20": false,
         "21": false,
         "22": false,
@@ -241,19 +237,19 @@
         "35": false,
         "36": false,
         "37": false,
-        "38": false,
+        "38": true,
         "39": true
       }
     },
     "sgv": {
-      "summary": "- 2 children rescued after chase with kidnapping suspect in San Gabriel Valley\n- Monterey Park voters approve permanent ban on data center development\n- West Covina names Milan Mrakich city manager, prioritizes staff communications\n- San Gabriel Valley high school softball playoffs begin this week",
+      "summary": "- 2 children rescued after kidnapping suspect chase in San Gabriel Valley\n- Stolen vehicle pursuits continue across San Gabriel Valley and county areas\n- Monterey Park voters approve permanent ban on data center development\n- San Gabriel Valley Habitat for Humanity named Assembly District 41 Nonprofit",
       "headlines": [
         {
-          "headline": "Driver of suspected stolen car in custody after pursuit ends in San Bernardino County - NBC Los Angeles",
+          "headline": "At least 2 children rescued after chase with reported kidnapping suspect ends in San Gabriel Valley - ABC7 Los Angeles",
           "source": "Google News SGV"
         },
         {
-          "headline": "At least 2 children rescued after chase with reported kidnapping suspect ends in San Gabriel Valley - ABC7 Los Angeles",
+          "headline": "Driver of suspected stolen car in custody after pursuit ends in San Bernardino County - NBC Los Angeles",
           "source": "Google News SGV"
         },
         {
@@ -273,19 +269,11 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel Valley high school softball finals previews, predictions - MSN",
+          "headline": "San Gabriel Valley high school softball finals previews, predictions - msn.com",
           "source": "Google News SGV"
         },
         {
           "headline": "Voters Deliver a First-of-Its-Kind Rejection of Data Centers - Governing",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "Data center developers ousted from Monterey Park as voters approve permanent ban - The Real Deal",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "Altadena Rotary is what happens when when you say \u2018service above self\u2019 - Pasadena Star News",
           "source": "Google News SGV"
         },
         {
@@ -321,11 +309,19 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "World Cup\u2019s economic expectations for the L.A. region wobble - San Gabriel Valley Tribune",
+          "headline": "\u2018Dig In\u2019 is the 2027 LA County Fair theme - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "SGV schedule for first round of regional baseball, softball playoffs - San Gabriel Valley Tribune",
+          "headline": "Monrovia residents lost landline phone service a month ago. They\u2019re waiting on help from Frontier. - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Data center developers ousted from Monterey Park as voters approve permanent ban - The Real Deal",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Altadena Rotary is what happens when when you say \u2018service above self\u2019 - Pasadena Star News",
           "source": "Google News SGV"
         },
         {
@@ -367,6 +363,10 @@
         {
           "headline": "Altadena Homeowners Can Meet Manufacturers Monday Ahead of Rebuild Push",
           "source": "Pasadena Now"
+        },
+        {
+          "headline": "Goats Were Supposed to Reduce Fire Risk In the Arroyo, But They May Have Made It Worse",
+          "source": "Colorado Blvd"
         },
         {
           "headline": "Pasadena Media Staff Member Selected for Key FIFA World Cup 2026 Role",
@@ -413,11 +413,39 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Pasadena Police Introduce K\u20119 Seeka as Edo Steps Down",
-          "source": "Colorado Blvd"
+          "headline": "Man, 2 children dead in apparent murder-suicide in Canoga Park, police say",
+          "source": "ABC7"
+        },
+        {
+          "headline": "5 injured in stabbing at New York City's Penn Station, fire officials say",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Broadway revivals and 'Liberation' win big at the Tony Awards, hosted by Pink",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Sir Ben Kingsley reveals what made 'Wonder Man' a fan-favorite Marvel series",
+          "source": "ABC7"
+        },
+        {
+          "headline": "At least 2 children rescued after chase with attempted kidnapping suspect ends in San Gabriel Valley",
+          "source": "ABC7"
+        },
+        {
+          "headline": "7.8-magnitude earthquake rocks the southern Philippines, causing damage, tsunami warning",
+          "source": "ABC7"
+        },
+        {
+          "headline": "SoCal man speaks out after surviving grizzly bear attack in Montana: 'I thought ... this is it'",
+          "source": "ABC7"
         },
         {
           "headline": "Israel says Iran launched missiles at it in 1st such bombardment since April ceasefire",
+          "source": "ABC7"
+        },
+        {
+          "headline": "DTLA residents and businesses say surge in graffiti is hurting city's image",
           "source": "ABC7"
         },
         {
@@ -426,10 +454,6 @@
         },
         {
           "headline": "Star-studded Race to Erase MS gala brings awareness, funding and hope",
-          "source": "ABC7"
-        },
-        {
-          "headline": "NorCal man speaks out after surviving grizzly bear attack in Montana: 'I thought ... this is it'",
           "source": "ABC7"
         },
         {
@@ -453,10 +477,6 @@
           "source": "ABC7"
         },
         {
-          "headline": "Vampires, literary monsters and a cake: The Tony Awards offer a number of intriguing, possible wins",
-          "source": "ABC7"
-        },
-        {
           "headline": "Penn State senior fatally shot near family's home; police seek suspects",
           "source": "ABC7"
         },
@@ -471,35 +491,11 @@
         {
           "headline": "WeHo Pride draws thousands for weekend street fair, music festival",
           "source": "ABC7"
-        },
-        {
-          "headline": "Police issue dispersal order after clashes at downtown LA anti-ICE protest",
-          "source": "ABC7"
-        },
-        {
-          "headline": "At least 2 children rescued after chase with reported kidnapping suspect ends in San Gabriel Valley",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Mindy Kaling, Paul Anthony Kelly, Thomas Doherty and Owen Thiele honored at Newport Beach TV Fest",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Woman arrested after throwing food at Chipotle worker in Santa Ana",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Homeowner shoots and kills armed intruder in San Jacinto, deputies say",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Kentucky Derby winner Golden Tempo crosses finish line first at Belmont Stakes",
-          "source": "ABC7"
         }
       ],
       "relevance": {
-        "0": false,
-        "1": true,
+        "0": true,
+        "1": false,
         "2": true,
         "3": true,
         "4": true,
@@ -507,7 +503,7 @@
         "6": true,
         "7": false,
         "8": true,
-        "9": false,
+        "9": true,
         "10": true,
         "11": true,
         "12": true,
@@ -517,7 +513,7 @@
         "16": true,
         "17": true,
         "18": true,
-        "19": true,
+        "19": false,
         "20": false,
         "21": false,
         "22": false,
@@ -530,33 +526,29 @@
         "29": false,
         "30": false,
         "31": false,
-        "32": true,
-        "33": false,
+        "32": false,
+        "33": true,
         "34": false,
         "35": false,
-        "36": true,
-        "37": false,
+        "36": false,
+        "37": true,
         "38": false,
         "39": false
       }
     },
     "county": {
-      "summary": "- City attorney delayed $177M tenant aid contract for months; LA leaders demand answers\n- SoFi Stadium workers authorize strike during World Cup matches\n- Federal immigration raids one year later still impacting LA communities\n- LA mayor's race: Raman surges, closes gap on Pratt for runoff",
+      "summary": "- LA mayor race: Raman passes Pratt in second-place slot quest\n- Measure ER too close to call; LA County resists tax increases\n- City attorney leaves $177M tenant aid contract unsigned for months\n- Federal immigration raids mark one year, leaving permanent community impact",
       "headlines": [
         {
-          "headline": "Take advantage of your kids\u2019 World Cup excitement with these family-friendly LA activities",
+          "headline": "LA mayor race: Raman passes Pratt in quest for second-place slot",
           "source": "LAist"
         },
         {
-          "headline": "Bats, bikes and cemeteries: What LA\u2019s nightlife looks like beyond the bars and clubs",
+          "headline": "Measure ER still too close to call; LA County race may signal growing resistance to tax increases",
           "source": "LAist"
         },
         {
-          "headline": "Where to eat near SoFi Stadium during the World Cup",
-          "source": "LAist"
-        },
-        {
-          "headline": "Visiting LA? Our public bathrooms are tricky to find but we\u2019ve got maps",
+          "headline": "The top-two primary was supposed to change California politics. Did it flop?",
           "source": "LAist"
         },
         {
@@ -565,6 +557,10 @@
         },
         {
           "headline": "Federal immigration raids in LA started a year ago. They left a permanent mark on many",
+          "source": "LAist"
+        },
+        {
+          "headline": "Take advantage of your kids\u2019 World Cup excitement with these family-friendly LA activities",
           "source": "LAist"
         },
         {
@@ -585,10 +581,6 @@
         },
         {
           "headline": "Feds investigating an LA gang allege one of its leaders worked as a city \u2018peace ambassador\u2019",
-          "source": "LAist"
-        },
-        {
-          "headline": "In race for LA mayor, Raman closes in on Pratt for second-place slot",
           "source": "LAist"
         },
         {
@@ -624,6 +616,22 @@
           "source": "LAist"
         },
         {
+          "headline": "House passes war powers resolution directing Trump to end hostilities with Iran",
+          "source": "LAist"
+        },
+        {
+          "headline": "Families mark one year since Ambiance Apparel immigration raid in Los Angeles",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "West Hollywood Pride draws thousands for Pride Month kickoff celebrations",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "LA mayor's race: Nithya Raman now leads Spencer Pratt for No. 2 spot in runoff election",
+          "source": "Fox 11 LA"
+        },
+        {
           "headline": "10-year-old boy, father killed in crash involving Cal Fire truck",
           "source": "Fox 11 LA"
         },
@@ -641,18 +649,6 @@
         },
         {
           "headline": "Official FIFA World Cup 2026 pop-up merch stores open across Southern California -- here's where",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "LA mayor's race: Nithya Raman surges, closes gap on Spencer Pratt for runoff spot",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "LA County gang member on parole sentenced for Ventura County fentanyl sales",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "1 dead, 4 hurt after driver intentionally drives into Riverside crowd, police say",
           "source": "Fox 11 LA"
         },
         {
@@ -688,27 +684,55 @@
           "source": "Fox 11 LA"
         },
         {
+          "headline": "Fireworks explode as box truck burns on Tennessee highway",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "New lawsuit challenges UFC event at White House on Trump\u2019s birthday",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Screwworms in Texas: What an infestation means for livestock, beef supply and the economy",
+          "source": "Fox 11 LA"
+        },
+        {
           "headline": "Treasury Department eyeing Iranian assets to help Gulf allies recover: reports",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Toledo festival shooting: Multiple people injured, suspects sought",
-          "source": "Fox 11 LA"
+          "headline": "Rescuers Save Man Trapped 20 Feet Down Shaft",
+          "source": "MyNewsLA"
         },
         {
-          "headline": "National Park Service ranger dies while on patrol at Mount McKinley",
-          "source": "Fox 11 LA"
+          "headline": "Firefighters Knock Down Blaze in Garage of West Adams Home",
+          "source": "MyNewsLA"
         },
         {
-          "headline": "TrumpRx list expanded again and tops 800 drugs, president says",
-          "source": "Fox 11 LA"
+          "headline": "Firefighters Battle Blaze in Garage of West Adams Home",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Rescuers Try to Save Person Trapped 20 Feet Down Shaft",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Raman Takes Over 2nd Place; Feds Investigating California\u2019s Primary",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Firefighters Battle Residential Fire in Wilmington",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Man Wanted for Allegedly Assaulting Orange County Sheriff Arrested in Murrieta",
+          "source": "MyNewsLA"
         },
         {
           "headline": "Raman Closing on Pratt: U.S. Investigating California\u2019s Primary",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Warming Trend Expected This Week in Inland Empire",
+          "headline": "`Scary Movie\u2019 Opens with $55 Million to Lead Box Office",
           "source": "MyNewsLA"
         },
         {
@@ -720,34 +744,6 @@
           "source": "MyNewsLA"
         },
         {
-          "headline": "LB Bus Driver Settles Suit Over Alleged Indecent Exposure by Rider",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Raman Closing on Pratt: U.S. Investigating California\u2019s Primary",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Judge Orders Mediation in Suit Alleging Projectile Injury on No Kings Day",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Man Suffers Non-Life-Threatening Stab Wound in Long Beach",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Southland Gas Prices at Lowest Level in Over Two Months",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "`Scary Movie\u2019 Opens with $55 Million to Lead Box Office",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Three Stabbed in Gang-Related Fight at San Clemente Pier",
-          "source": "MyNewsLA"
-        },
-        {
           "headline": "Will gender ideology again trump religious freedom in California? - Catholic World Report",
           "source": "Google News LA"
         },
@@ -756,23 +752,23 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Fire Station 46 Groundbreaking Ceremony - Fire Department - Los Angeles County (.gov)",
+          "headline": "Federal Prosecutors Open Election Fraud Probe Into California\u2019s Voting System - foreignpolicyjournal.com",
           "source": "Google News LA"
         },
         {
-          "headline": "New tool makes LA County\u2019s heat illness data public for the first time \u2014 and more UCLA media - Newsroom | UCLA",
+          "headline": "Riverside County deputies arrest kidnapping suspect after lengthy pursuit into Los Angeles County - msn.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles mayor race: Live election results and updates on front runners Karen Bass, Nithya Raman, Spencer Pratt - ABC7 Los Angeles",
+          "headline": "One Year After June 6 ICE Raids in Los Angeles, Assembly Democrats and California continue to Lead Nation in Holding Trump Accountable - Assembly Speaker Robert Rivas",
           "source": "Google News LA"
         },
         {
-          "headline": "3420 12th Ave Unit 1/2, Los Angeles, CA 90018 - Realtor.com",
+          "headline": "22829 Burbank Blvd, Los Angeles, CA 91367 - Realtor.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Riverside County deputies arrest kidnapping suspect after lengthy pursuit into Los Angeles County - MSN",
+          "headline": "L.A. mayoral race voter fraud claim gets debunked \u2013 by Trump\u2019s Justice Department - Democracy Docket",
           "source": "Google News LA"
         },
         {
@@ -780,7 +776,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "A Legacy of Giving: Roberta Stone\u2019s Commitment to Fighting Hunger in Los Angeles County - Los Angeles Regional Food Bank",
+          "headline": "US Attorney Opens Investigations Into California's Elections, Sends Prosecutor to LA Vote Center - U.S. News & World Report",
           "source": "Google News LA"
         },
         {
@@ -788,23 +784,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Woman, 20, Goes Missing in Willowbrook Area of LA County - MyNewsLA.com",
-          "source": "Google News LA"
-        },
-        {
           "headline": "*UPD FOUND* #LASD is Advising At-Risk Missing Person, Darrel Felarca Carpio, has been #Found #Lakewood Los Angeles County Sheriff's Department Missing Person Unit advises Derrel Felarca Carpio has been found. Thank you to the public, the media, - facebook.com",
           "source": "Google News LA"
         },
         {
-          "headline": "US Attorney Opens Investigations Into California's Elections, Sends Prosecutor to LA Vote Center - U.S. News & World Report",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "At least 2 children rescued after chase with reported kidnapping suspect ends in San Gabriel Valley - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Raman Continues to Narrow Gap in Pratt\u2019s Lead for LA Mayor Runoff Spot - MyNewsLA.com",
+          "headline": "Woman, 20, Goes Missing in Willowbrook Area of LA County - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
@@ -812,7 +796,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "LA County Launches Interactive Map of Hazardous Sites - MyNewsLA.com",
+          "headline": "3420 12th Ave Unit 1/2, Los Angeles, CA 90018 - Realtor.com",
           "source": "Google News LA"
         },
         {
@@ -820,11 +804,23 @@
           "source": "Google News LA"
         },
         {
+          "headline": "At least 2 children rescued after chase with reported kidnapping suspect ends in San Gabriel Valley - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
           "headline": "K-9 ends wild chase with suspect in stolen pickup truck from Fontana to Lynwood - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "Tiny homes see tiny boost for Los Angeles homeless as World Cup nears - Arab News",
+          "headline": "Military training operations continue in Los Angeles County neighborhoods - msn.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Brush Fire Straddling Los Angeles-Kern County Line Burns 1,600 Acres - MyNewsLA.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "82 years ago today, Americans and our Allied counterparts set foot on the sandy shores of Normandy, France in the largest seaborne invasion in history. On a beach fraught with violence from German soldiers deeply embedded in the coastline, thousands of m - facebook.com",
           "source": "Google News LA"
         }
       ],
