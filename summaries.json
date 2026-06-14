@@ -1,10 +1,14 @@
 {
-  "generated": "2026-06-14T16:26:54.744861+00:00",
-  "briefing": "8 AM",
+  "generated": "2026-06-14T20:14:29.208108+00:00",
+  "briefing": "12 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Monrovia 3-year-old wins first-ever Gerber Get'ems national competition\n- Arthur Blair Historic Inn grand opening July 4\n- Fire breaks out on Santa Anita Wash\n- Road work continues on Huntington and Myrtle through June",
+      "summary": "- Missing person Reginald Provost sought by Monrovia Police\n- Monrovia 3-year-old wins first-ever Gerber Get'ems award\n- Arthur Blair Historic Inn opens July 4 in Monrovia\n- Fire breaks out on Santa Anita Wash area",
       "headlines": [
+        {
+          "headline": "Missing person - Reginald Provost",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Monrovia 3-Year-Old Named First-Ever 'Gerber Get\u2019ems' Winner",
           "source": "Monrovia Now"
@@ -82,10 +86,6 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Smoothie Social at the Library for children, June 15",
-          "source": "Monrovia Now"
-        },
-        {
           "headline": "George Boravich \u2013 Monrovia, CA \u2013 March 9, 1955 ~ May 19, 2026 - Upper Michigan's Source",
           "source": "Google News"
         },
@@ -154,7 +154,7 @@
           "source": "Patch Monrovia"
         },
         {
-          "headline": "World Cup 2026: 10 Ways CA Helped Shape Soccer History",
+          "headline": "Cheese Linked To Multistate Listeria Outbreak: Recall Roundup",
           "source": "Patch Monrovia"
         },
         {
@@ -162,11 +162,11 @@
           "source": "Patch Monrovia"
         },
         {
-          "headline": "What To Watch This Weekend: 'Disclosure Day,' 'Stop! That! Train!,' 'The Furious,' And 'The Vampire Lestat'",
+          "headline": "'Disclosure Day' Review: Steven Spielberg Returns To UFO Mystery With A Humanist Sci\u2011Fi Thriller",
           "source": "Patch Monrovia"
         },
         {
-          "headline": "El Ni\u00f1o 'Imminent,' Could Reshape Weather Patterns. Here\u2019s What It Means For CA",
+          "headline": "What To Watch This Weekend: 'Disclosure Day,' 'Stop! That! Train!,' 'The Furious,' And 'The Vampire Lestat'",
           "source": "Patch Monrovia"
         },
         {
@@ -174,11 +174,11 @@
           "source": "Patch Monrovia"
         },
         {
-          "headline": "How To Correct Bad Manners Without Being Rude Yourself [The Question]",
+          "headline": "Major Pizza Chain Shutters Locations Nationwide, Including In CA",
           "source": "Patch Monrovia"
         },
         {
-          "headline": "Rescued Black Bear Gets New Home + Life-Changing Jackpot + Restaurant Week Returns: Saturday Smiles",
+          "headline": "How To Correct Bad Manners Without Being Rude Yourself [The Question]",
           "source": "Patch Monrovia"
         },
         {
@@ -231,25 +231,25 @@
         }
       ],
       "relevance": {
-        "0": true,
+        "0": false,
         "1": true,
         "2": true,
         "3": true,
         "4": true,
         "5": true,
         "6": true,
-        "7": false,
+        "7": true,
         "8": false,
-        "9": true,
+        "9": false,
         "10": true,
         "11": true,
         "12": true,
         "13": true,
-        "14": true,
-        "15": true,
+        "14": false,
+        "15": false,
         "16": true,
-        "17": false,
-        "18": true,
+        "17": true,
+        "18": false,
         "19": true,
         "20": false,
         "21": false,
@@ -274,7 +274,7 @@
       }
     },
     "sgv": {
-      "summary": "- Fatal shooting during child custody exchange in San Gabriel Valley\n- Four affordable housing projects secure $25M in regional funding\n- Two children rescued after attempted kidnapping suspect chase ends\n- Fireworks and drugs seized during DEA operation in SGV",
+      "summary": "- Fatal shooting during child custody exchange in San Gabriel Valley\n- Four affordable housing projects secure $25M in SGV funding\n- Two children rescued after attempted kidnapping chase in SGV\n- DEA seizes fireworks and drugs from SGV property",
       "headlines": [
         {
           "headline": "LA Varsity: High School Sports in the San Gabriel Valley - San Gabriel Valley Tribune",
@@ -313,10 +313,6 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "SGV Connect 148: World Cup, 6-7 Edition - Streetsblog Los Angeles",
-          "source": "Google News SGV"
-        },
-        {
           "headline": "Fireworks and drugs seized from property in San Gabriel Valley during operation, DEA says - CBS News",
           "source": "Google News SGV"
         },
@@ -342,6 +338,10 @@
         },
         {
           "headline": "Senior Moments: How friendship brightens our lives and gardens - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Election Results 2026: With \u2018vast\u2019 number of ballots cast, race for La Canada Flintridge City Council seat holds steady - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -445,6 +445,34 @@
           "source": "Colorado Blvd"
         },
         {
+          "headline": "Hollywood kicks off the LA Pride Parade and Pride Village",
+          "source": "ABC7"
+        },
+        {
+          "headline": "12 dead in crash of plane on skydiving outing in Missouri, authorities say",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Trump turns 80 with a showstopping spectacle of cage fights at the White House. But big issues loom",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Fire breaks out at Spencer Pratt's campaign office in Pacific Palisades",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Mexican police investigate body found outside Tijuana stadium where Iran prepares for World Cup",
+          "source": "ABC7"
+        },
+        {
+          "headline": "'Spider-Man of Yemen' dies in fall while climbing volcanic crater",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Lanes reopen on NB 5 Freeway after deadly car crash in Pacoima area",
+          "source": "ABC7"
+        },
+        {
           "headline": "Camp Pendleton breach during pursuit leads to over 112 pounds of cocaine, fentanyl seized",
           "source": "ABC7"
         },
@@ -453,15 +481,7 @@
           "source": "ABC7"
         },
         {
-          "headline": "Several lanes of northbound 5 Freeway shut down after deadly car crash in Pacoima area",
-          "source": "ABC7"
-        },
-        {
           "headline": "SoCal heats up: Sunny, very warm weekend arrives",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Trump turns 80 with a showstopping spectacle of cage fights at the White House. But big issues loom",
           "source": "ABC7"
         },
         {
@@ -503,26 +523,6 @@
         {
           "headline": "Veteran New York TV anchor reveals Alzheimer's diagnosis, steps away from the news desk",
           "source": "ABC7"
-        },
-        {
-          "headline": "Altadena neighbors step up to clear overgrown lots: 'I want to see my community come back'",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Baldwin Hills Elementary students go viral with Michael Jackson tribute dance",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Garden Grove veteran and beloved toymaker celebrates 101st birthday",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Trial of former Uvalde school police chief set for February",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Trump's name removed from Kennedy Center following court order: DOJ",
-          "source": "ABC7"
         }
       ],
       "relevance": {
@@ -535,14 +535,14 @@
         "6": true,
         "7": true,
         "8": true,
-        "9": false,
+        "9": true,
         "10": true,
         "11": true,
         "12": true,
         "13": true,
-        "14": true,
-        "15": false,
-        "16": false,
+        "14": false,
+        "15": true,
+        "16": true,
         "17": false,
         "18": false,
         "19": true,
@@ -561,15 +561,15 @@
         "32": true,
         "33": false,
         "34": false,
-        "35": false,
-        "36": false,
+        "35": true,
+        "36": true,
         "37": false,
         "38": false,
-        "39": false
+        "39": true
       }
     },
     "county": {
-      "summary": "- HUD suspends federal funding to LA homelessness agency LAHSA amid fraud probe\n- Homicides declining in LA but shooting deaths of unhoused people remain disproportionately high\n- Dangerous king tides prompt flooding, high surf warnings across Southern California\n- Historic 'Godzilla' El Ni\u00f1o forms: Southern California warned of volatile winter ahead",
+      "summary": "- HUD suspends federal funding to LA homelessness agency LAHSA amid fraud probe\n- More than 250 tax-funded LA apartments sit empty under homelessness strategy\n- FBI seizes drones near SoFi Stadium and Coliseum during World Cup\n- Dangerous king tides prompt flooding, high surf warnings across Southern California",
       "headlines": [
         {
           "headline": "Why the 1986 World Cup was a turning point for me",
@@ -580,7 +580,7 @@
           "source": "LAist"
         },
         {
-          "headline": "The US dazzles in its World Cup opener in LA, dominating Paraguay 4-1",
+          "headline": "FBI seizes drones near SoFi Stadium and the Coliseum during the World Cup",
           "source": "LAist"
         },
         {
@@ -600,15 +600,15 @@
           "source": "LAist"
         },
         {
-          "headline": "LAUSD takes Cesar Chavez's name off two schools following community votes",
-          "source": "LAist"
-        },
-        {
-          "headline": "El Ni\u00f1o is here. What that means for fire season in Southern California",
+          "headline": "Justice Dept. approves Paramount's acquisition of Warner Bros. Discovery",
           "source": "LAist"
         },
         {
           "headline": "More than 250 tax-funded LA apartments sit empty under key Mayor Bass homelessness strategy",
+          "source": "LAist"
+        },
+        {
+          "headline": "4 things to know about the new sunscreen ingredient the FDA approved",
           "source": "LAist"
         },
         {
@@ -716,6 +716,10 @@
           "source": "Fox 11 LA"
         },
         {
+          "headline": "11 skydivers, pilot die in Missouri plane crash, troopers say",
+          "source": "Fox 11 LA"
+        },
+        {
           "headline": "President Trump's name removed from Kennedy Center - but it's hard to see that",
           "source": "Fox 11 LA"
         },
@@ -728,56 +732,48 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "FDA approves emergency use of medication to treat screwworm in dogs, cats",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Riverside County Gas Prices Drop For 24th Time in 25 Days",
+          "headline": "Police Say Man Ran Over, Killed Victim in Orange",
           "source": "MyNewsLA"
         },
         {
-          "headline": "One Killed in Multi-Vehicle Crash on 5 Freeway in Pacoima",
+          "headline": "Four Indio Registered Sex Offenders Allegedly Out of Compliance",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Firefighters Knock Down Second-Alarm Fire At El Monte Commercial Building",
+          "headline": "Fire Damages Two-Story ADU Behind Home in Atwater Village Area",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Hollywood Celebrates LA Pride with Parade, Community Festival",
+          "headline": "UC Riverside Names New Chief Communications Officer",
           "source": "MyNewsLA"
         },
         {
-          "headline": "FIFA Fan Fest Concludes at Coliseum",
+          "headline": "Volleyball Association Will Remain Part of Women\u2019s Sexual Abuse Lawsuit",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Fatal Crash on Freeway in Pacoima",
+          "headline": "Police Investigate Shooting in Long Beach",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Viacom/Paramount Alleges Abuse by Former Employee Suing Company",
+          "headline": "`Disclosure Day\u2019 Opens with $44 Million to Lead Box Office",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Palmdale Issues Evacuations as Brushfire Rages",
+          "headline": "Mecca Shooting Suspect Arrested in Sky Valley",
           "source": "MyNewsLA"
         },
         {
-          "headline": "No Winners Claim All Six SuperLotto Plus Numbers",
+          "headline": "Southland Gas Prices at Lowest Levels Since Mid-March",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Car Crashes Into Fire Hydrant in MoVal Leaving Four Injured",
+          "headline": "`Disclosure Day\u2019 Opens with $44 Million to Lead Box Office",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Three LACo Rec Centers to Host World Cup Viewing Parties",
+          "headline": "Abuse Settlement Victims Oppose DA\u2019s Bid for Temporary Hold on Payouts",
           "source": "MyNewsLA"
-        },
-        {
-          "headline": "Los Angeles weather: Warm conditions on tap for weekend in Southern California - ABC7 Los Angeles",
-          "source": "Google News LA"
         },
         {
           "headline": "Trump administration blocks federal homelessness funds in Los Angeles - CalMatters",
@@ -788,11 +784,19 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Homicide Detectives from the Los Angeles County Sheriff\u2019s Department are seeking assistance with information regarding the murder of Danny Daron Polk. On June 6, 2026, at approximately 8:30 p.m., Danny Daron Polk, MB/43, was stabbed multiple times in - facebook.com",
+          "headline": "Los Angeles weather: Warm conditions on tap for weekend in Southern California - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Abuse Settlement Victims Oppose DA\u2019s Bid for Temporary Hold on Payouts - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
           "headline": "Horvath Responds To Trump Admin's Homeless Funding Attacks - COUNTY OF LOS ANGELES (.gov)",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Homicide Detectives from the Los Angeles County Sheriff\u2019s Department are seeking assistance with information regarding the murder of Danny Daron Polk. On June 6, 2026, at approximately 8:30 p.m., Danny Daron Polk, MB/43, was stabbed multiple times in - facebook.com",
           "source": "Google News LA"
         },
         {
@@ -804,15 +808,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Miles Williams Died At North County Correctional Facility In Los Angeles - Carrazco Law",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Hand grenade recovered after about 3 blocks of Compton homes evacuated, Los Angeles County sheriff's department says - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
           "headline": "SCV News | July 1: Minimum Wage Increases to $18.47/Hour in Unincorporated L.A. County - SCVNews.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Miles Williams Died At North County Correctional Facility In Los Angeles - Carrazco Law",
           "source": "Google News LA"
         },
         {
@@ -820,19 +820,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Trump officials cut federal funds to LA homeless services agency - The Guardian",
-          "source": "Google News LA"
-        },
-        {
           "headline": "Los Angeles County Sheriff\u2019s Department investigators are asking for the public\u2019s help locating Critical Missing Juvenile, Gabriel Israel Rodriguez. He is a 14-year-old male Hispanic, who was last seen on Thursday June 11, 2026, at 7:00 p. m., on the 9500 blo - facebook.com",
           "source": "Google News LA"
         },
         {
-          "headline": "LA County DA Nathan Hochman calls for delay in sex abuse settlement payments - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Jason Roman Died After Stay At Men\u2019s Central Jail In Los Angeles - Carrazco Law",
+          "headline": "Hand grenade recovered after about 3 blocks of Compton homes evacuated, Los Angeles County sheriff's department says - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -840,7 +832,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Juvenile fatally shot during altercation near Chick-fil-A in Cerritos, Los Angeles County deputies say - ABC7 Los Angeles",
+          "headline": "LA County DA Nathan Hochman calls for delay in sex abuse settlement payments - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -848,11 +840,19 @@
           "source": "Google News LA"
         },
         {
+          "headline": "Juvenile fatally shot during altercation near Chick-fil-A in Cerritos, Los Angeles County deputies say - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
           "headline": "Lemon Fire updates: Fire crews make progress on brush fire that triggered evacuations for residents near Palmdale - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "County Tax Measures Show Limits of Local Responses to Medicaid Cuts - Capital & Main",
+          "headline": "Trump officials cut federal funds to LA homeless services agency - The Guardian",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Spencer Pratt concedes LA mayor race, but declares \u2018war\u2019 against advancing candidates | Los Angeles - The Guardian",
           "source": "Google News LA"
         }
       ],
