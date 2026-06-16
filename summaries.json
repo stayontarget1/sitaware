@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-16T18:55:41.144867+00:00",
+  "generated": "2026-06-16T21:38:14.465765+00:00",
   "briefing": "12 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Fire breaks out on Santa Anita Wash in Monrovia area\n- City to consider buying two new fire trucks\n- Monrovia elementary schools may each get Samson bear sculpture\n- Library hosting induction cooking and wildfire preparedness workshops",
+      "summary": "- Fire breaks out on Santa Anita Wash, containment ongoing\n- Monrovia elementary schools may each get 'Samson' bear sculpture\n- City considering purchase of two new fire trucks\n- Library hosting induction cooking workshop June 20, wildfire prep June 22",
       "headlines": [
         {
           "headline": "Lovable Regan is a wiggly, smiling pit bull who may also be a World Cup fan",
@@ -106,10 +106,6 @@
           "source": "Google News"
         },
         {
-          "headline": "Trader Joe's about to open new location in Johns Creek - The Business Journals",
-          "source": "Google News"
-        },
-        {
           "headline": "AeroVironment Touts Counter-Drone Edge, 500% Production Ramp at Wells Fargo Conference - TradingView",
           "source": "Google News"
         },
@@ -138,15 +134,27 @@
           "source": "Google News"
         },
         {
+          "headline": "La Canada vs San Marino Fr Baseball - Apr 28, 2027 - Sports Illustrated",
+          "source": "Google News"
+        },
+        {
+          "headline": "First B-52 Crash Victim Identified After 8 Killed On CA Air Force Base",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "Amber Alert Dad Captured In Mexico 3 Weeks After Girlfriend's Murder: LAPD",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "Los Angeles Restaurants, Chefs Named 2026 James Beard Winners",
+          "source": "Patch Monrovia"
+        },
+        {
           "headline": "Businessman Had Attorney, Ex-Employee Killed After Court Losses: LA County DA",
           "source": "Patch Monrovia"
         },
         {
           "headline": "LA28 Is Looking For 60K Olympics Volunteers: How To Apply",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Family Dog Killed By LAPD During Knicks Championship Celebration",
           "source": "Patch Monrovia"
         },
         {
@@ -206,7 +214,7 @@
         "0": false,
         "1": true,
         "2": true,
-        "3": true,
+        "3": false,
         "4": true,
         "5": true,
         "6": true,
@@ -220,12 +228,12 @@
         "14": true,
         "15": true,
         "16": true,
-        "17": true,
-        "18": true,
+        "17": false,
+        "18": false,
         "19": true,
         "20": false,
         "21": false,
-        "22": true,
+        "22": false,
         "23": false,
         "24": false,
         "25": false,
@@ -242,11 +250,11 @@
         "36": false,
         "37": false,
         "38": false,
-        "39": true
+        "39": false
       }
     },
     "sgv": {
-      "summary": "- Man fatally shot during child custody exchange in San Gabriel Valley\n- Crews stop 15-acre Galster fire in West Covina, evacuations lifted\n- Fireworks and drugs seized from property in San Gabriel Valley during DEA operation\n- San Gabriel Valley All-Area baseball, softball, track and field teams announced",
+      "summary": "- Fatal shooting during child custody exchange in San Gabriel Valley\n- 15-acre Galster fire in West Covina contained, evacuations lifted\n- Fireworks and drugs seized from San Gabriel Valley property by DEA\n- Week of sunshine ahead with gradual cooling trend expected",
       "headlines": [
         {
           "headline": "Man fatally shot during child custody exchange in San Gabriel Valley, police say - CBS News",
@@ -329,6 +337,14 @@
           "source": "Google News SGV"
         },
         {
+          "headline": "Three Officers Injured Subduing Man in Pasadena Restraining Order Case",
+          "source": "Pasadena Now"
+        },
+        {
+          "headline": "LA28 to Open Volunteer Applications July 14 for Olympic and Paralympic Games",
+          "source": "Pasadena Now"
+        },
+        {
           "headline": "Pasadena Ramps Up July 4 Fireworks Crackdown With Expanded Patrols, Thousands of Inspections",
           "source": "Pasadena Now"
         },
@@ -358,14 +374,6 @@
         },
         {
           "headline": "City Council Honors Civic Leader Betsy Nathane",
-          "source": "Pasadena Now"
-        },
-        {
-          "headline": "Pollara Enters Pasadena City College Trustee Race, Setting Up Contest in Area 1",
-          "source": "Pasadena Now"
-        },
-        {
-          "headline": "Pasadena Adopts $1.409 Billion All-Funds Budget For Next Fiscal Year",
           "source": "Pasadena Now"
         },
         {
@@ -417,6 +425,34 @@
           "source": "Colorado Blvd"
         },
         {
+          "headline": "2 workers reportedly shot inside Wilmington Hospital in Delaware; gunman at large",
+          "source": "ABC7"
+        },
+        {
+          "headline": "The Grammys add five new categories for 2027 Grammy Awards",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Part museum and part store, the Oddporium specializes in oddities and collectibles",
+          "source": "ABC7"
+        },
+        {
+          "headline": "LAPD officer shoots man holding brother at knifepoint, bodycam video shows",
+          "source": "ABC7"
+        },
+        {
+          "headline": "National Geographic drops trailer for 'Pompeii: Out of Time with Tom Hiddleston'",
+          "source": "ABC7"
+        },
+        {
+          "headline": "NYC elementary students make Broadway debut with a little magic from Disney Theatrical Group",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Activists call on LAPD to release bodycam video after fatal shooting of dog in Canoga Park",
+          "source": "ABC7"
+        },
+        {
           "headline": "2 college students Mahial Sran, Harshita Nair, dead after being swept into ocean at Santa Cruz, California beach",
           "source": "ABC7"
         },
@@ -430,10 +466,6 @@
         },
         {
           "headline": "Judge tosses out Dawn Richard's lawsuit against Sean 'Diddy' Combs",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Activists call on LAPD to release bodycam video after fatal shooting of dog in Canoga Park",
           "source": "ABC7"
         },
         {
@@ -471,30 +503,6 @@
         {
           "headline": "San Andreas Fault hits highest stress level in 1,000 years, study finds",
           "source": "ABC7"
-        },
-        {
-          "headline": "2 Bay Area college students dead after being swept into ocean at Santa Cruz Co. beach",
-          "source": "ABC7"
-        },
-        {
-          "headline": "6.7-magnitude earthquake shakes part of Indonesia, causing damage and injuries",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Sunny, warm conditions stick around SoCal ahead of mid-week cooldown",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Evacuation orders in effect for 2,600-acre brush fire in Riverside County; WB 60 Freeway closed",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Author Lillian Faderman reveals the history of 'Gay LA'",
-          "source": "ABC7"
-        },
-        {
-          "headline": "WATCH: The 56th LA Pride Parade",
-          "source": "ABC7"
         }
       ],
       "relevance": {
@@ -518,30 +526,30 @@
         "17": true,
         "18": false,
         "19": true,
-        "20": false,
+        "20": true,
         "21": false,
-        "22": false,
-        "23": false,
-        "24": false,
-        "25": false,
-        "26": false,
-        "27": false,
-        "28": false,
-        "29": false,
+        "22": true,
+        "23": true,
+        "24": true,
+        "25": true,
+        "26": true,
+        "27": true,
+        "28": true,
+        "29": true,
         "30": false,
-        "31": false,
-        "32": false,
+        "31": true,
+        "32": true,
         "33": true,
         "34": true,
         "35": false,
-        "36": false,
-        "37": false,
-        "38": false,
-        "39": false
+        "36": true,
+        "37": true,
+        "38": true,
+        "39": true
       }
     },
     "county": {
-      "summary": "- LAUSD faces painful budget cuts to important programs, threatening students and schools\n- Southern California faults at highest tectonic stress in 1,000 years, experts warn\n- Dangerous surf and high tides causing significant damage to SoCal beaches\n- Small Cessna plane crashes at Whiteman Airport in Pacoima; pilot rescued",
+      "summary": "- LAUSD faces budget crisis with painful program cuts looming in coming months\n- Dangerous surf and high tides cause significant damage to Southern California beaches\n- Southern California fault lines show highest tectonic stress in 1,000 years, study warns\n- Small Cessna crashes at Whiteman Airport in Pacoima; pilot successfully rescued",
       "headlines": [
         {
           "headline": "LAUSD's next budget: Will there be any way to stem painful cuts to important programs?",
@@ -624,6 +632,14 @@
           "source": "LAist"
         },
         {
+          "headline": "Ariana Grande\u2019s West Hollywood pop-up shop draws massive crowds",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Oxnard man sentenced to 3 years in prison for 108 mph crash that killed 2",
+          "source": "Fox 11 LA"
+        },
+        {
           "headline": "Fatal dog shooting: Activists call for the LAPD to release body cam footage",
           "source": "Fox 11 LA"
         },
@@ -632,7 +648,7 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "From Belize to LA: How a home World Cup unites one local soccer family",
+          "headline": "From Belize to LA: How the FIFA World Cup unites one local soccer family",
           "source": "Fox 11 LA"
         },
         {
@@ -648,11 +664,7 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Daleyza Fregoso, 5-year-old Amber Alert girl, found safe in Mexico",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "SweetWater opens in West Hollywood as one of the area's few dedicated lesbian spaces",
+          "headline": "2 California women die after being swept out to sea while sleeping on beach",
           "source": "Fox 11 LA"
         },
         {
@@ -684,11 +696,11 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Disneyland-themed license plates one step closer in California",
+          "headline": "At least 3 suspects ID\u2019d in alleged drone attack plot to attack UFC event at White House: FOX News",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "At least 3 suspects ID\u2019d in alleged drone attack plot to attack UFC event at White House: FOX News",
+          "headline": "UFC boss distances himself from fighter's Obama remark: Report",
           "source": "Fox 11 LA"
         },
         {
@@ -700,19 +712,15 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "GLP-1 drugs tied to blood pressure risks in certain patients, study finds",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "LA Council Committee to Weigh in On Delayed Contracts for Tenant Aid Services",
+          "headline": "Man Charged in Deadly Hit-and-Run in Irvine",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Javier Bardem Receives Hand, Footprint Honor in Hollywood",
+          "headline": "Investigation Underway in Fatal Shooting of Suspect by Police in Santa Ana",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Pair Charged with Gang-Related Killing in Home Gardens",
+          "headline": "Mother Found Insane at Time of Killings of Newborn Baby, 7-Year-Old Daughter",
           "source": "MyNewsLA"
         },
         {
@@ -720,31 +728,31 @@
           "source": "MyNewsLA"
         },
         {
-          "headline": "Another Plane Crashes at Whiteman Airport; Pilot Not Seriously Hurt",
+          "headline": "LA County Supervisors Approve Homelessness Prevention Services Plan",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LA Council Committee to Weigh in On Delayed Contracts for Tenant Aid Services",
+          "headline": "Man Suspected of Strangling Girlfriend, Abducting Daughter Awaits Extradition",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Curren Price\u2019s Ex-Field Deputy Seeks Politician\u2019s Deposition",
+          "headline": "Another Plane Crashes at Whiteman Airport; Pilot Sustains Minor Injuries",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Another Plane Crashes at Whiteman Airport; Pilot Not Seriously Hurt",
+          "headline": "Activists Demand `Accountability\u2019 in Dog\u2019s Fatal Shooting in Canoga Park",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Palm Springs International ShortFest Announces Annual Forum Programs, Jury",
+          "headline": "Blaze in Badlands South of Calimesa Holds at 2,600 Acres",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Suspect in Weekend Shooting in Glendale in Custody",
+          "headline": "Mother Admits Criminal Insanity When Killing Newborn Baby, 7-Year-Old Daughter",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Another Plane Crashes at Whiteman Airport; Pilot Uninjured",
+          "headline": "City Council Continues Measure ULA Exemption Proposals",
           "source": "MyNewsLA"
         },
         {
@@ -753,6 +761,10 @@
         },
         {
           "headline": "Dangerous ocean conditions, risk of flooding continues along SoCal coast - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LA County Health Officials Warn Against Recalled Infant Formula - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
@@ -776,11 +788,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Another Plane Crashes at Whiteman Airport; Pilot Not Seriously Hurt - MyNewsLA.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "County judge loses reelection | Los Angeles Times - newspaper - Magzter",
+          "headline": "From Mexico City to Los Angeles: The Cultural Journey of SUE\u00d1O PERRO - LACMA",
           "source": "Google News LA"
         },
         {
@@ -788,15 +796,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "From Mexico City to Los Angeles: The Cultural Journey of SUE\u00d1O PERRO - LACMA",
+          "headline": "County judge loses reelection | Los Angeles Times - newspaper - Magzter",
           "source": "Google News LA"
         },
         {
-          "headline": "155 S Oxford Ave Apt 203, Los Angeles, CA 90004 - Realtor.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Another Plane Crashes at Whiteman Airport; Pilot Uninjured - MyNewsLA.com",
+          "headline": "FOUND SAFE! [Updated] A woman in her 80's reported missing in the North Pasadena / Altadena area has been located and is safe, officials said. - facebook.com",
           "source": "Google News LA"
         },
         {
@@ -804,11 +808,15 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Missing girl found safe, murder suspect Ruben Fregoso arrested in Mexico 3 weeks after Amber Alert issued in Los Angeles - ABC7 Los Angeles",
+          "headline": "Another Plane Crashes at Whiteman Airport; Pilot Not Seriously Hurt - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
-          "headline": "LA County DA Nathan Hochman calls for delay in sex abuse settlement payments - ABC7 Los Angeles",
+          "headline": "Another Plane Crashes at Whiteman Airport; Pilot Uninjured - MyNewsLA.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Missing girl found safe, murder suspect Ruben Fregoso arrested in Mexico 3 weeks after Amber Alert issued in Los Angeles - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -816,11 +824,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Victims may \u2018die before they get paid\u2019 | Los Angeles Times - newspaper - Magzter",
+          "headline": "155 S Oxford Ave Apt 203, Los Angeles, CA 90004 - Realtor.com",
           "source": "Google News LA"
         },
         {
-          "headline": "FOUND SAFE! [Updated] A woman in her 80's reported missing in the North Pasadena / Altadena area has been located and is safe, officials said. - facebook.com",
+          "headline": "Victims may \u2018die before they get paid\u2019 | Los Angeles Times - newspaper - Magzter",
           "source": "Google News LA"
         },
         {
