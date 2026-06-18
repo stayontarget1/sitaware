@@ -1,10 +1,14 @@
 {
-  "generated": "2026-06-18T18:07:26.247942+00:00",
+  "generated": "2026-06-18T21:16:40.077693+00:00",
   "briefing": "12 PM",
   "columns": {
     "monrovia": {
-      "summary": "- City Council adopts budget with $2.4 million deficit, approves two fire engines\n- July 4th celebration at Library Park features concert and fireworks\n- Monrovia Canyon Park family hike and campout June 27-28\n- Community Center bus trip to LA County Museum of Art June 25",
+      "summary": "- City Council approves two new fire engines despite $2.4 million budget deficit\n- 4th of July celebration at Library Park features concert and fireworks\n- Community Center bus trip to LA County Museum of Art, June 25\n- Monrovia elementary schools may each receive 'Samson' bear sculpture",
       "headlines": [
+        {
+          "headline": "Lunch at Le Roy's",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Community Center plans bus trip to LA County Museum of Art, June 25",
           "source": "Monrovia Now"
@@ -82,10 +86,6 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Coming Up in Monrovia",
-          "source": "Monrovia Now"
-        },
-        {
           "headline": "California Senator supports legislation requiring home improvement retailers to report immigration enforcement activity - CBS News",
           "source": "Google News"
         },
@@ -124,6 +124,10 @@
         {
           "headline": "Monrovia vs Burroughs JV Girls Basketball - Jan 20, 2027 - Sports Illustrated",
           "source": "Google News"
+        },
+        {
+          "headline": "CA 'Earthquake Gate' Could Trigger Next Major Quake Along 2 Faults",
+          "source": "Patch Monrovia"
         },
         {
           "headline": "Carjacker Targeted Pedestrians During Violent LA County Rampage: Police",
@@ -187,12 +191,12 @@
         }
       ],
       "relevance": {
-        "0": true,
+        "0": false,
         "1": true,
-        "2": false,
-        "3": true,
-        "4": false,
-        "5": true,
+        "2": true,
+        "3": false,
+        "4": true,
+        "5": false,
         "6": true,
         "7": true,
         "8": true,
@@ -202,9 +206,9 @@
         "12": true,
         "13": true,
         "14": true,
-        "15": false,
+        "15": true,
         "16": false,
-        "17": true,
+        "17": false,
         "18": true,
         "19": true,
         "20": false,
@@ -222,7 +226,7 @@
         "32": false,
         "33": false,
         "34": false,
-        "35": true,
+        "35": false,
         "36": true,
         "37": true,
         "38": true,
@@ -230,7 +234,7 @@
       }
     },
     "sgv": {
-      "summary": "- DEA seizes fireworks, drugs from San Gabriel Valley property during operation\n- Suspected DUI crash closes El Monte intersection near SGV Airport for 15 hours\n- First responders partner with Habitat for Humanity on Eaton Fire rebuilding efforts\n- San Gabriel advances housing updates, approves road funding and stormwater agreements",
+      "summary": "- DEA seizes fireworks, drugs from San Gabriel Valley property during operation\n- Suspected DUI crash closes El Monte intersection near SGV Airport for 15 hours\n- First responders partner with Habitat for Humanity to rebuild Altadena after Eaton Fire\n- LA County under extreme heat watch Tuesday through Thursday",
       "headlines": [
         {
           "headline": "San Gabriel Valley All-Area boys track and field team 2026 - San Gabriel Valley Tribune",
@@ -249,11 +253,15 @@
           "source": "Google News SGV"
         },
         {
+          "headline": "First Responders Unite to ReBuild Altadena: Firefighters & Deputies Partner with San Gabriel Valley Habitat for Eaton Fire ReBuild - South Pasadena News",
+          "source": "Google News SGV"
+        },
+        {
           "headline": "Suspected DUI crash near SGV Airport closes key El Monte intersection for 15 hours - KTLA",
           "source": "Google News SGV"
         },
         {
-          "headline": "First Responders Unite to ReBuild Altadena: Firefighters & Deputies Partner with San Gabriel Valley Habitat for Eaton Fire ReBuild - South Pasadena News",
+          "headline": "Los Angeles County under an extreme heat watch from Tuesday to Thursday - Los Angeles Daily News",
           "source": "Google News SGV"
         },
         {
@@ -270,10 +278,6 @@
         },
         {
           "headline": "Meet Dottie, Swiper and Regan, this week\u2019s Pets of the Week in the San Gabriel Valley - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "San Gabriel Council Advances Housing Updates, Approves Road Funding and Stormwater Agreements - ColoradoBoulevard.net",
           "source": "Google News SGV"
         },
         {
@@ -297,11 +301,11 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Santa Anita consensus picks for Friday, June 12, 2026 - San Gabriel Valley Tribune",
+          "headline": "\u2018Find Your Vibe\u2019 in Glendale, city says to tourists - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "Riverside\u2019s Mission Inn sale price was $33 million, records show - San Gabriel Valley Tribune",
+          "headline": "Santa Anita consensus picks for Friday, June 12, 2026 - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -309,7 +313,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Lionel Messi ties World Cup goals record with hat trick as Argentina tops Algeria - San Gabriel Valley Tribune",
+          "headline": "Readers react: How they\u2019d change Major League Baseball - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -401,6 +405,58 @@
           "source": "Colorado Blvd"
         },
         {
+          "headline": "Seoul International Park in LA's Koreatown hosting watch party",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Former child actor Daveigh Chase, voice of Lilo from 'Lilo & Stitch,' dies at 35",
+          "source": "ABC7"
+        },
+        {
+          "headline": "What is Juneteenth and why is it celebrated? What to know for 2026",
+          "source": "ABC7"
+        },
+        {
+          "headline": "US lifts blockade of Iran and Iranian supreme leader endorses direct talks with American officials",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Pasadena teen sits in tree for 8 hours to protest planned removal of 200 trees",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Obama Center's opening draws former presidents, music legends and A-list celebrities",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Retired teacher reconnects with former 1st grade students at time of High School graduation",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Take a dive into the Ministry of Awe",
+          "source": "ABC7"
+        },
+        {
+          "headline": "'Project Runway' Season 22 trailer reveals Tyra Banks' return and a record 22 designers",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Bosnia fans create seat of blue and yellow at Los Angeles Stadium",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Civil grand jury finds that the Los Angeles Zoo is in crisis",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Pasadena residents frustrated after police provide details on late-night military exercise",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Thief racks up $10K in Orange County toll road violations after stealing NorCal couple's identities",
+          "source": "ABC7"
+        },
+        {
           "headline": "Comedian Carlos Mencia facing criminal charges in tax fraud investigation, LA County DA says",
           "source": "ABC7"
         },
@@ -410,10 +466,6 @@
         },
         {
           "headline": "6-year-old stung by invasive clinging jellyfish in New Jersey's Metedeconk River",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Springsteen, Stevie Wonder will help the Obamas open their presidential museum | WATCH LIVE",
           "source": "ABC7"
         },
         {
@@ -431,54 +483,6 @@
         {
           "headline": "Get in on the Toy Story 5 celebration with new toys and gear your family will love",
           "source": "ABC7"
-        },
-        {
-          "headline": "Wife speaks out after husband allegedly strangles disabled daughter to death",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Measure to give noncitizens the right to vote in LA city elections to go before voters",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Shelter-in-place ordered after massive fire at commercial building in Boyle Heights area of LA",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Lifeguards rescue driver who crashed car into pool in New Canaan, Connecticut",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Mid-week cooldown moves in, brings June Gloom conditions to SoCal",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Man tourist dies after carriage horse crash in New York City's Central Park",
-          "source": "ABC7"
-        },
-        {
-          "headline": "1 dead after shooting at Wilmington Hospital in Delaware; suspect taken into custody in Philadelphia",
-          "source": "ABC7"
-        },
-        {
-          "headline": "WATCH: The 56th LA Pride Parade",
-          "source": "ABC7"
-        },
-        {
-          "headline": "US Mint in Philadelphia strikes commemorative coins for 2026 FIFA World Cup",
-          "source": "ABC7"
-        },
-        {
-          "headline": "California offering free state park passes to residents for limited time",
-          "source": "ABC7"
-        },
-        {
-          "headline": "GoFundMe for dog fatally shot by police in Canoga Park raises more than $160,000",
-          "source": "ABC7"
-        },
-        {
-          "headline": "US and Iran sign initial deal to end war, ease sanctions and open strait as nuclear talks continue",
-          "source": "ABC7"
         }
       ],
       "relevance": {
@@ -490,7 +494,7 @@
         "5": true,
         "6": false,
         "7": false,
-        "8": true,
+        "8": false,
         "9": true,
         "10": true,
         "11": false,
@@ -502,7 +506,7 @@
         "17": false,
         "18": false,
         "19": false,
-        "20": false,
+        "20": true,
         "21": true,
         "22": true,
         "23": true,
@@ -525,14 +529,14 @@
       }
     },
     "county": {
-      "summary": "- Major fire at Boyle Heights building triggers shelter-in-place order; ammonia leak suspected\n- LA City Council advances mansion tax reform and non-citizen voting measures\n- LAUSD budget plan preserves Black student equity program despite future cuts\n- ICE detains South LA honor student day after high school graduation",
+      "summary": "- LA City Council advances non-citizen voting and police reform for November ballot\n- Boyle Heights hazmat fire raises air quality concerns for residents\n- California denies LA's request for extra time on street improvement projects\n- Huntington Beach finally adopts long-delayed housing plan",
       "headlines": [
         {
-          "headline": "MacArthur Park nurtured generations of soccer players. Now its fields are about the World Cup",
+          "headline": "LA City Council places non-citizen voting proposal, police reform on November ballot",
           "source": "LAist"
         },
         {
-          "headline": "Massive fire breaks out at Boyle Heights commercial building, LAFD orders shelter in place",
+          "headline": "Huntington Beach finally adopts housing plan",
           "source": "LAist"
         },
         {
@@ -540,7 +544,7 @@
           "source": "LAist"
         },
         {
-          "headline": "LA City Council places non-citizen voting proposal, police reform on November ballot",
+          "headline": "What burned in the Boyle Heights hazmat fire, and what it means for air quality",
           "source": "LAist"
         },
         {
@@ -548,15 +552,11 @@
           "source": "LAist"
         },
         {
-          "headline": "LAUSD board passes budget plan with painful future cuts, but saves Black student equity program",
-          "source": "LAist"
-        },
-        {
           "headline": "Inside a new Iranian bakery in Miracle Mile, ahead of Iran's next match",
           "source": "LAist"
         },
         {
-          "headline": "Civilian oversight panel sues LA Sheriff\u2019s Department over failure to release use-of-force documents",
+          "headline": "MacArthur Park nurtured generations of soccer players. Now its fields are about the World Cup",
           "source": "LAist"
         },
         {
@@ -608,7 +608,15 @@
           "source": "LAist"
         },
         {
-          "headline": "Free World Cup watch parties announced across LA, Orange counties for Thursday matches",
+          "headline": "California admits using high-risk AI \u2014 including systems it failed to report last year",
+          "source": "LAist"
+        },
+        {
+          "headline": "Comedian Carlos Mencia facing criminal charges in LA County business tax fraud case",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Free World Cup watch parties across LA, Orange counties for Thursday matches",
           "source": "Fox 11 LA"
         },
         {
@@ -624,7 +632,7 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Massive fire erupts at Boyle Heights cold storage facility; ammonia leak suspected",
+          "headline": "Crews gain control of fire at Boyle Heights cold storage facility; ammonia leak suspected",
           "source": "Fox 11 LA"
         },
         {
@@ -636,7 +644,7 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Encino homeowner denies allegations of adult content being filmed at property",
+          "headline": "Phone-free schools: What California's new campus cellphone law means for your child",
           "source": "Fox 11 LA"
         },
         {
@@ -668,10 +676,6 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "California cult leader gets 225 years for raping followers",
-          "source": "Fox 11 LA"
-        },
-        {
           "headline": "Celebrity deaths of 2026: The entertainers and artists we lost this year",
           "source": "Fox 11 LA"
         },
@@ -684,55 +688,63 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Daveigh Chase dies; actress was known \u2018Lilo & Stitch,\u2019 \u2018The Ring\u2019: Report",
+          "headline": "States with the highest debt delinquency rates in America revealed",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Viewing Parties Set For Mexico-South Korea World Cup Match",
+          "headline": "Air Quality Advisory Extends After Boyle Heights Food-Storage Facility Fire",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Air Quality Concerns Ease After Boyle Heights Food-Storage Facility Fire",
+          "headline": "Judge Sentences Five in Lookout Killings",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LAPD Seeks Additional Possible Victims of Collectible Card Theft Suspect",
+          "headline": "Six Arrested in Joint LAPD-DEA Drug Sting in MacArthur Park",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Missing Woman, 75, Last Seen in Indio Located",
+          "headline": "Authorities ID Man Fatally Shot in Rosemead",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Oscar Nominee Ryan Gosling to Receive American Cinematheque Award",
+          "headline": "Man Charged with Fatal Shooting at Good Hope House",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Woman Sues Closed Special Ed School, Founder, Principal for Alleged Molestation Dating Back to 2006",
+          "headline": "Federal Jury Hears of Bizarre Interview with Palisades Fire Suspect",
           "source": "MyNewsLA"
         },
         {
-          "headline": "SunLine Offers Free Bus Rides Thursday in Coachella Valley",
+          "headline": "Palm Springs Nonprofit Receives $1M Donation to Move",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LACo, OC Host World Cup Viewing Parties Set For Mexico-South Korea  Match",
+          "headline": "DA Charges Felon with Fatally Stabbing Riverside Man in Street Confrontation",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Over $187,000 Raised for Grieving Dog Owner After Pet Fatally Shot by LAPD",
+          "headline": "Glendale Launches New Tourism Campaign",
           "source": "MyNewsLA"
         },
         {
-          "headline": "County Issues Particle Pollution Advisory After Boyle Heights Fire",
+          "headline": "Palm Springs Fire Department Urges Safe Hiking During Summer",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Woman Seeks New Deposition of Steven Tyler Over Alleged Inconsistencies",
+          "headline": "Structure Fire Breaks Ignites in Hemet",
           "source": "MyNewsLA"
         },
         {
           "headline": "LA County Coordinated Joint Information Center Update \u2013 6/17/2026 - LA County Recovers (.gov)",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Public Health Confirms Measles Case in LA County - - Random Lengths News",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Companies are struggling to integrate climate resilience enterprise-wide - ESG Dive",
           "source": "Google News LA"
         },
         {
@@ -744,7 +756,15 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Office of Emergency Management has issued a Shelter-In-Place for Zone LFD-1279. Know Your Zone: Shelter in Place-Genasys Protect Zone LFD-1279: Get inside immediately and close all windows and doors. Turn off air conditioning/heating. Bring all peopl - facebook.com",
+          "headline": "Angeleno brings 100 units to vacant lot as affordable housing development dominates LA - The Real Deal",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "DAPO Los Angeles parole operation leads to six arrests - California Department of Corrections and Rehabilitation - CDCR (.gov)",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Los Angeles County Sheriff's Department Century Station is advising Critical Missing Juvenile, Cherish Duhon, has been located Thank you to the public, the media, and deputy personnel for their tireless efforts in the search for Cherish. Forwarded by: Sheriff's - facebook.com",
           "source": "Google News LA"
         },
         {
@@ -752,7 +772,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "DAPO Los Angeles parole operation leads to six arrests - California Department of Corrections and Rehabilitation - CDCR (.gov)",
+          "headline": "Measure to give noncitizens the right to vote in Los Angeles city elections approved for Nov. 3 ballot - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -764,15 +784,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Shelter-in-place ordered in LA as blaze engulfs roof of 500,000 sq-ft warehouse - The Guardian",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Measure to give noncitizens the right to vote in Los Angeles city elections approved for Nov. 3 ballot - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Election surprise\u2014voter turnout spikes in the city of Los Angeles - xtown.la",
+          "headline": "Pratt Out, Raman In: What Los Angeles Voters Can Now Expect in the Mayoral Race - westsidecurrent.com",
           "source": "Google News LA"
         },
         {
@@ -780,15 +792,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County Sheriff's Department Century Station is advising Critical Missing Juvenile, Cherish Duhon, has been located Thank you to the public, the media, and deputy personnel for their tireless efforts in the search for Cherish. Forwarded by: Sheriff's - facebook.com",
+          "headline": "Office of Emergency Management has issued a Shelter-In-Place for Zone LFD-1279. Know Your Zone: Shelter in Place-Genasys Protect Zone LFD-1279: Get inside immediately and close all windows and doors. Turn off air conditioning/heating. Bring all peopl - facebook.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Orange County - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Today, we grieve the loss of LASD - Transit Services Bureau K9 Lasi. Lasi was a Belgian Shepherd born in Europe on October 11, 2017. She was imported by the Department of Defense/TSA and began her career with the Los Angeles County Sheriff's Depart - facebook.com",
+          "headline": "Los Angeles weather: Mid-week cooldown moves in, brings June Gloom conditions to SoCal - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -796,7 +804,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles weather: Mid-week cooldown moves in, brings June Gloom conditions to SoCal - ABC7 Los Angeles",
+          "headline": "Shelter-in-place ordered in LA as blaze engulfs roof of 500,000 sq-ft warehouse - The Guardian",
           "source": "Google News LA"
         },
         {
@@ -805,10 +813,6 @@
         },
         {
           "headline": "Los Angeles County Sheriff\u2019s Department Century Station is asking for the public\u2019s help locating Critical Missing Juvenile, Cherish Duhon. She is an 11-year-old female Black, was last seen on June 15, 2026, at 5:30 PM on the 3000 block of Carlin Ave, in the ci - facebook.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Fresno raisin company heir arrested after alleged antisemitic rant in Los Angeles - ABC30 Fresno",
           "source": "Google News LA"
         }
       ],
