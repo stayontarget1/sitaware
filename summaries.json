@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-20T16:23:22.313946+00:00",
-  "briefing": "8 AM",
+  "generated": "2026-06-20T20:11:10.277625+00:00",
+  "briefing": "12 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Major warehouse fire prompts evacuations on East Chestnut Avenue\n- Fire Department wins LA County stroke response award recognition\n- City Council adopts budget with $2.4 million deficit\n- Monrovia receives $20,000 NEA grant for community reading program",
+      "summary": "- Major warehouse fire at East Chestnut Avenue prompts evacuations in Monrovia\n- Fire Department wins USC Arcadia Hospital award for fastest stroke response\n- City Council adopts budget with $2.4 million deficit, approves two fire engines\n- Monrovia receives $20,000 NEA grant for 2027 One City, One Story program",
       "headlines": [
         {
           "headline": "Storytime for children 2-5 the Library, June 24",
@@ -102,6 +102,10 @@
           "source": "Google News"
         },
         {
+          "headline": "Bear claws 19-year-old\u2019s face and chest through window of Crestline home - Los Angeles Times",
+          "source": "Google News"
+        },
+        {
           "headline": "States take the wheel: Report looks at fragmented EV policies after federal rollbacks - The National News Desk",
           "source": "Google News"
         },
@@ -126,10 +130,6 @@
           "source": "Google News"
         },
         {
-          "headline": "Latest News - Hindustan Times",
-          "source": "Google News"
-        },
-        {
           "headline": "La Canada vs San Marino JV Baseball - Apr 29, 2027 - Sports Illustrated",
           "source": "Google News"
         },
@@ -142,6 +142,14 @@
           "source": "Google News"
         },
         {
+          "headline": "Latest News - Hindustan Times",
+          "source": "Google News"
+        },
+        {
+          "headline": "Trader Joe\u2019s SWOT Analysis (2026) - Business Model Analyst",
+          "source": "Google News"
+        },
+        {
           "headline": "Monrovia fire update: Massive warehouse blaze at East Chestnut Avenue in California city; scary videos emerge - MSN",
           "source": "Google News"
         },
@@ -150,19 +158,11 @@
           "source": "Patch Monrovia"
         },
         {
-          "headline": "Backyard Cookout Costs Rise: What CA Hosts Can Expect",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Meet Libby And The Ordinary People Trying To Bring The Lost Dog Home.",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "America250 Events In Southern California: What's Happening Through July 4",
-          "source": "Patch Monrovia"
-        },
-        {
           "headline": "What To Watch This Weekend: 'Toy Story 5,' 'The Death Of Robin Hood,' 'Rose Of Nevada,' And 'Sugar' Season 2",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "Things Dads Say: Teaching About Life With Love, Humor And No Nonsense",
           "source": "Patch Monrovia"
         },
         {
@@ -247,22 +247,22 @@
         "25": false,
         "26": false,
         "27": false,
-        "28": false,
+        "28": true,
         "29": false,
         "30": false,
         "31": false,
         "32": false,
         "33": false,
-        "34": true,
+        "34": false,
         "35": false,
-        "36": false,
+        "36": true,
         "37": false,
         "38": false,
         "39": false
       }
     },
     "sgv": {
-      "summary": "- Woman abandons cats in carriers in San Gabriel, investigation underway\n- Air quality alert issued for San Gabriel Valley Saturday\n- Crews contain 15-acre Galster fire in West Covina, evacuations lifted\n- Extreme heat watch in effect Tuesday through Thursday for region",
+      "summary": "- Woman abandons cats in carriers in San Gabriel, animal cruelty investigation underway\n- Air quality alert Saturday, extreme heat watch Tuesday through Thursday in valley\n- 15-acre Galster fire in West Covina contained, evacuations lifted\n- Women's apparel warehouse fire in Monrovia triggers evacuations",
       "headlines": [
         {
           "headline": "Woman seen abandoning group of cats stuffed in pet carriers in San Gabriel - KTLA",
@@ -298,6 +298,10 @@
         },
         {
           "headline": "San Gabriel Valley All-Area boys track and field team 2026 - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Extreme Heat Watch and Air Quality Alert Raise Health Concerns Across San Gabriel Valley and Los Angeles County - ColoradoBoulevard.net",
           "source": "Google News SGV"
         },
         {
@@ -341,10 +345,6 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Coastal flood advisory for Malibu until 2 a.m. Tuesday - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
           "headline": "Man Dies After Jumping From Lake Avenue Overpass Onto 210 Freeway",
           "source": "Pasadena Now"
         },
@@ -385,7 +385,19 @@
           "source": "Pasadena Now"
         },
         {
-          "headline": "Sen. P\u00e9rez Introduces Bill to Increase Transparency for Altadena Water Rate Hikes",
+          "headline": "Extreme Heat Watch and Air Quality Alert Raise Health Concerns Across San Gabriel Valley and Los Angeles County",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Pasadena\u2019s Juneteenth Celebration and 5th Annual NAACP Roller Jam",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "L.A. County Opens Temporary Shelter Amid Smoke Concerns from Boyle Heights Fire",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "[Updated] Sen. P\u00e9rez Introduces Bill to Increase Transparency for Altadena Water Rate Hikes",
           "source": "Colorado Blvd"
         },
         {
@@ -421,16 +433,24 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Health Officials Warn Parents After Infant Botulism Outbreak Linked to Recalled Formula",
-          "source": "Colorado Blvd"
+          "headline": "Claude Guillemot, co-founder of Assassin's Creed maker Ubisoft, killed in plane crash in France",
+          "source": "ABC7"
         },
         {
-          "headline": "Pasadena Rent Stabilization Department Expands \u201cChats & Snacks\u201d Housing Outreach to District 5 on June 30",
-          "source": "Colorado Blvd"
+          "headline": "Off-duty first responders help save man from overdose at Knicks parade",
+          "source": "ABC7"
         },
         {
-          "headline": "Caltech Study Reveals How Soil Bacteria Adapt When Nutrients Run Low",
-          "source": "Colorado Blvd"
+          "headline": "US-Iran talks to begin Sunday in Switzerland but Tehran closes the strait over Lebanon fighting",
+          "source": "ABC7"
+        },
+        {
+          "headline": "USDA updates border policy for pet owners traveling to Mexico with their dogs",
+          "source": "ABC7"
+        },
+        {
+          "headline": "1 killed in crash involving jackknifed big rig on 210 Freeway in Irwindale; all WB lanes closed",
+          "source": "ABC7"
         },
         {
           "headline": "Stroke survivor reunites with medical team that saved his life at Pomona hospital",
@@ -438,10 +458,6 @@
         },
         {
           "headline": "'Moana' featurette shows how Dwayne Johnson congratulated Catherine Laga'aia on getting the role",
-          "source": "ABC7"
-        },
-        {
-          "headline": "US-Iran talks to begin Sunday in Switzerland but Tehran closes the strait over Lebanon fighting",
           "source": "ABC7"
         },
         {
@@ -495,22 +511,6 @@
         {
           "headline": "Inside Pixar archives ahead of 'Toy Story 5'",
           "source": "ABC7"
-        },
-        {
-          "headline": "Italian Premier Giorgia Meloni slams Trump's claim she 'begged' for a photo with him, diplomat cancels US trip",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Business owners on edge after break-ins at Arcadia, Eagle Rock shops: 'I lost my sense of security'",
-          "source": "ABC7"
-        },
-        {
-          "headline": "DOJ investigating MLB for religious rights violations after San Francisco Giants Pride hat warning",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Arson suspect taken into custody after several small fires in Santa Ana",
-          "source": "ABC7"
         }
       ],
       "relevance": {
@@ -520,47 +520,51 @@
         "3": true,
         "4": true,
         "5": true,
-        "6": false,
+        "6": true,
         "7": true,
-        "8": false,
-        "9": false,
-        "10": false,
+        "8": true,
+        "9": true,
+        "10": true,
         "11": true,
         "12": true,
         "13": true,
         "14": true,
-        "15": false,
+        "15": true,
         "16": false,
-        "17": true,
-        "18": false,
+        "17": false,
+        "18": true,
         "19": false,
-        "20": true,
+        "20": false,
         "21": false,
         "22": false,
-        "23": false,
-        "24": false,
-        "25": false,
-        "26": false,
+        "23": true,
+        "24": true,
+        "25": true,
+        "26": true,
         "27": false,
-        "28": false,
-        "29": false,
+        "28": true,
+        "29": true,
         "30": true,
         "31": true,
         "32": false,
         "33": true,
         "34": true,
-        "35": false,
+        "35": true,
         "36": true,
-        "37": true,
-        "38": true,
+        "37": false,
+        "38": false,
         "39": false
       }
     },
     "county": {
-      "summary": "- Boyle Heights warehouse fire flares up again, sends smoke across Northeast LA\n- $177M in LA tenant aid delayed amid city officials' disagreement\n- 5 million lethal fentanyl doses seized in major Ventura County drug bust\n- LACMA transforming Wilshire Boulevard into inaugural Art Parade exhibition space",
+      "summary": "- Boyle Heights warehouse fire flares up, renews smoke concerns and air quality warnings\n- $177M in LA tenant aid delayed amid city officials' disagreement over distribution\n- 5 million lethal fentanyl doses seized in major Ventura County drug bust\n- California's July 1 minimum wage hikes take effect statewide",
       "headlines": [
         {
-          "headline": "Boyle Heights warehouse fire flares up again, sending smoke over Northeast LA",
+          "headline": "Wind-driven flare-up renews smoke concerns at Boyle Heights warehouse fire",
+          "source": "LAist"
+        },
+        {
+          "headline": "Smoke relief shelters open for residents impacted by Boyle Heights warehouse fire",
           "source": "LAist"
         },
         {
@@ -580,11 +584,11 @@
           "source": "LAist"
         },
         {
-          "headline": "No Pulisic, no problem: US tops Australia 2-0 in World Cup despite missing its star",
+          "headline": "LA man's case highlights gaps in care and oversight at DHS detention centers",
           "source": "LAist"
         },
         {
-          "headline": "After public outcry, PUSD Board votes to save some trees slated for removal",
+          "headline": "No Pulisic, no problem: US tops Australia 2-0 in World Cup despite missing its star",
           "source": "LAist"
         },
         {
@@ -620,24 +624,28 @@
           "source": "LAist"
         },
         {
-          "headline": "Senate postpones confirmation hearing for intel chief after Trump's call to delay",
+          "headline": "Air Force One, gifted to Trump from Qatar, arrives at Joint Base Andrews",
           "source": "LAist"
         },
         {
-          "headline": "Senate postpones confirmation hearing for intel chief after Trump's call to delay",
+          "headline": "Opinion: Algae doesn't care about our party lines",
           "source": "LAist"
         },
         {
-          "headline": "Voting officials fear DHS may actually be a threat to elections this year",
+          "headline": "Iran says Strait of Hormuz shut as US-Iran talks set for Sunday in Switzerland",
           "source": "LAist"
         },
         {
-          "headline": "Trump signs preliminary agreement with Iran, after releasing details",
+          "headline": "Iran says Strait of Hormuz shut as US-Iran talks set for Sunday in Switzerland",
           "source": "LAist"
         },
         {
-          "headline": "Oil prices drop to cheapest level since early days of Middle East conflict",
-          "source": "LAist"
+          "headline": "Boyle Heights warehouse fire: Emergency declaration weighed over 85-million pound biohazard threat",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "LAPD releases bodycam video of fatal Canoga Park dog shooting",
+          "source": "Fox 11 LA"
         },
         {
           "headline": "5 million lethal fentanyl doses seized in major Ventura County drug bust",
@@ -661,14 +669,6 @@
         },
         {
           "headline": "Comedian Carlos Mencia charged with 12 felony tax evasion in 1st case for new LA tax fraud unit",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Los Angeles voters could decide whether noncitizens can fill ballot in city elections",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Hour-long police chase stretches across Los Angeles County",
           "source": "Fox 11 LA"
         },
         {
@@ -720,6 +720,38 @@
           "source": "Fox 11 LA"
         },
         {
+          "headline": "Boyle Heights Fire Re-Ignites at Cold Storage Facility; Shelters Opened",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Man Settles Ageism Suit Alleging He Was Targeted, Micromanaged",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "At-Risk Woman, 74, Who Went Missing in Lynwood Located",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Semi-Truck Crashes Through Freeway Wall in Irwindale, Kills One",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Bicyclist, 60, Killed in Hit-and-Run in Santa Ana",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Boyle Heights Fire Re-Ignites at Cold Storage Facility; Shelters Opened",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Fire Damages Double-Wide Mobile Home in Nuevo",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Semi-Truck Crashes Through Freeway Wall in Irwindale, Kills One",
+          "source": "MyNewsLA"
+        },
+        {
           "headline": "One Killed, One Injured in Two-Vehicle Crash in Llano",
           "source": "MyNewsLA"
         },
@@ -732,47 +764,15 @@
           "source": "MyNewsLA"
         },
         {
-          "headline": "Use of Force Policies Reviewed After Video Release of Fatal Dog Shooting",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Boyle Heights Fire Reignites at Cold Storage Facility",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Santa Monica Hosts Annual Juneteenth Celebration on Saturday",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "LAPD Releases Video Canoga Park Dog Shooting",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Authorities ID Victims of Alleged Pomoma Homicides",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Investigation Launches into Norwalk Shooting",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Fatal Crash in Llano",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Lancaster Crash Leaves One Dead",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "During Animal Rights Awareness Week, Los Angeles County District Attorney Nathan J. Hochman toured a Los Angeles Animal Services shelter to highlight AB 2344, authored by Assemblymember Matt Haney and co-sponsored by the Los Angeles County Di - instagram.com",
-          "source": "Google News LA"
-        },
-        {
           "headline": "250th Anniversary of the United States - COUNTY OF LOS ANGELES (.gov)",
           "source": "Google News LA"
         },
         {
           "headline": "Los Angeles County on track to raise sales tax to 10.25% - The Center Square",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LAFD Battles Massive Commercial Structure Fire | Los Angeles Fire Department - Los Angeles Fire Department",
           "source": "Google News LA"
         },
         {
@@ -788,10 +788,6 @@
           "source": "Google News LA"
         },
         {
-          "headline": "LAFD Battles Massive Commercial Structure Fire | Los Angeles Fire Department - Los Angeles Fire Department",
-          "source": "Google News LA"
-        },
-        {
           "headline": "Public Health Confirms Measles Case in LA County - - Random Lengths News",
           "source": "Google News LA"
         },
@@ -800,7 +796,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Measles-infected traveler may have exposed passengers at LAX and nearby hotel, health officials warn - kotaradio.com",
+          "headline": "Investigation Launches into Norwalk Shooting - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
@@ -808,7 +804,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Boyle Heights Fire Reignites at Cold Storage Facility; Shelters Opened - MyNewsLA.com",
+          "headline": "Measles-infected traveler may have exposed passengers at LAX and nearby hotel, health officials warn - kotaradio.com",
           "source": "Google News LA"
         },
         {
@@ -828,19 +824,23 @@
           "source": "Google News LA"
         },
         {
-          "headline": "LA County Board of Supervisors Approves Homelessness Prevention Plan for Wildfire Survivors and At-Risk Residents - Santa Monica Daily Press",
-          "source": "Google News LA"
-        },
-        {
           "headline": "Metro Art joins LACMA\u2019s Block Party and Art Parade this weekend! - LA Metro",
           "source": "Google News LA"
         },
         {
-          "headline": "Prosecutors Union Files Labor Charge Against Hochman Office, LA County - MyNewsLA.com",
+          "headline": "Boyle Heights Fire Reignites at Cold Storage Facility; Shelters Opened - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Measles is again detected at LAX | Los Angeles Times - newspaper - Magzter",
+          "headline": "New Website Reveals a Deadly Truth for Black L.A. Communities - Word In Black",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Los Angeles County Releases LA River Master Plan - American Community Media",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "California raisin company heir Bruce Lion of Lion Raisins charged with hate crimes after alleged threats to rabbi in Los Angeles - ABC7 Los Angeles",
           "source": "Google News LA"
         }
       ],
