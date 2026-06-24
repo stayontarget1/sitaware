@@ -1,10 +1,14 @@
 {
-  "generated": "2026-06-24T17:08:17.774479+00:00",
+  "generated": "2026-06-24T20:28:06.357943+00:00",
   "briefing": "12 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Massive warehouse fire on East Chestnut Avenue prompts evacuations in Monrovia\n- Fire Department wins USC Arcadia Hospital award for fastest stroke response\n- School Board to consider $97 million budget and teacher salary deal\n- City celebrates Fourth of July with concert and fireworks at Library Park",
+      "summary": "- Fire Department wins LA County stroke response award for fastest treatment\n- School Board to consider $97 million budget and teacher salary deal\n- Monrovia receives $20,000 NEA grant for One City, One Story program\n- Ed Cunningham, Monrovia Canyon Park Trail Boss 28 years, dies June 11",
       "headlines": [
+        {
+          "headline": "Cold Duck summer concert at Station Square Park, June 28",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Scottish Soccer Fan Cones Monrovia Statues",
           "source": "Monrovia Now"
@@ -82,10 +86,6 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "4th of July celebration at Library Park - concert at 7:30, fireworks at 9 p.m.",
-          "source": "Monrovia Now"
-        },
-        {
           "headline": "Warehouse fire prompts evacuations in Monrovia, California - Yahoo",
           "source": "Google News"
         },
@@ -114,6 +114,10 @@
           "source": "Google News"
         },
         {
+          "headline": "Seafood Inflation Surges in May 2026: Frozen and Shelf-Stable Prices Rise Over 11% - News and Statistics - IndexBox",
+          "source": "Google News"
+        },
+        {
           "headline": "Trader Joe\u2019s fans brave long lines and heated arguments for new mini summer tote bag - The Independent",
           "source": "Google News"
         },
@@ -122,23 +126,23 @@
           "source": "Google News"
         },
         {
+          "headline": "La Canada vs San Marino JV Baseball - Apr 29, 2027 - Sports Illustrated",
+          "source": "Google News"
+        },
+        {
           "headline": "Monrovia fire update: Massive warehouse blaze at East Chestnut Avenue in California city; scary videos emerge - MSN",
           "source": "Google News"
+        },
+        {
+          "headline": "After Daughter Commits Suicide, SoCal Man Sentenced For Incest",
+          "source": "Patch Monrovia"
         },
         {
           "headline": "Trader Joe's Opens 6 New Stores, With Plans Underway For 9 More \u2014 See Where",
           "source": "Patch Monrovia"
         },
         {
-          "headline": "Carjacking Suspect Accused Of Plowing Into Crowd Held On $10M Bail",
-          "source": "Patch Monrovia"
-        },
-        {
           "headline": "Boy, 13, Falls Off Disneyland Ride's 50-Foot Drop",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "2026 July 4 Fireworks Guide For The San Gabriel Valley",
           "source": "Patch Monrovia"
         },
         {
@@ -191,25 +195,25 @@
         }
       ],
       "relevance": {
-        "0": false,
-        "1": false,
-        "2": true,
+        "0": true,
+        "1": true,
+        "2": false,
         "3": true,
         "4": true,
-        "5": false,
-        "6": true,
+        "5": true,
+        "6": false,
         "7": true,
         "8": true,
         "9": true,
         "10": true,
         "11": true,
-        "12": false,
-        "13": true,
+        "12": true,
+        "13": false,
         "14": true,
         "15": true,
         "16": true,
         "17": true,
-        "18": true,
+        "18": false,
         "19": true,
         "20": true,
         "21": false,
@@ -217,24 +221,24 @@
         "23": false,
         "24": false,
         "25": false,
-        "26": false,
+        "26": true,
         "27": false,
         "28": false,
         "29": true,
         "30": false,
-        "31": false,
+        "31": true,
         "32": false,
         "33": false,
         "34": false,
         "35": false,
-        "36": true,
+        "36": false,
         "37": true,
         "38": true,
         "39": true
       }
     },
     "sgv": {
-      "summary": "- Man arrested in fatal shooting of San Gabriel woman found in Norwalk car\n- Air quality alert Saturday through Monday due to Boyle Heights warehouse fire smoke\n- Extreme heat watch Tuesday through Thursday across San Gabriel Valley and LA County\n- Woman abandons cats in carriers in San Gabriel; seven ragdolls left at humane society",
+      "summary": "- Man arrested for fatal shooting of San Gabriel woman, 25\n- Air quality alert for San Gabriel Valley Saturday through Sunday\n- Extreme heat watch Tuesday through Thursday across San Gabriel Valley\n- Mosquito control treatments planned in Monterey Park",
       "headlines": [
         {
           "headline": "Woman seen abandoning group of cats stuffed in pet carriers in San Gabriel - KTLA",
@@ -258,6 +262,10 @@
         },
         {
           "headline": "Air Quality Advisory Covering Pasadena Extended Through Monday as Boyle Heights Fire Smoke Lingers - Pasadena Now",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "San Gabriel Valley Housing Trust Reaches 1,000-Unit Milestone - MyNewsLA.com",
           "source": "Google News SGV"
         },
         {
@@ -286,10 +294,6 @@
         },
         {
           "headline": "Extreme heat, increased wildfire risk forecast for Los Angeles County - KTLA",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "7 Ragdoll cats abandoned outside San Gabriel Valley Humane Society - Yahoo",
           "source": "Google News SGV"
         },
         {
@@ -357,11 +361,15 @@
           "source": "Pasadena Now"
         },
         {
+          "headline": "SGVRHT Tops 1,000 Affordable Housing Units Across San Gabriel Valley",
+          "source": "Colorado Blvd"
+        },
+        {
           "headline": "Sierra Madre Approves Budget, Maintains Services Without New Taxes",
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Move Review | Obsession",
+          "headline": "Movie Review | Obsession",
           "source": "Colorado Blvd"
         },
         {
@@ -401,8 +409,64 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "LA Arboretum Library Launches Photography Exhibit for America\u2019s 250th Birthday",
-          "source": "Colorado Blvd"
+          "headline": "Trump says he's canceling signing of housing bill at Capitol, saying voting bill should pass Congress first",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Olympian skier Bode Miller pleads not guilty to Idaho misdemeanor drug charges",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Former California State Parks supt. Kevin Pearsall accused of secretly recording lifeguards in men's Bolsa Chica locker room",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Trump holds tense meeting with Senate Republicans after calling off bill signing",
+          "source": "ABC7"
+        },
+        {
+          "headline": "10,000 pounds of illegal fireworks, marijuana products seized in Pasadena",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Tesla news: Texas crash victim Martha Avila's family files lawsuit against car company, driver",
+          "source": "ABC7"
+        },
+        {
+          "headline": "'King of the Hill' Season 15 trailer shows Hank and Peggy's retirement, Bobby's love life and more",
+          "source": "ABC7"
+        },
+        {
+          "headline": "LAUSD approves strict limits on screen time for students. Here's what you need to know",
+          "source": "ABC7"
+        },
+        {
+          "headline": "High-severity wildfires burn 30 times more area than in 1985, UCLA study finds",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Former CA State Parks superintendent accused of secretly recording lifeguards in men's locker room",
+          "source": "ABC7"
+        },
+        {
+          "headline": "These are the best Prime Day deals on beauty essentials",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Proposed rock quarry on San Andreas Fault prompts concern among Wrightwood residents",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Clive Davis, music mogul, dies in New York City at age 94",
+          "source": "ABC7"
+        },
+        {
+          "headline": "'Miss Anita' retires after 50 years of story time in Cape May",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Federal judge bars Trump from implementing proof of citizenship requirement to vote",
+          "source": "ABC7"
         },
         {
           "headline": "Van Nuys opens new tiny home village with 100 beds for people experiencing homelessness",
@@ -421,67 +485,7 @@
           "source": "ABC7"
         },
         {
-          "headline": "Trump abruptly cancels signing a housing bill, blindsiding Republicans",
-          "source": "ABC7"
-        },
-        {
           "headline": "Prime Day competitor sales that are just as good if not better than Amazon",
-          "source": "ABC7"
-        },
-        {
-          "headline": "These Amazon Prime Day mattresses are at their best price of the year",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Amazon Prime Day 2026: Shop our picks for the best deals on tech and home",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Trump says he's canceling signing of housing bill at Capitol, saying voting bill should pass Congress first",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Waymo car caught driving in wrong lane amid World Cup traffic in LA",
-          "source": "ABC7"
-        },
-        {
-          "headline": "SoCal under heat advisory as hot temps stick around; cooldown arrives this weekend",
-          "source": "ABC7"
-        },
-        {
-          "headline": "These are the best Prime Day deals on beauty essentials",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Camp Mystic in Texas files for bankruptcy after catastrophic floods killed 28 people",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Emylee Thai of Houston, Texas added to FBI most wanted fraudster list, accused of nearly $100M in healthcare fraud, genetic testing and kickback scheme",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Trump orders DOJ to investigate oil companies for alleged price gouging",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Score the best 2026 Amazon Prime deals under $50: Wellness, home, beauty, pets and more",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Judge rules government can't stop SNAP dollars from buying candy and sugary drinks",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Frozen meatloaf meals recalled over undeclared soy allergen",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Street vendor suffers brutal attack while working in downtown Los Angeles, video shows",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Rock legend Billy Idol and guitarist Steve Stevens are inducted to the Hollywood's Rockwalk",
           "source": "ABC7"
         }
       ],
@@ -493,43 +497,43 @@
         "4": false,
         "5": false,
         "6": true,
-        "7": false,
-        "8": true,
+        "7": true,
+        "8": false,
         "9": true,
-        "10": false,
+        "10": true,
         "11": true,
-        "12": false,
-        "13": true,
-        "14": false,
-        "15": false,
+        "12": true,
+        "13": false,
+        "14": true,
+        "15": true,
         "16": true,
-        "17": false,
+        "17": true,
         "18": false,
-        "19": false,
+        "19": true,
         "20": false,
-        "21": false,
+        "21": true,
         "22": true,
         "23": true,
         "24": false,
         "25": true,
         "26": true,
         "27": false,
-        "28": false,
+        "28": true,
         "29": false,
         "30": true,
-        "31": false,
-        "32": true,
+        "31": true,
+        "32": false,
         "33": true,
-        "34": false,
-        "35": true,
-        "36": false,
-        "37": false,
+        "34": true,
+        "35": false,
+        "36": true,
+        "37": true,
         "38": true,
-        "39": false
+        "39": true
       }
     },
     "county": {
-      "summary": "- San Andreas fault study shows elevated earthquake risk for major Southern California quake\n- LAUSD passes $21B budget despite spending more money than it has available\n- Half-cent sales tax measure for LAFD funding heads to November ballot\n- Boyle Heights warehouse fire enters eighth day with health and environmental concerns ongoing",
+      "summary": "- San Andreas fault study shows major earthquake risk for Southern California region\n- LAUSD bans devices for youngest students, restricts YouTube in new screen time policy\n- Half-cent sales tax for LA fire department funding advances to November ballot\n- Boyle Heights warehouse fire enters eighth day with ongoing health and air quality concerns",
       "headlines": [
         {
           "headline": "California Science Center visitors will see space shuttle Endeavour in launch position this fall",
@@ -544,7 +548,7 @@
           "source": "LAist"
         },
         {
-          "headline": "Drones will be used to crack down on illegal fireworks this Fourth of July",
+          "headline": "Boyle Heights is going all out for Mexico\u2019s World Cup matches as air quality concerns linger",
           "source": "LAist"
         },
         {
@@ -552,11 +556,15 @@
           "source": "LAist"
         },
         {
-          "headline": "Heat and a chance of thunderstorms: A look at LA\u2019s elevated fire risk this week",
+          "headline": "Here\u2019s what we do, and don\u2019t, know about what\u2019s in the smoke from the Boyle Heights fire",
           "source": "LAist"
         },
         {
-          "headline": "Here\u2019s what we do, and don\u2019t, know about what\u2019s in the smoke from the Boyle Heights fire",
+          "headline": "Why the Kogi x Sam Woo collab this weekend is a love letter to the SGV",
+          "source": "LAist"
+        },
+        {
+          "headline": "Olivia Rodrigo's Daisy Chain Fields festival in Irvine opens a waitlist for tickets",
           "source": "LAist"
         },
         {
@@ -576,15 +584,15 @@
           "source": "LAist"
         },
         {
+          "headline": "Trump renews push to shift homelessness funding. What\u2019s at stake",
+          "source": "LAist"
+        },
+        {
+          "headline": "Trump cancels plans to sign housing bill, in latest sign of tension with his party",
+          "source": "LAist"
+        },
+        {
           "headline": "Trump claims vandals damaged DC Reflecting Pool, and says it will be drained again",
-          "source": "LAist"
-        },
-        {
-          "headline": "The Justice Department is linking public safety money to immigration enforcement",
-          "source": "LAist"
-        },
-        {
-          "headline": "Air Force One, gifted to Trump from Qatar, arrives at Joint Base Andrews",
           "source": "LAist"
         },
         {
@@ -608,8 +616,12 @@
           "source": "LAist"
         },
         {
-          "headline": "California leaders yet to reach deal to keep billionaire tax off the ballot. Time is running out",
-          "source": "LAist"
+          "headline": "Ex-state parks superintendent accused of secretly recording naked lifeguards",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "4 California ice cream shops named among Yelp's Top 5 'most saved' in America",
+          "source": "Fox 11 LA"
         },
         {
           "headline": "Palisades Fire trial: Jury deliberations begin in historic LA wildfire arson case",
@@ -636,15 +648,15 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Family of teen killed by Santa Ana police files legal claim, alleging officers were \u2018trigger-happy\u2019",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Ventura County father gets 1 year in jail for incest after daughter\u2019s suicide",
-          "source": "Fox 11 LA"
-        },
-        {
           "headline": "5.6-magnitude earthquake in Mendocino County",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "California July 1 new laws: Wage hikes, phone-free schools, and tech crackdowns",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "California's 'robotaxi crackdown': New law allows police to cite driverless cars",
           "source": "Fox 11 LA"
         },
         {
@@ -668,11 +680,7 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "San Francisco PD audit shows Flock cameras accessed on behalf of federal, out-of-state agencies",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "California launches free state historic parks pass for Juneteenth and 250th anniversary",
+          "headline": "Video shows Six Flags Over Georgia ride stall, leaving guests stuck mid-air",
           "source": "Fox 11 LA"
         },
         {
@@ -688,23 +696,23 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "'We need your help': Savannah Guthrie issues new plea in search for Nancy Guthrie",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Man Hospitalized After Shooting in Coachella",
+          "headline": "CA Supreme Court Refuses Case of Man Convicted of Officer\u2019s Murder",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Ex-Parks Superintendent Charged With Secretly Recording Naked Lifeguards",
+          "headline": "FEMA Extends Housing Aid for LA Wildfire Survivors",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Jury Deliberations Underway in Palisades Fire Arson Trial",
+          "headline": "Sunland Care Facility Catches Fire",
           "source": "MyNewsLA"
         },
         {
-          "headline": "CSUN Gets $1 Million in STEM Funding",
+          "headline": "Heat to Peak Wednesday Across LA County",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "LACo First Responders Issue Illegal Fireworks Warning",
           "source": "MyNewsLA"
         },
         {
@@ -712,35 +720,31 @@
           "source": "MyNewsLA"
         },
         {
-          "headline": "Plaintiff Firm Says Hochman Has No Direct Interest in Abuse Claimants\u2019 Rights",
+          "headline": "Port of Long Beach OKs $58M for Clean Technology",
           "source": "MyNewsLA"
         },
         {
-          "headline": "OC Supes OK $500,000 for Those Impacted by GKN Aerospace Crisis",
+          "headline": "Science Center Unveils Vertical Shuttle Display",
           "source": "MyNewsLA"
         },
         {
-          "headline": "SPCA-LA Offers July 4 Pet Safety Advice",
+          "headline": "Woman Fatally Struck by Train Near Corona",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Viewing Parties Set for Mexico-Czech Republic World Cup Match",
+          "headline": "LA Archdiocese News Outlet Wins 19 Media Awards",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Family Replies to LACo Bid to Dismiss Suit Over Late NFL Player\u2019s Death",
+          "headline": "USC Study Puts 2026 Dementia Cost at $818 Billion",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Silver Alert Still in Effect for 74-Year-Old Man Last Seen in Covina",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Los Angeles Business Journal Names Kristen Cerf CEO of the Year - Blue Shield of California | News Center",
+          "headline": "Visi\u00f3n y Compromiso Launches MOVES Program Mobile Unit to Expand Health Services Across Los Angeles County, Supported by the Centene Foundation and Health Net - Centene Corporation",
           "source": "Google News LA"
         },
         {
-          "headline": "The Clock: Christian Marclay\u2019s 24-Hour Artwork Is Returning to Los Angeles - LACMA",
+          "headline": "Los Angeles Business Journal Names Kristen Cerf CEO of the Year - Blue Shield of California | News Center",
           "source": "Google News LA"
         },
         {
@@ -748,11 +752,23 @@
           "source": "Google News LA"
         },
         {
+          "headline": "The Clock: Christian Marclay\u2019s 24-Hour Artwork Is Returning to Los Angeles - LACMA",
+          "source": "Google News LA"
+        },
+        {
           "headline": "LA County Lobbying: Torres Consulting Q3 2025 - Legis1",
           "source": "Google News LA"
         },
         {
-          "headline": "Food Insecurity in Los Angeles County and How the Los Angeles Regional Food Bank Helps - Los Angeles Regional Food Bank",
+          "headline": "Los Angeles weather: Southern California under heat advisory with thunderstorm chances Wednesday - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Supervisor Kathryn Barger Issues Statement on $50.3 Billion L.A. County Final Budget - COUNTY OF LOS ANGELES (.gov)",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "One Year Later - COUNTY OF LOS ANGELES (.gov)",
           "source": "Google News LA"
         },
         {
@@ -764,7 +780,15 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Supervisor Kathryn Barger Issues Statement on $50.3 Billion L.A. County Final Budget - COUNTY OF LOS ANGELES (.gov)",
+          "headline": "Food Insecurity in Los Angeles County and How the Los Angeles Regional Food Bank Helps - Los Angeles Regional Food Bank",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LACo Heat Likely to Peak Wednesday - MyNewsLA.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "The Best Way to Eliminate Methane Leaks is to Drill - California Policy Center",
           "source": "Google News LA"
         },
         {
@@ -776,23 +800,15 @@
           "source": "Google News LA"
         },
         {
+          "headline": "This rural, California county approved a massive new data center. Then it changed its mind. - CalMatters",
+          "source": "Google News LA"
+        },
+        {
           "headline": "LA County Heat Advisory Runs Through Thursday - westsidecurrent.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Imperial County approved a massive data center. Then it changed its mind. - CalMatters",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "BUTTERFLI TECHNOLOGIES CEO DELILAH LANOIX NAMED INNOVATOR OF THE YEAR BY LOS ANGELES BUSINESS JOURNAL - EIN News",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Viewing Parties Set for Mexico-Czech Republic World Cup Match - MyNewsLA.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Plaintiff Firm Says Hochman Has No Direct Interest in Abuse Claimants\u2019 Rights - MyNewsLA.com",
+          "headline": "LACo First Responders Issue Illegal Fireworks Warning - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
@@ -800,19 +816,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Supervisors Pass Emergency Declaration for Boyle Heights Fire - MyNewsLA.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles County Sheriff's Department - facebook.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Keck School of Medicine of USC launches pioneering collaboration to improve breast cancer screening, access, and outcomes in Los Angeles County - Keck School of Medicine of USC",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Heatwave expected to bring high temps across Southern California - Ventura County Star",
+          "headline": "Viewing Parties Set for Mexico-Czech Republic World Cup Match - MyNewsLA.com",
           "source": "Google News LA"
         }
       ],
