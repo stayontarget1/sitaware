@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-27T16:09:27.448184+00:00",
-  "briefing": "8 AM",
+  "generated": "2026-06-27T20:03:12.768158+00:00",
+  "briefing": "12 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Monrovia competes for All-America City Award this weekend\n- Monrovia Fire receives fastest stroke response award in LA County\n- Monrovia Music Fest brings entertainment to Old Town Sunday\n- LED retrofit of Huntington Drive street lights completed",
+      "summary": "- Monrovia Fire Department awarded fastest stroke response time in LA County\n- Monrovia competes for All-America City Award this weekend\n- LED retrofit of Huntington Drive street lights completed\n- Solid waste collection rates increasing 4.68% starting July 1",
       "headlines": [
         {
           "headline": "Foothill Unity Center Back-to-School event July 29",
@@ -98,6 +98,10 @@
           "source": "Google News"
         },
         {
+          "headline": "Feds Unearth Bullet-Riddled Dog Corpses, 600 Collars Near Mass Graves At Rescue Sanctuary",
+          "source": "Patch Monrovia"
+        },
+        {
           "headline": "Measles Outbreak: New Case Confirmed In LA County",
           "source": "Patch Monrovia"
         },
@@ -106,7 +110,15 @@
           "source": "Patch Monrovia"
         },
         {
-          "headline": "Woman Violently Attacked In Long Beach During Robbery As Witnesses Standby: Report",
+          "headline": "White Lies, Honesty And The Etiquette Of Telling The Truth [The Question]",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "How To Tell Neighbors They Cannot Use Your Swimming Pool: Block Talk",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "What To Watch This Weekend: 'Supergirl,' 'The Invite,' 'Jackass,' New 'The Bear' And 'House of the Dragon'",
           "source": "Patch Monrovia"
         },
         {
@@ -115,6 +127,10 @@
         },
         {
           "headline": "2026 July 4 Fireworks Guide For The San Gabriel Valley",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "Olympic Volunteers Needed + James Beard Winners + America250 Events In SoCal: Saturday Smiles",
           "source": "Patch Monrovia"
         },
         {
@@ -192,20 +208,21 @@
         "26": false,
         "27": false,
         "28": false,
-        "29": true,
-        "30": true,
-        "31": true,
-        "32": true,
+        "29": false,
+        "30": false,
+        "31": false,
+        "32": false,
         "33": true,
         "34": true,
         "35": true,
         "36": true,
         "37": true,
-        "38": true
+        "38": true,
+        "39": true
       }
     },
     "sgv": {
-      "summary": "- Air quality advisory extended through Monday due to Boyle Heights warehouse fire smoke\n- San Gabriel Valley Housing Trust reaches 1,000 affordable housing units milestone\n- July 4 fireworks and holiday events scheduled across San Gabriel Valley communities\n- Extreme heat watch and air quality alert raise health concerns countywide",
+      "summary": "- Air quality advisory extended through Monday due to Boyle Heights warehouse fire smoke\n- San Gabriel Valley Housing Trust reaches 1,000 affordable housing units milestone\n- July 4 fireworks events and activities planned across San Gabriel Valley region",
       "headlines": [
         {
           "headline": "Things to do in the San Gabriel Valley area, June 26-July 4 - San Gabriel Valley Tribune",
@@ -228,10 +245,6 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Man arrested for Norwalk fatal shooting of San Gabriel woman, 25, found in car - Whittier Daily News",
-          "source": "Google News SGV"
-        },
-        {
           "headline": "San Gabriel Valley Comedy Festival Announces 2026 Featured Comedians - The National Law Review",
           "source": "Google News SGV"
         },
@@ -248,11 +261,19 @@
           "source": "Google News SGV"
         },
         {
+          "headline": "LA declares state of emergency as Boyle Heights fire continues spewing smoke across region - The Seattle Times",
+          "source": "Google News SGV"
+        },
+        {
           "headline": "Air Quality Advisory Covering Pasadena Extended Through Monday as Boyle Heights Fire Smoke Lingers - Pasadena Now",
           "source": "Google News SGV"
         },
         {
           "headline": "SGVRHT Tops 1,000 Affordable Housing Units Across San Gabriel Valley - ColoradoBoulevard.net",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Man arrested for Norwalk fatal shooting of San Gabriel woman, 25, found in car - Whittier Daily News",
           "source": "Google News SGV"
         },
         {
@@ -268,10 +289,6 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Extreme Heat Watch and Air Quality Alert Raise Health Concerns Across San Gabriel Valley and Los Angeles County - ColoradoBoulevard.net",
-          "source": "Google News SGV"
-        },
-        {
           "headline": "Air quality alert for Los Angeles County Sunday - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
@@ -280,11 +297,11 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "LA declares state of emergency as Boyle Heights fire continues spewing smoke across region - The Seattle Times",
+          "headline": "Larry Wilson: Imagining California in 2276 - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "Larry Wilson: Imagining California in 2276 - San Gabriel Valley Tribune",
+          "headline": "Boyle Heights warehouse fire sparks new questions over industrial toxins in LA County neighborhoods - Los Angeles Daily News",
           "source": "Google News SGV"
         },
         {
@@ -376,15 +393,23 @@
           "source": "Colorado Blvd"
         },
         {
+          "headline": "Venezuela earthquake death toll rises to 1,430 as desperation mounts",
+          "source": "ABC7"
+        },
+        {
+          "headline": "La Brea Tar Pits to host farewell disco party before temporarily closing for 2-year renovation",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Pete Buttigieg and his kids were targeted by child services swatting call, police say",
+          "source": "ABC7"
+        },
+        {
           "headline": "Angels fire general manager Perry Minasian, bring in John Mozeliak as consultant",
           "source": "ABC7"
         },
         {
           "headline": "Are Taylor Swift and Travis Kelce getting married at Madison Square Garden? What we know",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Pete Buttigieg and his kids were targeted by child services swatting call, police say",
           "source": "ABC7"
         },
         {
@@ -446,14 +471,6 @@
         {
           "headline": "En las zonas m\u00e1s violentas de M\u00e9xico, el miedo se impone al entusiasmo por el Mundial",
           "source": "ABC7"
-        },
-        {
-          "headline": "Trump threatens 100% tax if European countries impose digital services tax",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Gracie the Giraffe, who was on the loose in Texas Hill Country, found safe, authorities say",
-          "source": "ABC7"
         }
       ],
       "relevance": {
@@ -462,29 +479,29 @@
         "2": true,
         "3": true,
         "4": false,
-        "5": true,
-        "6": false,
+        "5": false,
+        "6": true,
         "7": true,
         "8": true,
-        "9": true,
-        "10": false,
+        "9": false,
+        "10": true,
         "11": true,
         "12": true,
         "13": true,
-        "14": false,
+        "14": true,
         "15": true,
         "16": true,
         "17": true,
-        "18": false,
-        "19": true,
+        "18": true,
+        "19": false,
         "20": false,
         "21": true,
         "22": false,
-        "23": true,
+        "23": false,
         "24": false,
         "25": false,
         "26": true,
-        "27": true,
+        "27": false,
         "28": false,
         "29": false,
         "30": true,
@@ -492,15 +509,15 @@
         "32": true,
         "33": false,
         "34": false,
-        "35": true,
-        "36": true,
-        "37": true,
+        "35": false,
+        "36": false,
+        "37": false,
         "38": true,
         "39": true
       }
     },
     "county": {
-      "summary": "- Judge declares mistrial in deadly Palisades Fire case after jury deadlock\n- More than 250,000 Californians will have medical debt abolished\n- LA property owners vote down streetlight fee increase\n- Free soil testing available after Boyle Heights warehouse fire",
+      "summary": "- Judge declares mistrial for man accused of starting deadly Palisades Fire\n- Long Beach confirms first human case of West Nile in California\n- LAFD whistleblower exposes alleged department negligence following Palisades Fire mistrial\n- Free soil testing available after Boyle Heights warehouse fire contamination",
       "headlines": [
         {
           "headline": "Inside the Koreatown night spot that became a Street Fighter boot camp",
@@ -515,15 +532,15 @@
           "source": "LAist"
         },
         {
+          "headline": "Long Beach confirms first human case of West Nile in California",
+          "source": "LAist"
+        },
+        {
+          "headline": "5 million have dropped ACA insurance after Trump and the GOP let prices skyrocket",
+          "source": "LAist"
+        },
+        {
           "headline": "Judge declares mistrial for man accused of starting deadly Palisades Fire",
-          "source": "LAist"
-        },
-        {
-          "headline": "More than a quarter-million Californians will have their medical debt abolished",
-          "source": "LAist"
-        },
-        {
-          "headline": "LA and Orange counties certify primary election results",
           "source": "LAist"
         },
         {
@@ -532,10 +549,6 @@
         },
         {
           "headline": "CHOC to extend trans youth care for 6 months. Where does that leave families?",
-          "source": "LAist"
-        },
-        {
-          "headline": "Measure to kill LA\u2019s \u2018mansion tax\u2019 won\u2019t be on November ballot after all",
           "source": "LAist"
         },
         {
@@ -583,6 +596,30 @@
           "source": "LAist"
         },
         {
+          "headline": "Inglewood\u2019s video billboards score a major win in court battle with stadiums",
+          "source": "LAist"
+        },
+        {
+          "headline": "Northridge father detained by ICE despite winning years-long immigration case",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "LAFD whistleblower exposes alleged department negligence following Palisades Fire mistrial",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Andr\u00e9s Chait appointed new LAUSD superintendent following Alberto Carvalho resignation",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Rats and rotting food threaten Boyle Heights after Lineage warehouse fire",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "As the World Cup brings the world to Los Angeles, Miya Miya is serving up a taste of Jordan",
+          "source": "Fox 11 LA"
+        },
+        {
           "headline": "Katsuya Uechi, sushi chef who helped redefine Japanese dining, dies at 67",
           "source": "Fox 11 LA"
         },
@@ -592,26 +629,6 @@
         },
         {
           "headline": "Trump urges Spencer Pratt to fight 'rigged' LA mayoral election: 'He shouldn't go away quietly'",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Palisades Fire trial: Mistrial declared after jury deadlocks",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Electric scooter rider killed in Riverside crash",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Palmdale drug bust: Illegal dumping complaint leads to massive 800-pound meth seizure",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Mom of 2 says she was beaten, robbed after leaving a restaurant's World Cup watch party in Long Beach",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Jury deadlocked in trial of man accused of sparking historic Palisades Fire",
           "source": "Fox 11 LA"
         },
         {
@@ -647,20 +664,56 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Celebrity deaths of 2026: The entertainers and artists we lost this year",
+          "headline": "Nancy Guthrie case: Tipster demands one Bitcoin for video and location of kidnappers, TMZ reports",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Massachusetts House passes bill protecting libraries from book bans",
+          "headline": "Mortgage rates edge higher amid Iran tensions, inflation uncertainty",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Nancy Guthrie: TMZ receives new email claiming to have video evidence of suspect",
+          "headline": "Trump shares new image of America 250 passport featuring photo of himself",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Colorado mom allegedly bought alcohol daily for 16-year-old daughter found dead with 173 empty bottles",
+          "headline": "Ex-youth pastor arrested in 20-year-old death of wife at Zion National Park",
           "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Man Shot to Death in Hollywood",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Man Suffers Non-Life-Threatening Stab Wounds in Long Beach",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "LA County Registrar Certifies Results of June 2 Primary",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Person Killed in Three-Vehicle Crash Near Downtown LA Freeway Off-Ramp",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Southland Gas Prices Are Still Dropping",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Woman, 22, Arrested for Allegedly Stabbing Man to Death in Arleta",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Angeles Fire GM, Install John Mozeliak on Interim Basis",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Person Fatally Struck By Vehicle at Downtown LA Freeway Off-Ramp",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Riverside County Gas Prices at Lowest Amount Since March 12",
+          "source": "MyNewsLA"
         },
         {
           "headline": "Long Beach Animal Shelter Celebrates Pet Adoption Day",
@@ -671,59 +724,23 @@
           "source": "MyNewsLA"
         },
         {
-          "headline": "LACo World Cup Watch Parties Set For All Six Matches",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Attorney Objects to Release of Mental Health Records of Woman Who Allegedly Drowned Her Partner",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Police Arrest Woman For DUI After Mid-City Crash",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "110 Freeway Crash Near Pasadena Leaves One Injured",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "`The Deb\u2019 Producers Suing Rebel Wilson Request Depositions from Australia",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "La Brea Tar Pits to Host Disco Party Before Closing for Renovations",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Judge Considers Bid For $250K Default Judgment Against Rapper",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "CHP Activates Silver Alert For At-Risk Man Last Seen in Paramount",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Mega Millions Jackpot Climbs to $511M",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "LA County search and rescue team deploys to Venezuela after deadly earthquakes - ABC7 Los Angeles",
+          "headline": "Los Angeles weather: Southern California to see mild temps amid wind advisory, fire danger in some parts - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "A Reminder to Be Earthquake Ready - Los Angeles County Sheriff's Department",
+          "headline": "An explosion scare, then a warehouse fire: Californians want answers about hazardous chemicals - CalMatters",
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County Probation Department Joins Local Law Enforcement Partners for Southeast Cities Compliance Operation \u2013 COUNTY OF LOS ANGELES - COUNTY OF LOS ANGELES (.gov)",
+          "headline": "LA County Registrar Certifies Results of June 2 Primary - MyNewsLA.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "A Reminder to Be Earthquake Ready | Los Angeles County Sheriff\u2019s Department - Los Angeles County Sheriff's Department",
           "source": "Google News LA"
         },
         {
           "headline": "*UPD* #LASD is Advising At-Risk Missing Person, Jessica Lopez, Has Been Located Los Angeles County Sheriff's Department Missing Person's Detail is advising Jessica Lopez has been located. Thank you to the public, the media, and deputy personnel for t - facebook.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "City of Palmdale code enforcement investigation leads to discovery of over 800 pounds of methamphetamine in massive bust - PublicCEO",
           "source": "Google News LA"
         },
         {
@@ -731,7 +748,19 @@
           "source": "Google News LA"
         },
         {
+          "headline": "City of Palmdale code enforcement investigation leads to discovery of over 800 pounds of methamphetamine in massive bust - PublicCEO",
+          "source": "Google News LA"
+        },
+        {
           "headline": "What they\u2019re saying: Leaders thankful for continued resources to help Los Angeles fire survivors - California State Portal | CA.gov",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LA County search and rescue team deploys to Venezuela after deadly earthquakes - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "La Brea Tar Pits to host disco party Saturday before temporarily closing for 2-year renovation - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -739,15 +768,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Detectives from the Los Angeles County Sheriff\u2019s Department are advising Adolfo Angel Bahena has been located. Thank you to the public, the media, and deputy personnel for their tireless efforts in the search for Adolfo. - facebook.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "SCV News | Drug-Related Overdose Deaths in L.A. County Continue to Fall - SCVNews.com",
-          "source": "Google News LA"
-        },
-        {
           "headline": "Over 800 pounds of meth seized after illegal dumping investigation uncovers large lab in Palmdale, authorities say - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Detectives from the Los Angeles County Sheriff\u2019s Department are advising Adolfo Angel Bahena has been located. Thank you to the public, the media, and deputy personnel for their tireless efforts in the search for Adolfo. - facebook.com",
           "source": "Google News LA"
         },
         {
@@ -755,19 +780,11 @@
           "source": "Google News LA"
         },
         {
+          "headline": "SCV News | Drug-Related Overdose Deaths in L.A. County Continue to Fall - SCVNews.com",
+          "source": "Google News LA"
+        },
+        {
           "headline": "LASD Investigation Into Illegal Dumping Leads To Discovery Of Major Meth Laboratory In Antelope Valley - VVNG",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Judge Rejects DA\u2019s Fraud-Based Bid to Pause County Abuse Payouts - westsidecurrent.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "News | Los Angeles unemployment rate holds steady in May as hospitality hiring accelerates - CoStar",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "County Reports Third Consecutive Decline in Drug Overdose Deaths - Palisades News",
           "source": "Google News LA"
         },
         {
@@ -775,11 +792,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County Sheriff\u2019s Department East Los Angeles Station is asking for the public\u2019s help locating At-Risk Missing Juvenile, Haylee Jaynes Lopez. Haylee was last seen on Wednesday, June 24, 2026, at approximately 5:30 p.m., near the 500 block of S - facebook.com",
+          "headline": "Judge Rejects DA\u2019s Fraud-Based Bid to Pause County Abuse Payouts - westsidecurrent.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Judge in $4B Sex Abuse Settlement Rejects Los Angeles DA's Intervention: 'I Am Not in the Business of Policing Private Settlements' - Law.com",
+          "headline": "Los Angeles County Sheriff\u2019s Department East Los Angeles Station is asking for the public\u2019s help locating At-Risk Missing Juvenile, Haylee Jaynes Lopez. Haylee was last seen on Wednesday, June 24, 2026, at approximately 5:30 p.m., near the 500 block of S - facebook.com",
           "source": "Google News LA"
         },
         {
