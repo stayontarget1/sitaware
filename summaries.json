@@ -1,10 +1,14 @@
 {
-  "generated": "2026-06-28T16:16:15.579240+00:00",
-  "briefing": "8 AM",
+  "generated": "2026-06-28T20:07:09.290927+00:00",
+  "briefing": "12 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Monrovia competes for All-America City Award this weekend\n- Monrovia Fire receives fastest stroke response award in LA County\n- LED retrofit of Huntington Drive street lights now complete\n- Solid waste collection rates increasing 4.68% starting July 1",
+      "summary": "- Monrovia competes for All-America City Award this weekend\n- Fire Department earns fastest stroke response award in LA County\n- Monrovia Music Fest underway; back-to-school event July 29\n- Solid waste collection rates increasing 4.68% starting July 1",
       "headlines": [
+        {
+          "headline": "Monrovia Music Fest is on",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Foothill Unity Center Back-to-School event July 29",
           "source": "Monrovia Now"
@@ -82,8 +86,8 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "World Cup Watch Party at Library Park, June 25",
-          "source": "Monrovia Now"
+          "headline": "Trader Joes Opens 6 New Stores, With Plans Underway For 9 More -- See Where - Patch",
+          "source": "Google News"
         },
         {
           "headline": "Wyatt Barrier - Monrovia Wildcats Baseball (Monrovia, CA) - Sports Illustrated",
@@ -98,19 +102,11 @@
           "source": "Patch Monrovia"
         },
         {
+          "headline": "New CA Laws Taking Effect July: What Residents Need To Know",
+          "source": "Patch Monrovia"
+        },
+        {
           "headline": "Feds Unearth Bullet-Riddled Dog Corpses, 600 Collars Near Mass Graves At Rescue Sanctuary",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "White Lies, Honesty And The Etiquette Of Telling The Truth [The Question]",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "How To Tell Neighbors They Cannot Use Your Swimming Pool: Block Talk",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "What To Watch This Weekend: 'Supergirl,' 'The Invite,' 'Jackass,' New 'The Bear' And 'House of the Dragon'",
           "source": "Patch Monrovia"
         },
         {
@@ -118,11 +114,19 @@
           "source": "Patch Monrovia"
         },
         {
+          "headline": "It\u2019s Not Easy Being The Blue M&M As Candy Gets \u2018MAHA\u2019 Makeover",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "For America's 250th, Patch Wants To Know What It Means To You",
+          "source": "Patch Monrovia"
+        },
+        {
           "headline": "Trader Joe's Opens 6 New Stores, With Plans Underway For 9 More \u2014 See Where",
           "source": "Patch Monrovia"
         },
         {
-          "headline": "Olympic Volunteers Needed + James Beard Winners + America250 Events In SoCal: Saturday Smiles",
+          "headline": "Fireworks Are Legal In These California Cities In 2026",
           "source": "Patch Monrovia"
         },
         {
@@ -172,8 +176,8 @@
       ],
       "relevance": {
         "0": true,
-        "1": false,
-        "2": true,
+        "1": true,
+        "2": false,
         "3": true,
         "4": true,
         "5": true,
@@ -182,8 +186,8 @@
         "8": true,
         "9": true,
         "10": true,
-        "11": false,
-        "12": true,
+        "11": true,
+        "12": false,
         "13": true,
         "14": true,
         "15": true,
@@ -193,7 +197,7 @@
         "19": true,
         "20": false,
         "21": false,
-        "22": false,
+        "22": true,
         "23": false,
         "24": false,
         "25": false,
@@ -202,7 +206,7 @@
         "28": false,
         "29": false,
         "30": false,
-        "31": true,
+        "31": false,
         "32": true,
         "33": true,
         "34": true,
@@ -214,7 +218,7 @@
       }
     },
     "sgv": {
-      "summary": "- San Gabriel Valley Housing Trust reaches 1,000 affordable housing units milestone\n- Air quality advisory extended through Monday due to Boyle Heights fire smoke\n- Woman arrested in connection with fatal shooting of San Gabriel resident\n- July 4th fireworks and events guide available for San Gabriel Valley",
+      "summary": "- San Gabriel Valley Housing Trust reaches 1,000 affordable housing units milestone\n- Air quality advisory extended through Monday due to Boyle Heights fire smoke\n- Heat advisory issued for Los Angeles County Tuesday through Thursday\n- July 4th fireworks guide and events scheduled throughout San Gabriel Valley",
       "headlines": [
         {
           "headline": "Things to do in the San Gabriel Valley area, June 26-July 4 - San Gabriel Valley Tribune",
@@ -253,10 +257,6 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Boyle Heights warehouse fire sparks new questions over industrial toxins in LA County neighborhoods - Los Angeles Daily News",
-          "source": "Google News SGV"
-        },
-        {
           "headline": "Meet Alley, Jordan and Alec, this week\u2019s Pets of the Week in the San Gabriel Valley - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
@@ -266,10 +266,6 @@
         },
         {
           "headline": "SGVRHT Tops 1,000 Affordable Housing Units Across San Gabriel Valley - ColoradoBoulevard.net",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "DBSA San Gabriel Valley Support Alliance - ColoradoBoulevard.net",
           "source": "Google News SGV"
         },
         {
@@ -294,6 +290,14 @@
         },
         {
           "headline": "Heat advisory issued for Los Angeles County from Tuesday to Thursday - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Boyle Heights warehouse fire sparks new questions over industrial toxins in LA County neighborhoods - Los Angeles Daily News",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Money went missing after West Covina police officer searched their cars, drivers testify in theft case - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -337,6 +341,18 @@
           "source": "Pasadena Now"
         },
         {
+          "headline": "Pasadena to Host Final Public Workshop for Jefferson Park Stormwater Project",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Chu, 25 House Democrats Ask Home Depot, Lowe\u2019s About ICE Activity at Store Locations",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Thoughts for Pennies: \u201cRemembering Humanity\u201d",
+          "source": "Colorado Blvd"
+        },
+        {
           "headline": "Picnic One Day, Parade the Next: Sierra Madre\u2019s Fourth of July Celebration",
           "source": "Colorado Blvd"
         },
@@ -373,16 +389,36 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Mt. Wilson Observatory Opens New Arts Exhibition Featuring Russell Crotty",
-          "source": "Colorado Blvd"
+          "headline": "Pasadena restaurant owner with family in Venezuela leads donation drive after deadly earthquakes",
+          "source": "ABC7"
         },
         {
-          "headline": "Pasadena Launches Free NOAA Weather Alert Radio Program for Residents",
-          "source": "Colorado Blvd"
+          "headline": "LA County firefighters arrive in Venezuela to assist in search, rescue and damage assessment efforts",
+          "source": "ABC7"
         },
         {
-          "headline": "Monterey Park Launches Air Purifier Reimbursement Program for Income\u2011Qualified Residents",
-          "source": "Colorado Blvd"
+          "headline": "Happy birthday, 2000 Year Old Man. Mel Brooks is turning 100",
+          "source": "ABC7"
+        },
+        {
+          "headline": "1 killed, 6 injured in triple shooting during Carson street takeover",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Trump names Lance Schroyer as new ICE director nominee",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Long Beach reports first West Nile case",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Dwayne Johnson is \"protective\" of 'Moana' live-action because \"the animated film was so good\"",
+          "source": "ABC7"
+        },
+        {
+          "headline": "New 3D video analysis of Eaton Fire raises questions about SoCal Edison's role in deadly blaze",
+          "source": "ABC7"
         },
         {
           "headline": "Skydiving plane crashes in northeastern France, killing all 11 people on board",
@@ -393,19 +429,11 @@
           "source": "ABC7"
         },
         {
-          "headline": "1 killed, 2 injured in triple shooting during Carson street takeover",
-          "source": "ABC7"
-        },
-        {
           "headline": "Dodgers' Miguel Rojas works to move family from Venezuela after deadly earthquakes",
           "source": "ABC7"
         },
         {
           "headline": "'It made me eager to want to learn:' How this LA nonprofit is changing lives one tutor at a time",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Happy birthday, 2000 Year Old Man. Mel Brooks is turning 100",
           "source": "ABC7"
         },
         {
@@ -439,30 +467,6 @@
         {
           "headline": "Duarte man shot while tackling gunman at World Cup watch party thanks officer for saving his life",
           "source": "ABC7"
-        },
-        {
-          "headline": "Man arrested after BB gun shooting during naked bike ride in downtown LA, police say",
-          "source": "ABC7"
-        },
-        {
-          "headline": "The ultimate guide to America 250 merchandise for an epic celebration",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Woman stabbed ex to death after he broke into her Arleta home and assaulted her, LAPD says",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Venezuela earthquakes death toll rises to at least 1,430 as desperation mounts",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Trump names Lance Schroyer as new ICE director nominee",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Pete Buttigieg and his kids were targeted by child services swatting call, police say",
-          "source": "ABC7"
         }
       ],
       "relevance": {
@@ -475,41 +479,41 @@
         "6": true,
         "7": true,
         "8": true,
-        "9": false,
+        "9": true,
         "10": true,
         "11": true,
         "12": true,
         "13": true,
-        "14": true,
-        "15": true,
-        "16": true,
-        "17": false,
+        "14": false,
+        "15": false,
+        "16": false,
+        "17": true,
         "18": false,
         "19": true,
         "20": true,
         "21": true,
         "22": true,
-        "23": true,
+        "23": false,
         "24": true,
         "25": true,
         "26": true,
         "27": true,
         "28": true,
-        "29": true,
+        "29": false,
         "30": true,
-        "31": true,
-        "32": true,
-        "33": false,
-        "34": false,
+        "31": false,
+        "32": false,
+        "33": true,
+        "34": true,
         "35": true,
-        "36": true,
-        "37": true,
+        "36": false,
+        "37": false,
         "38": true,
         "39": true
       }
     },
     "county": {
-      "summary": "- Long Beach confirms first human case of West Nile virus in California\n- GKN Aerospace cleanup in Garden Grove begins Monday with hazardous chemical concerns\n- LAFD whistleblower exposes alleged negligence following Palisades Fire mistrial\n- Andr\u00e9s Chait appointed new LAUSD superintendent after Alberto Carvalho resignation",
+      "summary": "- Long Beach confirms first human case of West Nile virus in California\n- GKN Aerospace cleanup in Garden Grove begins Monday with hazardous chemical concerns\n- LAFD whistleblower exposes alleged negligence following Palisades Fire mistrial investigation\n- Andr\u00e9s Chait appointed new LAUSD superintendent after Alberto Carvalho resignation",
       "headlines": [
         {
           "headline": "How San Pedro\u2019s Sunken City fell into the ocean \u2014 and why you might be able to visit the remnants",
@@ -672,6 +676,34 @@
           "source": "Fox 11 LA"
         },
         {
+          "headline": "Brush Fire Now Mapped at 635 Acres in Moreno Valley",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Man Shot to Death During Street Takeover in Carson",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Riverside County Gas Prices at Lowest Amount Since March 11",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "LAFD May Turn Fire-Damaged Warehouse Over to Company on Monday",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Man Refuses Hospital Transport For Stab Wound in Long Beach",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "`Toy Story 5\u2032 Still Tops at Box Office with $70 Million",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Man Shot to Death During Street Takeover in Carson",
+          "source": "MyNewsLA"
+        },
+        {
           "headline": "Southland Gas Prices Are Still Dropping",
           "source": "MyNewsLA"
         },
@@ -688,39 +720,23 @@
           "source": "MyNewsLA"
         },
         {
-          "headline": "Settlement `In Principle\u2019 Reached in High School Social Media Spat",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Hazardous Materials Cleanup Starts Monday at Garden Grove Burn Site",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Canada Faces South Africa in World Cup Knockout Stage Opener at SoFi",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "LAUSD Board Reportedly Threatened to Fire Carvalho Resignation",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Fatal Shooting in Unincorporated Area of Carson",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Woman Wins Round in Court in Wrongful Termination Suit Against LA Archdiocese",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Driver Dies from Medical Emergency on Burbank Freeway",
-          "source": "MyNewsLA"
+          "headline": "Election results 2026: Live updates for the California Primary Election - ABC7 Los Angeles",
+          "source": "Google News LA"
         },
         {
           "headline": "L.A. County overdose deaths decline for third straight year - EMS1",
           "source": "Google News LA"
         },
         {
+          "headline": "Today, we recognize and celebrate Pride Day, honoring the LGBTQ+ community and the diversity that strengthens our Department and the communities we serve. The Los Angeles County Sheriff's Department remains committed to fostering an environment of - facebook.com",
+          "source": "Google News LA"
+        },
+        {
           "headline": "LA County search and rescue team deploys to Venezuela after deadly earthquakes - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Venezuela earthquakes: Los Angeles County firefighters assist in search, rescue and damage assessment efforts - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -736,7 +752,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Protecting Los Angeles County means serving in many different environments, and for the Parks Bureau Boat and Safety Team, that mission extends onto the water. At Pyramid Lake, Sergeant Weathers and his team promote public safety, assist visitors, educa - facebook.com",
+          "headline": "Los Angeles weather: June Gloom sticks around Southern California ahead of holiday weekend warmup - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -744,19 +760,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "LA County Registrar Certifies Results of June 2 Primary - MyNewsLA.com",
-          "source": "Google News LA"
-        },
-        {
           "headline": "An explosion scare, then a warehouse fire: Californians want answers about hazardous chemicals - CalMatters",
           "source": "Google News LA"
         },
         {
-          "headline": "La Brea Tar Pits hosts farewell disco party Saturday before temporarily closing for 2-year renovation - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Detectives from the Los Angeles County Sheriff\u2019s Department are advising Adolfo Angel Bahena has been located. Thank you to the public, the media, and deputy personnel for their tireless efforts in the search for Adolfo. - facebook.com",
+          "headline": "LA County Registrar Certifies Results of June 2 Primary - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
@@ -768,11 +776,15 @@
           "source": "Google News LA"
         },
         {
-          "headline": "LA Opera\u2019s 40th Anniversary Season Marks Growing Impact Across Los Angeles - OperaWire",
+          "headline": "SCV News | Drug-Related Overdose Deaths in L.A. County Continue to Fall - SCVNews.com",
           "source": "Google News LA"
         },
         {
-          "headline": "SCV News | Drug-Related Overdose Deaths in L.A. County Continue to Fall - SCVNews.com",
+          "headline": "La Brea Tar Pits hosts farewell disco party Saturday before temporarily closing for 2-year renovation - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LA Opera\u2019s 40th Anniversary Season Marks Growing Impact Across Los Angeles - OperaWire",
           "source": "Google News LA"
         },
         {
@@ -785,14 +797,6 @@
         },
         {
           "headline": "Over 800 pounds of meth seized after illegal dumping investigation uncovers large lab in Palmdale, authorities say - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "News | Los Angeles unemployment rate holds steady in May as hospitality hiring accelerates - CoStar",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles\u2019s 2026 Michelin Stars, Mapped - Eater Los Angeles",
           "source": "Google News LA"
         }
       ],
