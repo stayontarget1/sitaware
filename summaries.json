@@ -1,10 +1,14 @@
 {
-  "generated": "2026-07-03T02:41:25.790752+00:00",
-  "briefing": "5 PM",
+  "generated": "2026-07-03T16:38:39.922004+00:00",
+  "briefing": "8 AM",
   "columns": {
     "monrovia": {
-      "summary": "- Monrovia competes for All-America City Award this weekend\n- Free 4th of July concert and fireworks at Library Park\n- Monrovia Police: Bear enters house; multiple arrests and thefts reported\n- Solid waste collection rates increasing 4.68% starting July 1",
+      "summary": "- Monrovia competes for All-America City Award this weekend\n- Free 4th of July concert and fireworks at Library Park\n- Monrovia Police report bear enters home, multiple crime incidents\n- LED retrofit of Huntington Drive street lights completed",
       "headlines": [
+        {
+          "headline": "Coming Up in Monrovia",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Watch Party, US vs Belgium, July 6",
           "source": "Monrovia Now"
@@ -82,10 +86,6 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Cold Duck summer concert at Station Square Park, June 28",
-          "source": "Monrovia Now"
-        },
-        {
           "headline": "229 E Olive Ave, Monrovia, CA 91016 - Realtor.com",
           "source": "Google News"
         },
@@ -106,10 +106,6 @@
           "source": "Google News"
         },
         {
-          "headline": "Samuel Allender Obituary Jun 26, 2026 - Douglass & Zook - Legacy obituary",
-          "source": "Google News"
-        },
-        {
           "headline": "Speedway vs Monrovia Football - Sep 18, 2026 - Sports Illustrated",
           "source": "Google News"
         },
@@ -122,15 +118,15 @@
           "source": "Google News"
         },
         {
+          "headline": "Monrovia fire update: Massive warehouse blaze at East Chestnut Avenue in California city; scary videos emerge - MSN",
+          "source": "Google News"
+        },
+        {
           "headline": "Dodgers Favorite Comes Home To Coach HS | Mosquitos 'Off-The-Charts' | Secretly Filmed Lifeguards Speakout",
           "source": "Patch Monrovia"
         },
         {
           "headline": "Parasite Outbreak Sickens People In 19 States, Including CA",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Dad Loses Leg Saving Daughter From Truck | Disney Star Dies From AIDS | Surfer's Monster Ride: Patch PM",
           "source": "Patch Monrovia"
         },
         {
@@ -187,19 +183,19 @@
         }
       ],
       "relevance": {
-        "0": false,
-        "1": true,
+        "0": true,
+        "1": false,
         "2": true,
         "3": true,
         "4": true,
         "5": true,
         "6": true,
         "7": true,
-        "8": false,
-        "9": true,
+        "8": true,
+        "9": false,
         "10": true,
-        "11": false,
-        "12": true,
+        "11": true,
+        "12": false,
         "13": true,
         "14": true,
         "15": true,
@@ -215,13 +211,13 @@
         "25": false,
         "26": false,
         "27": false,
-        "28": false,
+        "28": true,
         "29": false,
         "30": false,
         "31": false,
         "32": false,
         "33": false,
-        "34": false,
+        "34": true,
         "35": true,
         "36": true,
         "37": true,
@@ -230,14 +226,14 @@
       }
     },
     "sgv": {
-      "summary": "- West Nile virus detected in San Gabriel Valley mosquitoes, human case in Long Beach\n- San Gabriel celebrates Independence Day with drone show, movies, street fest\n- TAWA Gateway retail center opens with 14 new Asian retailers and eateries\n- San Gabriel Valley local agencies approve wildfire preparedness plan",
+      "summary": "- West Nile virus detected in San Gabriel Valley mosquitoes, Alhambra case confirmed\n- Local agencies approve comprehensive wildfire preparedness plan for region\n- All eastbound 210 Freeway lanes near Glendola shut down after pursuit, shooting\n- San Gabriel celebrates Independence Day with drone show and street festival",
       "headlines": [
         {
-          "headline": "Things to do in the San Gabriel Valley area, June 26-July 4 - San Gabriel Valley Tribune",
+          "headline": "West Nile virus detected in San Gabriel Valley mosquitoes - NBC Los Angeles",
           "source": "Google News SGV"
         },
         {
-          "headline": "West Nile virus detected in San Gabriel Valley mosquitoes - NBC Los Angeles",
+          "headline": "San Gabriel Valley local agencies approve wildfire plan - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -246,10 +242,6 @@
         },
         {
           "headline": "San Gabriel Valley Residents Can Save on E-Bikes Through GoSGV Programs - ColoradoBoulevard.net",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "San Gabriel Valley local agencies approve wildfire plan - Pasadena Star News",
           "source": "Google News SGV"
         },
         {
@@ -277,6 +269,14 @@
           "source": "Google News SGV"
         },
         {
+          "headline": "Harabedian Bill to Expand \u201cBest Value\u201d Contracting Clears Senate Fiscal Committee - Pasadena Now",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "All lanes of the eastbound 210 Freeway near Glendora shut down after pursuit, shooting - NBC Los Angeles",
+          "source": "Google News SGV"
+        },
+        {
           "headline": "Kaiser Permanente Baldwin Park names new CAO - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
@@ -289,19 +289,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Celebrating the lives of Frederic Bastiat and Thomas Sowell - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
           "headline": "Orange County has 2nd-most overvalued homes in US - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "TAWA Gateway: Iconic San Gabriel Retail Center Unveils First Wave of New Tenants to become LA\u2019s Newest Food, Entertainment, and Lifestyle Destination - Mid Florida Newspapers",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "Harabedian Bill to Expand \u201cBest Value\u201d Contracting Clears Senate Fiscal Committee - Pasadena Now",
           "source": "Google News SGV"
         },
         {
@@ -309,48 +297,80 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "California Sets Aside June 26 as \u2018I Love SGV Day,\u2019 and It Names Pasadena and Altadena - Pasadena Now",
+          "headline": "Judge halts crushing cardroom regulations sought by California AG - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "The Pet Dogs of Madison Heights to Lead Neighborhood\u2019s Traditional July 4 Parade",
+          "headline": "What does \u2018apportioned\u2019 mean on a license plate? - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Confident Is This Head That Wears the Crown - Rafu Shimpo",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Alma Fuerte Students, Community Kids to Sell Goods and Services at Pasadena Fair",
           "source": "Pasadena Now"
         },
         {
-          "headline": "Historic Highlands\u2019 Fourth of July Stays Small on Purpose, and Turns 32",
+          "headline": "Police K-9 Chase Retires After Nine Years of Narcotics Detection Service",
           "source": "Pasadena Now"
         },
         {
-          "headline": "LAPD Officer Injured in Freeway Crash Involving Motorcycle",
+          "headline": "Historic Courtyard Fountain Protected During Pasadena Central Library Renovation",
           "source": "Pasadena Now"
         },
         {
-          "headline": "Local Security Firm Celebrates Its Role in Metro Transit\u2019s National Safety Award",
+          "headline": "Councilmember Rick Cole to Host Webinar on Community Mental Health Amid Growing Local and Global Strains",
           "source": "Pasadena Now"
         },
         {
-          "headline": "Harabedian Housing Measure Takes Aim at California\u2019s Permitting Delays in Eaton, Palisades Fire",
+          "headline": "Free Concert Series Returns to Pasadena\u2019s Memorial Park Bandshell July 11 After Nearly a Decade-Long Break",
           "source": "Pasadena Now"
         },
         {
-          "headline": "Guest Opinion | John Williams: Democracy Requires More Than Celebration. It Requires Truth-Telling",
+          "headline": "Altadena Marks July Fourth With Tribute at Owen Brown\u2019s Gravesite",
           "source": "Pasadena Now"
         },
         {
-          "headline": "Hastings Library Reopened Wednesday",
+          "headline": "Bill Shielding Altadena From Development Pressure Clears Two Assembly Committees",
           "source": "Pasadena Now"
         },
         {
-          "headline": "Pasadena Extends Public Review Period for Arroyo Seco Water Reuse Project Draft EIR by 30 Days",
+          "headline": "Pasadena to Mark Nation\u2019s 250th Birthday Without Fireworks as Rose Bowl Hosts Second Annual Drone Show",
           "source": "Pasadena Now"
         },
         {
-          "headline": "For the Second Fourth of July Since the Fire, Pepper Drive Will Parade Again",
+          "headline": "Altadena Landlords Must Re-Register Rental Properties",
           "source": "Pasadena Now"
         },
         {
-          "headline": "Clinical Trial Helps Young Athlete Return to the Field, Highlighting Research at Locally-Based Kaiser Permanente",
+          "headline": "Sheriff\u2019s Deputies, Pasadena Police Warn: Zero Tolerance for Fireworks This Fourth of July",
           "source": "Pasadena Now"
+        },
+        {
+          "headline": "What\u2019s That Wooden Box at Pasadena\u2019s Central Library?",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "South Pasadena Seniors and Youth Invited to Make Explosion Books Together",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Monterey Park Screens Three Free Movie Nights in July",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Pepper Drive Parade Keeps Altadena Tradition Rolling",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Barger Urges Residents to Skip Fireworks Amid Eaton Fire Recovery",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "What\u2019s Open and Closed in Pasadena for July 3 Holiday Observance",
+          "source": "Colorado Blvd"
         },
         {
           "headline": "Levitt VIBE Pasadena Music Series Returns July 11 with 10 Weeks of Free Concerts",
@@ -377,35 +397,19 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Barger Urges Eaton Fire Survivors to Use Final SBA Disaster Loan Extension",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Pasadena Extends Public Review Period for Arroyo Seco Water Reuse Project Draft EIR",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Pasadena officials ramp up fireworks enforcement ahead of Fourth of July",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Ray Jayawardhana Begins Tenure as Caltech\u2019s 10th President",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "South Pasadena Invites Community to Celebrate Independence Day and America\u2019s 250th Anniversary",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "[UPDATED] Caltech\u2019s Outdoor Movie Nights Bring \u201cPride and Prejudice\u201d to Pasadena",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Garden Grove officer arrested amid probe of alleged inappropriate interactions with explorer",
+          "headline": "Weigh-in for Nathan's Famous Fourth of July hot dog-eating contest",
           "source": "ABC7"
         },
         {
-          "headline": "Man accused of attempted murder shot by police inside Thousand Oaks hospital",
+          "headline": "Owner of dog killed by LAPD in Canoga Park files lawsuit against city",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Pope Leo XIV awarded Liberty Medal during ceremony in Philadelphia",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Catherine Laga'aia shares what it means to play Moana for a new generation",
           "source": "ABC7"
         },
         {
@@ -413,39 +417,51 @@
           "source": "ABC7"
         },
         {
-          "headline": "Fireworks recalled over risk of explosion and burn hazards days before Independence Day",
+          "headline": "Norovirus outbreak on Ruby Princess cruise ship docked in SF affects over 120 passengers, crew",
           "source": "ABC7"
         },
         {
-          "headline": "Boyle Heights community demands permanent closure of burned Lineage warehouse",
+          "headline": "'That was insane': Catherine Laga\u02bbaia on recording new 'Moana' music with Lin-Manuel Miranda",
           "source": "ABC7"
         },
         {
-          "headline": "SoCal man pleads guilty to making fake Nancy Guthrie ransom demand",
+          "headline": "These stores and restaurants are open on the 4th of July",
           "source": "ABC7"
         },
         {
-          "headline": "Boil-water notice ends for Koreatown after E. coli was detected in water supply samples",
+          "headline": "Suspect killed in CHP shooting at Covina gas station after assaulting tow truck driver on 210 Fwy",
           "source": "ABC7"
         },
         {
-          "headline": "Fans line up for exclusive Dodgers One Piece anime giveaway",
+          "headline": "New York City's Times Square ball to drop 8 times for July 4 celebration",
           "source": "ABC7"
         },
         {
-          "headline": "Manhattan restaurant's towering table tribute to World Cup",
+          "headline": "Small Ships Parade sails through NYC Friday ahead of Sail4th 250 celebration",
           "source": "ABC7"
         },
         {
-          "headline": "Azzubair Outen-Fleming, 16, arrested in Colorado in Philadelphia shooting of Penn State student Billy Schmidt; Kaiseem Smith surrenders",
+          "headline": "Fred\u2019s Mexican Caf\u00e9 & Cantina in Huntington Beach celebrates 25 years - ABC7 Community Eats",
           "source": "ABC7"
         },
         {
-          "headline": "Baby dies after being thrown to ground in Claremont home, police say; juvenile arrested for murder",
+          "headline": "Rare copy of Declaration of Independence found by UK National Archives in papers of captured US ship",
           "source": "ABC7"
         },
         {
-          "headline": "Members of Congress meet at Independence Hall in Philadelphia to celebrate America's 250th birthday",
+          "headline": "Daredevil climbers hid in Empire State Building before stunt",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Trump Accounts start July 4: What parents need to know",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Chance meeting during World Cup watch party in Koreatown turns into a friendship and labor of love",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Man accused of attempted murder shot by police inside Thousand Oaks hospital",
           "source": "ABC7"
         },
         {
@@ -453,31 +469,11 @@
           "source": "ABC7"
         },
         {
-          "headline": "Man charged with involuntary manslaughter in fireworks explosion that killed girl, 8, in Buena Park",
+          "headline": "Garden Grove officer arrested amid probe of alleged inappropriate interactions with minor",
           "source": "ABC7"
         },
         {
-          "headline": "Disneyland Resort's 'Soarin' Across America' debuts with new scenes for America's 250th anniversary",
-          "source": "ABC7"
-        },
-        {
-          "headline": "A look at the LA County Sheriff's Department crackdown on illegal fireworks ahead of July 4th",
-          "source": "ABC7"
-        },
-        {
-          "headline": "99 Ranch Market accused of discriminating against non-Chinese employees",
-          "source": "ABC7"
-        },
-        {
-          "headline": "New mobile health clinic launches in Boyle Heights for residents affected by warehouse fire",
-          "source": "ABC7"
-        },
-        {
-          "headline": "The 'Camp Rock 3' bus tour is headed to summer camps across the country",
-          "source": "ABC7"
-        },
-        {
-          "headline": "'First Tee-Greater Philadelphia' instills life lessons through golf for Philly youth",
+          "headline": "Fireworks recalled over risk of explosion and burn hazards days before Independence Day",
           "source": "ABC7"
         }
       ],
@@ -489,54 +485,74 @@
         "4": true,
         "5": true,
         "6": true,
-        "7": true,
-        "8": false,
+        "7": false,
+        "8": true,
         "9": true,
         "10": true,
         "11": true,
-        "12": false,
+        "12": true,
         "13": false,
         "14": false,
         "15": false,
         "16": false,
-        "17": true,
+        "17": false,
         "18": false,
-        "19": true,
-        "20": false,
-        "21": false,
-        "22": false,
-        "23": false,
-        "24": false,
-        "25": false,
+        "19": false,
+        "20": true,
+        "21": true,
+        "22": true,
+        "23": true,
+        "24": true,
+        "25": true,
         "26": true,
         "27": true,
-        "28": false,
+        "28": true,
         "29": true,
         "30": true,
-        "31": false,
+        "31": true,
         "32": true,
         "33": true,
         "34": true,
         "35": true,
-        "36": false,
-        "37": true,
+        "36": true,
+        "37": false,
         "38": true,
         "39": true
       }
     },
     "county": {
-      "summary": "- LA County takes control of homeless spending from LAHSA amid funding battle\n- Skid Row murder rate 17 times higher than LA overall citywide\n- LA City Council approves $2B redevelopment project near Skid Row area\n- Boil water notice lifted for Koreatown after E. coli detected in sample",
+      "summary": "- Skid Row's murder rate 17 times higher than LA overall average\n- 210 Freeway closed in Covina after fatal shooting ends pursuit\n- Judge preserves federal funding for LA's lead homelessness agency\n- Boyle Heights residents demand Lineage shutdown over rats, rotting food",
       "headlines": [
+        {
+          "headline": "CA joined the union decades after 1776. Here\u2019s what it looked like before it became a state",
+          "source": "LAist"
+        },
+        {
+          "headline": "'Yorktown? Never Heard of It.' Confessions of a British-born American",
+          "source": "LAist"
+        },
+        {
+          "headline": "A quick guide to safely throwing out fireworks",
+          "source": "LAist"
+        },
+        {
+          "headline": "Get ready for the fireworks. How to keep your pets safe and happy this 4th of July",
+          "source": "LAist"
+        },
+        {
+          "headline": "Olvera Street shopkeepers thought LA\u2019s World Cup would revive business \u2013 it hasn\u2019t",
+          "source": "LAist"
+        },
         {
           "headline": "That Mexican soccer jersey is everywhere right now. But wearing one has many different meanings",
           "source": "LAist"
         },
         {
-          "headline": "Skid Row's murder rate is 17 times higher than LA overall. Would clearing encampments change that?",
+          "headline": "Big Bear\u2019s bald eagle fledglings will face Fourth of July fireworks \u2014 again",
           "source": "LAist"
         },
         {
-          "headline": "LA City Council shelves ballot measure to cancel the \u2018mansion tax\u2019 on new apartments",
+          "headline": "Skid Row's murder rate is 17 times higher than LA overall. Would clearing encampments change that?",
           "source": "LAist"
         },
         {
@@ -552,31 +568,23 @@
           "source": "LAist"
         },
         {
-          "headline": "LA County takes control of its homeless spending from LAHSA",
+          "headline": "LA City Council shelves ballot measure to cancel the \u2018mansion tax\u2019 on new apartments",
           "source": "LAist"
         },
         {
-          "headline": "DA now has LAPD's findings in fatal shooting by off-duty ICE officer on New Year\u2019s Eve",
+          "headline": "Best things to do this 4th of July weekend in LA and SoCal",
           "source": "LAist"
         },
         {
-          "headline": "Boil water notice lifted for part of Koreatown after E. coli found in water sample",
+          "headline": "Playa Baby is quietly serving some of OC's best fish tacos \u2014 from a Walmart parking lot",
           "source": "LAist"
         },
         {
-          "headline": "Best things to do this week in LA and SoCal: June 29-July 2",
+          "headline": "Ask A Local: Where to eat in Glendale",
           "source": "LAist"
         },
         {
-          "headline": "American Film Institute says \u2018Blazing Saddles\u2019 is funniest movie of all time",
-          "source": "LAist"
-        },
-        {
-          "headline": "FilmWeek: \u2018Supergirl,\u2019 \u2018The Invite,\u2019 \u2018Jackass: Best and Last,\u2019 and more!",
-          "source": "LAist"
-        },
-        {
-          "headline": "Feature: Interview with musician and producer, Peter Asher, the focus of a new documentary",
+          "headline": "Thai tacos, paneer quesadillas and al pastor burgers: the culinary hub around  USC",
           "source": "LAist"
         },
         {
@@ -596,16 +604,24 @@
           "source": "LAist"
         },
         {
-          "headline": "Trump says the US and Iran will meet in Qatar after weekend attacks",
-          "source": "LAist"
+          "headline": "Moorpark man sentenced to one year in jail for death Jewish protester at Israel-Palestine protest",
+          "source": "Fox 11 LA"
         },
         {
-          "headline": "In symbolic vote, Congress directs Trump to remove forces from Iran war",
-          "source": "LAist"
+          "headline": "Lawsuit filed against Santa Clarita collision center as customers allege fraud, unreturned vehicles",
+          "source": "Fox 11 LA"
         },
         {
-          "headline": "Another OC city is asking voters to approve taxes to shore up budgets",
-          "source": "LAist"
+          "headline": "Boyle Heights residents demand Lineage shutdown amid rats, rotting food stench in fire aftermath",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Koreatown boil water notice lifted after water quality tests come back clean",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "210 Freeway shut down in Covina after pursuit ends in fatal shooting",
+          "source": "Fox 11 LA"
         },
         {
           "headline": "Officer opens fire at Thousand Oaks hospital while guarding attempted murder suspect",
@@ -617,26 +633,6 @@
         },
         {
           "headline": "Another Costco warehouse and gas station coming to Downey",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "World Cup gridlock alert: Drivers urged to avoid LA Stadium area for Spain-Austria match",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "OC man charged with involuntary manslaughter in July 4th fireworks death of 8-year-old girl",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "LA City Council approves $2B redevelopment project near Skid Row",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Fans erupt with joy at Galaxy Park watch party after USMNT advances to FIFA World Cup Round of 16",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Koreatown businesses, residents scramble for bottled water after E. coli detected in sample",
           "source": "Fox 11 LA"
         },
         {
@@ -672,6 +668,10 @@
           "source": "Fox 11 LA"
         },
         {
+          "headline": "FDA authorizes 20 ZYN nicotine pouches to be marketed with modified risk claim",
+          "source": "Fox 11 LA"
+        },
+        {
           "headline": "Video: Small fire sparks at Disney World's 'it's a small world' after portable charger ignites",
           "source": "Fox 11 LA"
         },
@@ -680,99 +680,59 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Man fatally shot after fight over Walmart parking spot",
+          "headline": "Record decline in home asking prices offers buyers an affordability boost",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "America's bicentennial vs America 250: How the country has changed in 50 years",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Owner of Pet Labradoodle Dog Killed by Cops Sues City of LA",
+          "headline": "Firefighters Knock Down Contents Fire Inside Mid-Wilshire Apartment Unit",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Garden Grove Officer Arrested for `Inappropriate\u2019 Interaction with Teen Girl",
+          "headline": "Investigations Connected to World Cup-Related Arrests Continues",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LA City Receives $14M to Support its Six Animal Shelters",
+          "headline": "Judge Denies Fremantle Arbitration in `Let\u2019s Make a Deal\u2019 Worker\u2019s Suit",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Stolen Vehicle Suspect Arrested in Cathedral City",
+          "headline": "Judge Orders Preparation of Judgment on Behalf of Chesney Namesake",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Sentencing Delayed for Ex-Teacher Who Engaged in Sex Acts with Student",
+          "headline": "CHP Officers Shoot Suspect in Covina",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Man Pleads Not Guilty to Deadly Fireworks Accident in Buena Park",
+          "headline": "Renter of Home Destroyed in Anne Heche Crash Wins Accounting",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Federal Judge Stays Order by HUD to Suspend Federal Funding to LAHSA",
+          "headline": "Former Dodger Seeks $14M Offset From Jury\u2019s Compensatory Damages Award",
           "source": "MyNewsLA"
         },
         {
-          "headline": "$25,000 Reward Offered in 2020 West Rancho Dominguez Killing",
+          "headline": "Man With \u201cDiminished Capacity\u201d Missing in Hawthorne",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Leader of SoCal Store Theft Ring Sentenced to 16-Year Prison Term",
+          "headline": "Investigation Launches into Man Killed in Lancaster",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Fire Ravages Residential Property in Elsinore",
+          "headline": "LACo Boosts Enforcement Against Street Takeovers",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Pet Owners Advised to Keep Four-Legged Friends Safe During Fireworks",
+          "headline": "Archbishop Gomez to Lead Independence Day Mass",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Habitat for Humanity - Fire Department - Los Angeles County (.gov)",
+          "headline": "*UPDATED PHOTO* #LASD is Asking for the Public's Help Locating At-Risk Missing Person, Christopher Michael Burke #hawthorne Los Angeles County Sheriff\u2019s Department Missing Persons Unit investigators are asking for the public\u2019s help locating At-Risk - facebook.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County man pleads guilty to making fake Nancy Guthrie ransom demand - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Target\u2019s $100,000 Gift Helps the Los Angeles Regional Food Bank Provide Food Assistance in Times of Need - Los Angeles Regional Food Bank",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Be part of the solution - not the spectacle. Skip the street takeover and choose safety every time. Obey traffic laws. Stay alert and watch out for everyone on the road. Save the stunts for approved tracks and organized events where safety comes first. Let\u2019s make - facebook.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "SoCal cops seize fireworks by the ton ahead of Independence Day - Victorville Daily Press",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "DAYLIGHTING - AB 413 - Los Angeles County Sheriff's Department",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "2153 Glendon Ave, Los Angeles, CA 90025 - Realtor.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles County Sheriff's Department cracking down on illegal fireworks ahead of 4th of July - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Motorcyclist killed in crash involving minivan at La Puente intersection, authorities say - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "4th of July rush: 5 million SoCal travelers to head our of town for holiday weekend - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles County Sheriff's Department hands out 7-Eleven free Slurpee coupons for good deeds - ABC7 Los Angeles",
+          "headline": "LA County Boosts Enforcement Against Street Takeovers - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
@@ -780,27 +740,63 @@
           "source": "Google News LA"
         },
         {
+          "headline": "Los Angeles County man pleads guilty to making fake Nancy Guthrie ransom demand - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Watch firefighters battle fast-moving wildfire in Los Angeles County - Discover SWNS",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "'We can still pull out live victims': LA rescuers join Venezuela quake rescue efforts - NPR",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "DAYLIGHTING - AB 413 - Los Angeles County Sheriff's Department",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Los Angeles County Sheriff\u2019s Department Missing Persons Unit investigators are asking for the public\u2019s help locating At-Risk Missing Person Christopher Michael Burke. He is a 36-year-old male Black adult who was last seen on June 30, 2026, at approximatel - facebook.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Habitat for Humanity - Fire Department - Los Angeles County (.gov)",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Los Angeles County Sheriff's Department cracking down on illegal fireworks ahead of 4th of July - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Investigations Connected to World Cup-Related Arrests Continues - MyNewsLA.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "4th of July rush: 5 million SoCal travelers to head our of town for holiday weekend - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
           "headline": "LA County Completes Homeless Services Contract Transition \u2014 A Milestone for Accountability - LA County Homeless Services & Housing (.gov)",
           "source": "Google News LA"
         },
         {
-          "headline": "Supervisor Kathryn Barger Urges Eaton Fire Survivors to Take Advantage of Final SBA Disaster Loan Extension - COUNTY OF LOS ANGELES (.gov)",
+          "headline": "Be part of the solution - not the spectacle. Skip the street takeover and choose safety every time. Obey traffic laws. Stay alert and watch out for everyone on the road. Save the stunts for approved tracks and organized events where safety comes first. Let\u2019s make - facebook.com",
           "source": "Google News LA"
         },
         {
-          "headline": "SBA extends Los Angeles wildfire loan deadlines a third time - Insurance Business",
+          "headline": "Motorcyclist killed in crash involving minivan at La Puente intersection, authorities say - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles Penthouse Sells for $36 Million in One of the City\u2019s Biggest Condo Deals - Mansion Global",
+          "headline": "Los Angeles County Sheriff's Department hands out 7-Eleven free Slurpee coupons for good deeds - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "Christopher Ramstead Charged With Sexual Abuse Involving Three Children - Carrillo Law Firm, LLP",
+          "headline": "CDCR Apprehends Incarcerated Person Who Walked Away from Los Angeles Male Community Reentry Program - California Department of Corrections and Rehabilitation - CDCR (.gov)",
           "source": "Google News LA"
         },
         {
-          "headline": "Southern California air quality could reach hazardous levels after July 4 fireworks, officials say - KTLA",
+          "headline": "Target\u2019s $100,000 Gift Helps the Los Angeles Regional Food Bank Provide Food Assistance in Times of Need - Los Angeles Regional Food Bank",
           "source": "Google News LA"
         },
         {
@@ -808,7 +804,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "CDCR Apprehends Incarcerated Person Who Walked Away from Los Angeles Male Community Reentry Program - California Department of Corrections and Rehabilitation - CDCR (.gov)",
+          "headline": "Behavioral Health Overhaul Takes Effect Across LA County - westsidecurrent.com",
           "source": "Google News LA"
         }
       ],
