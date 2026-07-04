@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-03T20:09:53.961615+00:00",
-  "briefing": "12 PM",
+  "generated": "2026-07-04T02:37:40.088099+00:00",
+  "briefing": "5 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Free 4th of July concert and fireworks at Library Park, July 4\n- Monrovia's 2025 drinking water quality report now available\n- 4th of July street closures near Library Park\n- Monrovia finalist for All-America City award recognition",
+      "summary": "- Free 4th of July concert and fireworks at Library Park tonight\n- Monrovia's 2025 drinking water quality report now available to residents\n- Street closures near Library Park for July 4th celebrations expected\n- Monrovia finalist for All-America City award despite not winning",
       "headlines": [
         {
           "headline": "Monrovia didn't win All-America City award - But was a finalist",
@@ -106,10 +106,6 @@
           "source": "Google News"
         },
         {
-          "headline": "Electric vehicle depreciation and ownership costs explained - MSN",
-          "source": "Google News"
-        },
-        {
           "headline": "Monrovia vs Linton-Stockton Football - Aug 28, 2026 - Sports Illustrated",
           "source": "Google News"
         },
@@ -126,11 +122,15 @@
           "source": "Patch Monrovia"
         },
         {
-          "headline": "Dodgers Favorite Comes Home To Coach HS | Mosquitos 'Off-The-Charts' | Secretly Filmed Lifeguards Speakout",
+          "headline": "Kindness Is America\u2019s Default, Poll Shows; Tell Us Your Story: Block Talk",
           "source": "Patch Monrovia"
         },
         {
           "headline": "'Trump Accounts' Launch Saturday: What You Need To Know",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "America At 250: Voices Of Freedom, Worry And Hope From Across The Country",
           "source": "Patch Monrovia"
         },
         {
@@ -216,14 +216,14 @@
         "18": true,
         "19": false,
         "20": true,
-        "21": true,
+        "21": false,
         "22": false,
         "23": false,
-        "24": true,
+        "24": false,
         "25": false,
-        "26": true,
+        "26": false,
         "27": true,
-        "28": true,
+        "28": false,
         "29": false,
         "30": false,
         "31": false,
@@ -238,7 +238,7 @@
       }
     },
     "sgv": {
-      "summary": "- West Nile virus detected in San Gabriel Valley mosquitoes, human case reported\n- Eastbound 210 freeway closed after deadly CHP shooting following pursuit\n- San Gabriel Valley agencies approve wildfire preparedness plan for region\n- TAWA Gateway retail center opens with 14 new Asian tenants",
+      "summary": "- West Nile virus detected in San Gabriel Valley mosquitoes, human case confirmed\n- Eastbound 210 freeway closed after pursuit and deadly CHP shooting incident\n- San Gabriel Valley agencies approve comprehensive wildfire preparedness and response plan\n- TAWA Gateway retail center opens with 14 new Asian retailers and eateries",
       "headlines": [
         {
           "headline": "West Nile virus detected in San Gabriel Valley mosquitoes - NBC Los Angeles",
@@ -361,6 +361,14 @@
           "source": "Pasadena Now"
         },
         {
+          "headline": "Virtual Exhibit Celebrates Pasadena\u2019s Place in America\u2019s 250-Year Story",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Pasadena to Host Third F\u00fatbol 2026 Watch Party for Team USA vs. Belgium",
+          "source": "Colorado Blvd"
+        },
+        {
           "headline": "What\u2019s That Wooden Box at Pasadena\u2019s Central Library?",
           "source": "Colorado Blvd"
         },
@@ -401,31 +409,23 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Pasadena Public Library\u2019s Hastings Branch Reopens With Upgraded Layout",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "South Pasadena to Host International Soccer Watch Party at Garfield Park",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Huntington Beach celebrates Fourth of July with annual parade",
+          "headline": "Lineage says solar panel owners demanded crews stop demolition at Boyle Heights warehouse",
           "source": "ABC7"
         },
         {
-          "headline": "Mexico vs England at World Cup to kick-off early due to risk of weather, ESPN sources say",
+          "headline": "Police target illegal fireworks across SoCal in holiday crackdown ahead of 4th of July",
           "source": "ABC7"
         },
         {
-          "headline": "Court clears way for replacement of slavery exhibit at President's House in Philadelphia",
+          "headline": "Builder of Moana's canoe brings Disney magic to Jersey shore",
           "source": "ABC7"
         },
         {
-          "headline": "Parasite outbreak causing 'explosive diarrhea' reported in 17 US states, CDC warns",
+          "headline": "Messi and Argentina beat Cape Verde 3-2 in extra time thriller, advancing to World Cup Round of 16",
           "source": "ABC7"
         },
         {
-          "headline": "Grieving SoCal family begging for answers after 30-year-old son killed by hit-and-run driver",
+          "headline": "Mexico vs England World Cup kickoff time unchanged after talks, ESPN sources say",
           "source": "ABC7"
         },
         {
@@ -433,47 +433,11 @@
           "source": "ABC7"
         },
         {
-          "headline": "Small Ships Parade sails through NYC Friday ahead of Sail4th 250 celebration",
+          "headline": "Where history meets legend: A visit to Sleepy Hollow's Old Dutch Church",
           "source": "ABC7"
         },
         {
-          "headline": "Lawsuit filed after ex-State Parks boss accused of secretly recording in OC locker room",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Mom, daughter go missing while hiking in San Gorgonio Wilderness; search and rescue team scours area",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Pope Leo XIV awarded Liberty Medal during ceremony in Philadelphia",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Weigh-in for Nathan's Famous Fourth of July hot dog-eating contest",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Owner of dog killed by LAPD in Canoga Park files lawsuit against city",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Catherine Laga'aia shares what it means to play Moana for a new generation",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Temperatures slowly rising across SoCal ahead of holiday weekend",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Norovirus outbreak on Ruby Princess cruise ship docked in SF affects over 120 passengers, crew",
-          "source": "ABC7"
-        },
-        {
-          "headline": "'That was insane': Catherine Laga\u02bbaia on recording new 'Moana' music with Lin-Manuel Miranda",
-          "source": "ABC7"
-        },
-        {
-          "headline": "These stores and restaurants are open on the 4th of July",
+          "headline": "Parasite outbreak causing 'explosive diarrhea' reported in 17 US states, CDC warns",
           "source": "ABC7"
         },
         {
@@ -481,11 +445,47 @@
           "source": "ABC7"
         },
         {
-          "headline": "Fred\u2019s Mexican Caf\u00e9 & Cantina in Huntington Beach celebrates 25 years - ABC7 Community Eats",
+          "headline": "Disney Celebrates America: Fun facts about Yosemite National Park",
           "source": "ABC7"
         },
         {
-          "headline": "Rare copy of Declaration of Independence found by UK National Archives in papers of captured US ship",
+          "headline": "Pope Leo XIV awarded Liberty Medal during ceremony in Philadelphia",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Small Ships Parade sails through NYC ahead of Sail4th 250 celebration",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Beach water warnings ahead of Fourth of July holiday due to elevated bacteria levels",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Skydiver carrying American flag crashes into tent after flag snags tree at NorCal rodeo",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Weigh-in for Nathan's Famous Fourth of July hot dog-eating contest",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Katy, Texas crash: Michael Butler charged with manslaughter after Tesla crashes into home, killing woman",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Special celebration of light and sound at Statue of Liberty for America's 250th birthday",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Trump Accounts start July 4: What parents need to know",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Huntington Beach celebrates Fourth of July with annual parade",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Venezuelan earthquake survivors search for missing pets in an unexpected place: McDonald's",
           "source": "ABC7"
         }
       ],
@@ -526,14 +526,14 @@
         "33": true,
         "34": true,
         "35": true,
-        "36": true,
-        "37": false,
+        "36": false,
+        "37": true,
         "38": true,
-        "39": true
+        "39": false
       }
     },
     "county": {
-      "summary": "- Skid Row murder rate 17 times higher than LA average overall\n- Judge blocks Trump's homeless funding shift for LA's lead agency\n- Air quality advisories expected again this July 4th weekend\n- Olvera Street merchants disappointed World Cup hasn't boosted business yet",
+      "summary": "- Skid Row murder rate 17 times higher than LA overall average\n- Fireworks will push SoCal air to hazardous levels this July 4\n- LA City Council shelves ballot measure to cancel mansion tax on apartments\n- Judge blocks Trump's homeless funding shift for LA's lead homelessness agency",
       "headlines": [
         {
           "headline": "Olvera Street shopkeepers thought LA\u2019s World Cup would revive business \u2014 it hasn\u2019t",
@@ -552,7 +552,7 @@
           "source": "LAist"
         },
         {
-          "headline": "Get ready for even more air quality advisories this July 4 weekend",
+          "headline": "Fireworks will push SoCal air to hazardous levels this July 4 weekend. How to protect yourself",
           "source": "LAist"
         },
         {
@@ -680,67 +680,67 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Woman allegedly planned to kill husband, burn home amid financial struggles, sheriff says",
+          "headline": "Who is the 'redhead named Abigail,' Taylor Swift's high school BFF?",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "FDA authorizes 20 ZYN nicotine pouches to be marketed with modified risk claim",
+          "headline": "New era: Taylor Swift and Travis Kelce are married, publicist says",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Video: Small fire sparks at Disney World's 'it's a small world' after portable charger ignites",
+          "headline": "Use by, sell by, best by: What\u2019s the difference?",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Former Olympian indicted for felony vandalism at DC Reflecting Pool",
+          "headline": "The last time MSG hosted a wedding, 4,000 people got married",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Palm Springs Air Museum, French Embassy Host 4th of July Celebration",
+          "headline": "Suspect Shot by CHP in Covina Dies at Hospital, Tow Truck Driver Critical",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Suspect Dies at Hospital After Allegedly Attacking Truck Driver, Getting Shot by CHP",
+          "headline": "Sewage Spill Causes Closure in Laguna Beach",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Medical Officials Assess Person for Minor Injuries at South LA Apartment Fire",
+          "headline": "Average Riverside County Gas Price Drops Slightly",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Rapper Feezy LeBron\u2019s Annuity Request Delays Finalization of Settlement with LACo",
+          "headline": "Average LA County Gas Price Drops To Lowest Amount Since March 11",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Retired LAPD Officer Allegedly Took More Than 20K Intimate Photos, Videos of ExWife",
+          "headline": "CHP Fatally Shoots Suspect Who Allegedly Assaulted Tow Truck Driver",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Investigations Launched into World Cup-Related Arrests",
+          "headline": "Disneyland Welcomes 8-Year-Old Birthday Boy as Billionth Visitor",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Police Arrest Suspect After Pursuit, Crash",
+          "headline": "Judge Orders Attorney Repping Man Coincidentally Named Kenny Chesney to File Judgement",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Judge Orders Prep of Judgment on Behalf of Chesney Namesake",
+          "headline": "Wife Accuses Retired LAPD Officer of Circulating Over 20K Intimate Photos, Videos to Co-Workers",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Hawthorne Man With \u201cDiminished Capacity\u201d Reported Missing",
+          "headline": "LASD Seeks Help Finding Hawthorne Man",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Search and Rescue Team Finds Stranded Hikers in Malibu",
+          "headline": "Rapper\u2019s Request for Annuity Delays Finalization of Settlement with LACo",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Judge Denies Fremantle Arbitration in `Let\u2019s Make a Deal\u2019 Employee Suit",
+          "headline": "First Responders Assess South LA Apartment Fire Victim for Injuries",
           "source": "MyNewsLA"
         },
         {
-          "headline": "*UPDATED PHOTO* #LASD is Asking for the Public's Help Locating At-Risk Missing Person, Christopher Michael Burke #hawthorne Los Angeles County Sheriff\u2019s Department Missing Persons Unit investigators are asking for the public\u2019s help locating At-Risk - facebook.com",
+          "headline": "Los Angeles County Sheriff's Department cracking down on illegal fireworks ahead of 4th of July - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -748,27 +748,23 @@
           "source": "Google News LA"
         },
         {
-          "headline": "LA County Boosts Enforcement Against Street Takeovers - MyNewsLA.com",
+          "headline": "Firework Safety - Los Angeles County Sheriff's Department",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "L.A. County Boosts Enforcement Against Street Takeovers - REAL 92.3",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Los Angeles County Sheriff\u2019s Department Missing Persons Unit investigators are asking for the public\u2019s help locating At-Risk Missing Person Christopher Michael Burke. He is a 36-year-old male Black adult who was last seen on June 30, 2026, at approximatel - facebook.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "America is turning 250! Two and a half centuries of a country still writing its story, still fighting for the ideals of justice, liberty and opportunity for all. Los Angeles County District Attorney Nathan J. Hochman and the entire LADA team are proud to serve a commu - instagram.com",
           "source": "Google News LA"
         },
         {
           "headline": "Retail Newness: Brentwood Country Mart Lands First Varley LA Store - Vernon Proper",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "18320 Ingomar St Unit 1, Los Angeles, CA 91335 - Realtor.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Watch firefighters battle fast-moving wildfire in Los Angeles County - Discover SWNS",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "'We can still pull out live victims': LA rescuers join Venezuela quake rescue efforts - NPR",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles County man pleads guilty to making fake Nancy Guthrie ransom demand - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -780,7 +776,19 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Suspect killed by CHP at Covina gas station after reported assault on 210 Freeway; all eastbound lanes shut down - ABC7 Los Angeles",
+          "headline": "Los Angeles County man pleads guilty to making fake Nancy Guthrie ransom demand - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Suspect killed by CHP at Covina gas station after reported assault on 210 Freeway in Glendora - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Owner of dog killed by LAPD in Canoga Park files lawsuit against city - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "'We can still pull out live victims': LA rescuers join Venezuela quake rescue efforts - NPR",
           "source": "Google News LA"
         },
         {
@@ -788,19 +796,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "LA County Completes Homeless Services Contract Transition \u2014 A Milestone for Accountability - LA County Homeless Services & Housing (.gov)",
+          "headline": "Deputies Launch Investigations Connected to World Cup-Related Arrests - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
-          "headline": "DAYLIGHTING - AB 413 - Los Angeles County Sheriff's Department",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles County Sheriff's Department cracking down on illegal fireworks ahead of 4th of July - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Investigations Connected to World Cup-Related Arrests Continues - MyNewsLA.com",
+          "headline": "18320 Ingomar St Unit 1, Los Angeles, CA 91335 - Realtor.com",
           "source": "Google News LA"
         },
         {
@@ -808,15 +808,15 @@
           "source": "Google News LA"
         },
         {
+          "headline": "Watch firefighters battle fast-moving wildfire in Los Angeles County - Discover SWNS",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Amber Alert canceled: Hayward baby and mother found in Los Angeles after possible abduction, police confirm - ABC7 Bay Area",
+          "source": "Google News LA"
+        },
+        {
           "headline": "Los Angeles County Sheriff's Department hands out 7-Eleven free Slurpee coupons for good deeds - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Behavioral Health Overhaul Takes Effect in LA County - MyNewsLA.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Target\u2019s $100,000 Gift Helps the Los Angeles Regional Food Bank Provide Food Assistance in Times of Need - Los Angeles Regional Food Bank",
           "source": "Google News LA"
         }
       ],
