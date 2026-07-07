@@ -1,10 +1,14 @@
 {
-  "generated": "2026-07-07T17:21:56.972680+00:00",
+  "generated": "2026-07-07T20:45:33.445228+00:00",
   "briefing": "12 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Monrovia founder's historic home sells for $2.55 million\n- Free 4th of July concert and fireworks at Library Park\n- 2025 drinking water quality report now available for residents\n- Good Fortune Supermarket being sold; ownership transition underway",
+      "summary": "- Monrovia founder's historic home sells for $2.55 million\n- Free 4th of July concert and fireworks at Library Park\n- Monrovia water quality report now available for residents\n- AI Awareness Workshop at Monrovia Library, July 13",
       "headlines": [
+        {
+          "headline": "Paint, Sip, and Relax, at Chamber of Commerce, July 27",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Energetic Taffy is a toy-loving Akita mix who's ready for adventure",
           "source": "Monrovia Now"
@@ -82,15 +86,15 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "A Moment in Monrovia History: Lunchtime for Monrovia founder William Monroe",
-          "source": "Monrovia Now"
-        },
-        {
           "headline": "Monrovia vs Poly/Pasadena Girls Tennis - Sep 1, 2026 - Sports Illustrated",
           "source": "Google News"
         },
         {
           "headline": "Trader Joe\u2019s plans to open Oswego store by year\u2019s end - Shaw Local",
+          "source": "Google News"
+        },
+        {
+          "headline": "If You Invested $1,000 in Invizyne Technologies Inc (IZTC) - Stock Titan",
           "source": "Google News"
         },
         {
@@ -118,15 +122,15 @@
           "source": "Google News"
         },
         {
+          "headline": "Case Against Doctor Accused Of Purposely Driving Family Over Cliff Thrown Out: DA",
+          "source": "Patch Monrovia"
+        },
+        {
           "headline": "Anti-Violence Activist Killed Trying To Break Up July 4th Altercation: 'What He Fought Against Took His Life'",
           "source": "Patch Monrovia"
         },
         {
           "headline": "Road Near LAX To Fully Shut Down For Construction In July",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Hundreds Arrested In 4th Of July Melee | Heat Wave Forecast | Police Pileup: SoCal In Brief",
           "source": "Patch Monrovia"
         },
         {
@@ -179,11 +183,11 @@
         }
       ],
       "relevance": {
-        "0": false,
-        "1": true,
-        "2": false,
-        "3": false,
-        "4": true,
+        "0": true,
+        "1": false,
+        "2": true,
+        "3": true,
+        "4": false,
         "5": true,
         "6": true,
         "7": true,
@@ -192,7 +196,7 @@
         "10": true,
         "11": true,
         "12": true,
-        "13": false,
+        "13": true,
         "14": false,
         "15": true,
         "16": true,
@@ -212,7 +216,7 @@
         "30": false,
         "31": false,
         "32": false,
-        "33": true,
+        "33": false,
         "34": true,
         "35": true,
         "36": true,
@@ -222,14 +226,14 @@
       }
     },
     "sgv": {
-      "summary": "- Armed man fatally shot by CHP at Covina gas station after shooting tow truck driver\n- West Nile virus detected in Alhambra mosquito; human infection confirmed in Long Beach area\n- SGV officials approve wildfire plan as heat advisory issued through Friday\n- Air quality alert Sunday due to fireworks smoke raising health risks",
+      "summary": "- CHP shoots armed man at Covina gas station; tow truck driver critically injured\n- San Gabriel Valley releases 30,000 sterile mosquitoes weekly to combat mosquito population\n- Air quality alert issued Sunday as fireworks smoke raises health risks\n- July 4th celebrations and outdoor summer events planned across San Gabriel Valley",
       "headlines": [
         {
           "headline": "Fireworks Near Me: July 4th Events Around The San Gabriel Valley For 2026 - Patch",
           "source": "Google News SGV"
         },
         {
-          "headline": "Health officials warn of West Nile virus in mosquito in Alhambra, human infection in Long Beach - Los Angeles Times",
+          "headline": "30,000 mosquitoes to be released in San Gabriel Valley each week to fight mosquitoes - NBC Los Angeles",
           "source": "Google News SGV"
         },
         {
@@ -241,11 +245,11 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "SGV Officials Approve Wildfire Plan - MyNewsLA.com",
+          "headline": "San Gabriel Valley Fights Mosquitoes with Mosquitoes - MyNewsLA.com",
           "source": "Google News SGV"
         },
         {
-          "headline": "Tawa Gateway retail center in San Gabriel adding 14 new tenants - The Business Journals",
+          "headline": "Temple City officials take key committee seats in regional council - heysocal.com",
           "source": "Google News SGV"
         },
         {
@@ -257,7 +261,11 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Pursuit ends with deadly CHP shooting; Eastbound 210 closed in San Gabriel Valley - Yahoo",
+          "headline": "A San Gabriel Valley watercolor class paints a new picture on cancer recovery - NBC Los Angeles",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "San Gabriel Valley local agencies approve wildfire plan - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -293,16 +301,16 @@
           "source": "Google News SGV"
         },
         {
+          "headline": "Long Beach Coast leaves good impressions off the bat - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
           "headline": "Have California consumers found peace with this economy? - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "Los Alamitos consensus picks for Saturday, July 4, 2026 - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "Heat Advisory Issued for Pasadena, Altadena Through Friday - Pasadena Now",
-          "source": "Google News SGV"
+          "headline": "Judge Dismisses Murder Charges Against Pasadena Radiologist After Mental Health Diversion",
+          "source": "Pasadena Now"
         },
         {
           "headline": "Woman Injured in Strong-Arm Robbery on South Lake Avenue",
@@ -341,8 +349,8 @@
           "source": "Pasadena Now"
         },
         {
-          "headline": "Mental Competency Hearing Set for Man Charged in Fatal Pasadena Shooting",
-          "source": "Pasadena Now"
+          "headline": "How a 215-Organization Coalition Is Driving Eaton Fire Recovery",
+          "source": "Colorado Blvd"
         },
         {
           "headline": "How Affordable Family Housing Can Support PUSD Enrollment",
@@ -353,7 +361,7 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Patagonia Pasadena Hosts \u201cNative Runner\u201d Screening Benefiting Tongva Taraxat Paxaavxa Conservancy",
+          "headline": "Patagonia Pasadena Hosts \u201cRemaining Native\u201d Screening Benefiting Tongva Taraxat Paxaavxa Conservancy",
           "source": "Colorado Blvd"
         },
         {
@@ -389,15 +397,35 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "San Marino Brings Back Free Outdoor Fitness Classes at Lacy Park",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Several NYC buildings evacuated as officials warn of possible collapse due to buckling beams",
+          "headline": "Singer D4vd's preliminary hearing set for July 21 in killing of 14-year-old Celeste Rivas Hernandez",
           "source": "ABC7"
         },
         {
-          "headline": "'Shark Tank' Season 18: MrBeast, Mindy Kaling, J.J. Watt and more guest Sharks announced",
+          "headline": "McConnell speaks to Republican leaders as speculation swirls about his health, remains hospitalized",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Brittany Armstrong charged with involuntary manslaughter after illegal fireworks start fire that killed Cashmere Elijah Parker in Dunn, North Carolina",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Investigator says video shows defendant going onto roof to kill Charlie Kirk | LIVE",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Manhattan buildings evacuated after columns found buckling at high-rise construction site",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Argentina completes comeback, beats Egypt 3-2 to reach World Cup quarterfinals",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Metal bar pierces windshield, hits pregnant driver on 15 Freeway in Temecula",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Inner City Youth Orchestra of Los Angeles prepares for historic cross-country tour",
           "source": "ABC7"
         },
         {
@@ -405,19 +433,11 @@
           "source": "ABC7"
         },
         {
-          "headline": "Three tankers hit in latest attacks in the Strait of Hormuz, British military says",
+          "headline": "Ex-Bucknell strength coach charged with hazing in 2024 death of player who collapsed during workout",
           "source": "ABC7"
         },
         {
-          "headline": "President Trump meets with Turkish President Erdogan at NATO summit",
-          "source": "ABC7"
-        },
-        {
-          "headline": "USPS Forever stamp prices to increase Sunday, if approved",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Kylian Mbapp\u00e9 condemns Paraguayan senator over racist remarks after World Cup match",
+          "headline": "SoCal Metro worker among several arrested in transnational organized crime case",
           "source": "ABC7"
         },
         {
@@ -425,57 +445,41 @@
           "source": "ABC7"
         },
         {
-          "headline": "Ex-Bucknell strength coach charged with hazing in 2024 death of player who collapsed during workout",
+          "headline": "'Star Wars: The Experience' making its world debut in Philadelphia in 2027",
           "source": "ABC7"
         },
         {
-          "headline": "Los Angeles fireworks spotted from space on 4th of July, video shows",
+          "headline": "Supreme Court won't block Texas from enforcing a law requiring age verification for app downloads",
           "source": "ABC7"
         },
         {
-          "headline": "LA receives $10.1 million from Bezos Earth Fund for Watts Towers park",
+          "headline": "Street vendor attacked in downtown LA speaks out for first time",
           "source": "ABC7"
         },
         {
-          "headline": "More video expected during hearing in case against man accused of killing Charlie Kirk | LIVE",
+          "headline": "Former Texans star J.J. Watt and others revealed as guest Sharks on 18th season of 'Shark Tank'",
           "source": "ABC7"
         },
         {
-          "headline": "Sen. McConnell is 'continuing his recovery,' staff says",
+          "headline": "Trump says he'll consider giving Turkey F-35 jets, adds that US will lift sanctions",
           "source": "ABC7"
         },
         {
-          "headline": "Trump Accounts offer free funds for some children, but advisors say they may not fit every family",
+          "headline": "3 tankers hit in latest attacks in the Strait of Hormuz, British military says",
           "source": "ABC7"
         },
         {
-          "headline": "From animation to live-action, choreographer casts hundreds of Pacific Islanders for Disney's 'Moana'",
+          "headline": "'Shark Tank' Season 18: MrBeast, Mindy Kaling, J.J. Watt and more guest Sharks announced",
           "source": "ABC7"
         },
         {
-          "headline": "Weather Change Alert: Heat advisory issued for SoCal with extreme heat building this week",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Singer D4vd due back in court in killing of 14-year-old Celeste Rivas Hernandez",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Set sail with Moana: Must-have toys for every little explorer to join in the fun for the new film",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Trump building granite helipad on White House South Lawn",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Whale causes catastrophic damage to New Jersey fire department marine unit",
+          "headline": "USPS Forever stamp prices to increase Sunday, if approved",
           "source": "ABC7"
         }
       ],
       "relevance": {
         "0": true,
-        "1": false,
+        "1": true,
         "2": true,
         "3": true,
         "4": true,
@@ -485,46 +489,46 @@
         "8": true,
         "9": true,
         "10": true,
-        "11": false,
-        "12": false,
-        "13": true,
-        "14": false,
-        "15": true,
-        "16": false,
-        "17": false,
+        "11": true,
+        "12": true,
+        "13": false,
+        "14": true,
+        "15": false,
+        "16": true,
+        "17": true,
         "18": false,
         "19": false,
         "20": true,
         "21": true,
-        "22": false,
-        "23": false,
-        "24": false,
-        "25": false,
-        "26": false,
-        "27": false,
-        "28": false,
-        "29": false,
-        "30": false,
+        "22": true,
+        "23": true,
+        "24": true,
+        "25": true,
+        "26": true,
+        "27": true,
+        "28": true,
+        "29": true,
+        "30": true,
         "31": true,
-        "32": false,
-        "33": false,
+        "32": true,
+        "33": true,
         "34": true,
-        "35": false,
+        "35": true,
         "36": false,
         "37": true,
         "38": true,
-        "39": false
+        "39": true
       }
     },
     "county": {
-      "summary": "- Water dispute escalates between LA, Pasadena, South Pasadena over dry river\n- Mass displacement of unhoused people threatens LA Olympics planning, human rights\n- Compton block party shooting kills community activist and nursing student\n- Glendale opens rental assistance applications for struggling residents",
+      "summary": "- Bass acknowledges Lineage fire communication gaps, commits to supporting affected businesses\n- SoCal heat advisory forecasts triple-digit temperatures through Friday across region\n- Mass displacement concerns emerge over LA Olympics planning and unhoused communities\n- Private prison company sells two California immigrant detention centers to feds",
       "headlines": [
         {
-          "headline": "You could get fined $63 for \u2018daylighting\u2019: Here\u2019s what you need to know",
+          "headline": "Bass admits communication failures after Lineage fire, promises help for businesses",
           "source": "LAist"
         },
         {
-          "headline": "The US men's run at the World Cup ends with a 4-1 Round of 16 loss to Belgium",
+          "headline": "Mariska Hargitay will host the 78th Primetime Emmy Awards in September on NBC",
           "source": "LAist"
         },
         {
@@ -532,15 +536,19 @@
           "source": "LAist"
         },
         {
+          "headline": "Private prison company sells two of California\u2019s immigrant detention centers to the feds",
+          "source": "LAist"
+        },
+        {
+          "headline": "You could get fined $63 for \u2018daylighting\u2019: Here\u2019s what you need to know",
+          "source": "LAist"
+        },
+        {
           "headline": "A dry river sparks a fight over water where LA, Pasadena and South Pasadena meet",
           "source": "LAist"
         },
         {
-          "headline": "California could start testing kindergarteners in math",
-          "source": "LAist"
-        },
-        {
-          "headline": "Glendale opens applications for rental assistance",
+          "headline": "Abortion pills could come to California community college health centers",
           "source": "LAist"
         },
         {
@@ -596,8 +604,16 @@
           "source": "LAist"
         },
         {
-          "headline": "Judge rejects California tribes\u2019 latest attempt to kill blackjack at cardrooms",
-          "source": "LAist"
+          "headline": "Missing California woman found dead in desert less than quarter-mile from home",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Operation Hard Ball: 37 charged as international sweep dismantles global Indian crime syndicates",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "SoCal Heat Advisory: Triple-digit temperatures forecasted through Friday",
+          "source": "Fox 11 LA"
         },
         {
           "headline": "Compton block party shooting leaves community activist, nursing student dead",
@@ -612,10 +628,6 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "'Operation Hard Ball': El Monte raids tie Indian crime syndicates to Canada assassination",
-          "source": "Fox 11 LA"
-        },
-        {
           "headline": "Lineage COO meets with Boyle Heights residents after warehouse fire, faces calls for accountability",
           "source": "Fox 11 LA"
         },
@@ -624,11 +636,7 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "East LA shooting: Child among 4 wounded amid World Cup crowd, street takeover",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Former NFL player Marcellus Wiley arrested on domestic battery charge",
+          "headline": "Watch: Star-spangled skydiver crash-lands into packed rodeo",
           "source": "Fox 11 LA"
         },
         {
@@ -660,7 +668,11 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "California designates May 17 as Bruce Lee Day",
+          "headline": "Late Dallas Cowboys DE Marshawn Kneeland diagnosed with CTE",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Midtown building remains unstable as buckled columns keep moving; evacuations still in place",
           "source": "Fox 11 LA"
         },
         {
@@ -672,63 +684,59 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Kerr Kriisa, former NCAA basketball star, arrested for alleged fraud scheme",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "TSA finds folding knife hidden in prosthetic leg at Honolulu airport",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Brush Fire in Castaic is 80% Contained",
+          "headline": "Restoration Work on Former White House Helicopter Starts at March Field",
           "source": "MyNewsLA"
         },
         {
-          "headline": "IOC Lifts Suspension of Russian Olympic Committee Ahead of 2028 Games",
+          "headline": "Man\u2019s Conviction Upheld for Murdering Research Scientist in Malibu",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Local, Federal Officials to Announce Transnational Crime Ring Takedown",
+          "headline": "Suspect Arrested in Groping on Aliso Creek Trail",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Judge Orders Bank to Turn Over Businessman\u2019s Bank Records to Insurer",
+          "headline": "Runaway 13-Year-Old From Compton Sought by Sheriff\u2019s Dept.",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Hearing Set to Go Forward for Singer D4vd in Teen\u2019s Killing",
+          "headline": "Dodgers to Donate Raffle Proceeds for Venezuela Earthquake Relief",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Local, Federal Officials to Announce Transnational Crime Ring Takedown",
+          "headline": "Hit-and-Run Driver That Killed Father, Daughter Remains At Large",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Terrence Howard Urges Judge to Allow Trial of Actor\u2019s Suit vs. CAA",
+          "headline": "LACo Supervisors Approve $3M Settlement of Suit Over Couple\u2019s Arrest in Lancaster",
           "source": "MyNewsLA"
         },
         {
-          "headline": "No Tickets Sold With All Six Powerball Numbers; Jackpot Rises to $434 Million",
+          "headline": "Man Accused of Sexually Abusing Kids Possibly Targeted Others",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Actress/Talk Show Hostess\u2019 Attorneys Seek 2 Hour Deposition Limit",
+          "headline": "Hot Weather Triggers Multi-Day Heat Advisory in LA",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Status Conference Set for D4vd in Teen\u2019s Killing",
+          "headline": "Feds Announce Arrests of Dozens of Members or Transnational Crime Ring",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Average LACo Gas Price Drops For 42nd Time in 43 Days",
+          "headline": "Hola Mexico Film Festival Returns to LA",
           "source": "MyNewsLA"
         },
         {
-          "headline": "North Los Angeles County Regional Center Notifies Individuals About November 2024 Ransomware Attack - The HIPAA Journal",
+          "headline": "Los Angeles \u2014 Regional Market Report 2026 - California Health Care Foundation",
           "source": "Google News LA"
         },
         {
-          "headline": "LA County launches crackdown on street takeovers during July Fourth weekend - ABC7 Los Angeles",
+          "headline": "Street vendor attacked in downtown Los Angeles speaks out for first time - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "North Los Angeles County Regional Center Notifies Individuals About November 2024 Ransomware Attack - The HIPAA Journal",
           "source": "Google News LA"
         },
         {
@@ -740,7 +748,15 @@
           "source": "Google News LA"
         },
         {
+          "headline": "SCV News | LASD is Asking for Public\u2019s Help Locating Missing Castaic Man - SCVNews.com",
+          "source": "Google News LA"
+        },
+        {
           "headline": "Search and rescue dogs from LA County Fire Department honored for their work in Venezuela recovery - dailydispatch.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Los Angeles County Sheriff's Department. . Los Angeles County Sheriff Robert G. Luna, the Sheriff's Homicide Bureau, and Salvador Esparza's family are urgently seeking the public's assistance in identifying the person or persons responsible for the murder of - facebook.com",
           "source": "Google News LA"
         },
         {
@@ -748,23 +764,15 @@
           "source": "Google News LA"
         },
         {
-          "headline": "\ud835\udc02\ud835\udc28\ud835\udc26\ud835\udc29\ud835\udc2d\ud835\udc28\ud835\udc27, \ud835\udc02\ud835\udc00 \ud835\udc09\ud835\udc2e\ud835\udc25\ud835\udc32 \ud835\udfd2, \ud835\udfd0\ud835\udfce\ud835\udfd0\ud835\udfd4--Detectives in Compton are investigating a shooting that resulted in two people dead, the Los Angeles County Sheriff\u2019s Department said. The shooting was reported at a large Fourth of July party on the 700 block of W. Laurel S - facebook.com",
-          "source": "Google News LA"
-        },
-        {
           "headline": "Los Angeles judge rejects district attorney\u2019s bid to freeze a four-billion-dollar abuse settlement - Westside Today",
           "source": "Google News LA"
         },
         {
-          "headline": "Plan to close L.A. jail in 5 years not feasible at \u2018scale or pace\u2019 needed, Superior Court says - Corrections1",
+          "headline": "SoCal Metro worker among several arrested in transnational organized crime case - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
           "headline": "Search and rescue K-9 teams from Los Angeles County Fire Department honored for their work in Venezuela earthquake recovery - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles County Sheriff's Department. . Los Angeles County Sheriff Robert G. Luna, the Sheriff's Homicide Bureau, and Salvador Esparza's family are urgently seeking the public's assistance in identifying the person or persons responsible for the murder of - facebook.com",
           "source": "Google News LA"
         },
         {
@@ -776,19 +784,19 @@
           "source": "Google News LA"
         },
         {
-          "headline": "LA cold case: $85K reward offered in unsolved killing of 4-year-old Altadena boy - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
           "headline": "19-year-old nursing student Meah Jenkins, 37-year-old Eric Washington identified as victims in deadly Compton July 4th shooting - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "Search and rescue dogs from Los Angeles County Fire Department honored for their work in Venezuela earthquake recovery - ABC7 Los Angeles",
+          "headline": "LA cold case: $85K reward offered in unsolved killing of 4-year-old Altadena boy - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
           "headline": "4 hurt, including juvenile, in East LA shooting following World Cup celebrations; search underway for suspect - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Search and rescue dogs from Los Angeles County Fire Department honored for their work in Venezuela earthquake recovery - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -797,10 +805,6 @@
         },
         {
           "headline": "Pedestrian struck, killed by Metro bus in downtown Los Angeles - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Social media cited in Newport melee - PressReader",
           "source": "Google News LA"
         }
       ],
