@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-06T20:47:01.682526+00:00",
-  "briefing": "12 PM",
+  "generated": "2026-07-07T02:49:03.222921+00:00",
+  "briefing": "5 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Monrovia finalist for All-America City award despite not winning\n- Free 4th of July concert and fireworks at Library Park\n- Monrovia's 2025 drinking water quality report now available online\n- 4th of July street closures near Library Park announced",
+      "summary": "- Monrovia finalist for All-America City award despite not winning\n- Free 4th of July concert and fireworks at Library Park\n- 2025 drinking water quality report now available to residents\n- Street closures near Library Park for July 4th celebrations",
       "headlines": [
         {
           "headline": "Happy 250th birthday, America!",
@@ -118,15 +118,19 @@
           "source": "Google News"
         },
         {
+          "headline": "Anti-Violence Activist Killed Trying To Break Up July 4th Altercation: 'What He Fought Against Took His Life'",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "Road Near LAX To Fully Shut Down For Construction In July",
+          "source": "Patch Monrovia"
+        },
+        {
           "headline": "Hundreds Arrested In 4th Of July Melee | Heat Wave Forecast | Police Pileup: SoCal In Brief",
           "source": "Patch Monrovia"
         },
         {
           "headline": "In-N-Out To Expand In CA | Restaurant Loses Michelin Star | Endless Shrimp Scheme: CA Business News",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Kindness Has Limits When It Comes To Lying, Readers Say [The Question]",
           "source": "Patch Monrovia"
         },
         {
@@ -212,7 +216,7 @@
         "30": false,
         "31": false,
         "32": false,
-        "33": true,
+        "33": false,
         "34": true,
         "35": true,
         "36": true,
@@ -222,7 +226,7 @@
       }
     },
     "sgv": {
-      "summary": "- West Nile virus detected in San Gabriel Valley mosquitoes; human infection reported\n- Armed man fatally shot by CHP after 210 freeway shooting incident\n- TAWA Gateway retail center opens with 14 new Asian retailers and eateries\n- Air quality alert issued Sunday due to fireworks smoke health risks",
+      "summary": "- West Nile virus detected in San Gabriel Valley mosquitoes; human case in Long Beach\n- Armed man fatally shot by CHP after 210 freeway shooting; tow truck driver injured\n- San Gabriel Valley agencies approve wildfire preparedness plan for region\n- TAWA Gateway retail center adding 14 new Asian tenants, restaurants",
       "headlines": [
         {
           "headline": "West Nile virus detected in San Gabriel Valley mosquitoes - NBC Los Angeles",
@@ -237,11 +241,11 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel Valley Residents Can Save on E-Bikes Through GoSGV Programs - ColoradoBoulevard.net",
+          "headline": "Health officials warn of West Nile virus in mosquito in Alhambra, human infection in Long Beach - Los Angeles Times",
           "source": "Google News SGV"
         },
         {
-          "headline": "Health officials warn of West Nile virus in mosquito in Alhambra, human infection in Long Beach - Los Angeles Times",
+          "headline": "San Gabriel Valley Residents Can Save on E-Bikes Through GoSGV Programs - ColoradoBoulevard.net",
           "source": "Google News SGV"
         },
         {
@@ -293,11 +297,11 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Remember the Ladies: Women\u2019s voices that shaped America - San Gabriel Valley Tribune",
+          "headline": "Air quality alert issued for Los Angeles County Sunday - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "Air quality alert issued for Los Angeles County Sunday - San Gabriel Valley Tribune",
+          "headline": "Remember the Ladies: Women\u2019s voices that shaped America - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -345,6 +349,14 @@
           "source": "Pasadena Now"
         },
         {
+          "headline": "Inside the LA Press Club Awards at the Biltmore Hotel",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Caltech Welcomes Julie Messersmith as Vice President for Institute Initiatives",
+          "source": "Colorado Blvd"
+        },
+        {
           "headline": "SGVCOG Adopts First Regional Community Wildfire Protection Plan",
           "source": "Colorado Blvd"
         },
@@ -353,7 +365,7 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "The Scottish Play Comes to South Pasadena\u2019s Garfield Park",
+          "headline": "\u201cMacbeth\u201d Comes to South Pasadena\u2019s Garfield Park",
           "source": "Colorado Blvd"
         },
         {
@@ -385,12 +397,44 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "South Pasadena Seniors and Youth Invited to Make Explosion Books Together",
-          "source": "Colorado Blvd"
+          "headline": "4 hurt in East LA shooting following World Cup celebrations; search underway for suspect",
+          "source": "ABC7"
         },
         {
-          "headline": "Monterey Park Screens Three Free Movie Nights in July",
-          "source": "Colorado Blvd"
+          "headline": "Woman crashes into IE Planet Fitness gym while suffering medical emergency",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Search and rescue K-9 teams from LA County Fire honored for their work in Venezuela recovery",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Brush fire in Castaic shuts down some 5 Freeway lanes, prompts evacuation warning",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Delta flight makes emergency landing at Fresno Yosemite International Airport",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Amber Alert canceled after 3-month-old baby found, mother taken into custody, police say",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Former officer describes finding a 'sniper pad' on nearby rooftop after Charlie Kirk assassination",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Weather Change Alert: Heat advisory issued for SoCal with extreme heat building this week",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Experts offer advice to manage credit card debt",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Dwayne 'The Rock' Johnson has emotional reaction to live-action 'Moana'",
+          "source": "ABC7"
         },
         {
           "headline": "'Star Wars: Visions Presents - The Ninth Jedi' anime series set for Aug. 5 premiere",
@@ -417,10 +461,6 @@
           "source": "ABC7"
         },
         {
-          "headline": "Prosecutors argue the man accused of killing Charlie Kirk should stand trial | LIVE",
-          "source": "ABC7"
-        },
-        {
           "headline": "Camp Pendleton families treated to big surprises by Disney and 'Toy Story' friends",
           "source": "ABC7"
         },
@@ -435,50 +475,14 @@
         {
           "headline": "Lauren Bennett, singer on LMFAO's 'Party Rock Anthem,' dies at 37",
           "source": "ABC7"
-        },
-        {
-          "headline": "Daughters of the American Revolution restore patriots' graves in New Jersey",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Daniel Moist charged with third-degree murder after 14-month-old daughter found dead in hot car in Northampton County, Pennsylvania",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Disney debuts first trailer for Oasis reunion documentary 'Don't Look Back in Anger'",
-          "source": "ABC7"
-        },
-        {
-          "headline": "White nationalist group Patriot Front marches through Washington DC during America 250 events",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Trump rings Wall Street's opening bell to mark 1st day of trading for Trump Accounts",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Delta pilot reports plane being hit by 4th of July firework while landing in Chicago",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Pedestrian struck, killed by Metro bus in downtown Los Angeles",
-          "source": "ABC7"
-        },
-        {
-          "headline": "SoCal to see warm, sunny week with slight warmup ahead",
-          "source": "ABC7"
-        },
-        {
-          "headline": "How Trump made more than $1 billion on crypto when most of his coin's investors lost money",
-          "source": "ABC7"
         }
       ],
       "relevance": {
         "0": true,
         "1": true,
         "2": true,
-        "3": true,
-        "4": false,
+        "3": false,
+        "4": true,
         "5": true,
         "6": true,
         "7": true,
@@ -491,8 +495,8 @@
         "14": true,
         "15": true,
         "16": true,
-        "17": false,
-        "18": true,
+        "17": true,
+        "18": false,
         "19": false,
         "20": false,
         "21": false,
@@ -504,31 +508,35 @@
         "27": false,
         "28": false,
         "29": false,
-        "30": true,
-        "31": true,
-        "32": false,
+        "30": false,
+        "31": false,
+        "32": true,
         "33": false,
         "34": false,
-        "35": true,
+        "35": false,
         "36": false,
-        "37": false,
+        "37": true,
         "38": false,
         "39": false
       }
     },
     "county": {
-      "summary": "- Water rights dispute escalates between LA, Pasadena, South Pasadena over dry river\n- Billy G. Mills, LA's pioneering Black City Council member, dies\n- Long Beach prepares budget cuts; public input period begins now\n- East LA shooting wounds child during World Cup crowd, street takeover",
+      "summary": "- Water rights battle escalates between LA, Pasadena, South Pasadena over dry river\n- East LA shooting wounds child amid World Cup celebrations, street takeover\n- Billy G. Mills, LA's pioneering Black City Council member, dies\n- Judge blocks Trump's federal homeless funding shift for LA agency",
       "headlines": [
         {
           "headline": "A dry river sparks a fight over water where LA, Pasadena and South Pasadena meet",
           "source": "LAist"
         },
         {
-          "headline": "The US faces Belgium in the World Cup on the heels of Trump-Infantino red card call",
+          "headline": "The US men's run at the World Cup ends with a 4-1 Round of 16 loss to Belgium",
           "source": "LAist"
         },
         {
-          "headline": "England hands Mexico its first World Cup loss at Estadio Azteca, winning 3-2 to reach quarterfinals",
+          "headline": "\u00bfY si s\u00ed? What this hopeful World Cup chant meant to Mexico fans",
+          "source": "LAist"
+        },
+        {
+          "headline": "California could start testing kindergarteners in math",
           "source": "LAist"
         },
         {
@@ -536,11 +544,11 @@
           "source": "LAist"
         },
         {
-          "headline": "Billy G. Mills, one of LA's first Black City Council members, has died",
+          "headline": "Glendale opens applications for rental assistance",
           "source": "LAist"
         },
         {
-          "headline": "Long Beach will soon start planning budget cuts. Here\u2019s how you can weigh in",
+          "headline": "Billy G. Mills, one of LA's first Black City Council members, has died",
           "source": "LAist"
         },
         {
@@ -549,10 +557,6 @@
         },
         {
           "headline": "6 things to know about the worst places to park in LA",
-          "source": "LAist"
-        },
-        {
-          "headline": "Your last chance to visit La Brea Tar Pits before it closes for two years",
           "source": "LAist"
         },
         {
@@ -608,6 +612,10 @@
           "source": "Fox 11 LA"
         },
         {
+          "headline": "Former NFL player Marcellus Wiley arrested on domestic battery charge",
+          "source": "Fox 11 LA"
+        },
+        {
           "headline": "More than 400 arrested after chaotic July 4 crowds overwhelm Newport Beach",
           "source": "Fox 11 LA"
         },
@@ -628,7 +636,7 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "LA County announces July 4th crackdown on street takeovers",
+          "headline": "Video shows damaged Tesla in alleged Paul Pelosi hit-and-run",
           "source": "Fox 11 LA"
         },
         {
@@ -660,67 +668,63 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "California among states hit hardest by child care costs, new data shows",
+          "headline": "TSA finds folding knife hidden in prosthetic leg at Honolulu airport",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Lauren Bennett, 'Party Rock Anthem' singer, dies",
+          "headline": "These are the most stressed-out cities in America, data shows",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Celebrity deaths of 2026: The entertainers and artists we lost this year",
+          "headline": "Trump confirms a helipad is being built on the White House lawn",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Father dies trying to rescue child from MD house fire sparked by discarded fireworks, officials say",
+          "headline": "19 New Jersey deaths linked to extreme heat",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "150 new US citizens sworn in during special 4th of July ceremony at Mount Vernon",
-          "source": "Fox 11 LA"
+          "headline": "Firefighters Contain 25-Acre Brush Fire in Castaic",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Firefighters Battle 19-Acre Brush Fire in Castaic",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Police Seek Help Locating Missing 22-Year-Old Woman Last Seen in Long Beach",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Anti-Violence Activist Among 2 Killed in Compton Shooting",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Group of Boyle Heights Residents Demand Recovery Supports from Lineage",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Bicyclist Killed in Long Beach Hit-and-Run Collision",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Man Charged with Embezzling $325,000 from Laguna Beach Restaurant",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Uber Driver Convicted of Sexually Assaulting Customer",
+          "source": "MyNewsLA"
         },
         {
           "headline": "Crash Damages Pole, Shuts Stretch of PCH in Malibu",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Vehicle Plows into Entrance to Elsinore Fitness Center",
+          "headline": "Man Accused of Kiting $155,000 in Checks in Irvine",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Dudamel, LA Phil to Stage Venezuela Earthquake Benefit",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Sheriff\u2019s Department Locates 14-Year-Old Boy Who Was Missing From Westmont",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Anti-Violence Activist Killed in Compton Shooting Was Assemblyman\u2019s Ex-Staffer",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Searing Temps Forecast Throughout Inland Region This Week",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "No Injuries Reported After Driver Crashes into Palm Desert Building",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "1 of the Hyde Park Shooting Identified",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "US Plays Belgium in World Cup Match With Star Eligible To Play",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Firework Set Off at Venice High Prompts LAFD Response",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Authorities ID Encino Red-Light Crash Victim",
+          "headline": "Coachella Set to Discuss Approval of Data Center Ban Extension",
           "source": "MyNewsLA"
         },
         {
@@ -728,11 +732,19 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Alameda County Hires Picard Group for Federal Lobbying - Legis1",
+          "headline": "DAYLIGHTING - AB 413 - Los Angeles County Sheriff's Department",
           "source": "Google News LA"
         },
         {
-          "headline": "DAYLIGHTING - AB 413 - Los Angeles County Sheriff's Department",
+          "headline": "Los Angeles County Sheriff's Department. . Los Angeles County Sheriff Robert G. Luna, the Sheriff's Homicide Bureau, and Salvador Esparza's family are urgently seeking the public's assistance in identifying the person or persons responsible for the murder of - facebook.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Plan to close L.A. jail in 5 years not feasible at \u2018scale or pace\u2019 needed, Superior Court says - Corrections1",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Alameda County Hires Picard Group for Federal Lobbying - Legis1",
           "source": "Google News LA"
         },
         {
@@ -740,11 +752,15 @@
           "source": "Google News LA"
         },
         {
+          "headline": "*UPDATED & EXTENDED* Heat Advisory \u2013 High Temperatures Forecast for Parts of Los Angeles County - Random Lengths News",
+          "source": "Google News LA"
+        },
+        {
           "headline": "Snapshot: Art on the Boulevard - Los Angeles Business Journal",
           "source": "Google News LA"
         },
         {
-          "headline": "FinancialContent - The Deadliest Hour to Drive in Los Angeles Isn\u2019t Rush Hour \u2014 It\u2019s 2 AM, New Crash Data Study Finds [JACOBY & MEYERS ROAD SAFETY REPORT\u2122] - FinancialContent",
+          "headline": "Search and rescue dogs from Los Angeles County Fire Department honored for their work in Venezuela earthquake recovery - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -752,11 +768,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Pedestrian struck, killed by Metro bus in downtown Los Angeles - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Venezuela earthquake death toll rises to over 3,300 as L.A. County rescue crew heads home - KTLA",
+          "headline": "Los Angeles County Sheriff's Department. Smash Mouth \u00b7 4th Of July. Los Angeles County Sheriff\u2019s Department wishes you and your family a happy and safe 4th of July. Our partners at County of Los Angeles Fire Department and Los Angeles City Fire Depart - facebook.com",
           "source": "Google News LA"
         },
         {
@@ -764,11 +776,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Judge OKs Trial for Woman\u2019s Retaliation Suit Over Juvenile Halls - MyNewsLA.com",
+          "headline": "Anti-Violence Activist Among 2 Killed in Compton Shooting - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
-          "headline": "4 hurt in East LA shooting following World Cup celebrations; search underway for suspect - ABC7 Los Angeles",
+          "headline": "Pedestrian struck, killed by Metro bus in downtown Los Angeles - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -776,31 +788,23 @@
           "source": "Google News LA"
         },
         {
+          "headline": "4 hurt in East LA shooting following World Cup celebrations; search underway for suspect - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Martin Fire: Brush fire in Castaic triggers evacuation warning, 5 Freeway lane closures - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
           "headline": "Small brush fire breaks out along 605 Freeway in Irwindale - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
+          "headline": "FinancialContent - The Deadliest Hour to Drive in Los Angeles Isn\u2019t Rush Hour \u2014 It\u2019s 2 AM, New Crash Data Study Finds [JACOBY & MEYERS ROAD SAFETY REPORT\u2122] - FinancialContent",
+          "source": "Google News LA"
+        },
+        {
           "headline": "4 people hurt in 3 East LA shootings following World Cup celebrations, deputies say - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Massive blaze tears through La Habra commercial building on July 4th - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Police target illegal fireworks across SoCal in holiday crackdown ahead of 4th of July - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "2 late-night shootings in Compton leave at least 3 people dead, search for shooters continue - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Archdiocese of Los Angeles urges parishes to join in Venezuelan earthquake relief effort - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Palm tree catches fire in Montebello - ABC7 Los Angeles",
           "source": "Google News LA"
         }
       ],
