@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-12T16:02:21.664019+00:00",
-  "briefing": "8 AM",
+  "generated": "2026-07-12T20:01:47.634784+00:00",
+  "briefing": "12 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Monrovia to acquire 8-acre North property, expand Wilderness Preserve\n- Municipal election nomination period opens July 13 for candidates\n- City approves bear statues installation at all elementary schools\n- July Smart Irrigation Month offers water conservation rebates locally",
+      "summary": "- Monrovia to acquire 8-acre North property for Wilderness Preserve expansion\n- Municipal election nomination period opens July 13 for candidates\n- City offers water conservation rebates during Smart Irrigation Month\n- Bear statues approved for elementary schools across the city",
       "headlines": [
         {
           "headline": "Historic walking tour of downtown Monrovia, July 11",
@@ -138,6 +138,10 @@
           "source": "Google News"
         },
         {
+          "headline": "In-N-Out employee finds large python trying to order at the drive thru - 50 miles from home - MSN",
+          "source": "Google News"
+        },
+        {
           "headline": "Waymo Delivers Unruly Teens To Police | Selfie Leads To Suspescts | Man Dosed His Kids With Shrooms: CA News",
           "source": "Patch Monrovia"
         },
@@ -150,19 +154,19 @@
           "source": "Patch Monrovia"
         },
         {
+          "headline": "These Are CA's Surprisingly Highest-Paid Mayors, Supervisors And City Officials",
+          "source": "Patch Monrovia"
+        },
+        {
           "headline": "Sharks, Flooding And Heatwaves: How 'The Blob' And El Ni\u00f1o Could Wreak Havoc On CA",
           "source": "Patch Monrovia"
         },
         {
-          "headline": "What To Watch This Weekend: 'Moana,' 'Evil Dead Burn,' 'Little House On The Prairie,' 'The Five Star Weekend'",
+          "headline": "'Moana' Live\u2011Action Review: Disney\u2019s Remake Honors The Original But Rarely Justifies It",
           "source": "Patch Monrovia"
         },
         {
           "headline": "7 CA Restaurants Earn New Michelin 'Bib' Honors For High Quality At Affordable Prices",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "When To Buy Corn, Watermelon, Peaches And Other Summer Produce In CA",
           "source": "Patch Monrovia"
         },
         {
@@ -258,7 +262,7 @@
       }
     },
     "sgv": {
-      "summary": "- 500,000 sterile male mosquitoes being released weekly to control population\n- Heat advisory in effect for San Gabriel Valley through Friday\n- San Gabriel Valley Symphony offers free mini concert at Blossom Market\n- JPL opens doors for first time in three years soon",
+      "summary": "- 500,000 sterile male mosquitoes released weekly in San Gabriel Valley pest control effort\n- Extreme heat advisory in place for Los Angeles County through Friday evening\n- San Gabriel Valley Symphony offers free mini concert at Blossom Market Hall\n- JPL opens doors for first time in three years, tickets expected to sell out quickly",
       "headlines": [
         {
           "headline": "San Gabriel Valley fighting mosquitoes with mosquitoes - NBC Los Angeles",
@@ -333,11 +337,11 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Asian American military veterans shine in the spotlight of new Monterey Park exhibit - San Gabriel Valley Tribune",
+          "headline": "Have California consumers found peace with this economy? - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "Have California consumers found peace with this economy? - San Gabriel Valley Tribune",
+          "headline": "Streetsblog SGV Reporter Chris Greenspon Receives Civil Engineering Journalism Award - Streetsblog Los Angeles",
           "source": "Google News SGV"
         },
         {
@@ -379,6 +383,10 @@
         {
           "headline": "Pasadena Under Heat Advisory as Temperatures Set to Climb Through Next Week",
           "source": "Pasadena Now"
+        },
+        {
+          "headline": "San Gabriel Invites Residents to Vote on Vincent Lugo Park Mural Design",
+          "source": "Colorado Blvd"
         },
         {
           "headline": "Thoughts for Pennies: \u201cSend Word\u201d",
@@ -425,8 +433,16 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Connecting Pasadena to the Science in Its Own Backyard",
-          "source": "Colorado Blvd"
+          "headline": "From staunch critic to fierce ally: Graham's long, strange and consequential friendship with Trump",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Khosla family agrees to purchase defending Super Bowl champion Seattle for $9.612B, AP source says",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Summit Fire forward progress stopped; containment increases to 15% as crews monitor changing weather",
+          "source": "ABC7"
         },
         {
           "headline": "Weather Change Alert: Heat and humidity in SoCal bring rain, thunderstorm chances",
@@ -495,18 +511,6 @@
         {
           "headline": "DoorDash driver completes food delivery after being struck by suspect Torrance Whitaker in Houston police chase: VIDEO",
           "source": "ABC7"
-        },
-        {
-          "headline": "One runner gored in the face at Spain's San Fermin bull run festival",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Amber Alert canceled after 3-year-old last seen in California City is found",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Evacuation orders, warnings in place as Summit Fire grows to more than 2,600 acres",
-          "source": "ABC7"
         }
       ],
       "relevance": {
@@ -528,8 +532,8 @@
         "15": true,
         "16": true,
         "17": true,
-        "18": true,
-        "19": false,
+        "18": false,
+        "19": true,
         "20": false,
         "21": true,
         "22": true,
@@ -540,8 +544,8 @@
         "27": true,
         "28": true,
         "29": true,
-        "30": false,
-        "31": true,
+        "30": true,
+        "31": false,
         "32": true,
         "33": true,
         "34": true,
@@ -553,10 +557,10 @@
       }
     },
     "county": {
-      "summary": "- Summit Fire in Antelope Valley grows to 2,600+ acres; evacuations ordered\n- LAUSD risks insolvency at current spending levels, county officials warn\n- Long Beach ends after-school program after decades; 80+ layoffs expected\n- Dangerous heat wave and monsoonal storms to grip Southern California",
+      "summary": "- Summit Fire in Antelope Valley grows to 2,600+ acres; evacuations remain ongoing\n- Long Beach ends after-school program after decades; 80+ employees face layoffs\n- Dangerous heat wave and monsoonal storms expected to grip Southern California\n- LAPD suspends Flock Safety surveillance contract over data privacy concerns",
       "headlines": [
         {
-          "headline": "The 20-year road to build Ascot Hills Park in El Sereno",
+          "headline": "They didn't spend 20 years just building a park in El Sereno. They built a community",
           "source": "LAist"
         },
         {
@@ -576,7 +580,7 @@
           "source": "LAist"
         },
         {
-          "headline": "LA County officials say LAUSD risks insolvency at current spending levels",
+          "headline": "Metro LA's 'Throne' public restrooms hit 1 million uses",
           "source": "LAist"
         },
         {
@@ -716,48 +720,52 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Person Rushed To Hospital After Crash on Freeway Connector in Cerritos",
+          "headline": "Dangerous Heat Wave Moving in This Week Across Southern California",
           "source": "MyNewsLA"
         },
         {
-          "headline": "At-Risk Woman, 83, Who Went Missing Near Carson Located",
+          "headline": "Man Shot to Death, Woman Wounded at Party in Los Angeles\u2019 Westlake Area",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Man, 27, Who Went Missing in Santa Clarita Located",
+          "headline": "Southland Gas Prices Holding Steady",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Summit Fire Remains 8% Contained Near Llano",
+          "headline": "Brush Fire in Llano 15% Contained, Forward Progress Stopped",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Water Main Breaks in Studio City",
+          "headline": "Brush Fire in Llano 15% Contained, Forward Progress Stopped",
           "source": "MyNewsLA"
         },
         {
-          "headline": "James Harden, Managers Ask Judge to Overturn 2025 Verdict",
+          "headline": "Burglary Suspects Run After Being Confronted at Hollywood Hills Home",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Amazon Driver Fatally Strikes Biker in Huntington Beach",
+          "headline": "Schiff, Padilla, Calvert Remember Lindsey Graham After Senator\u2019s Death",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Lancaster Lifts Juno Fire Evacuation Warnings",
+          "headline": "Schiff, Padilla Remember Lindsey Graham After Senator\u2019s Unexpected Death",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Tarzana Pet Caretaker Under Suspicion in Dog\u2019s Death",
+          "headline": "Riverside County Gas Prices Drop Slightly",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Fire Damages Strip Mall in Sun Valley",
+          "headline": "`Moana\u2019 Opens with Underwhelming $43 Million to Lead Box Office",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Manhattan Beach Anticipates Traffic, Parking Impacts for Grand Prix",
+          "headline": "`Moana\u2019 Opens with Underwhelming $43 Million to Lead Box Office",
           "source": "MyNewsLA"
+        },
+        {
+          "headline": "Los Angeles weather: Heat and humidity in Southern California bring rain, thunderstorm chances - ABC7 Los Angeles",
+          "source": "Google News LA"
         },
         {
           "headline": "Raging Summit Fire erupts in Los Angeles County, triggering urgent evacuations and threatening structures - FOX Weather",
@@ -768,15 +776,15 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Orcas: Our Shared Future Welcome Day | Natural History Museum of L.A. County - Discover Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "4.2-magnitude earthquake strikes Frazier Park area, USGS says - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
           "headline": "Zev Yaroslavsky Discusses L.A. County\u2019s Growth and Housing Challenges - UCLA Luskin",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Summit Fire forward progress stopped; containment increases to 15% as crews monitor changing weather - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Orcas: Our Shared Future Welcome Day | Natural History Museum of L.A. County - Discover Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -788,27 +796,19 @@
           "source": "Google News LA"
         },
         {
+          "headline": "Brush Fire in Llano 15% Contained, Forward Progress Stopped - MyNewsLA.com",
+          "source": "Google News LA"
+        },
+        {
           "headline": "LA County looks to give nonprofits edge in multifamily market, Orange aims for accountability - The Real Deal",
           "source": "Google News LA"
         },
         {
-          "headline": "Fire Near LA/San Bernardino County Line Remains 8% Contained at 2,690 Acres - MyNewsLA.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "8347 Loyola Blvd, Los Angeles, CA 90045 - Realtor.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Online Memorial for Katsuya NAKATANI - Colorado Springs Gazette",
+          "headline": "661 Shatto Pl Apt 301, Los Angeles, CA 90005 - Realtor.com",
           "source": "Google News LA"
         },
         {
           "headline": "Magnitude 4.2 earthquake jolts Southern California, light shaking felt widely - FOX Weather",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Summit Fire update: Firefighters make progress on fire burning near LA-San Bernardino County line, with evacuations still in place - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -820,11 +820,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles weather: Heat and humidity in Southern California bring rain, thunderstorm chances - ABC7 Los Angeles",
+          "headline": "4.2-magnitude earthquake strikes Frazier Park area, USGS says - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "Juno Fire updates: Evacuation warnings lifted for 188-acre brush fire in Fairmont area of Antelope Valley - ABC7 Los Angeles",
+          "headline": "Summit Fire update: Firefighters make progress on fire burning near LA-San Bernardino County line, with evacuations still in place - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -832,11 +832,15 @@
           "source": "Google News LA"
         },
         {
-          "headline": "World Cup economic impact projects $892 million impact for LA County - ABC7 Los Angeles",
+          "headline": "Juno Fire updates: Evacuation warnings lifted for 188-acre brush fire in Fairmont area of Antelope Valley - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
           "headline": "Los Angeles Unified School District faces potential insolvency as county officials warn district could run out of money next year - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "World Cup economic impact projects $892 million impact for LA County - ABC7 Los Angeles",
           "source": "Google News LA"
         }
       ],
