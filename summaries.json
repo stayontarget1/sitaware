@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-11T19:59:30.910445+00:00",
-  "briefing": "12 PM",
+  "generated": "2026-07-12T02:28:57.923155+00:00",
+  "briefing": "5 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Monrovia election nominations open July 13; municipal races heating up\n- City acquires 8-acre property to expand open space preservation efforts\n- July Smart Irrigation Month features water conservation rebates for residents\n- Blue Breeze Band performs Motown soul at Library Park Sunday",
+      "summary": "- Monrovia municipal election nomination period opens July 13\n- City acquires 8-acre property at Highland Place for open space\n- Council approves bear statues for city's elementary schools\n- July is Smart Irrigation Month; water conservation rebates available",
       "headlines": [
         {
           "headline": "Historic walking tour of downtown Monrovia, July 11",
@@ -98,10 +98,6 @@
           "source": "Google News"
         },
         {
-          "headline": "Trader Joe\u2019s plans to open Oswego store by year\u2019s end - Shaw Local",
-          "source": "Google News"
-        },
-        {
           "headline": "Monrovia Council Approves Animal Services Contract, Condo Project and Short-Term Rental Tax Update - ColoradoBoulevard.net",
           "source": "Google News"
         },
@@ -122,23 +118,15 @@
           "source": "Google News"
         },
         {
-          "headline": "22 Foods That Quietly Stopped Showing Up at Family Dinners - and Nobody Replaced Them - Fast Food Club",
-          "source": "Google News"
-        },
-        {
           "headline": "In-N-Out employee finds large python trying to order at the drive thru - 50 miles from home - MSN",
           "source": "Google News"
         },
         {
+          "headline": "Summit Fire Scorches Across 2,690 Acres In Los Angeles, CA Fire Officials Warn",
+          "source": "Patch Monrovia"
+        },
+        {
           "headline": "Sharks, Flooding And Heatwaves: How 'The Blob' And El Ni\u00f1o Could Wreak Havoc On CA",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Canadian Drug Trafficking Kingpin Sentenced In LA To 20 Years In Prison",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "5 LA County Beaches Unsafe For Swimming: See Latest Bacteria Test Results",
           "source": "Patch Monrovia"
         },
         {
@@ -205,7 +193,7 @@
         "3": true,
         "4": true,
         "5": true,
-        "6": false,
+        "6": true,
         "7": false,
         "8": false,
         "9": true,
@@ -222,8 +210,8 @@
         "20": true,
         "21": false,
         "22": false,
-        "23": false,
-        "24": true,
+        "23": true,
+        "24": false,
         "25": false,
         "26": false,
         "27": false,
@@ -234,15 +222,15 @@
         "32": false,
         "33": false,
         "34": false,
-        "35": false,
-        "36": false,
-        "37": false,
+        "35": true,
+        "36": true,
+        "37": true,
         "38": true,
         "39": true
       }
     },
     "sgv": {
-      "summary": "- 500,000 sterile male mosquitoes being released weekly to combat mosquito population\n- Extreme heat advisory in effect for San Gabriel Valley through Friday\n- San Gabriel Valley watercolor class documents cancer recovery journeys through art\n- San Gabriel Valley Symphony performs free mini concert at Blossom Market Hall",
+      "summary": "- 500,000 sterile male mosquitoes being released to control pest population\n- Extreme heat advisory in effect for San Gabriel Valley through Friday\n- San Gabriel Valley Symphony offers free mini concert at Blossom Market\n- Watercolor class supports cancer recovery patients in local community",
       "headlines": [
         {
           "headline": "A San Gabriel Valley watercolor class paints a new picture on cancer recovery - NBC Los Angeles",
@@ -273,15 +261,15 @@
           "source": "Google News SGV"
         },
         {
+          "headline": "Half a million sterile mosquitoes might save the SGV - KCRW",
+          "source": "Google News SGV"
+        },
+        {
           "headline": "Surf\u2019s Up in San Gabriel as a Beach Boys Tribute Opens the Summer Concert Series - Pasadena Now",
           "source": "Google News SGV"
         },
         {
           "headline": "SGV Fights Mosquitoes with Mosquitoes - MyNewsLA.com",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "Half a million sterile mosquitoes might save the SGV - KCRW",
           "source": "Google News SGV"
         },
         {
@@ -321,7 +309,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Air quality alert issued for Los Angeles County Sunday - San Gabriel Valley Tribune",
+          "headline": "Pavilions in Pasadena, open since 1990, closing in September - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -413,7 +401,31 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Firefighters halt forward progress of Summit Fire burning near LA-San Bernardino County line",
+          "headline": "Shooting near Toronto street festival kills 2 people, wounds 4, police say",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Outbreak of diarrhea caused by cyclosporiasis spreading in US with cases reported in CA, CDC says",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Buena Park police issue warning as possible teen 'takeover' activity at Knott's Berry Farm looms",
+          "source": "ABC7"
+        },
+        {
+          "headline": "2nd brush fire in Antelope Valley triggers evacuation warning for some Fairmont residents",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Crews continue to battle Summit Fire in Antelope Valley, with evacuations still in place",
+          "source": "ABC7"
+        },
+        {
+          "headline": "US military says it is striking Iran in response to attack on civilian vessel in Strait of Hormuz",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Laser treatment helps brain cancer patient surpass 7-year survival milestone",
           "source": "ABC7"
         },
         {
@@ -421,7 +433,7 @@
           "source": "ABC7"
         },
         {
-          "headline": "Buena Park police issue warning as possible teen 'takeover' activity at Knott's Berry Farm looms",
+          "headline": "Pedestrian is struck and killed in Van Nuys hit-and-run; pickup truck driver sought",
           "source": "ABC7"
         },
         {
@@ -434,10 +446,6 @@
         },
         {
           "headline": "Heat advisory remains in SoCal as humidity raises rain, thunderstorm chances",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Trump threatens Iran after open calls for the US leader's assassination during ayatollah's funeral",
           "source": "ABC7"
         },
         {
@@ -470,26 +478,6 @@
         },
         {
           "headline": "Taylor Swift paid NYC $160,000 to cover costs for MSG wedding, Mayor Mamdani says",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Alaska woman hospitalized after being attacked by bear outside home",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Burglars ransack 16 apartments at Sherman Oaks building during fumigation",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Garden Grove man loses home, prized collection in fire believed to be caused by fireworks",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Quarterfinal match at SoFi Stadium brings economic boost to LA County",
           "source": "ABC7"
         }
       ],
@@ -537,7 +525,7 @@
       }
     },
     "county": {
-      "summary": "- Summit Fire grows to 2,600+ acres in Antelope Valley; dangerous heat threatens containment efforts\n- LAUSD risks insolvency at current spending levels, LA County officials warn\n- Long Beach ending after-school program after decades; 80+ employees face layoffs\n- Dangerous heat wave and monsoonal storms to grip Southern California this weekend",
+      "summary": "- Summit Fire spreads to 2,600+ acres in Antelope Valley; hot weather threatens evacuees\n- LA County schools risk insolvency at current spending levels, officials warn\n- Dangerous heat wave and monsoonal storms expected across Southern California this weekend\n- Long Beach ends after-school program after decades; 80+ employees face layoffs",
       "headlines": [
         {
           "headline": "A giant pop-up book unfolds at LA\u2019s Central Library",
@@ -620,6 +608,14 @@
           "source": "LAist"
         },
         {
+          "headline": "Santa Paula woman arrested for attempted murder after allegedly running over victim 3 times",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Boy stabbed to death in El Monte",
+          "source": "Fox 11 LA"
+        },
+        {
           "headline": "Dangerous heat wave and monsoonal storms to grip Southern California",
           "source": "Fox 11 LA"
         },
@@ -644,11 +640,7 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Irvine dog trainer sentenced to 12 years for killing 11 dogs in his care",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Dwayne Wayde's son Zaire charged with felony after domestic violence arrest in Burbank",
+          "headline": "Teens detained in California after drinking alcohol, shooting toy guns in Waymo: police",
           "source": "Fox 11 LA"
         },
         {
@@ -680,10 +672,6 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Watch: Star-spangled skydiver crash-lands into packed rodeo",
-          "source": "Fox 11 LA"
-        },
-        {
           "headline": "North Carolina man broke into ex's home, fatally stabbed his 5-year-old son before going to Taco Bell: police",
           "source": "Fox 11 LA"
         },
@@ -700,59 +688,67 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Former DWP Employee Tentatively Settles Suit Alleging Contract Steering",
+          "headline": "High Temperatures, Chances of Thunderstorms Predicted in Riverside County",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Person Extricated From Vehicle Crash on 405 Freeway in Sherman Oaks",
+          "headline": "Man Found Dead in Car Blocking Harbor Freeway",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Firefighters Halt Forward Progress of Llano Fire at 2,677 Acres",
+          "headline": "Metro Train and Vehicle Collide in Central-Alameda",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Woman Killed By Hit-And-Run Pickup Truck in Van Nuys",
+          "headline": "Two Women Arrested on Suspicion of Organized Retail Theft",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Little Change to Riverside County Gas Prices After Two Days of Increases",
+          "headline": "Detectives Search for Man Missing from Santa Clarita",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Southland Gas Prices Drop Slightly After Two Days of Increases",
+          "headline": "Brush Fire Burns Approximately 8 Acres in Valle Vista",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Firefighters Halt Forward Progress of Llano Fire at 2,677 Acres",
+          "headline": "Firefighters Reach 90% Containment of Brush Fire in La Cresta",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LASD Says Records Request in Retaliation/Sexual Battery Suit Too Broad",
+          "headline": "Fire Near LA/San Bernardino County Line Still 0% Contained at 2,677 Acres",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Boy Killed, Two Men Wounded in Stabbing Attack in El Monte",
+          "headline": "Pedestrian Killed By Freight Train in Glendale ID\u2019d",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Tyler Perry Says Deposition Motion Part of Effort to Coerce Settlement",
+          "headline": "Man Run Over and Killed in Reseda",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Knott\u2019s Berry Farm Joins Potential Teen Takeover Targets",
+          "headline": "Person Rushed to Hospital From Multi-Vehicle Crash on 57 Freeway",
           "source": "MyNewsLA"
-        },
-        {
-          "headline": "Raging Summit Fire erupts in Los Angeles County, triggering urgent evacuations and threatening structures - FOX Weather",
-          "source": "Google News LA"
         },
         {
           "headline": "Los Angeles weather: Heat advisory remains in Southern California as humidity raises rain, thunderstorm chances - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
+          "headline": "Orcas: Our Shared Future Welcome Day | Natural History Museum of L.A. County - Discover Los Angeles",
+          "source": "Google News LA"
+        },
+        {
           "headline": "Summit Fire in Los Angeles County scorches more than 2,600 acres - The Desert Sun",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Raging Summit Fire erupts in Los Angeles County, triggering urgent evacuations and threatening structures - FOX Weather",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LA County looks to give nonprofits edge in multifamily market, Orange aims for accountability - The Real Deal",
           "source": "Google News LA"
         },
         {
@@ -764,11 +760,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "LA County Coordinated Joint Information Center Update \u2013 7/8/2026 - LA County Recovers (.gov)",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Summit Fire in northern Los Angeles County grows to 2,600+ acres - KTLA",
+          "headline": "Another Popular WeHo Restaurant Shut Down After Vermin Infestation - WEHOonline.com",
           "source": "Google News LA"
         },
         {
@@ -776,11 +768,23 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Community Meeting Regarding Annual Military Equipment Report - Los Angeles County Sheriff's Department",
+          "headline": "Summit Fire Scorches Across 2,690 Acres In Los Angeles, CA Fire Officials Warn - Patch",
           "source": "Google News LA"
         },
         {
-          "headline": "Firefighters Halt Forward Progress of Llano Fire at 2,677 Acres - MyNewsLA.com",
+          "headline": "Summit Fire in northern Los Angeles County grows to 2,600+ acres - KTLA",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Summit Fire update: Firefighters continue to battle fire near LA-San Bernardino County line, with evacuations still in place - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Federico Fellini's Amarcord (1973): screening - Discover Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Juno Fire updates: 2nd brush fire in Antelope Valley triggers evacuation warning for some Fairmont residents - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -792,35 +796,19 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Buena Park police issue warning as possible teen 'takeover' activity at Knott's Berry Farm looms - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
           "headline": "World Cup economic impact projects $892 million impact for LA County - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "Summit Fire in Antelope Valley burns at least 1,600 acres, prompts evacuations - ABC7 Los Angeles",
+          "headline": "Fire Near LA/San Bernardino County Line Still 0% Contained at 2,677 Acres - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Amber Alert canceled after 3-year-old last seen in Kern County's California City is found - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Ocean Water Warnings Issued for Five LA County Beaches - MyNewsLA.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "LAPD ending agreement with surveillance company Flock Safety amid privacy concerns - ABC7 Los Angeles",
+          "headline": "Dangerous bacteria contamination levels trigger urgent health warnings at popular beaches from coast to coast - FOX Weather",
           "source": "Google News LA"
         },
         {
           "headline": "How Diaper Assistance Helps Strengthen Families Across LA County - Los Angeles Regional Food Bank",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Summit Fire in Llano Burns 2,581 Acres - MyNewsLA.com",
           "source": "Google News LA"
         }
       ],
