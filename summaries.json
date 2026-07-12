@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-12T02:28:57.923155+00:00",
-  "briefing": "5 PM",
+  "generated": "2026-07-12T16:02:21.664019+00:00",
+  "briefing": "8 AM",
   "columns": {
     "monrovia": {
-      "summary": "- Monrovia municipal election nomination period opens July 13\n- City acquires 8-acre property at Highland Place for open space\n- Council approves bear statues for city's elementary schools\n- July is Smart Irrigation Month; water conservation rebates available",
+      "summary": "- Monrovia to acquire 8-acre North property, expand Wilderness Preserve\n- Municipal election nomination period opens July 13 for candidates\n- City approves bear statues installation at all elementary schools\n- July Smart Irrigation Month offers water conservation rebates locally",
       "headlines": [
         {
           "headline": "Historic walking tour of downtown Monrovia, July 11",
@@ -98,6 +98,14 @@
           "source": "Google News"
         },
         {
+          "headline": "Fur suits and strange masks: How handlers are helping orphaned bear cubs after Monrovia attack - AOL.com",
+          "source": "Google News"
+        },
+        {
+          "headline": "Trader Joe\u2019s plans to open Oswego store by year\u2019s end - Shaw Local",
+          "source": "Google News"
+        },
+        {
           "headline": "Monrovia Council Approves Animal Services Contract, Condo Project and Short-Term Rental Tax Update - ColoradoBoulevard.net",
           "source": "Google News"
         },
@@ -110,6 +118,10 @@
           "source": "Google News"
         },
         {
+          "headline": "California's 2026 electric vehicle rebate program - MSN",
+          "source": "Google News"
+        },
+        {
           "headline": "Summer heat wave, Arroyo Seco, best alien movies, TV talk and more - MSN",
           "source": "Google News"
         },
@@ -118,8 +130,20 @@
           "source": "Google News"
         },
         {
-          "headline": "In-N-Out employee finds large python trying to order at the drive thru - 50 miles from home - MSN",
+          "headline": "22 Foods That Quietly Stopped Showing Up at Family Dinners - and Nobody Replaced Them - Fast Food Club",
           "source": "Google News"
+        },
+        {
+          "headline": "25 Foods That Bring Back the Best Memories One Bite at a Time - Fast Food Club",
+          "source": "Google News"
+        },
+        {
+          "headline": "Waymo Delivers Unruly Teens To Police | Selfie Leads To Suspescts | Man Dosed His Kids With Shrooms: CA News",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "Monsoonal Moisture To Add To Heat's 'Discomfort' In SoCal: National Weather Service",
+          "source": "Patch Monrovia"
         },
         {
           "headline": "Summit Fire Scorches Across 2,690 Acres In Los Angeles, CA Fire Officials Warn",
@@ -131,6 +155,10 @@
         },
         {
           "headline": "What To Watch This Weekend: 'Moana,' 'Evil Dead Burn,' 'Little House On The Prairie,' 'The Five Star Weekend'",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "7 CA Restaurants Earn New Michelin 'Bib' Honors For High Quality At Affordable Prices",
           "source": "Patch Monrovia"
         },
         {
@@ -212,7 +240,7 @@
         "22": false,
         "23": true,
         "24": false,
-        "25": false,
+        "25": true,
         "26": false,
         "27": false,
         "28": false,
@@ -222,18 +250,22 @@
         "32": false,
         "33": false,
         "34": false,
-        "35": true,
-        "36": true,
-        "37": true,
-        "38": true,
-        "39": true
+        "35": false,
+        "36": false,
+        "37": false,
+        "38": false,
+        "39": false
       }
     },
     "sgv": {
-      "summary": "- 500,000 sterile male mosquitoes being released to control pest population\n- Extreme heat advisory in effect for San Gabriel Valley through Friday\n- San Gabriel Valley Symphony offers free mini concert at Blossom Market\n- Watercolor class supports cancer recovery patients in local community",
+      "summary": "- 500,000 sterile male mosquitoes being released weekly to control population\n- Heat advisory in effect for San Gabriel Valley through Friday\n- San Gabriel Valley Symphony offers free mini concert at Blossom Market\n- JPL opens doors for first time in three years soon",
       "headlines": [
         {
-          "headline": "A San Gabriel Valley watercolor class paints a new picture on cancer recovery - NBC Los Angeles",
+          "headline": "San Gabriel Valley fighting mosquitoes with mosquitoes - NBC Los Angeles",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "A San Gabriel Valley watercolor class paints a new picture on cancer recovery - NBC Bay Area",
           "source": "Google News SGV"
         },
         {
@@ -273,11 +305,11 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "30,000 mosquitoes to be released in San Gabriel Valley each week to fight mosquitoes - NBC Los Angeles",
+          "headline": "The ripple effects of organizing against data centers - resilience.org",
           "source": "Google News SGV"
         },
         {
-          "headline": "Streetsblog SGV Reporter Chris Greenspon Receives Civil Engineering Journalism Award - Streetsblog Los Angeles",
+          "headline": "Baldwin Park invests in connectivity with support from Tripepi Smith - PublicCEO",
           "source": "Google News SGV"
         },
         {
@@ -289,7 +321,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel Valley fighting mosquitoes with mosquitoes - NBC Los Angeles",
+          "headline": "30,000 mosquitoes to be released in San Gabriel Valley each week to fight mosquitoes - NBC Los Angeles",
           "source": "Google News SGV"
         },
         {
@@ -305,12 +337,36 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Senior Moments: Why age doesn\u2019t matter - San Gabriel Valley Tribune",
+          "headline": "Have California consumers found peace with this economy? - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "Pavilions in Pasadena, open since 1990, closing in September - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
+          "headline": "Rally Set for Saturday as Part of Nationwide \u2018Good Trouble\u2019 Weekend",
+          "source": "Pasadena Now"
+        },
+        {
+          "headline": "JPL to Open Its Doors for First Time in Three Years \u2014 Tickets Will Likely Be Snapped Up in Minutes",
+          "source": "Pasadena Now"
+        },
+        {
+          "headline": "Local Health Officials Urge Residents to Check on Older Adults as Heat Advisory Extends",
+          "source": "Pasadena Now"
+        },
+        {
+          "headline": "Pasadena AI Firm Virtualitics Opens Virginia Office Near Its Defense Customers",
+          "source": "Pasadena Now"
+        },
+        {
+          "headline": "Police Arrest Suspect After Vandalism, Gun Threat",
+          "source": "Pasadena Now"
+        },
+        {
+          "headline": "Pasadena Firefighters, Water Tender Join Summit Fire Battle in Antelope Valley",
+          "source": "Pasadena Now"
+        },
+        {
+          "headline": "Last Week in Review: Top Pasadena Stories of The Week",
+          "source": "Pasadena Now"
         },
         {
           "headline": "Fifty Venues Said No. Despite That, They Persisted, And Monday, Their Camp for Fire-Affected Kids Opens.",
@@ -325,32 +381,8 @@
           "source": "Pasadena Now"
         },
         {
-          "headline": "Pasadena Under Smoke Advisory as Summit Fire Sends Haze Over Region",
-          "source": "Pasadena Now"
-        },
-        {
-          "headline": "Pair of Corpse Flowers Poised to Bloom at The Huntington",
-          "source": "Pasadena Now"
-        },
-        {
-          "headline": "School Board Vice President Vel\u00e1zquez Will Not Seek Reelection",
-          "source": "Pasadena Now"
-        },
-        {
-          "headline": "Studying the Wildfires in Caltech\u2019s Backyard",
-          "source": "Pasadena Now"
-        },
-        {
-          "headline": "Pasadena Begins Court Authorized Inspections at John Muir High as Tree Dispute Escalates",
-          "source": "Pasadena Now"
-        },
-        {
-          "headline": "Altercation Reported at John Muir High School at Blocked Entry to Cleanup Work Area",
-          "source": "Pasadena Now"
-        },
-        {
-          "headline": "The Neighbors Who Stopped the Bulldozers Get Their Evening at Castle Green",
-          "source": "Pasadena Now"
+          "headline": "Thoughts for Pennies: \u201cSend Word\u201d",
+          "source": "Colorado Blvd"
         },
         {
           "headline": "Alhambra Celebrates 123 Years of History, Heritage, and Community",
@@ -397,8 +429,44 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Pasadena Symphony POPS Brings Summer Music to Arcadia\u2019s LA Arboretum",
-          "source": "Colorado Blvd"
+          "headline": "Weather Change Alert: Heat and humidity in SoCal bring rain, thunderstorm chances",
+          "source": "ABC7"
+        },
+        {
+          "headline": "A new ICE facility could speed up deportations for families and kids",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Lindsey Graham draws tributes for his support of Ukraine, trans-Atlantic ties and Israel",
+          "source": "ABC7"
+        },
+        {
+          "headline": "4.2-magnitude earthquake strikes Frazier Park area, USGS says",
+          "source": "ABC7"
+        },
+        {
+          "headline": "US military says it is striking Iran in response to attack on civilian vessel in Strait of Hormuz",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Firefighters make progress on Summit Fire burning in Antelope Valley; evacuations still in place",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Water main break floods street, appears to damage major roadway in Studio City",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Bipartisan housing bill becomes law without Trump's signature: Here's what to know",
+          "source": "ABC7"
+        },
+        {
+          "headline": "5 people hurt in 'mass stabbing' on Exposition Park pedestrian bridge, LAPD says",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Evacuation warnings lifted for 188-acre brush fire in Fairmont area of Antelope Valley",
+          "source": "ABC7"
         },
         {
           "headline": "Shooting near Toronto street festival kills 2 people, wounds 4, police say",
@@ -410,18 +478,6 @@
         },
         {
           "headline": "Buena Park police issue warning as possible teen 'takeover' activity at Knott's Berry Farm looms",
-          "source": "ABC7"
-        },
-        {
-          "headline": "2nd brush fire in Antelope Valley triggers evacuation warning for some Fairmont residents",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Crews continue to battle Summit Fire in Antelope Valley, with evacuations still in place",
-          "source": "ABC7"
-        },
-        {
-          "headline": "US military says it is striking Iran in response to attack on civilian vessel in Strait of Hormuz",
           "source": "ABC7"
         },
         {
@@ -445,74 +501,46 @@
           "source": "ABC7"
         },
         {
-          "headline": "Heat advisory remains in SoCal as humidity raises rain, thunderstorm chances",
-          "source": "ABC7"
-        },
-        {
           "headline": "Amber Alert canceled after 3-year-old last seen in California City is found",
           "source": "ABC7"
         },
         {
           "headline": "Evacuation orders, warnings in place as Summit Fire grows to more than 2,600 acres",
           "source": "ABC7"
-        },
-        {
-          "headline": "LAPD ending deal with company operating license plate-reading cameras",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Irvine dog trainer sentenced to nearly 12 years in prison after the deaths of 11 dogs",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Shohei Ohtani to miss 2026 All-Star Game, won't pitch Friday due to knee irritation, Dodgers say",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Street vendor severely injured after being hit by car while selling tamales in South LA",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Moana live action: Lin-Manuel Miranda breaks down the music, meaning and magic behind the Disney film",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Taylor Swift paid NYC $160,000 to cover costs for MSG wedding, Mayor Mamdani says",
-          "source": "ABC7"
         }
       ],
       "relevance": {
         "0": true,
-        "1": true,
+        "1": false,
         "2": true,
         "3": true,
         "4": true,
         "5": true,
-        "6": false,
-        "7": true,
+        "6": true,
+        "7": false,
         "8": true,
         "9": true,
         "10": true,
-        "11": true,
+        "11": false,
         "12": true,
-        "13": false,
-        "14": true,
+        "13": true,
+        "14": false,
         "15": true,
         "16": true,
         "17": true,
-        "18": false,
-        "19": true,
+        "18": true,
+        "19": false,
         "20": false,
         "21": true,
         "22": true,
         "23": true,
-        "24": false,
-        "25": false,
+        "24": true,
+        "25": true,
         "26": true,
         "27": true,
         "28": true,
         "29": true,
-        "30": true,
+        "30": false,
         "31": true,
         "32": true,
         "33": true,
@@ -525,18 +553,18 @@
       }
     },
     "county": {
-      "summary": "- Summit Fire spreads to 2,600+ acres in Antelope Valley; hot weather threatens evacuees\n- LA County schools risk insolvency at current spending levels, officials warn\n- Dangerous heat wave and monsoonal storms expected across Southern California this weekend\n- Long Beach ends after-school program after decades; 80+ employees face layoffs",
+      "summary": "- Summit Fire in Antelope Valley grows to 2,600+ acres; evacuations ordered\n- LAUSD risks insolvency at current spending levels, county officials warn\n- Long Beach ends after-school program after decades; 80+ layoffs expected\n- Dangerous heat wave and monsoonal storms to grip Southern California",
       "headlines": [
         {
-          "headline": "A giant pop-up book unfolds at LA\u2019s Central Library",
+          "headline": "The 20-year road to build Ascot Hills Park in El Sereno",
           "source": "LAist"
         },
         {
-          "headline": "Hot and dry weather could fan Summit Fire in Antelope Valley; evacuations remain in place",
+          "headline": "Containment increases for Summit Fire in Antelope Valley; some evacuations remain",
           "source": "LAist"
         },
         {
-          "headline": "Authorities seized dozens of drones in LA during the World Cup. One was at a community event",
+          "headline": "Sen. Lindsey Graham of South Carolina, Trump ally and foreign policy hawk, dies at 71",
           "source": "LAist"
         },
         {
@@ -544,7 +572,7 @@
           "source": "LAist"
         },
         {
-          "headline": "Here\u2019s what the \u2018once-in-a-lifetime\u2019 federal housing bill means for California",
+          "headline": "Authorities seized dozens of drones in LA during the World Cup. One was at a community event",
           "source": "LAist"
         },
         {
@@ -552,11 +580,11 @@
           "source": "LAist"
         },
         {
-          "headline": "Thunderstorms, lightning and rip currents in store this weekend",
+          "headline": "No internet, no screen time? FCC weighs cutting subsidy that lowers school internet bills",
           "source": "LAist"
         },
         {
-          "headline": "Go inside this hidden Corona del Mar marine lab \u2013 and its 100 years of ocean science",
+          "headline": "A giant pop-up book unfolds at LA\u2019s Central Library",
           "source": "LAist"
         },
         {
@@ -672,6 +700,10 @@
           "source": "Fox 11 LA"
         },
         {
+          "headline": "US Senator Lindsey Graham dies at 71",
+          "source": "Fox 11 LA"
+        },
+        {
           "headline": "North Carolina man broke into ex's home, fatally stabbed his 5-year-old son before going to Taco Bell: police",
           "source": "Fox 11 LA"
         },
@@ -684,55 +716,55 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Randolph Mantooth, \u2018Emergency!\u2019 actor, dies at 80: Reports",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "High Temperatures, Chances of Thunderstorms Predicted in Riverside County",
+          "headline": "Person Rushed To Hospital After Crash on Freeway Connector in Cerritos",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Man Found Dead in Car Blocking Harbor Freeway",
+          "headline": "At-Risk Woman, 83, Who Went Missing Near Carson Located",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Metro Train and Vehicle Collide in Central-Alameda",
+          "headline": "Man, 27, Who Went Missing in Santa Clarita Located",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Two Women Arrested on Suspicion of Organized Retail Theft",
+          "headline": "Summit Fire Remains 8% Contained Near Llano",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Detectives Search for Man Missing from Santa Clarita",
+          "headline": "Water Main Breaks in Studio City",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Brush Fire Burns Approximately 8 Acres in Valle Vista",
+          "headline": "James Harden, Managers Ask Judge to Overturn 2025 Verdict",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Firefighters Reach 90% Containment of Brush Fire in La Cresta",
+          "headline": "Amazon Driver Fatally Strikes Biker in Huntington Beach",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Fire Near LA/San Bernardino County Line Still 0% Contained at 2,677 Acres",
+          "headline": "Lancaster Lifts Juno Fire Evacuation Warnings",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Pedestrian Killed By Freight Train in Glendale ID\u2019d",
+          "headline": "Tarzana Pet Caretaker Under Suspicion in Dog\u2019s Death",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Man Run Over and Killed in Reseda",
+          "headline": "Fire Damages Strip Mall in Sun Valley",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Person Rushed to Hospital From Multi-Vehicle Crash on 57 Freeway",
+          "headline": "Manhattan Beach Anticipates Traffic, Parking Impacts for Grand Prix",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Los Angeles weather: Heat advisory remains in Southern California as humidity raises rain, thunderstorm chances - ABC7 Los Angeles",
+          "headline": "Raging Summit Fire erupts in Los Angeles County, triggering urgent evacuations and threatening structures - FOX Weather",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "*UPDATE-LOCATED* #LASD is Advising At-Risk Missing Person Mary Lee Glover-Newsome, #Torrance Has Been Located - nixle.us/HFPWZ - facebook.com",
           "source": "Google News LA"
         },
         {
@@ -740,19 +772,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Summit Fire in Los Angeles County scorches more than 2,600 acres - The Desert Sun",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Raging Summit Fire erupts in Los Angeles County, triggering urgent evacuations and threatening structures - FOX Weather",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "LA County looks to give nonprofits edge in multifamily market, Orange aims for accountability - The Real Deal",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Rapidly growing wildfire in Los Angeles County prompts evacuations in remote high desert - ABC30 Fresno",
+          "headline": "4.2-magnitude earthquake strikes Frazier Park area, USGS says - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -760,7 +780,35 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Another Popular WeHo Restaurant Shut Down After Vermin Infestation - WEHOonline.com",
+          "headline": "Summit Fire in Los Angeles County scorches more than 2,600 acres - The Desert Sun",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Rapidly growing wildfire in Los Angeles County prompts evacuations in remote high desert - ABC30 Fresno",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LA County looks to give nonprofits edge in multifamily market, Orange aims for accountability - The Real Deal",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Fire Near LA/San Bernardino County Line Remains 8% Contained at 2,690 Acres - MyNewsLA.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "8347 Loyola Blvd, Los Angeles, CA 90045 - Realtor.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Online Memorial for Katsuya NAKATANI - Colorado Springs Gazette",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Magnitude 4.2 earthquake jolts Southern California, light shaking felt widely - FOX Weather",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Summit Fire update: Firefighters make progress on fire burning near LA-San Bernardino County line, with evacuations still in place - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -768,31 +816,19 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Summit Fire Scorches Across 2,690 Acres In Los Angeles, CA Fire Officials Warn - Patch",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Summit Fire in northern Los Angeles County grows to 2,600+ acres - KTLA",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Summit Fire update: Firefighters continue to battle fire near LA-San Bernardino County line, with evacuations still in place - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Federico Fellini's Amarcord (1973): screening - Discover Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Juno Fire updates: 2nd brush fire in Antelope Valley triggers evacuation warning for some Fairmont residents - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
           "headline": "Summit Fire in Antelope Valley burns at least 2,677 acres, evacuation orders in place - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles Unified School District faces potential insolvency as county officials warn district could run out of money next year - ABC7 Los Angeles",
+          "headline": "Los Angeles weather: Heat and humidity in Southern California bring rain, thunderstorm chances - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Juno Fire updates: Evacuation warnings lifted for 188-acre brush fire in Fairmont area of Antelope Valley - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Water main break floods street, appears to damage major roadway in Studio City - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -800,15 +836,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Fire Near LA/San Bernardino County Line Still 0% Contained at 2,677 Acres - MyNewsLA.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Dangerous bacteria contamination levels trigger urgent health warnings at popular beaches from coast to coast - FOX Weather",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "How Diaper Assistance Helps Strengthen Families Across LA County - Los Angeles Regional Food Bank",
+          "headline": "Los Angeles Unified School District faces potential insolvency as county officials warn district could run out of money next year - ABC7 Los Angeles",
           "source": "Google News LA"
         }
       ],
