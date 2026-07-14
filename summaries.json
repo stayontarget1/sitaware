@@ -1,10 +1,14 @@
 {
-  "generated": "2026-07-13T20:06:15.368009+00:00",
-  "briefing": "12 PM",
+  "generated": "2026-07-14T02:09:53.133150+00:00",
+  "briefing": "5 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Monrovia municipal election nomination period opens July 13\n- City to acquire 8-acre Highland Place property for open space preservation\n- North Monrovia property purchase planned to expand Wilderness Preserve\n- July Smart Irrigation Month offers water conservation rebates",
+      "summary": "- Monrovia municipal election nomination period opens July 13\n- City acquires 8-acre property at Highland Place for open space preservation\n- Historic downtown Monrovia walking tour scheduled for July 11\n- July Smart Irrigation Month offers water conservation rebates to residents",
       "headlines": [
+        {
+          "headline": "Upper San Gabriel Water District hosting Smart Irrigation Month Landscape Contest",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Free Adoption Day for small animals at Pasadena Humane",
           "source": "Monrovia Now"
@@ -82,19 +86,7 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Magic and Bubbles Show at the Library, July 15",
-          "source": "Monrovia Now"
-        },
-        {
-          "headline": "California JPIA member City of Monrovia celebrates Park and Recreation Month with Satoru Tsuneishi Park - PublicCEO",
-          "source": "Google News"
-        },
-        {
           "headline": "7 lists of 10: July Content Train\u2122 edition - Red Cup Rebellion",
-          "source": "Google News"
-        },
-        {
-          "headline": "1226 S Mayflower Ave Unit A, Monrovia, CA 91016 - Realtor.com",
           "source": "Google News"
         },
         {
@@ -134,11 +126,19 @@
           "source": "Google News"
         },
         {
-          "headline": "2 Significant Earthquakes Rattle SoCal In 2 Days",
+          "headline": "Sailor Admits To Hiding 430 Pounds Of Cocaine On Oil Tanker Bound For LA County",
           "source": "Patch Monrovia"
         },
         {
-          "headline": "Woman Shot On Freeway | 'Real Housewife' Links Son To Wildfire | $478M Jackpot: SoCal-In-Brief",
+          "headline": "5-Star Hotel Settles Wildfire Price-Gouging Case Brought By LA County DA",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "Shirtless Man Smashes Waymo In LA Intersection: Video",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "2 Significant Earthquakes Rattle SoCal In 2 Days",
           "source": "Patch Monrovia"
         },
         {
@@ -204,8 +204,8 @@
       ],
       "relevance": {
         "0": false,
-        "1": true,
-        "2": true,
+        "1": false,
+        "2": false,
         "3": true,
         "4": true,
         "5": true,
@@ -213,21 +213,21 @@
         "7": true,
         "8": true,
         "9": true,
-        "10": false,
+        "10": true,
         "11": false,
-        "12": true,
-        "13": false,
+        "12": false,
+        "13": true,
         "14": false,
         "15": false,
-        "16": true,
+        "16": false,
         "17": true,
         "18": true,
         "19": true,
-        "20": true,
-        "21": false,
-        "22": false,
-        "23": true,
-        "24": true,
+        "20": false,
+        "21": true,
+        "22": true,
+        "23": false,
+        "24": false,
         "25": false,
         "26": false,
         "27": false,
@@ -246,7 +246,7 @@
       }
     },
     "sgv": {
-      "summary": "- Half million sterile mosquitoes being released in San Gabriel Valley weekly\n- Extreme heat advisory in place for San Gabriel Valley through Friday\n- San Gabriel Valley Symphony offers free mini concert at Blossom Market Hall\n- Temple City officials assume key seats in regional council",
+      "summary": "- San Gabriel Valley releasing 500,000 sterile male mosquitoes to control population\n- Extreme heat advisory issued for San Gabriel Valley through Friday\n- San Gabriel Valley Symphony offers free mini concert at Blossom Market\n- Clairbourn School named best private school in San Gabriel Valley",
       "headlines": [
         {
           "headline": "Why you should be glad 500K mosquitoes are being released in San Gabriel Valley - LAist",
@@ -270,6 +270,10 @@
         },
         {
           "headline": "500,000 male mosquitoes to be released in San Gabriel Valley - Audacy",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Clairbourn School Voted Best Private School in the San Gabriel Valley - Pasadena Now",
           "source": "Google News SGV"
         },
         {
@@ -322,10 +326,6 @@
         },
         {
           "headline": "Have California consumers found peace with this economy? - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "Streetsblog SGV Reporter Chris Greenspon Receives Civil Engineering Journalism Award - Streetsblog Los Angeles",
           "source": "Google News SGV"
         },
         {
@@ -417,19 +417,59 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Trump says US will blockade Iran in the Strait of Hormuz and will charge ships for safe passage",
+          "headline": "Inside The Cheech, where Cheech Marin's personal art collection tells decades of Chicano stories",
           "source": "ABC7"
         },
         {
-          "headline": "Beach Hazards warning issued due to chance of lightning across LA County beaches",
+          "headline": "Procession honors service member killed in B-52 crash at Edwards Air Force Base",
           "source": "ABC7"
         },
         {
-          "headline": "Who could replace Graham? Trump says SC governor should appoint Graham's sister to finish his term",
+          "headline": "Mark Ballas trades dance shoes for the judge's chair on 'Dancing with the Stars: The Next Pro'",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Rosemead HS student stabbed to death during fight, 2 others hurt; deputies searching for suspects",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Darline Graham Nordone, sister of Lindsey Graham, picked to fulfill remainder of his US Senate term",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Mother charged with murder in death of 2-year-old son in Lancaster",
           "source": "ABC7"
         },
         {
           "headline": "12 states challenge Paramount's takeover of Warner Bros, say merger would 'extinguish competition'",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Beach hazards alert issued amid dangerous rip currents, chance of lightning at LA County beaches",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Bangkok bar fire kills dozens, more seriously injured; some found trapped in windowless bathrooms",
+          "source": "ABC7"
+        },
+        {
+          "headline": "The ESPY Awards return to New York City this week: Presenters, attendees and more",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Minnesota prosecutors obtain long withheld evidence in investigation into protest shooting deaths",
+          "source": "ABC7"
+        },
+        {
+          "headline": "US begins new Iran strikes after Trump says ships will be charged to use the Strait of Hormuz",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Disney releases programming lineup for D23: The Ultimate Disney Fan Event",
+          "source": "ABC7"
+        },
+        {
+          "headline": "One runner gored in the face at Spain's San Fermin bull run festival",
           "source": "ABC7"
         },
         {
@@ -455,46 +495,6 @@
         {
           "headline": "Vigil held for 2 victims of deadly Hyde Park crash; daughter of one of the victims now in coma",
           "source": "ABC7"
-        },
-        {
-          "headline": "Builder of Moana's canoe brings Disney magic to Jersey shore",
-          "source": "ABC7"
-        },
-        {
-          "headline": "All About the Cinnamon: Sherman Oaks dessert restaurant's story steeped in love and Hip-Hop - ABC7 Community Eats",
-          "source": "ABC7"
-        },
-        {
-          "headline": "FIFA selling the field to be used for the World Cup final for $450 a piece",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Police investigate the death of South Africa World Cup soccer player Jayden Adams",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Rain, thunderstorm chances linger ahead of extreme heat across Southern California",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Extreme heat, humidity and chance of thunderstorms raise fire concerns across SoCal",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Truck carrying wedding guests struck on Indonesia highway, killing 13 people in West Java's Indramayu regency",
-          "source": "ABC7"
-        },
-        {
-          "headline": "US citizen tests positive for Ebola in Congo",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Everything you need to know about the 2026 Nordstrom Anniversary sale",
-          "source": "ABC7"
-        },
-        {
-          "headline": "2 corpse flowers bloom within hours of each other at The Huntington Library and Gardens",
-          "source": "ABC7"
         }
       ],
       "relevance": {
@@ -506,49 +506,49 @@
         "5": true,
         "6": true,
         "7": true,
-        "8": false,
-        "9": true,
+        "8": true,
+        "9": false,
         "10": true,
-        "11": false,
-        "12": true,
+        "11": true,
+        "12": false,
         "13": true,
         "14": true,
         "15": true,
         "16": true,
-        "17": false,
+        "17": true,
         "18": false,
-        "19": true,
+        "19": false,
         "20": false,
-        "21": false,
-        "22": false,
-        "23": false,
-        "24": false,
+        "21": true,
+        "22": true,
+        "23": true,
+        "24": true,
         "25": false,
-        "26": false,
-        "27": false,
+        "26": true,
+        "27": true,
         "28": false,
-        "29": false,
+        "29": true,
         "30": false,
-        "31": false,
-        "32": false,
-        "33": false,
+        "31": true,
+        "32": true,
+        "33": true,
         "34": true,
         "35": false,
-        "36": false,
-        "37": false,
+        "36": true,
+        "37": true,
         "38": true,
-        "39": false
+        "39": true
       }
     },
     "county": {
-      "summary": "- LA Council delays study on defunding troubled homelessness agency amid controversy\n- Southern California faces dangerous heat wave with monsoonal storms this week\n- 500K mosquitoes being released in San Gabriel Valley to combat disease\n- Boyle Heights residents battle fly infestation from Lineage warehouse cleanup operations",
+      "summary": "- Southern California braces for intense heat wave with tropical humidity and coastal flood risks\n- Construction worker killed after tractor rollover at Crenshaw job site\n- Boyle Heights residents battle fly infestation, foul odors from Lineage warehouse cleanup\n- LA therapists report surge in young patients with gambling problems, cite Kalshi app",
       "headlines": [
         {
-          "headline": "LA council delays plan to study pulling funds from troubled homelessness agency",
+          "headline": "Some critics in LA say FIFA sponsors 'sportswashed' the World Cup and betrayed the city\u2019s values",
           "source": "LAist"
         },
         {
-          "headline": "Pee-ew! The rare, stinky corpse flower is blooming at the Huntington",
+          "headline": "The rare, stinky corpse flowers draw flies and long lines of humans to The Huntington",
           "source": "LAist"
         },
         {
@@ -556,7 +556,15 @@
           "source": "LAist"
         },
         {
+          "headline": "SoCal could feel more like Florida this week \u2014 yuck. Stay safe out there",
+          "source": "LAist"
+        },
+        {
           "headline": "LA therapists are seeing more young patients with gambling problems. They blame Kalshi",
+          "source": "LAist"
+        },
+        {
+          "headline": "Air quality officials cite Lineage for \u2018rotten\u2019 odors near Boyle Heights warehouse",
           "source": "LAist"
         },
         {
@@ -564,15 +572,11 @@
           "source": "LAist"
         },
         {
+          "headline": "Section 8 promises renters they can live where they choose. It mostly fails to deliver.",
+          "source": "LAist"
+        },
+        {
           "headline": "States sue to stop Paramount-Warner Bros blockbuster merger",
-          "source": "LAist"
-        },
-        {
-          "headline": "Cal State program to go beyond the basic, providing holistic support for students",
-          "source": "LAist"
-        },
-        {
-          "headline": "Want to make a documentary film? This local community college is making it more accessible",
           "source": "LAist"
         },
         {
@@ -604,7 +608,7 @@
           "source": "LAist"
         },
         {
-          "headline": "Trump says the U.S. is back to blockading Iran and will charge ships a toll in Hormuz",
+          "headline": "The U.S. strikes Iran after Trump announces a renewed blockade and tolls in Hormuz",
           "source": "LAist"
         },
         {
@@ -616,12 +620,12 @@
           "source": "LAist"
         },
         {
-          "headline": "CalPERS just had one of its best years in a decade. Why it matters to taxpayers",
+          "headline": "Some critics in LA say FIFA sponsors 'sportswashed' the World Cup and betrayed the city\u2019s values",
           "source": "LAist"
         },
         {
-          "headline": "Authorities seized dozens of drones in LA during the World Cup. One was at a community event",
-          "source": "LAist"
+          "headline": "Construction worker killed after tractor rolls over at Crenshaw job site",
+          "source": "Fox 11 LA"
         },
         {
           "headline": "Crews stop forward progress of Summit Fire in Antelope Valley",
@@ -652,15 +656,11 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Dangerous heat wave and monsoonal storms to grip Southern California",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Kern County earthquake felt across Southern California",
-          "source": "Fox 11 LA"
-        },
-        {
           "headline": "California moves to block massive Warner Bros. and Paramount Hollywood merger",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "4.3-magnitude earthquake in Kern County jolts Southern California",
           "source": "Fox 11 LA"
         },
         {
@@ -688,35 +688,31 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Watch live: South Carolina governor to announce Sen. Lindsey Graham's replacement following his death",
+          "headline": "Cyclosporiasis outbreak possibly tied to salad greens, lettuce, MDHHS says",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "FBI investigating after shooting involving ICE agents in Biddeford, Maine leaves man dead",
+          "headline": "Who is Darline Graham Nordone, the choice to fill Lindsey Graham\u2019s Senate seat?",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Gen Z breaks ultimate taboo by posting salaries online",
+          "headline": "South Carolina governor announces Sen. Lindsey Graham's sister Darline Graham Nordone to finish his term",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Astronomers discover sugar in space, offering hints to life\u2019s origins",
+          "headline": "Naked man tries to kidnap 7-year-old tourist from mother at Portland park, bystanders intervene",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Man Injured in Fire at Central-Alameda Duplex",
+          "headline": "Missing At-Risk 74-Year-Old Man in Baldwin Park Sought by Authorities",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Tractor Rolls at Baldwin Hills Construction Site, Killing Operator",
+          "headline": "Probation Agent Suspected of Relations with Juvenile Inmate",
           "source": "MyNewsLA"
         },
         {
-          "headline": "First Human West Nile Virus Case of 2026 Reported in LA County",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Friends Killed in Multi-Vehicle Crash in Hyde Park Area Identified",
+          "headline": "Handyman Asks Judge to Order Ye to Pay $1.23 Million in Attorneys\u2019 Fees",
           "source": "MyNewsLA"
         },
         {
@@ -724,39 +720,55 @@
           "source": "MyNewsLA"
         },
         {
-          "headline": "CA Among 12 States Suing to Block Paramount-Warner Bros. Merger",
+          "headline": "Investigation Continues into Long Beach Officer Shooting at Robbery Suspects",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Palisades\u2019 Temescal Gateway Park to Reopen Friday",
+          "headline": "Ex-LASD Deputy Sentenced to Federal Prison for Obstructing Probe",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Dangerous Heat Wave Moves into SoCal",
+          "headline": "County Officials Urge Residents to Stay Safe During Heat Wave",
           "source": "MyNewsLA"
         },
         {
-          "headline": "UCLA to Induct Walt Hazzard Basketball Hall of Fame",
+          "headline": "12 States File Suit to Block Paramount Skydance Acquisition of Warner Bros. Discovery",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Intense Heat Heading to IE",
+          "headline": "Hottest Days of the Year Upon Southlanders",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Sentencing Pushed for Ex-Palmdale Bank Guard Who Helped Rob Customer",
+          "headline": "Firefighters Contain 39% of Summit Fire Near Llano",
           "source": "MyNewsLA"
+        },
+        {
+          "headline": "Gubernatorial Candidates Becerra, Hilton to Address Latino Leaders in LA",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Should LA County rename places honoring C\u00e9sar Ch\u00e1vez? Take the survey. - LA Local",
+          "source": "Google News LA"
         },
         {
           "headline": "Airbnb.org commits additional $1M for emergency housing during Los Angeles warehouse fire cleanup - Airbnb Newsroom",
           "source": "Google News LA"
         },
         {
-          "headline": "First Human West Nile Virus Case of 2026 Reported in LA County - MyNewsLA.com",
+          "headline": "SCV News | Public Health Reports First Human 2026 Case of West Nile Virus in L.A. County - SCVNews.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Raging Summit Fire erupts in Los Angeles County, triggering urgent evacuations and threatening structures - FOX Weather",
+          "headline": "Heat Wave, Bacteria Warnings Collide at LA County Beaches - MyNewsLA.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Heat Wave Raises Health Risks Across Los Angeles County - westsidecurrent.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "First Human West Nile Virus Case of 2026 Reported in LA County - KOST 103.5",
           "source": "Google News LA"
         },
         {
@@ -764,19 +776,19 @@
           "source": "Google News LA"
         },
         {
+          "headline": "2672 S Redondo Blvd, Los Angeles, CA 90016 - Realtor.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "7 LA County Beaches Unsafe For Swimming: New Bacteria Warnings Issued This Week - Patch",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Quartet of Inglewood apartment properties trade in $12M package deal - The Real Deal",
+          "source": "Google News LA"
+        },
+        {
           "headline": "Significant progress being made on Summit Fire in northern L.A. County - dailydispatch.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "L.A.\u2019s Housing Crisis More About Policy - Los Angeles Business Journal",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "4122 1/2 N Griffin Ave, Los Angeles, CA 90031 - Realtor.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Rapidly growing wildfire in Los Angeles County prompts evacuations in remote high desert - ABC30 Fresno",
           "source": "Google News LA"
         },
         {
@@ -784,27 +796,15 @@
           "source": "Google News LA"
         },
         {
-          "headline": "LA County looks to give nonprofits edge in multifamily market, Orange aims for accountability - The Real Deal",
+          "headline": "Beach Hazards warning issued due to chance of lightning across Los Angeles County beaches - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "*UPDATE-LOCATED* #LASD is Advising At-Risk Missing Person Mary Lee Glover-Newsome, #Torrance Has Been Located - nixle.us/HFPWZ - facebook.com",
+          "headline": "Firefighters Contain 39% of Summit Fire Near Llano - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Did you feel it? Earthquake jolts Kern County area - The Desert Sun",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Wellness Campus Gets Approval - Los Angeles Business Journal",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Crews Holding Line Against Llano Brush Fire - MyNewsLA.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Crews Holding Line Against Llano Brush Fire Amid Windy Conditions - MyNewsLA.com",
+          "headline": "Ariel Zacalapa killed: Rosemead High School student stabbed to death during fight, 2 others hurt; deputies searching for suspects - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -812,19 +812,19 @@
           "source": "Google News LA"
         },
         {
+          "headline": "County Officials Urge Residents to Stay Safe During Heat Wave - MyNewsLA.com",
+          "source": "Google News LA"
+        },
+        {
           "headline": "Summit Fire in Antelope Valley burns at least 2,677 acres, evacuation orders in place - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "Summit Fire update: Firefighters make progress on fire burning near LA-San Bernardino County line, with evacuations still in place - ABC7 Los Angeles",
+          "headline": "L.A.\u2019s Housing Crisis More About Policy - Los Angeles Business Journal",
           "source": "Google News LA"
         },
         {
-          "headline": "Sana\u2019a Cafe Planning New Openings In Los Angeles Market - WhatNow",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Shirtless man destroys Waymo in busy East Hollywood intersection, video shows; LAPD arrests him for vandalism - ABC7 Los Angeles",
+          "headline": "5-Star Hotel Settles Wildfire Price-Gouging Case Brought By LA County DA - Patch",
           "source": "Google News LA"
         }
       ],
