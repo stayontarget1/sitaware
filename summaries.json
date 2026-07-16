@@ -1,10 +1,14 @@
 {
-  "generated": "2026-07-16T02:21:36.583933+00:00",
-  "briefing": "5 PM",
+  "generated": "2026-07-16T16:20:17.073667+00:00",
+  "briefing": "8 AM",
   "columns": {
     "monrovia": {
-      "summary": "- Monrovia acquiring 8-acre North property to expand Wilderness Preserve\n- Municipal election nomination period opens July 13\n- Household Hazardous Waste Collection Aug. 1 at Santa Anita\n- City offering water conservation rebates for Smart Irrigation Month",
+      "summary": "- Monrovia acquires 8-acre Highland Place property to expand Wilderness Preserve\n- Municipal election nomination period opens July 13 for candidates\n- Historic downtown walking tour scheduled for July 11\n- Funk Station performs soul, funk, R&B at Library Park Sunday",
       "headlines": [
+        {
+          "headline": "Funk Station band - funk, soul, and R&B - at Library Park, Sunday, July 19",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Whale watching trip scheduled for July 23",
           "source": "Monrovia Now"
@@ -82,15 +86,7 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Monrovia Police: Six catalytic converters stolen; Charging scooter sparks structure fire; Drunk driver crashes with child aboard; Stolen car found in backyard;  Etc.",
-          "source": "Monrovia Now"
-        },
-        {
           "headline": "Monrovia Weekly_7/13/2026 - heysocal.com",
-          "source": "Google News"
-        },
-        {
-          "headline": "1226 S Mayflower Ave Unit A, Monrovia, CA 91016 - Realtor.com",
           "source": "Google News"
         },
         {
@@ -99,6 +95,14 @@
         },
         {
           "headline": "Daily Inspiration: Meet Tadanari Nakata - Voyage LA Magazine",
+          "source": "Google News"
+        },
+        {
+          "headline": "Lois Mildred Welch - The Press Democrat",
+          "source": "Google News"
+        },
+        {
+          "headline": "Monrovia Weekly_7/16/2026 - heysocal.com",
           "source": "Google News"
         },
         {
@@ -112,6 +116,10 @@
         {
           "headline": "25 Foods That Bring Back the Best Memories One Bite at a Time - Fast Food Club",
           "source": "Google News"
+        },
+        {
+          "headline": "Watch Cockroach Bedevil Reporter On Air | Multiple Wildfires | Girl Falls Off Dam | Sea Lion Pup Born: Patch",
+          "source": "Patch Monrovia"
         },
         {
           "headline": "10 LA County Beaches Unsafe For Swimming Due To Bacteria Levels",
@@ -175,16 +183,16 @@
         }
       ],
       "relevance": {
-        "0": false,
-        "1": true,
+        "0": true,
+        "1": false,
         "2": true,
         "3": true,
-        "4": false,
-        "5": true,
+        "4": true,
+        "5": false,
         "6": true,
         "7": false,
-        "8": true,
-        "9": true,
+        "8": false,
+        "9": false,
         "10": true,
         "11": true,
         "12": true,
@@ -192,14 +200,14 @@
         "14": true,
         "15": true,
         "16": true,
-        "17": false,
+        "17": true,
         "18": false,
-        "19": true,
+        "19": false,
         "20": true,
-        "21": true,
+        "21": false,
         "22": false,
         "23": false,
-        "24": false,
+        "24": true,
         "25": false,
         "26": false,
         "27": false,
@@ -207,8 +215,8 @@
         "29": false,
         "30": false,
         "31": false,
-        "32": true,
-        "33": true,
+        "32": false,
+        "33": false,
         "34": true,
         "35": true,
         "36": true,
@@ -218,7 +226,7 @@
       }
     },
     "sgv": {
-      "summary": "- Extreme heat warning in effect through Thursday across San Gabriel Valley\n- 500,000 sterile mosquitoes being released to combat valley mosquito population\n- Boy dies in El Monte stabbing; two others injured\n- San Gabriel Valley Symphony offers free mini concert at Blossom Market Hall",
+      "summary": "- Extreme heat warning continues through Thursday across San Gabriel Valley\n- 500,000 male mosquitoes being released to fight local mosquito population\n- Boy dies in El Monte stabbing, two others injured\n- San Gabriel Valley Symphony performs free concert at Blossom Market Hall",
       "headlines": [
         {
           "headline": "LA Varsity: High School Sports in the San Gabriel Valley - San Gabriel Valley Tribune",
@@ -241,15 +249,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Half a million sterile mosquitoes might save the SGV - KCRW",
-          "source": "Google News SGV"
-        },
-        {
           "headline": "Why California is releasing 500,000 mosquitoes - goodgoodgood.co",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "Meet Bandit, Taffy and Biscuit, this week\u2019s Pets of the Week in the San Gabriel Valley - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -257,11 +257,15 @@
           "source": "Google News SGV"
         },
         {
+          "headline": "Meet Bandit, Taffy and Biscuit, this week\u2019s Pets of the Week in the San Gabriel Valley - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
           "headline": "DBSA San Gabriel Valley Support Alliance - ColoradoBoulevard.net",
           "source": "Google News SGV"
         },
         {
-          "headline": "Clairbourn School Voted Best Private School in the San Gabriel Valley - Pasadena Now",
+          "headline": "A Century-Old \u2018Thief of Bagdad\u2019 Gets a Live Organ Score in San Gabriel - Pasadena Now",
           "source": "Google News SGV"
         },
         {
@@ -270,10 +274,6 @@
         },
         {
           "headline": "San Gabriel Valley Tribune - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "A Century-Old \u2018Thief of Bagdad\u2019 Gets a Live Organ Score in San Gabriel - Pasadena Now",
           "source": "Google News SGV"
         },
         {
@@ -301,44 +301,64 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Cole Rebukes PUSD For Deflecting Blame in Tree Removal Battle",
+          "headline": "Baldwin Park invests in connectivity with support from Tripepi Smith - PublicCEO",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Editorial: Stop the Flock spying on Los Angeles - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Holy Price Tag, Batman",
           "source": "Pasadena Now"
         },
         {
-          "headline": "Guest Opinion | By Rene Amy: Quote the Lorax",
+          "headline": "Altadena Landlords Face Sept. 30 Rent Registry Deadline as County Offers Free Help",
           "source": "Pasadena Now"
         },
         {
-          "headline": "PUSD: City Said Tree Protection Ordinance Did Not Apply to Soil Removal Project",
+          "headline": "Dwyane Wade\u2019s Son Zaire Faces Felony Domestic-Violence Arraignment at Pasadena Courthouse",
           "source": "Pasadena Now"
         },
         {
-          "headline": "Kimberl\u00e9 Crenshaw to Discuss Memoir \u2018Backtalker\u2019 at Pasadena\u2019s All Saints Church",
+          "headline": "PUSD Staff to Brief Board Tonight on Soil Remediation Project, 87 Trees Remaining",
           "source": "Pasadena Now"
         },
         {
-          "headline": "Pasadena Seeks Final Public Input on Jefferson Park Stormwater Project Today",
+          "headline": "NFL QB\u2019s Stroud and Young Headline Saturday Giveaway at Brookside Park",
           "source": "Pasadena Now"
         },
         {
-          "headline": "Barger, Bass Ask Congress for $15.7 Billion to Fund Eaton, Palisades Fire Recovery",
+          "headline": "Stray Pot-Bellied Pig Finds a New Home Through Pasadena Humane",
           "source": "Pasadena Now"
         },
         {
-          "headline": "Extreme Heat Warning for Pasadena, San Gabriel Valley Remains in Effect Through Thursday",
+          "headline": "A New Law Holds Colleges Accountable If Their Grads Don\u2019t Earn More Than $36,000 A Year",
           "source": "Pasadena Now"
         },
         {
-          "headline": "L.A. County Fire Pre-Deploys Crews Across Foothills as Heat Wave Raises Wildfire Risk",
+          "headline": "School Board to Vote on Declaring City Zoning Laws Inapplicable to 10 PUSD School Properties",
           "source": "Pasadena Now"
         },
         {
-          "headline": "Marcus & Millichap Brokers $22 Million Sale of 50-Unit Mixed-Use Pasadena Building",
+          "headline": "Caltech Researcher to Explain How Ocean \u2018Snowfall\u2019 Shapes the Climate at Free Seaside Talk",
           "source": "Pasadena Now"
         },
         {
-          "headline": "Chu, California Delegation Urge Disaster Aid for Altadena Before New War Spending",
+          "headline": "JPL-Managed Perseverance Rover Finds Evidence of Repeated Ancient Mars Impacts",
           "source": "Pasadena Now"
+        },
+        {
+          "headline": "In an Altadena Backyard, the Plants of Mexico Take Root",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "What To Do This Weekend: July 17-19, 2026",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Alhambra Councilwoman Adele Andrade-Stadler Announces Re-election Campaign",
+          "source": "Colorado Blvd"
         },
         {
           "headline": "Pasadena Unified Board to Receive Eaton Fire Soil Remediation Update, Consider Additional Actions",
@@ -377,16 +397,68 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "South Pasadena to Hold Community Meetings on New Transit Housing Law",
-          "source": "Colorado Blvd"
+          "headline": "Chase suspect swims into ocean off Pacific Palisades in attempt to evade police",
+          "source": "ABC7"
         },
         {
-          "headline": "Barger, Bass Urge Congress to Approve Additional Wildfire Recovery Funding",
-          "source": "Colorado Blvd"
+          "headline": "Flash flood emergency occurring in same Texas region as Camp Mystic tragedy",
+          "source": "ABC7"
         },
         {
-          "headline": "New Play Explores the Human Cost of the Russia-Ukraine War Through the Lens of \u201cThe Lord of the Rings\u201d",
-          "source": "Colorado Blvd"
+          "headline": "Water main break floods West Hollywood streets, creates massive sinkhole",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Joe Biden publishing 'Promise Me, America' memoir after November midterm elections",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Search suspended for 3 missing after deadly boat capsizing on SF Bay with family spreading ashes",
+          "source": "ABC7"
+        },
+        {
+          "headline": "White House teleprompter operator made more than $100K betting on Trump's speeches: Sources",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Dorm room essentials under $50: Top picks for back to school 2026",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Hegseth directs troops over 30 to have testosterone checked",
+          "source": "ABC7"
+        },
+        {
+          "headline": "2 men injured after shots fired inside Kroger in NW Harris County, Pct. 4, Texas says",
+          "source": "ABC7"
+        },
+        {
+          "headline": "America 250: Watch history come to life on Independence Mall",
+          "source": "ABC7"
+        },
+        {
+          "headline": "The Philadelphia Sketch Club is the oldest artist club in America",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Boyle Heights residents call on Newsom to declare disaster zone 1 month after warehouse fire",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Blue Angels conducting review after jet flies over Florida beachgoers",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Crews stop forward progress on Santa Clarita fire that prompted evacuation warning, threatened homes",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Becerra leads Hilton by wide margin in California governor's race, new poll finds",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Say goodbye to extreme heat! Here's when relief arrives in Southern California",
+          "source": "ABC7"
         },
         {
           "headline": "'It was a scene from the Titanic': Fishermen recall rescuing passengers from sinking boat in SF Bay",
@@ -401,71 +473,7 @@
           "source": "ABC7"
         },
         {
-          "headline": "Crews stop forward progress on Santa Clarita fire that prompted evacuation warning, threatened homes",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Blue Angels conducting review after jet flies over Florida beachgoers",
-          "source": "ABC7"
-        },
-        {
           "headline": "Man stands in front of Metro bus, holds up traffic in Koreatown, video shows",
-          "source": "ABC7"
-        },
-        {
-          "headline": "At Van Nuys bakery, fans cheer as Argentina reaches World Cup final",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Crews will suspend search for 3 missing this evening after deadly SF Bay boat sinking: officials",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Elon Musk likely broke the law by promising voters $1 million payouts, Wisconsin board says",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Attorneys for Nolan Wells' family agree to joint inspection of teen's recovered cellphone",
-          "source": "ABC7"
-        },
-        {
-          "headline": "The World Cup final is set, with Messi and Argentina facing Yamal and Spain for the title on Sunday",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Hegseth directs troops over 30 to have testosterone checked",
-          "source": "ABC7"
-        },
-        {
-          "headline": "'Descendants: Wicked Wonderland' features magic, music and a new royal twist",
-          "source": "ABC7"
-        },
-        {
-          "headline": "2026 ESPY Awards: How to watch, who's nominated and more",
-          "source": "ABC7"
-        },
-        {
-          "headline": "2 men injured after shots fired inside Kroger in NW Harris County, Pct. 4, Texas says",
-          "source": "ABC7"
-        },
-        {
-          "headline": "US reimposes blockade and steps up strikes as Iran threatens to halt Mideast energy exports",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Study shows a blood test can help identify healthy people at high risk for Alzheimer's disease",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Metropolitan Museum of Art in New York City among dozens of buildings flagged in Legionella outbreak",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Houston Mayor John Whitmire, police chief ask Texas Rangers for independent investigation into deadly ICE shooting",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Contractor building Automated People Mover at LAX sues city",
           "source": "ABC7"
         }
       ],
@@ -475,48 +483,68 @@
         "2": true,
         "3": true,
         "4": true,
-        "5": true,
-        "6": false,
+        "5": false,
+        "6": true,
         "7": true,
         "8": true,
         "9": true,
         "10": true,
-        "11": true,
-        "12": false,
-        "13": true,
-        "14": true,
-        "15": false,
+        "11": false,
+        "12": true,
+        "13": false,
+        "14": false,
+        "15": true,
         "16": false,
-        "17": true,
-        "18": false,
+        "17": false,
+        "18": true,
         "19": false,
-        "20": true,
-        "21": true,
-        "22": true,
-        "23": true,
-        "24": true,
-        "25": false,
-        "26": true,
+        "20": false,
+        "21": false,
+        "22": false,
+        "23": false,
+        "24": false,
+        "25": true,
+        "26": false,
         "27": false,
-        "28": true,
+        "28": false,
         "29": false,
-        "30": true,
-        "31": true,
+        "30": false,
+        "31": false,
         "32": true,
         "33": false,
-        "34": true,
+        "34": false,
         "35": true,
         "36": false,
-        "37": true,
-        "38": true,
-        "39": true
+        "37": false,
+        "38": false,
+        "39": false
       }
     },
     "county": {
-      "summary": "- LAX People Mover contractor sues city over nearly $1B budget overrun\n- Southern California faces triple-digit heat with extreme heat and Red Flag Warnings\n- Pointe Fire burns near Santa Clarita, prompts evacuation warnings for residents\n- LA County ballot measures finalized for November election voting",
+      "summary": "- School districts face deadline for property tax ballot measures this fall.\n- Major water main break floods West Hollywood streets, submerges multiple cars.\n- LAX People Mover contractor sues city over $1B budget overrun dispute.\n- Pointe Fire in Santa Clarita triggers evacuation warning for residents.",
       "headlines": [
         {
+          "headline": "Deadline looms for school districts to put property tax measures on the ballot",
+          "source": "LAist"
+        },
+        {
+          "headline": "OC Fair opens Friday. Here's the lowdown on the annual summer fest",
+          "source": "LAist"
+        },
+        {
+          "headline": "Cheap Fast Eats Artesia: get spicy for $15",
+          "source": "LAist"
+        },
+        {
           "headline": "'Deportation machine' or long-overdue enforcement? Bond denials grow sharply under Trump",
+          "source": "LAist"
+        },
+        {
+          "headline": "Irvine puts ranked-choice voting on the November ballot \u2014 with a caveat",
+          "source": "LAist"
+        },
+        {
+          "headline": "Waymos are everywhere in much of LA. But how many people are taking them?",
           "source": "LAist"
         },
         {
@@ -528,39 +556,19 @@
           "source": "LAist"
         },
         {
-          "headline": "Irvine puts ranked-choice voting on the November ballot \u2014 with a caveat",
-          "source": "LAist"
-        },
-        {
-          "headline": "Pointe Fire burns near Bowman High School in Santa Clarita",
-          "source": "LAist"
-        },
-        {
-          "headline": "Culver City extends interim ban on new drive-thrus",
-          "source": "LAist"
-        },
-        {
-          "headline": "LA28 is enlisting 60,000 volunteers for the Olympics. Here's how to become one of them",
-          "source": "LAist"
-        },
-        {
-          "headline": "Cheap Fast Eats Artesia: get spicy for $15",
-          "source": "LAist"
-        },
-        {
           "headline": "Best things to do this week in LA and SoCal: July 13-16",
           "source": "LAist"
         },
         {
-          "headline": "Some critics in LA say FIFA sponsors 'sportswashed' the World Cup and betrayed the city\u2019s values",
+          "headline": "FCC officials took pricey gifts from Paramount as company needed approval for billion-dollar deals",
           "source": "LAist"
         },
         {
-          "headline": "Role of California state superintendent to be vastly overhauled",
+          "headline": "Sam Neill, known for 'Jurassic Park' and 'The Piano,' dies at 78, his family says",
           "source": "LAist"
         },
         {
-          "headline": "Why hasn't LA released results of this year's homeless count?",
+          "headline": "Feature: Horror movies are bringing audiences back to theaters. But how long can it last?",
           "source": "LAist"
         },
         {
@@ -596,7 +604,23 @@
           "source": "LAist"
         },
         {
-          "headline": "Pointe Fire in Santa Clarita prompts evacuation warnings",
+          "headline": "LIVE: Major water main break in West Hollywood floods streets, submerges cars",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Pointe Fire in Santa Clarita triggers evacuation warning",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "LAHSA delays release of 2026 homeless count results",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "South Los Angeles business owner says crime, drug activity push neighborhood to breaking point",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Palisades fire suspect expected in court Thursday ahead of October retrial",
           "source": "Fox 11 LA"
         },
         {
@@ -609,22 +633,6 @@
         },
         {
           "headline": "2 charged in $14,000 Thousand Oaks 'bank jugging' theft",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Semi-truck driver sentenced to 4 years for fatal 10 Freeway crash in Ontario",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Lanai Dees: $20K reward offered in South LA cold case murder of aspiring nurse",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Southern California weather: Triple-digit heat triggers extreme heat, Red Flag Warnings",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "$2B, 3,500-unit Woodland Hills 'Viva' senior housing project unveiled",
           "source": "Fox 11 LA"
         },
         {
@@ -660,6 +668,14 @@
           "source": "Fox 11 LA"
         },
         {
+          "headline": "Senate undecided on future of daylight saving time bill",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "France vs. England Bronze Final preview: Will stars play in third-place game?",
+          "source": "Fox 11 LA"
+        },
+        {
           "headline": "Treasure hunters recover rare silver bar from legendary shipwreck off Florida Keys",
           "source": "Fox 11 LA"
         },
@@ -668,56 +684,52 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Princess cruise ship worker dead after going overboard near Canc\u00fan",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "DHS: ICE officer on way home from work renders lifesaving care to driver involved in crash",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Hilton, Becerra Address Latino Leaders in LA",
+          "headline": "Major Water Main Break Sends Water Gushing Through WeHo Streets",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Extreme Heat Grips Southland",
+          "headline": "Crews Douse Fire in Florence Home",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Llano Brush Fire 73% Contained",
+          "headline": "No Tickets Sold With All Six SuperLotto Plus Numbers",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Alleged Cheating Prompts Cal DMV to Require Drivers Retake Written Tests",
+          "headline": "Major Water Main Break Sends Water Gushing Through WeHo Streets",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Man with Memory Loss Missing in Carson",
+          "headline": "Major Water Main Break Sends Water Gushing Through WeHo Streets",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Reward Increases for Leads in 2024 Fatal Shooting",
+          "headline": "Heat to Break Slightly in Southland",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LA Pro Volleyball Team Unveils Roster",
+          "headline": "WeHo Water Main Breaks",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Murder Conviction Upheld for 72-Year-Old Man\u2019s Killing",
+          "headline": "Rams Star Puka Nacua Seeks Order Protecting Privacy of His Address",
           "source": "MyNewsLA"
         },
         {
-          "headline": "At-Risk 27-Year-Old  Located",
+          "headline": "Judge Grants $3M to Incapacitated Adult Film Actress\u2019 Mom",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Brush Fire Erupts in Santa Clarita",
+          "headline": "Med Examiner IDs Jumper From Santa Monica Freeway Overpass",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Beverly Hills Schools Approve AI, Tech Framework",
+          "headline": "Lynwood Man with Memory Loss Goes Missing",
           "source": "MyNewsLA"
+        },
+        {
+          "headline": "Empowering South Los Angeles With Skills for Today\u2019s Workforce - Blue Shield of California | News Center",
+          "source": "Google News LA"
         },
         {
           "headline": "Beyond The Forecast: LA County launches heat illness tracking dashboard - ABC7 Los Angeles",
@@ -732,7 +744,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "The Los Angeles County Sheriff's Department Missing Person Unit is advising Richard Paul Del Real has been located. Thank you to the public, the media, and deputy personnel for their tireless efforts in the search for Richard. - facebook.com",
+          "headline": "Designing a William Morris\u2013Inspired Wallpaper for the 21st Century - unframed.lacma.org",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Los Angeles County Sheriff\u2019s Department Missing Persons Unit investigators are asking for the public\u2019s help locating At-Risk Missing Person David Hasson Jr. He is a 72-year-old male Black adult who was last seen on July 13, 2026, at approximately 10:00 p. - facebook.com",
           "source": "Google News LA"
         },
         {
@@ -740,11 +756,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "LA County Launches Employment Pilot for CalWORKs Recipients - MyNewsLA.com",
+          "headline": "Heat Wave, Bacteria Warnings Collide at LA County Beaches - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Supervisor Kathryn Barger Highlights L.A. County Fire Department\u2019s Enhanced Wildfire Readiness Ahead of Extreme Heat - Supervisor Kathryn Barger - COUNTY OF LOS ANGELES (.gov)",
+          "headline": "Los Angeles County Sheriff Announces $20,000 Reward for Information in the 2024 Murder of Lanai Ariyana Dees - Sierra Sun Times",
           "source": "Google News LA"
         },
         {
@@ -752,19 +768,31 @@
           "source": "Google News LA"
         },
         {
-          "headline": "L.A. County Property Values Hit $2.27 Trillion Despite Wildfires, Sluggish Market - Commercial Observer",
+          "headline": "Free summer concerts at Eastside parks. Here's where to go. - LA Local",
           "source": "Google News LA"
         },
         {
-          "headline": "Extreme heat warning issued as high temperatures blanket Los Angeles County - Westside Today",
+          "headline": "Rushing water floods West Hollywood streets after water main break, creating massive sinkhole - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "Pointe Fire updates: Crews stop forward progress on Santa Clarita brush fire that prompted evacuation warning, threatened homes - ABC7 Los Angeles",
+          "headline": "The Los Angeles County Sheriff's Department Missing Person Unit is advising Richard Paul Del Real has been located. Thank you to the public, the media, and deputy personnel for their tireless efforts in the search for Richard. - facebook.com",
           "source": "Google News LA"
         },
         {
-          "headline": "L.A. County Expands Public Meetings Access with Multilingual Website and Digital Displays to Strengthen Public Engagement - SCVNews.com",
+          "headline": "SCV News | L.A. County Expands Public Meetings Access with Multilingual Website - SCVNews.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LA County Launches Employment Pilot for CalWORKs Recipients - MyNewsLA.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "SCV News | Field Animal Licensing Efforts in Unincorporated L.A.County - SCVNews.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LA County officials urge mosquito precautions after first human West Nile case - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -776,27 +804,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Langham to Pay $320,000 to the LA County District Attorney\u2019s Office, County Counsel to Settle Price Gouging Lawsuit - COUNTY OF LOS ANGELES (.gov)",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Field Animal Licensing Efforts in Unincorporated Lake Los Angeles, Palmdale, Pearblossom, and Llano - SCVNews.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Antelope Valley woman burned 2-year-old son with scalding water before his death, complaint says - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Supervisor Kathryn Barger Leads Joint Regional Effort to Advocate for Continued Federal Support for Eaton and Palisades Fire Recovery - COUNTY OF LOS ANGELES (.gov)",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "SUMMIT FIRE UPDATE Residents are urged to stay informed and follow all instructions from public safety officials. \u26a0\ufe0f Evacuation Warning \u2013 Level 2 (SET) Residents in the following zones should be prepared to leave if conditions worsen: \u2022 SCL-CARLBOYER - facebook.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Contractor building Automated People Mover at LAX sues city - ABC7 Los Angeles",
+          "headline": "Beach hazards alert issued amid dangerous rip currents, chance of lightning at LA County beaches - ABC7 Los Angeles",
           "source": "Google News LA"
         }
       ],
