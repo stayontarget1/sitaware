@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-19T02:26:03.449718+00:00",
-  "briefing": "5 PM",
+  "generated": "2026-07-19T16:01:34.588253+00:00",
+  "briefing": "8 AM",
   "columns": {
     "monrovia": {
-      "summary": "- MUSD seeks board trustee candidates for Areas 3 and 5\n- Free backpack giveaway for Monrovia elementary students Aug. 7\n- Movies in the Park summer series kicks off July 18\n- Free swim lessons offered for neurodivergent kids locally",
+      "summary": "- MUSD seeks candidates for Board of Education trustee positions 3 and 5\n- Free backpack giveaway for Monrovia elementary students August 7\n- Free swim lessons available for neurodivergent kids at local nonprofit\n- Movies in the Park summer series kicks off July 18",
       "headlines": [
         {
           "headline": "Local nonprofit offers free swim lessons for neurodivergent kids",
@@ -110,7 +110,7 @@
           "source": "Google News"
         },
         {
-          "headline": "California's 2026 electric vehicle rebate program - MSN",
+          "headline": "Florida death marks 3rd involving ICE agents in a single week - Newsweek",
           "source": "Google News"
         },
         {
@@ -122,8 +122,8 @@
           "source": "Google News"
         },
         {
-          "headline": "25 Foods That Bring Back the Best Memories One Bite at a Time - Fast Food Club",
-          "source": "Google News"
+          "headline": "Forest Workers Kidnapped | Homeless Camp Is Film Set | Man Tased Over Chores | Man Shoots Mom At PD: CA News",
+          "source": "Patch Monrovia"
         },
         {
           "headline": "Forest Officers Kidnapped, Held Hostage At Gunpoint In CA Wilderness: FBI",
@@ -143,10 +143,6 @@
         },
         {
           "headline": "Stealing Is Wrong, But Food Theft Isn\u2019t As Clear-Cut [The Question]",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "What To Watch This Weekend: 'The Odyssey,' 'Lucky,' 'Ride Or Die,' And 'The Westies'",
           "source": "Patch Monrovia"
         },
         {
@@ -246,22 +242,22 @@
         "36": false,
         "37": false,
         "38": false,
-        "39": false
+        "39": true
       }
     },
     "sgv": {
-      "summary": "- Extreme heat warning continues through Thursday, mid-90s expected\n- El Monte police officer's daughter needs bone marrow transplant\n- UNIQLO opens first U.S. community hub in Altadena\n- Pasadena begins annual storm drain repairs at 12 sites",
+      "summary": "- Extreme heat warning continues through Thursday; mid-90s expected across San Gabriel Valley\n- Heat rules limit when utilities can cut off power during warning periods\n- Kaiser Permanente Baldwin Park appoints new executive from Moreno Valley\n- UNIQLO opens first U.S. community hub on Lake Avenue in Altadena",
       "headlines": [
-        {
-          "headline": "LA Varsity: High School Sports in the San Gabriel Valley - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
         {
           "headline": "Extreme Heat Warning for Pasadena, San Gabriel Valley Remains in Effect Through Thursday - Pasadena Now",
           "source": "Google News SGV"
         },
         {
           "headline": "Greater Pasadena and San Gabriel Valley to See Warm-Up Into the Mid-90s - ColoradoBoulevard.net",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Things to do in the San Gabriel Valley area, July 17-25 - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -281,7 +277,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Things to do in the San Gabriel Valley area, July 17-25 - San Gabriel Valley Tribune",
+          "headline": "Economists say \u2018we must act now\u2019 on AI\u2019s economic impact - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -289,15 +285,11 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Economists say \u2018we must act now\u2019 on AI\u2019s economic impact - San Gabriel Valley Tribune",
+          "headline": "Meet Peachy, Rex and Sophie, this week\u2019s Pets of the Week in the San Gabriel Valley - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
           "headline": "A Performer Who Toured as \u2018Agnetha\u2019 Headlines a Free ABBA Night in San Gabriel - Pasadena Now",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "Meet Peachy, Rex and Sophie, this week\u2019s Pets of the Week in the San Gabriel Valley - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -313,24 +305,40 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Barbara Lamprecht - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
           "headline": "Newsom\u2019s latest housing bill proves impact fees are extortion - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "A slimmed down Harry Potter satisfies in Costa Mesa - San Gabriel Valley Tribune",
+          "headline": "Facts should realign our thinking about GOP\u2019s crime mongering - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "City of Pasadena is set to honor disability advocate - San Gabriel Valley Tribune",
+          "headline": "Kaiser Permanente Baldwin Park taps Moreno Valley COO for role - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "An El Monte police officer\u2019s daughter urgently needs a bone marrow transplant. Here\u2019s how to help - San Gabriel Valley Tribune",
+          "headline": "British Open: Sam Burns takes lead into final day - San Gabriel Valley Tribune",
           "source": "Google News SGV"
+        },
+        {
+          "headline": "Angels\u2019 Chase Silseth finds home in bullpen - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "California still dominates technology\u2019s nectar: venture capital - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Altadena Residents Aim for a Say in the Future of North Lake Avenue",
+          "source": "Pasadena Now"
+        },
+        {
+          "headline": "Infant Safe Sleep Ambassador Training Set for July 21 in Pasadena",
+          "source": "Pasadena Now"
+        },
+        {
+          "headline": "Lane Closures Will Affect South Allen Avenue at Orlando Road Starting Monday",
+          "source": "Pasadena Now"
         },
         {
           "headline": "Swatting Call Brings Police to PCC Campus",
@@ -361,16 +369,8 @@
           "source": "Pasadena Now"
         },
         {
-          "headline": "Last Week in Review: Top Pasadena Stories of The Week",
-          "source": "Pasadena Now"
-        },
-        {
-          "headline": "Taylor Farms Recall Prompts Attention for Southern California Shoppers",
-          "source": "Pasadena Now"
-        },
-        {
-          "headline": "Caltech Mourns the Passing of Nobel Laureate Rudy Marcus",
-          "source": "Pasadena Now"
+          "headline": "Thoughts for Pennies: \u201cSummer Fantasy\u201d",
+          "source": "Colorado Blvd"
         },
         {
           "headline": "Jefferson Park to Host Pasadena\u2019s 30th Annual National Night Out",
@@ -417,23 +417,47 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Monterey Park Residents Invited to Meet Newly Appointed Mayor Henry Lo",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Social media influencers Andrew and Tristan Tate arrested in Miami, US Marshals Service says",
+          "headline": "Palisades Fire victim moves into rebuilt home, but says LADWP hasn't turned on power",
           "source": "ABC7"
         },
         {
-          "headline": "US military launches new airstrikes to punish Iran for deaths of US troops",
+          "headline": "5.5 magnitude earthquake hits Peru's Andes region, killing at least 5 people",
           "source": "ABC7"
         },
         {
-          "headline": "Crews replace 25-foot section of pipe after massive water main break flooded West Hollywood",
+          "headline": "Second death reported in Legionnaires' disease outbreak in New York City",
           "source": "ABC7"
         },
         {
-          "headline": "Dodgers and Yankees rained out, rescheduled as day-night doubleheader Sunday",
+          "headline": "Best Nordstrom Anniversary 2026 accessories deals for under $50",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Orangeland RV Park residents face uncertainty as longtime Orange park prepares to close",
+          "source": "ABC7"
+        },
+        {
+          "headline": "'It's just trying times:' Copper theft leaves Pasadena bakery without AC during SoCal extreme heat",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Crews continue making progress replacing broken pipe in West Hollywood",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Deadly crash closes lanes on northbound 57 Freeway in Fullerton",
+          "source": "ABC7"
+        },
+        {
+          "headline": "21-year-old charged with vehicular manslaughter in OC 'car-surfing' crash that killed beloved surfer",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Activists urge LA communities to mobilize after 2 deadly ICE shootings",
+          "source": "ABC7"
+        },
+        {
+          "headline": "SoCal weather: High surf advisory issued as temperatures stay warm",
           "source": "ABC7"
         },
         {
@@ -441,63 +465,35 @@
           "source": "ABC7"
         },
         {
+          "headline": "16 US service members have died in the Iran war, reflecting a conflict fought largely in the air",
+          "source": "ABC7"
+        },
+        {
+          "headline": "2 separate water pipe issues flood neighborhoods in Venice, damage underground parking structures",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Crews replace 25-foot section of pipe after massive water main break flooded West Hollywood",
+          "source": "ABC7"
+        },
+        {
           "headline": "405 Freeway lane, ramp closures continue this weekend through the Sepulveda Pass",
           "source": "ABC7"
         },
         {
-          "headline": "Tropical Storm Elida expected to bring high surf to SoCal beaches; advisory takes effect Sunday",
+          "headline": "US military launches new airstrikes to 'swiftly punish' Iran for deaths of US troops",
           "source": "ABC7"
         },
         {
-          "headline": "Venezuela earthquakes death toll surpasses 5,000",
+          "headline": "Men sue hospital after DNA tests showed they were switched at birth 38 years ago",
           "source": "ABC7"
         },
         {
-          "headline": "Paul Pelosi charged with misdemeanor hit-and-run over collision with parked car in California",
+          "headline": "Woman rescued after 40-foot fall from bridge into LA River in Boyle Heights, firefighters say",
           "source": "ABC7"
         },
         {
-          "headline": "SoCal Parents and Students: Where to find Back to School resources",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Chase involving Cybertruck driver ends in crash, standoff on 118 Freeway in Chatsworth",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Southern California gets weekend break from heat before warmup next week",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Federal appeals court rules that New Jersey's assault weapons ban is unconstitutional",
-          "source": "ABC7"
-        },
-        {
-          "headline": "House of Representatives passes bill that makes the shift to daylight saving time permanent",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Man shot at World Cup watch party reunites with LAPD officer who helped save his life",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Crews making progress repairing massive water main break in West Hollywood",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Suspect opens fire at Palmdale pool party, leaving 2 juveniles and 1 adult injured before fleeing",
-          "source": "ABC7"
-        },
-        {
-          "headline": "California governor's race: Becerra, Hilton address Latino leaders at NALEO conference in LA",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Wreckage of sunken boat located near Alcatraz Island, San Francisco police confirm",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Apparent new D4vd song removed from Spotify as he remains jailed in Celeste Rivas murder case",
+          "headline": "Social media influencers Andrew and Tristan Tate arrested in Miami, US Marshals Service says",
           "source": "ABC7"
         }
       ],
@@ -509,62 +505,70 @@
         "4": true,
         "5": false,
         "6": true,
-        "7": true,
+        "7": false,
         "8": true,
-        "9": false,
+        "9": true,
         "10": true,
         "11": true,
-        "12": true,
-        "13": true,
-        "14": true,
+        "12": false,
+        "13": false,
+        "14": false,
         "15": false,
-        "16": false,
+        "16": true,
         "17": false,
-        "18": true,
-        "19": true,
+        "18": false,
+        "19": false,
         "20": true,
         "21": true,
         "22": true,
         "23": true,
         "24": true,
         "25": true,
-        "26": false,
+        "26": true,
         "27": true,
-        "28": false,
-        "29": true,
-        "30": true,
+        "28": true,
+        "29": false,
+        "30": false,
         "31": true,
         "32": true,
-        "33": false,
-        "34": true,
+        "33": true,
+        "34": false,
         "35": false,
-        "36": true,
+        "36": false,
         "37": true,
         "38": true,
         "39": true
       }
     },
     "county": {
-      "summary": "- West Hollywood water main ruptured; crews make progress, no completion date set\n- ICE improperly shared Medicaid data with Palantir without authorization\n- Driver charged in car surfing crash that killed Huntington Beach surf star\n- OC serial robber pleads guilty to federal charges in restaurant crime spree",
+      "summary": "- ICE improperly shared LA County Medicaid data with Palantir without authorization\n- Long Beach uses emergency reserves amid budget concerns, plans difficult changes\n- West Hollywood water main repairs progress significantly; CicLAvia reroutes Sunday\n- OC serial robber pleads guilty to federal charges in restaurant crime spree",
       "headlines": [
         {
-          "headline": "Crews make progress on ruptured West Hollywood water main; no completion date yet",
+          "headline": "The World Cup has come and gone. LA loved the tournament, with some hiccups",
           "source": "LAist"
         },
         {
-          "headline": "As Nolan's 'Odyssey' hits 70mm, a hand-cranked silent film show comes to La Crescenta",
+          "headline": "Move over, Super Bowl? There's an even bigger \u2013 and splashier \u2013 World Cup halftime show coming",
           "source": "LAist"
         },
         {
-          "headline": "13 bookstores. 3 days. All over town. It\u2019s the LA Indie Book Crawl",
+          "headline": "Finding World Cup joy in speaking to women who love soccer",
+          "source": "LAist"
+        },
+        {
+          "headline": "One family, two art forms: Maestro James Conlon and grand nephew Sebastian talk opera and soccer",
+          "source": "LAist"
+        },
+        {
+          "headline": "Wrapping a gift with love, the Korean way \u2014 learn the art of bojagi for free in LA",
+          "source": "LAist"
+        },
+        {
+          "headline": "Crews made 'significant' progress on West Hollywood water main; CicLAvia reroutes Sunday",
           "source": "LAist"
         },
         {
           "headline": "ICE shared Medicaid data it wasn't supposed to have with Palantir",
-          "source": "LAist"
-        },
-        {
-          "headline": "OC Board of Education member failed to report millions in income and assets, court finds",
           "source": "LAist"
         },
         {
@@ -576,15 +580,15 @@
           "source": "LAist"
         },
         {
-          "headline": "Why Orthodox Jews are opposing the new daylight saving bill in Congress",
+          "headline": "Long Beach uses millions from emergency reserves, braces for \u2018difficult changes\u2019 ahead",
+          "source": "LAist"
+        },
+        {
+          "headline": "13 bookstores. 3 days. All over town. It\u2019s the LA Indie Book Crawl",
           "source": "LAist"
         },
         {
           "headline": "Best things to do this weekend in LA and SoCal: July 17-19",
-          "source": "LAist"
-        },
-        {
-          "headline": "How to drink like a Spaniard without leaving LA",
           "source": "LAist"
         },
         {
@@ -593,6 +597,10 @@
         },
         {
           "headline": "The OC Fair has arrived! Here's the lowdown on the annual summer fest",
+          "source": "LAist"
+        },
+        {
+          "headline": "As Nolan's 'Odyssey' hits 70mm, a hand-cranked silent film show comes to La Crescenta",
           "source": "LAist"
         },
         {
@@ -613,18 +621,6 @@
         },
         {
           "headline": "The US and Iran standoff over the Strait of Hormuz intensifies",
-          "source": "LAist"
-        },
-        {
-          "headline": "The U.S. is back to blockading Iran as the Strait of Hormuz standoff escalates",
-          "source": "LAist"
-        },
-        {
-          "headline": "Crenshaw Chamber of Commerce wants small business owners to know about a new forgivable loan program",
-          "source": "LAist"
-        },
-        {
-          "headline": "Lawyers are teaching immigrants at Adelanto how to challenge their own detentions",
           "source": "LAist"
         },
         {
@@ -692,6 +688,10 @@
           "source": "Fox 11 LA"
         },
         {
+          "headline": "Spain vs Argentina in World Cup Final 2026: How to watch, live updates",
+          "source": "Fox 11 LA"
+        },
+        {
           "headline": "Coca-Cola halts Fairlife operations after network breach, ransomware attack",
           "source": "Fox 11 LA"
         },
@@ -704,59 +704,63 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "2 US service members die in Iranian attack on Jordan base, 1 missing",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "One Dead in Crash on Mt. Baldy Road",
+          "headline": "Masked Burglars Take Items From Encino Home in Early Morning Break-In",
           "source": "MyNewsLA"
         },
         {
-          "headline": "One Person Dead in Riverside Freeway Interchange",
+          "headline": "Riverside County Gas Prices Rise For Fifth Straight Day",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Firefighters Stop Grass Fire in Sepulveda Basin",
+          "headline": "Crews Progress Replacing Broken Water Pipe in WeHo",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Racing Juvenile Driver Crashes Near Long Beach Airport",
+          "headline": "Argentina Faces Off Spain in World Cup Final",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Mercury Identified in Hazardous Materials Incident in Wildomar",
+          "headline": "Officers Seek Nearly $4M in Attorneys\u2019 Fees in Retaliation Suit",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Water Pipes Break in Venice, Flooding Neighborhoods",
+          "headline": "Judge Grants Dodger Scott Erickson $14M Offset From Jury\u2019s Compensatory Damages",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Silver Alert Issued for Missing At-Risk Los Angeles Septuagenarian",
+          "headline": "Fire Injures Resident in Granada Hills Home",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Crews Make Progress Replacing Broken Water Pipe in West Hollywood",
+          "headline": "Crash on 57 Freeway in Fullerton Leaves One Dead, Several Injured",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Man Found Fatally Injured in Norwalk",
+          "headline": "CicLAvia to Transform Hollywood, WeHo Into Car-Free Zones",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Woman Rescued After Fall from Bridge Near LA River",
+          "headline": "No One Able to Claim All Six SuperLotto Plus Winning Numbers",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Water Pipe Breaks in Venice, Floods Neighborhood",
+          "headline": "Metrolink Train with 500 Passengers Breaks Down in OC",
           "source": "MyNewsLA"
         },
         {
-          "headline": "USA-2 Returns Home - Fire Department - Los Angeles County (.gov)",
+          "headline": "#LASD is Asking for the Public\u2019s Help Locating At Risk Missing Juvenile, Carlos Escobar Navarro Hernandez #Lakewood Detectives from the Los Angeles County Sheriff\u2019s Department are seeking assistance in locating at risk missing juvenile, Carlos Escobar - facebook.com",
           "source": "Google News LA"
         },
         {
-          "headline": "One year ago, on July 18, 2025, at approximately 7:30 a.m., Detective Joshua Kelley-Eklund, Detective Victor Lemus, and Detective William Osborn tragically lost their lives in an explosion at the Biscailuz Regional Training Center Facility in Los Angeles. Thes - facebook.com",
+          "headline": "Driverless Cars Struggle to Win Over LA County Riders, Study Finds - westsidecurrent.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "The Counties Losing People The Fastest - WorldAtlas",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "USA-2 Returns Home - Fire Department - Los Angeles County (.gov)",
           "source": "Google News LA"
         },
         {
@@ -768,19 +772,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Cabrillo Beach Grunion Run Bust, Los Angeles County - onscene.tv",
+          "headline": "2 separate water pipe issues flood neighborhoods in Venice, damage underground parking structures - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "Chase involving Cybertruck driver ends in crash, standoff on 118 Freeway in Chatsworth - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles County Sheriff Seeks Public\u2019s Help Locating At-Risk Missing 79-Year-Old Soo Kyung Kim - Sierra Sun Times",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Empowering South Los Angeles With Skills for Today\u2019s Workforce - Blue Shield of California | News Center",
+          "headline": "13732 Mindora Ave Unit 1, Los Angeles, CA 91342 - Realtor.com",
           "source": "Google News LA"
         },
         {
@@ -792,11 +788,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "4033 Adair St, Los Angeles, CA 90011 - Realtor.com",
+          "headline": "City of West Hollywood is Responding to Water Main Break on Sunset Strip | News | City of West Hollywood - City of West Hollywood",
           "source": "Google News LA"
         },
         {
-          "headline": "City of West Hollywood is Responding to Water Main Break on Sunset Strip | News | City of West Hollywood - City of West Hollywood",
+          "headline": "What Medi-Cal Expansion Means for LA County Health Care: Following Closure of My Health LA - American Community Media",
           "source": "Google News LA"
         },
         {
@@ -804,11 +800,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "LADWP Continues Response Efforts Following West Hollywood Water Main Incident \u2013 11 AM July 16, 2026 - LADWP News",
+          "headline": "Power Outage Reported - Citizen app",
           "source": "Google News LA"
         },
         {
-          "headline": "West Hollywood water main break: Major flooding leaves cars, streets and apartment buildings underwater; massive sinkhole opens - ABC7 Los Angeles",
+          "headline": "One year ago, on July 18, 2025, at approximately 7:30 a.m., Detective Joshua Kelley-Eklund, Detective Victor Lemus, and Detective William Osborn tragically lost their lives in an explosion at the Biscailuz Regional Training Center Facility in Los Angeles. Thes - facebook.com",
           "source": "Google News LA"
         },
         {
@@ -816,19 +812,19 @@
           "source": "Google News LA"
         },
         {
-          "headline": "LACo Deputy\u2019s Widow Sues County, Luna - MyNewsLA.com",
+          "headline": "Cabrillo Beach Grunion Run Bust, Los Angeles County - onscene.tv",
           "source": "Google News LA"
         },
         {
-          "headline": "Water main break floods Los Angeles streets, creates massive sinkhole in West Hollywood - ABC7 Bay Area",
+          "headline": "More than $400K in stolen cargo recovered in Los Angeles County, 4 arrested - KTLA",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LADWP Continues Response Efforts Following West Hollywood Water Main Incident \u2013 11 AM July 16, 2026 - LADWP News",
           "source": "Google News LA"
         },
         {
           "headline": "WareSpace grabs another Gateway Cities industrial property for $23M - The Real Deal",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Apparent new D4vd song briefly appears on Spotify as he remains jailed on murder charges in the death of Celeste Rivas Hernandez - ABC7 Los Angeles",
           "source": "Google News LA"
         }
       ],
