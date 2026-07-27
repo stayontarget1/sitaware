@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-26T20:04:04.747880+00:00",
-  "briefing": "12 PM",
+  "generated": "2026-07-27T02:38:16.262530+00:00",
+  "briefing": "5 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Monrovia Fire Station #101 wins county Stroke Response Award for 2025\n- City Council approves $2 million purchase of Highland hillside property\n- Monrovia-based Jewish Federation condemns antisemitic vandalism at local Jewish Temple\n- Monrovia Vons holds Grand Re-Opening July 24",
+      "summary": "- Jewish Temple vandalism condemned by Monrovia-based Jewish Federation\n- City Council approves $2 million Highland hillside property purchase\n- Monrovia Fire Station #101 wins county Stroke Response Award\n- Vons Grand Re-Opening July 24 at local store",
       "headlines": [
         {
           "headline": "Monrovia-based Jewish Federation condemns antisemitic vandalism at Jewish Temple",
@@ -90,15 +90,15 @@
           "source": "Google News"
         },
         {
-          "headline": "US EV sales are down, but not out. Here\u2019s why automakers won\u2019t pull the plug - KXLY.com",
-          "source": "Google News"
-        },
-        {
           "headline": "'It feels like it never ends \u2014 the evil': Pasadena demonstrators protest ICE shootings - The Derrick",
           "source": "Google News"
         },
         {
           "headline": "The Iran war\u2019s big oil mystery: No one seems to want it - CNN",
+          "source": "Google News"
+        },
+        {
+          "headline": "Cottonwood Community Band Announces Philip Blackwell as New Conductor - Sedona.Biz",
           "source": "Google News"
         },
         {
@@ -122,23 +122,7 @@
           "source": "Patch Monrovia"
         },
         {
-          "headline": "10 New Laws That Will Change CA's Upcoming School Year",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Corporate Owners Quietly Reshape Veterinary Care Across CA: Is Your Vet One Of Them?",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Roommate Attacked With Hammer | Raccoon Squatter Gives Birth | Vermin Infestation At Foodie Spot: CA News",
-          "source": "Patch Monrovia"
-        },
-        {
           "headline": "Last-Minute CA Summer Bucket List: Fun Family Adventures Before The Season Slips Away",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "What Your Neighbors Say About Park Etiquette Basics: Block Talk",
           "source": "Patch Monrovia"
         },
         {
@@ -233,16 +217,16 @@
         "31": false,
         "32": false,
         "33": false,
-        "34": false,
-        "35": false,
-        "36": false,
-        "37": false,
+        "34": true,
+        "35": true,
+        "36": true,
+        "37": true,
         "38": true,
         "39": true
       }
     },
     "sgv": {
-      "summary": "- Road rage and murder suspects arrested after separate high-speed pursuits in Valley\n- Homeless services providers warn cuts worsening San Gabriel Valley crisis\n- Heat advisory and ozone alert issued for Los Angeles County\n- San Gabriel Valley Mosquito District releases sterile males to combat population",
+      "summary": "- Murder suspect arrested after high-speed police pursuit in San Gabriel Valley\n- Homeless services providers warn cuts driving increased homelessness across valley\n- Ozone pollution alert active for Los Angeles County Monday\n- Heat advisory continues for LA County through Wednesday",
       "headlines": [
         {
           "headline": "Road rage suspect in custody after pursuit ends in Montebello - NBC Los Angeles",
@@ -273,7 +257,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Suspect wanted to murder arrested in San Gabriel Valley after high-speed police pursuit - Yahoo",
+          "headline": "Pasadena | California, Map, History, & Facts - Encyclopedia Britannica",
           "source": "Google News SGV"
         },
         {
@@ -317,11 +301,11 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Photos: 2026 Comic-Con Preview Night - San Gabriel Valley Tribune",
+          "headline": "Suspect wanted to murder arrested in San Gabriel Valley after high-speed police pursuit - Yahoo",
           "source": "Google News SGV"
         },
         {
-          "headline": "\u2018Sounds of LA County\u2019 summer concert series trumpets indie voices - San Gabriel Valley Tribune",
+          "headline": "Photos: 2026 Comic-Con Preview Night - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -365,6 +349,14 @@
           "source": "Pasadena Now"
         },
         {
+          "headline": "Alhambra Police Arrest Two Suspects After Stolen Vehicle Pursuit Ends at Kohl\u2019s",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Pasadena Mayor Condemns Antisemitic Vandalism at Jewish Temple Mural",
+          "source": "Colorado Blvd"
+        },
+        {
           "headline": "OcTech\u2019s Farewell Concert Marks the End of an Era at Caltech",
           "source": "Colorado Blvd"
         },
@@ -405,19 +397,15 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "San Gabriel Joins National Night Out August 4",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Turn Food Scraps Into Garden Gold at Pasadena Composting Workshop",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "For some, so-called 'Skynet Day' came too close to sci-fi after a rogue agent hacked into a startup",
+          "headline": "Humble shooting: Angel Javier Rodriguez fatally shoots 17-year-old mother of his child, her brother in 200-block of West Canino Road in Harris County, Texas, sheriff's office says",
           "source": "ABC7"
         },
         {
-          "headline": "Kieran Culkin to play the Devil in 'Family Guy' Halloween special announced at San Diego Comic-Con",
+          "headline": "Boyle Heights cancer patient files lawsuit against Lineage over warehouse fire",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Gunman fires into crowd in overnight shooting in downtown LA; 2 wounded, 1 critically, police say",
           "source": "ABC7"
         },
         {
@@ -425,19 +413,35 @@
           "source": "ABC7"
         },
         {
+          "headline": "Woman critically injured in 2-car crash involving Waymo vehicle in Pico-Union",
+          "source": "ABC7"
+        },
+        {
+          "headline": "ABC7 Eyewitness News takes home 4 Los Angeles Area Emmy Awards",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Americans rewire their grocery shopping routines while digesting the biggest price jump in 50 years",
+          "source": "ABC7"
+        },
+        {
+          "headline": "For some, so-called 'Skynet Day' came too close to sci-fi after a rogue agent hacked into a startup",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Pentagon's official Iran war death toll no longer lists 4 troops killed during renewed fighting",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Kieran Culkin to play the Devil in 'Family Guy' Halloween special announced at San Diego Comic-Con",
+          "source": "ABC7"
+        },
+        {
           "headline": "Seattle police are searching for two men who parachuted from the Space Needle",
           "source": "ABC7"
         },
         {
-          "headline": "2-car crash involving Waymo vehicle in Pico-Union leaves 1 hospitalized",
-          "source": "ABC7"
-        },
-        {
           "headline": "49ers coach Kyle Shanahan hurt in a car crash, limited as training camp opens",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Gunman fires into crowd in overnight shooting in downtown LA; 2 wounded, 1 critically, police say",
           "source": "ABC7"
         },
         {
@@ -471,37 +475,17 @@
         {
           "headline": "2 missing children sought after alleged abduction by their father in Lancaster",
           "source": "ABC7"
-        },
-        {
-          "headline": "West Hollywood main break: Sunset Boulevard reopens to traffic after weeklong closure",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Ed Begley Jr. and daughter take stage for charity event benefitting the Michael J. Fox Foundation",
-          "source": "ABC7"
-        },
-        {
-          "headline": "D4vd murder case: Detective testifies singer's phone contained sexually graphic photos of teen, messages about abortion",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Whole-body MRI screenings gain popularity despite concerns from medical experts",
-          "source": "ABC7"
-        },
-        {
-          "headline": "US measles cases reach 35-year high, for second record-breaking year in a row",
-          "source": "ABC7"
         }
       ],
       "relevance": {
-        "0": false,
+        "0": true,
         "1": true,
         "2": true,
         "3": true,
         "4": true,
         "5": true,
         "6": true,
-        "7": true,
+        "7": false,
         "8": true,
         "9": true,
         "10": true,
@@ -512,32 +496,32 @@
         "15": true,
         "16": false,
         "17": false,
-        "18": false,
-        "19": true,
+        "18": true,
+        "19": false,
         "20": false,
         "21": false,
-        "22": false,
-        "23": false,
-        "24": false,
+        "22": true,
+        "23": true,
+        "24": true,
         "25": true,
         "26": false,
-        "27": false,
+        "27": true,
         "28": false,
-        "29": false,
-        "30": false,
-        "31": false,
+        "29": true,
+        "30": true,
+        "31": true,
         "32": false,
         "33": false,
-        "34": false,
-        "35": false,
-        "36": false,
-        "37": false,
+        "34": true,
+        "35": true,
+        "36": true,
+        "37": true,
         "38": false,
         "39": false
       }
     },
     "county": {
-      "summary": "- LAFD member killed in off-duty crash\n- LA homelessness rises in 2026 count despite previous efforts\n- CalFresh launches online EBT food ordering for LA County\n- Westlake Theatre revival plan aims to revitalize MacArthur Park landmark",
+      "summary": "- LAFD member killed in off-duty crash in Los Angeles County\n- CalFresh launches online EBT food ordering for LA County residents\n- LA homelessness rises in 2026 count as economic strain persists\n- Sunset Boulevard reopens in West Hollywood after weeklong water main repairs",
       "headlines": [
         {
           "headline": "Jonathan Gold was LA. 'City of Gold' director on what he'd write now",
@@ -700,39 +684,19 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Boyle Heights Man Sues Lineage Inc. Over June Warehouse Fire",
+          "headline": "Firefighters Reach Full Containment of Brush Fire Near Corona",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Person Killed When SUV Overturns on Freeway in Diamond Bar",
+          "headline": "Firefighters Battle Seven-Acre Brush Fire in Menifee",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Police Investigate Shooting in North Long Beach",
+          "headline": "Firefighters Battle 10-Acre Brush Fire Near Corona",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Extreme Heat Warning in Parts of Riverside County Until At Least Monday",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Extreme Heat Warning in Riverside County Until At Least Monday",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Person Killed When SUV Overturns on Freeway in Diamond Bar",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Woman Critically Injured in Crash Involving Waymo Vehicle",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Person Killed When SUV Overturns on Freeway in Diamond Bar",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Two Shot, Including One Critically, in Downtown Los Angeles",
+          "headline": "Suspect in Custody After Woman Killed in Santa Monica",
           "source": "MyNewsLA"
         },
         {
@@ -740,11 +704,39 @@
           "source": "MyNewsLA"
         },
         {
-          "headline": "Suspect in Custody After Woman Killed in Apartment Near Santa Monica College",
+          "headline": "Person Killed When SUV Overturns on Freeway in Diamond Bar",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Vandalized Pasadena Jewish Temple Vows Resilience",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Southland To Get No Relief From Heat All Week",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Boyle Heights Man Sues Lineage Inc. Over June Warehouse Fire",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Police Investigate Shooting in North Long Beach",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Woman Critically Injured in Crash Involving Waymo Vehicle",
           "source": "MyNewsLA"
         },
         {
           "headline": "A Statement on the 2026 Homeless Count - LA County Homeless Services & Housing (.gov)",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Did you know? You can file certain non-emergency crime reports online through the Los Angeles County Sheriff\u2019s Department, making the reporting process quicker and more convenient. The LASD Online Crime Reporting System may allow you to report: \u2022 Lo - facebook.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Southern California gas keeps climbing, and Los Angeles County tops $5.59 - The Cool Down",
           "source": "Google News LA"
         },
         {
@@ -760,14 +752,6 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County Sheriff\u2019s Department Lancaster Station Detectives are asking for the public\u2019s help locating At-Risk Missing Children, Solomon & Marozhina Sukonick . The children were abducted by their father, David Sukonick, on July 23, 2026, at 8:00 p. - facebook.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles Is Losing Its Most Affordable Homes - Governing",
-          "source": "Google News LA"
-        },
-        {
           "headline": "Owners of Fire-Damaged Los Angeles Warehouse Fined For Flies, Rotting Food - firehouse.com",
           "source": "Google News LA"
         },
@@ -780,10 +764,6 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Loved ones search for missing 16-year-old Southern California girl - KTLA",
-          "source": "Google News LA"
-        },
-        {
           "headline": "2026 Homeless Count: Unhoused population rises across L.A. City and L.A. County - Westside Today",
           "source": "Google News LA"
         },
@@ -792,7 +772,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Farsnews | Los Angeles' Homelessness Spiral Laid Bare in Bombshell Report - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0641\u0627\u0631\u0633",
+          "headline": "Woman critically injured in 2-car crash involving Waymo vehicle in Pico-Union - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Where to Escape the Heat Near Los Angeles: The Best Kid-Friendly Day Trips - Mommy Poppins",
           "source": "Google News LA"
         },
         {
@@ -800,7 +784,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Homelessness in Los Angeles rises again after 2-year decline, audit report shows - ABC7 Los Angeles",
+          "headline": "Los Angeles County Sheriff\u2019s Department Lancaster Station Detectives are asking for the public\u2019s help locating At-Risk Missing Children, Solomon & Marozhina Sukonick . The children were abducted by their father, David Sukonick, on July 23, 2026, at 8:00 p. - facebook.com",
           "source": "Google News LA"
         },
         {
@@ -812,15 +796,15 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Hundreds march in DTLA, demanding justice after deaths during ICE operations - ABC7 Los Angeles",
+          "headline": "Homelessness Increases in LA City, County After Two-Year Decline - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Metro Directors Approve Addition of First-ever Voting Seat for Transit Rider - County Supervisor Janice Hahn (.gov)",
+          "headline": "Homelessness in Los Angeles rises again after 2-year decline, audit report shows - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "2 missing children sought after alleged abduction by their father in Lancaster, LASD says - ABC7 Los Angeles",
+          "headline": "Loved ones search for missing 16-year-old Southern California girl - KTLA",
           "source": "Google News LA"
         }
       ],
