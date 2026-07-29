@@ -2,11 +2,10 @@ name: Generate AI Summaries
 
 on:
   schedule:
-    # 8 AM, 12 PM, 5 PM Pacific (PDT = UTC-7, used Mar-Nov)
-    # During PST (Nov-Mar), these shift to 7 AM, 11 AM, 4 PM PT
+    # 8 AM and 5 PM Pacific (PDT = UTC-7, used Mar-Nov)
+    # During PST (Nov-Mar), these shift to 7 AM and 4 PM PT
     # which is acceptable -- close enough and no duplicate runs.
     - cron: '0 15 * * *'   # 8 AM PDT / 7 AM PST
-    - cron: '0 19 * * *'   # 12 PM PDT / 11 AM PST
     - cron: '0 0 * * *'    # 5 PM PDT / 4 PM PST
   workflow_dispatch: # Allow manual trigger
 

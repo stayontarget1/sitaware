@@ -155,10 +155,10 @@ def get_briefing_label():
     offset = timedelta(hours=-7) if 3 <= month <= 10 else timedelta(hours=-8)
     pacific = utc_now + offset
     hour = pacific.hour
-    if hour < 10:
+    # Two briefings a day: morning and evening. The generous cutoff absorbs
+    # GitHub Actions cron delay, which can push the 8 AM run past 10 AM PT.
+    if hour < 13:
         return "8 AM"
-    elif hour < 15:
-        return "12 PM"
     else:
         return "5 PM"
 
