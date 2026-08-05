@@ -1,10 +1,26 @@
 {
-  "generated": "2026-08-05T02:10:22.603648+00:00",
-  "briefing": "5 PM",
+  "generated": "2026-08-05T16:44:29.685246+00:00",
+  "briefing": "8 AM",
   "columns": {
     "monrovia": {
-      "summary": "- Mountain lion captured on camera in Monrovia backyard, safety concerns\n- Monrovia Police hosting National Night Out, Aug. 4 event\n- Library and Community Center open as cooling centers now\n- Jazz and R&B Festival at Station Square Park, Aug. 15",
+      "summary": "- West Nile virus detected in Monrovia area; residents urged to take precautions\n- Monrovia Police hosting National Night Out event August 4\n- Library renovation bids now available; cooling centers open during heat\n- Jazz and R&B Festival coming to Station Square Park August 15",
       "headlines": [
+        {
+          "headline": "Video introduces new teachers at Monrovia High",
+          "source": "Monrovia Now"
+        },
+        {
+          "headline": "Storytime at the Library, Aug. 12",
+          "source": "Monrovia Now"
+        },
+        {
+          "headline": "Sensory-Friendly Morning for Neurodivergent Children at the Library, Aug. 22",
+          "source": "Monrovia Now"
+        },
+        {
+          "headline": "Request for bids on Library renovation are out, West Nile virus detected; Etc.",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Advertising now available on MonroviaNow",
           "source": "Monrovia Now"
@@ -70,30 +86,6 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Pasadena Humane Waives Adoption Fees for Dogs and Cats July 31\u2013Aug. 9",
-          "source": "Monrovia Now"
-        },
-        {
-          "headline": "Monrovia Police: Gas thieves - and their lookout - caught; Bike rider tosses drug bag; Violent boyfriend caught nearby; Park after-hours arrest; Etc.",
-          "source": "Monrovia Now"
-        },
-        {
-          "headline": "Upstream band - reggae, Soca and Carribean music - at Library Park, Sunday, August 2",
-          "source": "Monrovia Now"
-        },
-        {
-          "headline": "Adult Craft Night at the Library, Aug. 4",
-          "source": "Monrovia Now"
-        },
-        {
-          "headline": "Mountain lion captured on camera in Monrovia backyard - KTLA",
-          "source": "Google News"
-        },
-        {
-          "headline": "Monrovia Weekly_8/3/2026 - Hey SoCal. Change is our intention. - heysocal.com",
-          "source": "Google News"
-        },
-        {
           "headline": "Why Trader Joe\u2019s picked Polaris (and not your neighborhood) - The Business Journals",
           "source": "Google News"
         },
@@ -102,15 +94,19 @@
           "source": "Google News"
         },
         {
-          "headline": "Andrew Garcia - Sports Illustrated",
+          "headline": "Chili\u2019s plans 1990s remodel of restaurants nationwide - al.com",
           "source": "Google News"
         },
         {
-          "headline": "Popular restaurant chain leans into nostalgia, plans \u201990s remodel of 1,200 locations - MLive.com",
+          "headline": "Park highlights California town founded by African Americans - Escalon Times",
           "source": "Google News"
         },
         {
-          "headline": "Baby back booths: Chili\u2019s brings back its iconic retro look in restaurant redesign - New York Post",
+          "headline": "Andrew Garcia - si.com",
+          "source": "Google News"
+        },
+        {
+          "headline": "If Trader Joe\u2019s expands in Columbus again, where might it look? - The Business Journals",
           "source": "Google News"
         },
         {
@@ -177,11 +173,11 @@
       "relevance": {
         "0": true,
         "1": true,
-        "2": false,
+        "2": true,
         "3": true,
         "4": true,
         "5": true,
-        "6": true,
+        "6": false,
         "7": true,
         "8": true,
         "9": true,
@@ -190,13 +186,13 @@
         "12": true,
         "13": true,
         "14": true,
-        "15": false,
-        "16": false,
+        "15": true,
+        "16": true,
         "17": true,
         "18": true,
         "19": true,
-        "20": true,
-        "21": true,
+        "20": false,
+        "21": false,
         "22": false,
         "23": false,
         "24": false,
@@ -206,7 +202,7 @@
         "28": false,
         "29": false,
         "30": false,
-        "31": false,
+        "31": true,
         "32": true,
         "33": true,
         "34": true,
@@ -218,26 +214,26 @@
       }
     },
     "sgv": {
-      "summary": "- Red Cross grant funds Altadena home rebuilds through San Gabriel Valley Habitat\n- City of San Gabriel opens cooling centers as extreme heat warning takes effect\n- Ozone pollution alert active for Los Angeles County Sunday\n- National Night Out celebrations scheduled across San Gabriel Valley on August 4",
+      "summary": "- Parole sweep results in 7 arrests across San Gabriel Valley\n- San Gabriel opens cooling centers as extreme heat warning takes effect\n- Ozone pollution alert active for Los Angeles County Sunday\n- Applications now open for 2027 Rose Court princess positions",
       "headlines": [
         {
-          "headline": "Where to Celebrate National Night Out Across the San Gabriel Valley on Aug. 4 - coloradoboulevard.net",
+          "headline": "LA Varsity: High School Sports in the San Gabriel Valley - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "Red Cross Grant to Fund Altadena Home Rebuilds Through San Gabriel Valley Habitat for Humanity - Pasadena Now",
+          "headline": "San Gabriel Valley parole sweep results in 7 arrests - California Department of Corrections and Rehabilitation (.gov)",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Speaker Robert Rivas, Assemblymember Mike Fong Host Community Discussion in L.A.\u2019s San Gabriel Valley on Defending Health Care Access and Empowering Immigrants and AAPI Families - Assembly Speaker Robert Rivas",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Greater Pasadena & San Gabriel Valley Forecast: Hot, Sunny Week Ahead - ColoradoBoulevard.net",
           "source": "Google News SGV"
         },
         {
           "headline": "Assessments of home energy use available for San Gabriel Valley residents - heysocal.com",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "Things to do in the San Gabriel Valley area, July 31-Aug. 8 - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "Speaker Robert Rivas, Assemblymember Mike Fong Host Community Discussion in L.A.\u2019s San Gabriel Valley on Defending Health Care Access and Empowering Immigrants and AAPI Families - speaker.asmdc.org",
           "source": "Google News SGV"
         },
         {
@@ -249,11 +245,15 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Southern California\u2019s Biggest Asian Night Market is Back for One Last Summer Stop - edhat",
+          "headline": "Pasadena | California, Map, History, & Facts - Encyclopedia Britannica",
           "source": "Google News SGV"
         },
         {
-          "headline": "Greater Pasadena & San Gabriel Valley Forecast: Hot, Sunny Week Ahead - coloradoboulevard.net",
+          "headline": "DBSA San Gabriel Valley Support Alliance - ColoradoBoulevard.net",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Things to do in the San Gabriel Valley area, July 31-Aug. 8 - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -261,7 +261,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "DBSA San Gabriel Valley Support Alliance - coloradoboulevard.net",
+          "headline": "City of San Gabriel Opens Cooling Centers as Extreme Heat Warning Takes Effect - ColoradoBoulevard.net",
           "source": "Google News SGV"
         },
         {
@@ -270,10 +270,6 @@
         },
         {
           "headline": "Applications now open for 2027 Rose Court - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "City of San Gabriel Opens Cooling Centers as Extreme Heat Warning Takes Effect - coloradoboulevard.net",
           "source": "Google News SGV"
         },
         {
@@ -297,48 +293,72 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Don\u2019t let lawyers ruin homeownership in California - San Gabriel Valley Tribune",
+          "headline": "Southern California\u2019s Biggest Asian Night Market is Back for One Last Summer Stop - edhat",
           "source": "Google News SGV"
         },
         {
-          "headline": "Pasadena Board Weighs Daily Payments, Written Notice for Tenants Displaced by Repairs",
+          "headline": "Altadena\u2019s Elected Officials Call for Accountability After County Concludes Edison Tower Caused Eaton Fire",
           "source": "Pasadena Now"
         },
         {
-          "headline": "LA County to Conduct Earthquake Preparedness Review",
+          "headline": "\u2018National Night Out\u2019 Returns to Pasadena",
           "source": "Pasadena Now"
         },
         {
-          "headline": "Kaiser Permanente Los Angeles Medical Center Earns \u2018High Performing\u2019 Ratings from U.S. News & World Report",
+          "headline": "LA County Moves on Federal Investment Accounts for Foster Children",
           "source": "Pasadena Now"
         },
         {
-          "headline": "LA County Fire Department: SoCal Edison Electrical Tower Sparked Deadly Eaton Fire",
+          "headline": "Wildfire Relief Takes $9 Billion Off a Record County Property Roll",
           "source": "Pasadena Now"
         },
         {
-          "headline": "City Council Repeals Ban on SB 9 Development in Eaton Fire Burn Area",
+          "headline": "Pasadena Heat Holds Steady, Highs Stay in 90s",
           "source": "Pasadena Now"
         },
         {
-          "headline": "Eaton Fire Survivors\u2019 Nonprofit Opens Zero-Interest Rebuild Financing to More Altadena Homeowners",
+          "headline": "County Orders a Hard Look at Its Own Earthquake Readiness, and Turns to Pasadena for Help",
           "source": "Pasadena Now"
         },
         {
-          "headline": "City Council Votes to Place $22.1 Million Fire Parcel Tax to November Ballot",
+          "headline": "Bailey, Kealing for Pasadena Unified Board Races as Election Field Takes Shape",
           "source": "Pasadena Now"
         },
         {
-          "headline": "Apartment Association Leads Opposition to Pasadena Fire Parcel Tax Ahead of Council Vote",
+          "headline": "We Get Letters: Wildfire Prevention?",
           "source": "Pasadena Now"
         },
         {
-          "headline": "Eaton Fire Burglary Case Reaches Its 19th Month in Pasadena Court",
+          "headline": "Political Gumbo: About That Meeting on Monday",
           "source": "Pasadena Now"
         },
         {
-          "headline": "Pasadena Public Health Department Affirms Cyclospora Spread Across U.S. Not Evident Locally",
+          "headline": "August City Workshop Explores Base Rent, Rent Rollbacks and Annual Increases",
           "source": "Pasadena Now"
+        },
+        {
+          "headline": "Ron Sahu Withdraws From Alhambra City Council District 1 Race",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Pasadena to Host Free Workshop on Base Rent Rules for Tenants and Landlords",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Caltech and USC Among Five California Universities Named to LinkedIn\u2019s Top Colleges List",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Free Garden Supper at The Huntington Explores How to End Food Deserts",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Two Pasadena Village Events Aim to Build Community for LGBTQ+ Seniors and Allies",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Monterey Park Library Hosts Free Curator Tours of Asian American Military Exhibit",
+          "source": "Colorado Blvd"
         },
         {
           "headline": "L.A. County Approves Financial Relief for Small Businesses Impacted by Lineage Fire",
@@ -365,35 +385,55 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Jonathan Stout Brings Swing Era Classics to Arboretum Summer Nights",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Grace Hill: The Hidden History of a Pasadena Neighborhood",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Altadena Music Theatre Returns With \u201cGrease\u201d Opening Night at New Temporary Venue",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "$4 Million Fund Launches to Help Eaton Fire Survivors Bridge Rebuilding Costs",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Felita Kealing Announces Bid for Pasadena Unified Board, District 1",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Fight Night at City Hall: Pasadena Celebrates 11 Years of Centennial Square Boxing",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "New Eaton Fire report findings could affect legal cases",
+          "headline": "US-Iran update: Trump says deal to reopen Strait of Hormuz could come as early as Wednesday",
           "source": "ABC7"
         },
         {
-          "headline": "'The Shards' turns prep school into a nightmare in Ryan Murphy's FX thriller",
+          "headline": "Abdul El-Sayed wins Michigan Senate primary in major victory for Democrats' progressive wing",
+          "source": "ABC7"
+        },
+        {
+          "headline": "NJ water utilities hit by cyberattacks with suspected link to Iran",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Lindsay Clancy murder trial continues as mental state examined",
+          "source": "ABC7"
+        },
+        {
+          "headline": "'Just kept getting pulled': 10-year-old boy details harrowing Santa Cruz surf rescue",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Former Olympian David Hearn's attorneys want Reflecting Pool vandalism case permanently dismissed",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Trump administration to award $150M contract to Houston firm to represent unaccompanied migrant children",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Very slight extreme heat relief moves into parts of Southern California",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Best Nordstrom Anniversary 2026 last-chance deals",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Doorbell camera captures clown-costumed 15-year-old accused in Illinois murder",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Man arrested at Trump LA golf course set to appear in court on state, federal charges",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Marijuana use surpasses cigarette smoking in US, study finds",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Out-of-control Tesla crashes into homes, leaving behind trail of destruction in Orange",
           "source": "ABC7"
         },
         {
@@ -401,39 +441,11 @@
           "source": "ABC7"
         },
         {
-          "headline": "Los Angeles Mayor Karen Bass, Councilmember Nithya Raman locked in tight race 3 months from Election Day",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Trump lands in LA for RNC event at his golf club in Rancho Palos Verdes",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Judge 'reluctantly' grants DOJ motion to dismiss final prosecution in Jan. 6 attack",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Eaton Fire was caused by SoCal Edison electrical tower, LA County Fire Department says",
-          "source": "ABC7"
-        },
-        {
           "headline": "Man arrested at Trump LA golf course days before president's planned visit",
           "source": "ABC7"
         },
         {
-          "headline": "Chipotle jalapenos investigated as possible source of salmonella outbreak",
-          "source": "ABC7"
-        },
-        {
-          "headline": "A familiar \"X-Files\" mystery gets a dark makeover as the original creator returns",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Investigan jalape\u00f1os de Chipotle como posible fuente de un brote de salmonela",
-          "source": "ABC7"
-        },
-        {
-          "headline": "'Betrayal: Dirty Secrets': How a police officer's double life would 'destroy his family'",
+          "headline": "Trump speaks on economy, crime at Rancho Palos Verdes event as supporters and protesters gather",
           "source": "ABC7"
         },
         {
@@ -441,31 +453,15 @@
           "source": "ABC7"
         },
         {
-          "headline": "'The Girls: A Khlo\u00e9 Kardashian Project:' Get to know the ladies who know all the Kardashian secrets",
+          "headline": "LA Metro reports 57% reduction in homelessness on public transit since 2024",
           "source": "ABC7"
         },
         {
-          "headline": "LA Councilwoman Jurado unveils legislative package to assist Boyle Heights after Lineage warehouse fire",
+          "headline": "New home rises from Eaton Fire devastation, but 84-year-old owner has different plans",
           "source": "ABC7"
         },
         {
-          "headline": "A piece of a SpaceX rocket is about to hit the moon",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Ex-Army private Andrew Arrabaca, suspect in attack on New York City federal building, indicted on arson charge",
-          "source": "ABC7"
-        },
-        {
-          "headline": "SpaceX posts loss in first report as a public company but less than expected",
-          "source": "ABC7"
-        },
-        {
-          "headline": "House Ethics Committee opens investigation into domestic abuse allegations against Rep. Max Miller",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Lindsay Clancy's diary chronicled desperation and 'brain fog' before she killed her 3 kids",
+          "headline": "Santa Monica approves locally controlled homeless response plan, ending reliance on LA County services",
           "source": "ABC7"
         }
       ],
@@ -486,37 +482,49 @@
         "13": true,
         "14": true,
         "15": true,
-        "16": true,
-        "17": true,
+        "16": false,
+        "17": false,
         "18": false,
         "19": false,
         "20": false,
         "21": false,
         "22": false,
-        "23": true,
-        "24": true,
-        "25": true,
-        "26": true,
-        "27": true,
-        "28": true,
-        "29": true,
-        "30": false,
-        "31": true,
-        "32": true,
+        "23": false,
+        "24": false,
+        "25": false,
+        "26": false,
+        "27": false,
+        "28": false,
+        "29": false,
+        "30": true,
+        "31": false,
+        "32": false,
         "33": false,
         "34": false,
-        "35": false,
+        "35": true,
         "36": false,
-        "37": false,
-        "38": true,
-        "39": true
+        "37": true,
+        "38": false,
+        "39": false
       }
     },
     "county": {
-      "summary": "- Edison equipment caused deadly Eaton Fire, LA County investigators conclude\n- LA County businesses near Lineage warehouse fire to receive assistance checks\n- LA Olympics expected to displace unhoused people around venues, plan unclear\n- Newly-released letters show LAUSD moved to fire Carvalho before resignation",
+      "summary": "- Edison equipment caused deadly Eaton Fire, LA County Fire investigators conclude\n- LA County to provide assistance checks to businesses near Lineage warehouse fire\n- LA Olympics tickets back on sale next week for 2028 Games\n- Olympics expected to displace unhoused people living around venues, plan needed",
       "headlines": [
         {
-          "headline": "Edison equipment caused deadly Eaton Fire, LA County Fire investigators conclude",
+          "headline": "LA Olympics tickets are back on sale next week. Here's what you need to know",
+          "source": "LAist"
+        },
+        {
+          "headline": "Here are answers to your burning questions on getting tickets to the 2028 Olympic Games",
+          "source": "LAist"
+        },
+        {
+          "headline": "The LA Olympics is expected to displace unhoused people living around venues. So what's the plan?",
+          "source": "LAist"
+        },
+        {
+          "headline": "Here's the list of venues for the 2028 Olympics in Los Angeles",
           "source": "LAist"
         },
         {
@@ -528,15 +536,7 @@
           "source": "LAist"
         },
         {
-          "headline": "The LA Olympics is expected to displace unhoused people living around venues. So what's the plan?",
-          "source": "LAist"
-        },
-        {
-          "headline": "Newly-released letters show LAUSD moved to fire Carvalho before he resigned",
-          "source": "LAist"
-        },
-        {
-          "headline": "LA voters will decide if Palisades homeowners get a break from city\u2019s \u2018mansion tax\u2019",
+          "headline": "Immigrants detained at Adelanto say inhumane conditions continue, despite government claims",
           "source": "LAist"
         },
         {
@@ -544,7 +544,27 @@
           "source": "LAist"
         },
         {
+          "headline": "This new Ice Age toad lived only in LA. Why the discovery matters",
+          "source": "LAist"
+        },
+        {
+          "headline": "Newly-released letters show LAUSD moved to fire Carvalho before he resigned",
+          "source": "LAist"
+        },
+        {
+          "headline": "Edison equipment caused deadly Eaton Fire, LA County Fire investigators conclude",
+          "source": "LAist"
+        },
+        {
+          "headline": "LA voters will decide if Palisades homeowners get a break from city\u2019s \u2018mansion tax\u2019",
+          "source": "LAist"
+        },
+        {
           "headline": "Community college students need housing, Cal State LA will house some for the first time",
+          "source": "LAist"
+        },
+        {
+          "headline": "Keep an eye on these 5 deals as California lawmakers close out the legislative session",
           "source": "LAist"
         },
         {
@@ -552,15 +572,11 @@
           "source": "LAist"
         },
         {
-          "headline": "Long Beach plans to cut hundreds of jobs to cover multimillion-dollar shortfall. How to weigh in",
+          "headline": "Mayor Bass issues executive order to pause the Lineage warehouse rebuild. What\u2019s next?",
           "source": "LAist"
         },
         {
-          "headline": "East LA residents overwhelmingly support a community council",
-          "source": "LAist"
-        },
-        {
-          "headline": "California pension ruling limits how many vacation hours workers can count for retirement",
+          "headline": "A man carrying ammo was monitoring security at Trump golf course near Los Angeles, authorities say",
           "source": "LAist"
         },
         {
@@ -572,59 +588,39 @@
           "source": "LAist"
         },
         {
-          "headline": "The Trump administration has undercut the US asylum program. These 3 charts show how",
-          "source": "LAist"
-        },
-        {
           "headline": "Iran resumes missile attacks as US and Saudis strike Tehran-backed militias in Iraq",
           "source": "LAist"
         },
         {
-          "headline": "Trump threatens a major escalation in Iran after 13 straight nights of strikes",
-          "source": "LAist"
-        },
-        {
-          "headline": "For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump",
-          "source": "LAist"
-        },
-        {
-          "headline": "A slate of LA City Council plans could bring more environmental justice power to Boyle Heights",
-          "source": "LAist"
-        },
-        {
-          "headline": "LA County to provide assistance checks to businesses near Lineage warehouse fire. What we know",
-          "source": "LAist"
-        },
-        {
-          "headline": "Armed man arrested at Trump's Rancho Palos Verdes golf club ahead of visit",
+          "headline": "Victorville father speaks out after driver runs red light, killing wife and 2 children in Apple Valley",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Tow truck crashes into apartment in Panorama City",
+          "headline": "Alleged kidnapping suspect arrested after police chase in LA County",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Man dies after rescue at Orange County beach",
+          "headline": "Man with loaded gun who allegedly monitored security at Trump golf club faces federal charges",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "California man found dead after vanishing on camping trip with fianc\u00e9e",
+          "headline": "Trump supporters, protesters clash during RNC fundraiser in Rancho Palos Verdes",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Long Beach set to roll out 18 automated speed cameras starting fall 2026",
+          "headline": "Perez Hilton hospitalized following concerning TikTok livestream, wellness check",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Big Bear bald eagle Jackie's road to recovery: A step-by-step timeline from rescue to ICU setback",
+          "headline": "Suspect leads police chase across Los Angeles' westside neighborhoods",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Cause of deadly Eaton Fire revealed in official LA County Fire report",
+          "headline": "LA Councilwoman introduces motions to help Boyle Heights residents impacted by Lineage fire",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Southwest launches 2 new non-stop Pacific Northwest routes from Long Beach",
+          "headline": "Trump in LA: Downey man arrested at Rancho Palos Verdes golf course ahead of visit",
           "source": "Fox 11 LA"
         },
         {
@@ -660,6 +656,10 @@
           "source": "Fox 11 LA"
         },
         {
+          "headline": "Salad and Go files for bankruptcy and will close all locations on Aug. 5",
+          "source": "Fox 11 LA"
+        },
+        {
           "headline": "Over 20 states sue Trump administration over sharing social services info",
           "source": "Fox 11 LA"
         },
@@ -672,75 +672,55 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Social Security faces benefit cut in 2032 if Congress doesn\u2019t fix funding shortfall - States impacted the most",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Man Charged with Vandalizing Christ Cathedral",
+          "headline": "Average LA County Gas Price Drops Seven-Tenths of a Cent",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Cathedral City Awards $90K to Local Organizations in Community, Arts Grants",
+          "headline": "Armed Man Arrested at Trump Golf Course Now Faces Federal Criminal Complaint",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Indio Police: Search for Motorist Involved in Restaurant Hit-and-Run Underway",
+          "headline": "Suspect Arrested After Fatal Shooting at Hart Park in Orange",
           "source": "MyNewsLA"
         },
         {
-          "headline": "San Fernando Begins Search for Permanent Police Chief; Names Interim Chief",
+          "headline": "Judge Strikes Previous Order Granting Service by Publication on Nicolas Cage",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Ahead of Presidential Visit, Armed Man Arrested at Trump Golf Course",
+          "headline": "Average Riverside County Gas Price Records Largest Drop Since July 1",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LA Voters to Decide Measure Exempting Pacific Palisades from Measure ULA",
+          "headline": "Cleanup and Mitigation Hearing on Lineage Warehouse Fire Set For Wednesday",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Trump Visits Rancho Palos Verdes for RNC Event",
+          "headline": "Man Arrested at Trump Golf Course Faces Federal Criminal Complaint",
           "source": "MyNewsLA"
         },
         {
-          "headline": "2 People Hospitalized After Car-Hauling Truck Crashes Into Apartment Building",
+          "headline": "Judges Denies SpaceX Access to Plaintiff\u2019s Medical Records",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Man Accused in Machete Attack to Stand Trial for Attempted Murder",
+          "headline": "CHP Activates Silver Alert for Missing Palmdale Woman",
           "source": "MyNewsLA"
         },
         {
-          "headline": "2 People Hospitalized After Car-Hauling Truck Crashes Into Apartment Building",
+          "headline": "Nov. LA Auto Show Tickets on Sale",
           "source": "MyNewsLA"
         },
         {
-          "headline": "PAIGE Fashion Brand to Reopen as Palisades Village Welcomes Back Stores",
+          "headline": "Paramedics Rush Two to Hospital After Compton Crash",
           "source": "MyNewsLA"
-        },
-        {
-          "headline": "County of Los Angeles Fire Department Releases the Investigative Reports on the Cause of the Eaton Fire - COUNTY OF LOS ANGELES (.gov)",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "LA County says a program meant to help people with serious mental illness is gaining traction - CalMatters",
-          "source": "Google News LA"
         },
         {
           "headline": "Governor Newsom invites President Trump to deliver overdue wildfire recovery funding during Los Angeles visit - California State Portal | CA.gov",
           "source": "Google News LA"
         },
         {
-          "headline": "Utility's idle transmission tower caused 2025 Eaton fire that killed 19, Los Angeles officials say - capradio.org",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Authorities arrested a man with ammo and apparently monitoring security at Trump golf course near LA - NPR",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Health Officials Warn Swimmers Away from Five Beaches in LA County - MyNewsLA.com",
+          "headline": "Los Angeles County Sheriff\u2019s Department Missing Persons Unit investigators are asking for the public\u2019s help locating At-Risk Missing Person Sharon Dhee Woodford. She is a 85-year-old female White adult who was last seen on August 4, 2026, at 8:00 p.m. w - facebook.com",
           "source": "Google News LA"
         },
         {
@@ -748,55 +728,71 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Southern California Edison tower sparked devastating LA County\u2019s Eaton fire, report finds - WKZO",
+          "headline": "L.A. County Tests a New Approach To Counting Homeless Youth: Relying on Youth Themselves - Next City",
           "source": "Google News LA"
         },
         {
-          "headline": "SoCal Edison equipment blamed for 2025 Eaton Fire after investigation, LA County Fire Department says - ABC7 Los Angeles",
+          "headline": "LA County says a program meant to help people with serious mental illness is gaining traction - CalMatters",
           "source": "Google News LA"
         },
         {
-          "headline": "Waste Connections sues LA County for $825M over Chiquita Canyon closure - Waste Dive",
+          "headline": "Trump speaks on economy, crime at Rancho Palos Verdes event as supporters and protesters gather - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "SoCal Edison Tower Sparked 2025 Eaton Fire, Los Angeles County Fire Officials Say: 12 outlets compared - NewsCord",
+          "headline": "Ex-LAPD officer gets life sentence for home invasion robbery of teen\u2019s crypto fortune - Los Angeles Times",
           "source": "Google News LA"
         },
         {
-          "headline": "Man arrested at Trump golf course with loaded gun just days ahead of president\u2019s visit - weau.com",
+          "headline": "Armed man arrested at Trump National Golf Club in Los Angeles County: Authorities - KSRO",
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County will require rentals stay at 82 degrees or cooler by 2027 - The Cool Down",
+          "headline": "Fault Stress Findings Prompt LA County Earthquake Preparedness Review - westsidecurrent.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Eaton Fire caused by Southern California Edison equipment, probe says - The Desert Sun",
+          "headline": "Armed man arrested at Trump National Golf Club in Los Angeles County: Authorities - Good Morning America",
           "source": "Google News LA"
         },
         {
-          "headline": "Armed man arrested at Trump\u2019s California golf course - The Guardian",
+          "headline": "Los Angeles Homeless Services Authority (LAHSA) Releases Data from 2026 Greater Los Angeles Homeless Count - City of West Hollywood",
           "source": "Google News LA"
         },
         {
-          "headline": "Jeanine John Taele: Downey man arrested at Trump Rancho Palos Verdes golf course days before president's planned visit - ABC7 New York",
+          "headline": "The Typhus Rats of Los Angeles - Christopher F. Rufo | Substack",
           "source": "Google News LA"
         },
         {
-          "headline": "$340 Million Hospital Funding Formula Comes Under Review - westsidecurrent.com",
+          "headline": "Brainfuse Selected by Los Angeles County Office of Education to Provide Virtual Tutoring Services - EIN Presswire",
           "source": "Google News LA"
         },
         {
-          "headline": "\u201cSuspicious Individual\u201d With Gun In Car Arrested At Trump\u2019s L.A. Golf Club Ahead Of Presidential Visit - Deadline",
+          "headline": "Authorities arrested a man with ammo and apparently monitoring security at Trump golf course near LA - npr.org",
           "source": "Google News LA"
         },
         {
-          "headline": "Motion for more funding for L.A. County hospitals passes amid federal budget constraints - KTLA",
+          "headline": "County of Los Angeles Fire Department Releases the Investigative Reports on the Cause of the Eaton Fire - COUNTY OF LOS ANGELES (.gov)",
           "source": "Google News LA"
         },
         {
-          "headline": "Southern California Edison equipment blamed for 2025 Eaton fire in LA, local media says - 104.1 WIKY",
+          "headline": "Santa Monica approves locally controlled homeless response plan - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "The deadly blaze that devastated the Altadena neighborhood in Los Angeles County early last year was ignited by a transmission tower belonging to the utility company Southern California Edison, fire officials said in a report released on Tuesday. - facebook.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Jeanine John Taele: Downey man arrested at Trump Rancho Palos Verdes golf course set to appear in court - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Edison Equipment Blamed for Deadly Eaton Fire in Los Angeles - Claims Journal",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "SoCal Edison electric tower sparked California's Eaton Fire, Los Angeles County report says - Seeking Alpha",
           "source": "Google News LA"
         }
       ],
