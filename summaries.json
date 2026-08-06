@@ -1,10 +1,14 @@
 {
-  "generated": "2026-08-05T16:44:29.685246+00:00",
-  "briefing": "8 AM",
+  "generated": "2026-08-06T02:16:00.054976+00:00",
+  "briefing": "5 PM",
   "columns": {
     "monrovia": {
-      "summary": "- West Nile virus detected in Monrovia area; residents urged to take precautions\n- Monrovia Police hosting National Night Out event August 4\n- Library renovation bids now available; cooling centers open during heat\n- Jazz and R&B Festival coming to Station Square Park August 15",
+      "summary": "- Four catalytic converters stolen from Monrovia vehicles in recent crime spree\n- West Nile virus detected in local area; cooling centers now open\n- Police hosting National Night Out Aug. 4; Jazz festival Aug. 15\n- Library renovation bids now available; sensory-friendly programs scheduled for August",
       "headlines": [
+        {
+          "headline": "Monrovia Police: Four cars lose catalytic converters; Man fresh out of jail beats same woman again; Shoplifters hop to next store, get caught; Animal cruelty investigated; Etc.",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Video introduces new teachers at Monrovia High",
           "source": "Monrovia Now"
@@ -82,8 +86,8 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Dinner at Ike\u2019s Love & Sandwiches",
-          "source": "Monrovia Now"
+          "headline": "Charges filed in Costco 'tap-to-pay fraud scheme' - KSL.com",
+          "source": "Google News"
         },
         {
           "headline": "Why Trader Joe\u2019s picked Polaris (and not your neighborhood) - The Business Journals",
@@ -94,15 +98,15 @@
           "source": "Google News"
         },
         {
-          "headline": "Chili\u2019s plans 1990s remodel of restaurants nationwide - al.com",
+          "headline": "Park highlights California town founded by African Americans - escalontimes.com",
           "source": "Google News"
         },
         {
-          "headline": "Park highlights California town founded by African Americans - Escalon Times",
+          "headline": "Andrew Garcia - Sports Illustrated",
           "source": "Google News"
         },
         {
-          "headline": "Andrew Garcia - si.com",
+          "headline": "Popular restaurant chain leans into nostalgia, plans \u201990s remodel of 1,200 locations - MLive.com",
           "source": "Google News"
         },
         {
@@ -110,15 +114,27 @@
           "source": "Google News"
         },
         {
+          "headline": "Measles Hits Theme Park | Toddler Kidnapped In Home Invasion | Detective Shot | Plane Crash Lands: Patch PM",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "Measles Patient May Have Exposed People To Virus At SoCal Theme Park",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "'Insurmountable Obstacles' Force Last-Minute Cancelation Of Iconic Band's Hollywood Bowl Concert",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "Metro Wants To Pay You $600 To Drive Less This Summer",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "Boy, 3, Kidnapped During LA County Home Invasion",
+          "source": "Patch Monrovia"
+        },
+        {
           "headline": "Linda Blair Cited After 251 Dogs Found At LA County Property: Officials",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "USC Maps Lead Contamination Across County After Palisades, Eaton Fires",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Armed Man Arrested At Trump National Before President's Visit",
           "source": "Patch Monrovia"
         },
         {
@@ -177,8 +193,8 @@
         "3": true,
         "4": true,
         "5": true,
-        "6": false,
-        "7": true,
+        "6": true,
+        "7": false,
         "8": true,
         "9": true,
         "10": true,
@@ -202,10 +218,10 @@
         "28": false,
         "29": false,
         "30": false,
-        "31": true,
-        "32": true,
-        "33": true,
-        "34": true,
+        "31": false,
+        "32": false,
+        "33": false,
+        "34": false,
         "35": true,
         "36": true,
         "37": true,
@@ -214,14 +230,18 @@
       }
     },
     "sgv": {
-      "summary": "- Parole sweep results in 7 arrests across San Gabriel Valley\n- San Gabriel opens cooling centers as extreme heat warning takes effect\n- Ozone pollution alert active for Los Angeles County Sunday\n- Applications now open for 2027 Rose Court princess positions",
+      "summary": "- Parole sweep nets 7 arrests across San Gabriel Valley region\n- San Gabriel Valley cooling centers open as extreme heat warning activates\n- Ozone pollution alert issued for Los Angeles County Sunday\n- Overnight 210 Freeway lane closures planned in Azusa area",
       "headlines": [
+        {
+          "headline": "San Gabriel Valley parole sweep results in 7 arrests - California Department of Corrections and Rehabilitation (.gov)",
+          "source": "Google News SGV"
+        },
         {
           "headline": "LA Varsity: High School Sports in the San Gabriel Valley - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel Valley parole sweep results in 7 arrests - California Department of Corrections and Rehabilitation (.gov)",
+          "headline": "The 14 Dumplings You Have To Try In L.A.\u2019s San Gabriel Valley - lataco.com",
           "source": "Google News SGV"
         },
         {
@@ -233,15 +253,11 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Assessments of home energy use available for San Gabriel Valley residents - heysocal.com",
-          "source": "Google News SGV"
-        },
-        {
           "headline": "This Southern California Region Has One Of America's Best Asian Food Scenes - Tasting Table",
           "source": "Google News SGV"
         },
         {
-          "headline": "LA County Fire Department releases report on cause of deadly Eaton Fire - NBC Los Angeles",
+          "headline": "LA County Fire Department releases report on cause of deadly Eaton Fire - nbclosangeles.com",
           "source": "Google News SGV"
         },
         {
@@ -262,10 +278,6 @@
         },
         {
           "headline": "City of San Gabriel Opens Cooling Centers as Extreme Heat Warning Takes Effect - ColoradoBoulevard.net",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "Meet Osito, Mason and Poopsy-Doo, this week\u2019s Pets of the Week in the San Gabriel Valley - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -293,7 +305,11 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Southern California\u2019s Biggest Asian Night Market is Back for One Last Summer Stop - edhat",
+          "headline": "Overnight lane closures coming to 210 Freeway in Azusa - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Don\u2019t let lawyers ruin homeownership in California - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -337,6 +353,30 @@
           "source": "Pasadena Now"
         },
         {
+          "headline": "Judge Blocks Pasadena Enforcement Actions Against PUSD Campus Cleanup Work",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "South Pasadena Police to Host \u2018Coffee with a Cop\u2019 at Twohey\u2019s Restaurant",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Pasadena Lawmaker Launches First Assembly Committee Focused on California-Armenia Partnerships",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Huntington Health Named One of California\u2019s Top 10 Hospitals",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "New Partnership Helps Physicians in LA County Access Local Public Health Guidance Through AI Platform",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Pasadena Unified Locks In $10 Million Taxpayer Savings Through Refinancing",
+          "source": "Colorado Blvd"
+        },
+        {
           "headline": "Ron Sahu Withdraws From Alhambra City Council District 1 Race",
           "source": "Colorado Blvd"
         },
@@ -361,91 +401,43 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "L.A. County Approves Financial Relief for Small Businesses Impacted by Lineage Fire",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Monterey Park Confirms First West Nile Virus-Positive Mosquito Sample of the Year",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Officials Say Eaton Fire Was Caused by Southern California Edison Equipment",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Pasadena Pilgrimage Confronts America\u2019s Civil Rights Legacy",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Mt. Wilson Hosts Free Star Party This Friday Night",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Patagonia Pasadena to Host Free Kids\u2019 Clothing Exchange Before School Starts",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "US-Iran update: Trump says deal to reopen Strait of Hormuz could come as early as Wednesday",
+          "headline": "San Bernardino County sheriff's detective wounded, suspect killed in shooting near Palmdale",
           "source": "ABC7"
         },
         {
-          "headline": "Abdul El-Sayed wins Michigan Senate primary in major victory for Democrats' progressive wing",
+          "headline": "Ontario business owners allege city forced their closure",
           "source": "ABC7"
         },
         {
-          "headline": "NJ water utilities hit by cyberattacks with suspected link to Iran",
+          "headline": "Lineage expects to spend up to $100 million on Boyle Heights warehouse fire cleanup",
           "source": "ABC7"
         },
         {
-          "headline": "Lindsay Clancy murder trial continues as mental state examined",
+          "headline": "SoCal teen speaks out about e-bike dangers after recovering from life-threatening crash",
           "source": "ABC7"
         },
         {
-          "headline": "'Just kept getting pulled': 10-year-old boy details harrowing Santa Cruz surf rescue",
+          "headline": "LAUSD tackling chronic absenteeism with face-to-face outreach",
           "source": "ABC7"
         },
         {
-          "headline": "Former Olympian David Hearn's attorneys want Reflecting Pool vandalism case permanently dismissed",
+          "headline": "How Dwayne Johnson pitched 'Moana' live-action companion album",
           "source": "ABC7"
         },
         {
-          "headline": "Trump administration to award $150M contract to Houston firm to represent unaccompanied migrant children",
+          "headline": "Toddler found safe, suspect arrested after reported abduction during Van Nuys home invasion",
           "source": "ABC7"
         },
         {
-          "headline": "Very slight extreme heat relief moves into parts of Southern California",
+          "headline": "Truck driver says he felt nauseous before crashing into Panorama City apartment complex",
           "source": "ABC7"
         },
         {
-          "headline": "Best Nordstrom Anniversary 2026 last-chance deals",
+          "headline": "Man arrested near Trump LA golf course identified as Marine veteran",
           "source": "ABC7"
         },
         {
-          "headline": "Doorbell camera captures clown-costumed 15-year-old accused in Illinois murder",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Man arrested at Trump LA golf course set to appear in court on state, federal charges",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Marijuana use surpasses cigarette smoking in US, study finds",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Out-of-control Tesla crashes into homes, leaving behind trail of destruction in Orange",
-          "source": "ABC7"
-        },
-        {
-          "headline": "At least 3 hurt after semi-truck carrying vehicles crashes into apartment building in Panorama City",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Man arrested at Trump LA golf course days before president's planned visit",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Trump speaks on economy, crime at Rancho Palos Verdes event as supporters and protesters gather",
+          "headline": "CA gubernatorial candidate Steve Hilton accuses Xavier Becerra of putting migrant children at risk",
           "source": "ABC7"
         },
         {
@@ -453,15 +445,39 @@
           "source": "ABC7"
         },
         {
-          "headline": "LA Metro reports 57% reduction in homelessness on public transit since 2024",
+          "headline": "'Just kept getting pulled': 10-year-old boy details harrowing Santa Cruz surf rescue",
           "source": "ABC7"
         },
         {
-          "headline": "New home rises from Eaton Fire devastation, but 84-year-old owner has different plans",
+          "headline": "Big Bear eagle Jackie recovering well after CT scan, biopsy and successful anesthesia",
           "source": "ABC7"
         },
         {
-          "headline": "Santa Monica approves locally controlled homeless response plan, ending reliance on LA County services",
+          "headline": "Best back-to-school deals on laptops, dorm decor and more",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Scientists are certain a wayward SpaceX rocket slammed into the moon as predicted",
+          "source": "ABC7"
+        },
+        {
+          "headline": "NJ water utilities hit by cyberattacks with suspected link to Iran",
+          "source": "ABC7"
+        },
+        {
+          "headline": "New Mexico attorney general sues DOJ over Epstein files he says are needed for state probe",
+          "source": "ABC7"
+        },
+        {
+          "headline": "ABC7 has your chance to win tickets to see Dane Cook at Yaamava' Resort & Casino!",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Video game giant Electronic Arts closes $55 billion go-private sale of its business",
+          "source": "ABC7"
+        },
+        {
+          "headline": "SoCal parents and students: Where to find back-to-school resources",
           "source": "ABC7"
         }
       ],
@@ -481,58 +497,46 @@
         "12": true,
         "13": true,
         "14": true,
-        "15": true,
+        "15": false,
         "16": false,
         "17": false,
-        "18": false,
+        "18": true,
         "19": false,
-        "20": false,
-        "21": false,
+        "20": true,
+        "21": true,
         "22": false,
         "23": false,
-        "24": false,
-        "25": false,
-        "26": false,
+        "24": true,
+        "25": true,
+        "26": true,
         "27": false,
         "28": false,
-        "29": false,
+        "29": true,
         "30": true,
-        "31": false,
-        "32": false,
-        "33": false,
+        "31": true,
+        "32": true,
+        "33": true,
         "34": false,
         "35": true,
-        "36": false,
+        "36": true,
         "37": true,
         "38": false,
-        "39": false
+        "39": true
       }
     },
     "county": {
-      "summary": "- Edison equipment caused deadly Eaton Fire, LA County Fire investigators conclude\n- LA County to provide assistance checks to businesses near Lineage warehouse fire\n- LA Olympics tickets back on sale next week for 2028 Games\n- Olympics expected to displace unhoused people living around venues, plan needed",
+      "summary": "- Mayor Bass pauses Lineage warehouse rebuild after fire; AQMD hears health concerns from residents\n- First West Nile virus case confirmed in Orange County; health officials monitoring spread\n- LA Olympics tickets return on sale next week for upcoming games\n- Trump administration threatens to cut Head Start funding affecting 70,000 California children",
       "headlines": [
         {
-          "headline": "LA Olympics tickets are back on sale next week. Here's what you need to know",
+          "headline": "Airbnb, the LAPD union, a landlord giant: Where the money's coming from in LA's race for mayor",
           "source": "LAist"
         },
         {
-          "headline": "Here are answers to your burning questions on getting tickets to the 2028 Olympic Games",
+          "headline": "Why rent control won't be on Anaheim ballots this November",
           "source": "LAist"
         },
         {
-          "headline": "The LA Olympics is expected to displace unhoused people living around venues. So what's the plan?",
-          "source": "LAist"
-        },
-        {
-          "headline": "Here's the list of venues for the 2028 Olympics in Los Angeles",
-          "source": "LAist"
-        },
-        {
-          "headline": "A slate of LA City Council plans could bring more environmental justice power to Boyle Heights",
-          "source": "LAist"
-        },
-        {
-          "headline": "LA County to provide assistance checks to businesses near Lineage warehouse fire. What we know",
+          "headline": "First human case of West Nile virus in Orange County confirmed, health officials say",
           "source": "LAist"
         },
         {
@@ -540,27 +544,27 @@
           "source": "LAist"
         },
         {
-          "headline": "The number of people living outdoors in LA is growing. What does that mean for the mayor's race?",
+          "headline": "Edison CEO says we may never know exactly how Eaton Fire sparked",
           "source": "LAist"
         },
         {
-          "headline": "This new Ice Age toad lived only in LA. Why the discovery matters",
+          "headline": "Five takeaways from LA residents on Day 1 of the  Lineage fire hearing",
           "source": "LAist"
         },
         {
-          "headline": "Newly-released letters show LAUSD moved to fire Carvalho before he resigned",
+          "headline": "LA Olympics tickets are back on sale next week. Here's what you need to know",
           "source": "LAist"
         },
         {
-          "headline": "Edison equipment caused deadly Eaton Fire, LA County Fire investigators conclude",
+          "headline": "Santa Ana moves closer to testing speed cameras in racing hotspots",
           "source": "LAist"
         },
         {
-          "headline": "LA voters will decide if Palisades homeowners get a break from city\u2019s \u2018mansion tax\u2019",
+          "headline": "A new Ice Age toad has been found in LA. Why the discovery matters",
           "source": "LAist"
         },
         {
-          "headline": "Community college students need housing, Cal State LA will house some for the first time",
+          "headline": "Best things to do in LA and SoCal: Aug. 5-11",
           "source": "LAist"
         },
         {
@@ -576,6 +580,10 @@
           "source": "LAist"
         },
         {
+          "headline": "Trump administration threatens to gut Head Start rules, affecting 70,000 kids in California",
+          "source": "LAist"
+        },
+        {
           "headline": "A man carrying ammo was monitoring security at Trump golf course near Los Angeles, authorities say",
           "source": "LAist"
         },
@@ -584,43 +592,51 @@
           "source": "LAist"
         },
         {
-          "headline": "Trump's claims of 250,000 non-US citizens on voter rolls leave some states baffled",
-          "source": "LAist"
-        },
-        {
           "headline": "Iran resumes missile attacks as US and Saudis strike Tehran-backed militias in Iraq",
           "source": "LAist"
         },
         {
+          "headline": "Trump threatens a major escalation in Iran after 13 straight nights of strikes",
+          "source": "LAist"
+        },
+        {
+          "headline": "For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump",
+          "source": "LAist"
+        },
+        {
+          "headline": "Why rent control won't be on Anaheim ballots this November",
+          "source": "LAist"
+        },
+        {
+          "headline": "Waymo robotaxis frustrate Los Angeles residents by taking parking spaces, blocking traffic",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "AQMD hears public testimony on Lineage Storage odors as residents raise ongoing health concerns",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Southern California man arrested on suspicion of wife\u2019s murder",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Big Bear bald eagle fledglings Sandy and Luna depart valley as Shadow begins summer vacation",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Actress Linda Blair cited after 251 dogs found at unlicensed Acton rescue facility",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Tesla crashes into Orange home following high-speed police chase",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Kidnapped 3-year-old found safe after Van Nuys home break-in",
+          "source": "Fox 11 LA"
+        },
+        {
           "headline": "Victorville father speaks out after driver runs red light, killing wife and 2 children in Apple Valley",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Alleged kidnapping suspect arrested after police chase in LA County",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Man with loaded gun who allegedly monitored security at Trump golf club faces federal charges",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Trump supporters, protesters clash during RNC fundraiser in Rancho Palos Verdes",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Perez Hilton hospitalized following concerning TikTok livestream, wellness check",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Suspect leads police chase across Los Angeles' westside neighborhoods",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "LA Councilwoman introduces motions to help Boyle Heights residents impacted by Lineage fire",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Trump in LA: Downey man arrested at Rancho Palos Verdes golf course ahead of visit",
           "source": "Fox 11 LA"
         },
         {
@@ -656,75 +672,91 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Salad and Go files for bankruptcy and will close all locations on Aug. 5",
+          "headline": "Perez Hilton's family issues statement confirming medical care after TikTok livestream",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Over 20 states sue Trump administration over sharing social services info",
+          "headline": "Multiple people killed in North Carolina mass shooting",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Chipotle pulls jalape\u00f1os from stores after salmonella outbreak in Minnesota",
+          "headline": "Commanders signing All-Pro WR Stefon Diggs: report",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Massive great hammerhead shark found dead on North Carolina beach",
+          "headline": "Tupac Shakur murder: Trial for suspect Duane 'Keffe D' Davis set to begin Monday",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Average LA County Gas Price Drops Seven-Tenths of a Cent",
+          "headline": "LA Gang Member Found Guilty of Brutal Killing in Angeles National Forest",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Armed Man Arrested at Trump Golf Course Now Faces Federal Criminal Complaint",
+          "headline": "Man Gets Life in Prison for Off-Duty Police Officer\u2019s Murder",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Suspect Arrested After Fatal Shooting at Hart Park in Orange",
+          "headline": "Registered Sex Offender Arrested in Connection with Burbank Indecent Exposure",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Judge Strikes Previous Order Granting Service by Publication on Nicolas Cage",
+          "headline": "Man Charged with Sexual Assault Pleads Not Guilty",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Average Riverside County Gas Price Records Largest Drop Since July 1",
+          "headline": "Suspect in Fatal Long Beach Shooting Arrested",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Cleanup and Mitigation Hearing on Lineage Warehouse Fire Set For Wednesday",
+          "headline": "Palm Springs Police Urge Residents of Recent Phone Scam",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Man Arrested at Trump Golf Course Faces Federal Criminal Complaint",
+          "headline": "Deliberations Begin in Trial of Man Accused of Stabbing Woman Under Bridge",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Judges Denies SpaceX Access to Plaintiff\u2019s Medical Records",
+          "headline": "San Bernardino Sheriff\u2019s Detective Shot in Littlerock; Condition Unknown",
           "source": "MyNewsLA"
         },
         {
-          "headline": "CHP Activates Silver Alert for Missing Palmdale Woman",
+          "headline": "Airplane Makes Forced Landing South of Lake Mathews, Occupants Uninjured",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Nov. LA Auto Show Tickets on Sale",
+          "headline": "AQMD Hearing to Continue Thursday After Hours of Testimony",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Paramedics Rush Two to Hospital After Compton Crash",
+          "headline": "Health Officials Warn Swimmers Away from Seven Beaches in LA County",
           "source": "MyNewsLA"
+        },
+        {
+          "headline": "LA County Coordinated Joint Information Center Update \u2013 8/5/2026 - LA County Recovers (.gov)",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Los Angeles County Sheriff's Department Missing Person's Unit is advising Sharon Dhee Woodford has been located. Thank you to the public, the media, and deputy personnel for their tireless efforts in the search for Ms. Woodford. - facebook.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Firefighters stop progress of Haskett Fire in northern Los Angeles County - dailydispatch.com",
+          "source": "Google News LA"
         },
         {
           "headline": "Governor Newsom invites President Trump to deliver overdue wildfire recovery funding during Los Angeles visit - California State Portal | CA.gov",
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County Sheriff\u2019s Department Missing Persons Unit investigators are asking for the public\u2019s help locating At-Risk Missing Person Sharon Dhee Woodford. She is a 85-year-old female White adult who was last seen on August 4, 2026, at 8:00 p.m. w - facebook.com",
+          "headline": "Health Officials Warn Swimmers Away from Seven Beaches in LA County - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Supervisor Barger Motion Positions LA County Foster Youth to Benefit from New Federal Investment Accounts - COUNTY OF LOS ANGELES (.gov)",
+          "headline": "LA County says a program meant to help people with serious mental illness is gaining traction - calmatters.org",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Public Health Confirms Measles Case in a Person Who was Infectious While Visiting L.A. County - SCVNews.com",
           "source": "Google News LA"
         },
         {
@@ -732,43 +764,27 @@
           "source": "Google News LA"
         },
         {
-          "headline": "LA County says a program meant to help people with serious mental illness is gaining traction - CalMatters",
+          "headline": "Arrest in Fresno County linked to Los Angeles home invasion and kidnapping, authorities say - abc30.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Trump speaks on economy, crime at Rancho Palos Verdes event as supporters and protesters gather - ABC7 Los Angeles",
+          "headline": "The Typhus Rats of Los Angeles - City Journal",
           "source": "Google News LA"
         },
         {
-          "headline": "Ex-LAPD officer gets life sentence for home invasion robbery of teen\u2019s crypto fortune - Los Angeles Times",
+          "headline": "Metro offers up to $600 to drive less, expands driving reduction program - Spectrum News",
           "source": "Google News LA"
         },
         {
-          "headline": "Armed man arrested at Trump National Golf Club in Los Angeles County: Authorities - KSRO",
+          "headline": "Navigating Reunification: Free Online Workshop Series - COUNTY OF LOS ANGELES (.gov)",
           "source": "Google News LA"
         },
         {
-          "headline": "Fault Stress Findings Prompt LA County Earthquake Preparedness Review - westsidecurrent.com",
+          "headline": "The Los Angeles County Sheriff's Department extends its heartfelt condolences to the Las Vegas Metropolitan Police Department following the tragic loss of one of its officers. We stand with our brothers and sisters @LVMPD during this difficult time. His service - facebook.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Armed man arrested at Trump National Golf Club in Los Angeles County: Authorities - Good Morning America",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles Homeless Services Authority (LAHSA) Releases Data from 2026 Greater Los Angeles Homeless Count - City of West Hollywood",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "The Typhus Rats of Los Angeles - Christopher F. Rufo | Substack",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Brainfuse Selected by Los Angeles County Office of Education to Provide Virtual Tutoring Services - EIN Presswire",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Authorities arrested a man with ammo and apparently monitoring security at Trump golf course near LA - npr.org",
+          "headline": "Home Affordability Slips in Los Angeles, Orange Counties - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
@@ -776,23 +792,23 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Santa Monica approves locally controlled homeless response plan - ABC7 Los Angeles",
+          "headline": "Los Angeles County Sheriff\u2019s Department Missing Persons Unit investigators are asking for the public\u2019s help locating At-Risk Missing Person Sharon Dhee Woodford. She is a 85-year-old female White adult who was last seen on August 4, 2026, at 8:00 p.m. w - facebook.com",
           "source": "Google News LA"
         },
         {
-          "headline": "The deadly blaze that devastated the Altadena neighborhood in Los Angeles County early last year was ignited by a transmission tower belonging to the utility company Southern California Edison, fire officials said in a report released on Tuesday. - facebook.com",
+          "headline": "LA County Inspects Property to Ensure Animal Welfare, Check Code Violations - COUNTY OF LOS ANGELES (.gov)",
           "source": "Google News LA"
         },
         {
-          "headline": "Jeanine John Taele: Downey man arrested at Trump Rancho Palos Verdes golf course set to appear in court - ABC7 Los Angeles",
+          "headline": "Supervisor Barger Motion Positions LA County Foster Youth to Benefit from New Federal Investment Accounts - COUNTY OF LOS ANGELES (.gov)",
           "source": "Google News LA"
         },
         {
-          "headline": "Edison Equipment Blamed for Deadly Eaton Fire in Los Angeles - Claims Journal",
+          "headline": "The Los Angeles County Sheriff's Department announced Tuesday that Jeanine John Taele, 38, was arrested on Sunday. - facebook.com",
           "source": "Google News LA"
         },
         {
-          "headline": "SoCal Edison electric tower sparked California's Eaton Fire, Los Angeles County report says - Seeking Alpha",
+          "headline": "How confident are Americans in the midterm elections\u2019 fairness and accuracy? - Pew Research Center",
           "source": "Google News LA"
         }
       ],
