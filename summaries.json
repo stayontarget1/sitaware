@@ -1,10 +1,18 @@
 {
-  "generated": "2026-08-07T02:30:31.875286+00:00",
-  "briefing": "5 PM",
+  "generated": "2026-08-07T15:59:38.981725+00:00",
+  "briefing": "8 AM",
   "columns": {
     "monrovia": {
-      "summary": "- Monrovia man charged with multiple felonies in Utah\n- Monrovia Police report catalytic converter thefts, assault, shoplifting incidents\n- Monrovia Police hosting National Night Out, August 4\n- Jazz and R&B Festival at Station Square Park, August 15",
+      "summary": "- School Board receives Measure MM facilities update, considers Rio Hondo partnership\n- Monrovia Police report catalytic converter thefts, repeat domestic violence incident\n- West Nile virus detected in Monrovia area\n- Jazz and R&B Festival at Station Square Park, August 15",
       "headlines": [
+        {
+          "headline": "Coming Up in Monrovia",
+          "source": "Monrovia Now"
+        },
+        {
+          "headline": "School Board to receive Measure MM facilities update; Approve agreement with Campus Safety Group; Consider Rio Hondo College dual enrollment partnership; Etc.",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Lunch at the new Viola\u2019s Bistro",
           "source": "Monrovia Now"
@@ -78,15 +86,11 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Historic walking tour of Old Town Monrovia, Aug. 1",
-          "source": "Monrovia Now"
+          "headline": "Lola Jeanette Rowland Obituary Aug 2, 2026 - parklawnfunerals.com",
+          "source": "Google News"
         },
         {
-          "headline": "VFW Poker Tournament Fundraiser, Aug. 1",
-          "source": "Monrovia Now"
-        },
-        {
-          "headline": "Lola Jeanette Rowland Obituary Aug 2, 2026 - Park Lawn Funeral Homes",
+          "headline": "Charming Victorian inn with cocktail parlor, organs and no screens opens just outside L.A. - Los Angeles Times",
           "source": "Google News"
         },
         {
@@ -98,16 +102,24 @@
           "source": "Google News"
         },
         {
-          "headline": "If Trader Joe\u2019s expands in Columbus again, where might it look? - The Business Journals",
+          "headline": "A Tensile Test-Based Investigation of Load Deflection Properties of Three Commercial Superelastic Nickel-Titanium Orthodontic Archwires: An In Vitro Study - Cureus",
           "source": "Google News"
         },
         {
-          "headline": "A Mountain Lion Casually Strolled Through a Backyard While the Family Was Inside - Yahoo",
+          "headline": "ALLENSWORTH STATE PARK - Manteca Bulletin",
           "source": "Google News"
         },
         {
-          "headline": "Andrew Garcia - Sports Illustrated",
+          "headline": "John Doe - Sports Illustrated",
           "source": "Google News"
+        },
+        {
+          "headline": "AeroVironment, Inc. $AVAV Holdings Raised by California State Teachers Retirement System - MarketBeat",
+          "source": "Google News"
+        },
+        {
+          "headline": "10 CA Festivals To Check Out This Weekend",
+          "source": "Patch Monrovia"
         },
         {
           "headline": "Hate-Crime Stabber Sentenced For Unprovoked Metro Bus Attack",
@@ -123,10 +135,6 @@
         },
         {
           "headline": "Deadly, Drug-Resistant Fungus Spreads In CA: What To Know",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Measles Hits Theme Park | Toddler Kidnapped In Home Invasion | Detective Shot | Plane Crash Lands: Patch PM",
           "source": "Patch Monrovia"
         },
         {
@@ -184,16 +192,16 @@
       ],
       "relevance": {
         "0": true,
-        "1": false,
+        "1": true,
         "2": true,
-        "3": true,
+        "3": false,
         "4": true,
         "5": true,
         "6": true,
         "7": true,
         "8": true,
         "9": true,
-        "10": false,
+        "10": true,
         "11": true,
         "12": true,
         "13": true,
@@ -205,8 +213,8 @@
         "19": true,
         "20": false,
         "21": false,
-        "22": true,
-        "23": false,
+        "22": false,
+        "23": true,
         "24": false,
         "25": false,
         "26": false,
@@ -217,8 +225,8 @@
         "31": false,
         "32": false,
         "33": false,
-        "34": true,
-        "35": true,
+        "34": false,
+        "35": false,
         "36": true,
         "37": true,
         "38": true,
@@ -226,7 +234,7 @@
       }
     },
     "sgv": {
-      "summary": "- Parole sweep nets 7 arrests across San Gabriel Valley region\n- National Night Out celebrations scheduled August 4 throughout San Gabriel Valley\n- Kaiser Permanente opens new emergency room in Baldwin Park\n- Overnight 210 Freeway lane closures coming to Azusa area",
+      "summary": "- Parole sweep nets 7 arrests across San Gabriel Valley region\n- Kaiser Permanente opens new emergency room in Baldwin Park\n- Overnight lane closures coming to 210 Freeway in Azusa\n- National Night Out celebrations scheduled across San Gabriel Valley August 4",
       "headlines": [
         {
           "headline": "San Gabriel Valley parole sweep results in 7 arrests - California Department of Corrections and Rehabilitation (.gov)",
@@ -241,7 +249,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Things to do in the San Gabriel Valley area, July 31-Aug. 8 - San Gabriel Valley Tribune",
+          "headline": "Things to do in the San Gabriel Valley area, Aug. 7-15 - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -250,10 +258,6 @@
         },
         {
           "headline": "LA County Fire Department releases report on cause of deadly Eaton Fire - NBC Los Angeles",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "Pasadena | California, Map, History, & Facts - Encyclopedia Britannica",
           "source": "Google News SGV"
         },
         {
@@ -269,7 +273,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "New film festival screens in Long Beach this summer - San Gabriel Valley Tribune",
+          "headline": "Lighting up freeways can save a lot of lives - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -277,11 +281,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "CSU opens redesigned student application portal early - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "Learn the ways of a thrift-store fashionista - San Gabriel Valley Tribune",
+          "headline": "New film festival screens in Long Beach this summer - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -289,19 +289,19 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Socialism in the open and on the right - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "Don\u2019t let lawyers ruin homeownership in California - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
           "headline": "Savoring a taste of the Philippines at The Huntington - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "USC football\u2019s secondary knows the countdown is on - San Gabriel Valley Tribune",
+          "headline": "Socialism in the open and on the right - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Major changes to SGV\u2019s high school football leagues in 2026 - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "IKEA in Covina to put on a \u2018Meatballbecue\u2019 - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -309,44 +309,72 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "County Health Alerts Will Reach Altadena Doctors Through an AI Search Tool",
+          "headline": "Baldwin Park Animal Care Center breaks ground on $1.7 million upgrade - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Community angels step up to help meet urgent need for school supplies in Arcadia - ABC7 Los Angeles",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Huntington Hospital Puts Security Protocols in Place After Early-Morning Bomb Threat; Law Enforcement Sweeps Underway",
           "source": "Pasadena Now"
         },
         {
-          "headline": "Pasadena\u2019s JPL Manages Rover That Captured First View of Earth Disappearing Behind Martian Moon",
+          "headline": "Rent Board Moves Toward Regulating Short-Term Repair Displacements as Landlord Group Warns of Litigation",
           "source": "Pasadena Now"
         },
         {
-          "headline": "Maxwell House Conditional Use Permit Review Continued Until September",
+          "headline": "Unopposed PUSD School Board Races Would Be Removed From November Ballot",
           "source": "Pasadena Now"
         },
         {
-          "headline": "Pasadena Unified Enrollment Decline Will Continue, Consultant Report Says",
+          "headline": "Truck Hauling Begins for Devil\u2019s Gate Reservoir Maintenance",
           "source": "Pasadena Now"
         },
         {
-          "headline": "Council is Dark on Monday; Two Public Hearings on Proposed Landmark Districts on the Horizon",
+          "headline": "Pasadena\u2019s League of California Cities Voice in Sacramento Gets a New President",
           "source": "Pasadena Now"
         },
         {
-          "headline": "A 2019 Killing on South Euclid Avenue Returns to Department F on Thursday",
+          "headline": "Pasadena League of Women Voters Spends Voting Rights Weekend Defending Democracy",
           "source": "Pasadena Now"
         },
         {
-          "headline": "City Asks Contractors to Put Solar on Its Libraries and Parking Lots",
+          "headline": "Grant From Supervisor Barger Keeps Altadena Swimming Pool Open Through September 30",
           "source": "Pasadena Now"
         },
         {
-          "headline": "Local Lawmaker Convenes Assembly\u2019s First California\u2013Armenia Committee",
+          "headline": "State Ties $11.8 Million Grant to Hearing on Pasadena Unified Enrollment Decline, Closures",
           "source": "Pasadena Now"
         },
         {
-          "headline": "Pasadena School Board to Hear Post-Eaton Fire Enrollment Forecast, Budget Revision on Thursday",
+          "headline": "Seniors Program Takes On the Transitions of Growing Older",
           "source": "Pasadena Now"
         },
         {
-          "headline": "One Dead, Three Injured in Angeles Crest Highway Plunge; Pasadena Firefighter Hurt in Rescue",
+          "headline": "Band-Aid, Not A Cure: Federal Colorado River Plan Leaves States Guessing Every Two Years",
           "source": "Pasadena Now"
+        },
+        {
+          "headline": "Free 24/7 Tutoring Now Available for Local Students Through Pasadena Public Library",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Ten Thousand Villages Pasadena To Mark 20th Anniversary With Community Celebration",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Monterey Park Wraps Up Summer Movie Nights With Poolside Screening",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Developers of \u201cSky: Children of the Light\u201d Visit Alhambra for Art Book Event",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Samantha Alba Named Director of Arcadia Library and Museum Services",
+          "source": "Colorado Blvd"
         },
         {
           "headline": "Driver Killed, 3 Seriously Injured in Angeles Crest Highway Crash",
@@ -377,103 +405,83 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Pasadena Lawmaker Launches First Assembly Committee Focused on California-Armenia Partnerships",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Huntington Health Named One of California\u2019s Top 10 Hospitals",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "New Partnership Helps Physicians in LA County Access Local Public Health Guidance Through AI Platform",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Pasadena Unified Locks In $10 Million Taxpayer Savings Through Refinancing",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Ron Sahu Withdraws From Alhambra City Council District 1 Race",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Workers file complaint alleging unsanitary conditions at Flying Food Group facility serving LAX flights",
+          "headline": "Appeals court blocks construction of White House ballroom",
           "source": "ABC7"
         },
         {
-          "headline": "Water main break shuts down Hollywood Hills road; dozens of residents impacted",
+          "headline": "Extremist group calls in bomb threat to Huntington Hospital in Pasadena, officials say",
           "source": "ABC7"
         },
         {
-          "headline": "Perez Hilton's children were inside home minutes before livestream, family says",
+          "headline": "Illinois teen dressed as a clown charged with murder",
           "source": "ABC7"
         },
         {
-          "headline": "Fire burning in Fairmont area prompts evacuation warning; over 800 acres burned",
+          "headline": "Heat advisories, extreme heat warnings remain in parts of Southern California",
           "source": "ABC7"
         },
         {
-          "headline": "Public invited to send notes of encouragement for Big Bear eagle Jackie, care team",
+          "headline": "DOGE\u2019s claim of $110B in savings was vastly inflated and riddled with errors: GAO",
           "source": "ABC7"
         },
         {
-          "headline": "'Project Runway' contestant Naheim Muhammad talks paper towel fashion, critiques from judges",
+          "headline": "Alleged scammer targeting ex-NFL players found dead in pool",
           "source": "ABC7"
         },
         {
-          "headline": "Florida man charged with attempted murder, accused of turning off air supply of submerged teen diver",
+          "headline": "At least 7 people killed, more than a dozen injured in Thailand school shooting",
           "source": "ABC7"
         },
         {
-          "headline": "Mother, 2 young children killed in Apple Valley crash",
+          "headline": "Lindsay Clancy's psychiatrist to testify in murder trial | Watch live",
           "source": "ABC7"
         },
         {
-          "headline": "Alleged 'master of disguise' faces federal charges for armed robberies: Officials",
+          "headline": "Released Nancy Guthrie ransom notes generated 'slight increase' in tips: Sheriff's department",
           "source": "ABC7"
         },
         {
-          "headline": "Santa Monica approves locally controlled homeless response plan, ending reliance on LA County services",
+          "headline": "Man charged with attempted murder in alleged lobster diving incident speaks out",
           "source": "ABC7"
         },
         {
-          "headline": "7 and 4-year-old brothers take parents' car, critically injure woman walking dog in Oakland crash",
+          "headline": "Fresno, California, mother found dead after being reported missing, family says",
           "source": "ABC7"
         },
         {
-          "headline": "Wellness club gives Latino men space to focus on mental health",
+          "headline": "Parent says 9-year-old left asleep on school bus, found wandering district bus yard in New Jersey",
           "source": "ABC7"
         },
         {
-          "headline": "With several foodborne illness outbreaks nationwide, here's how to avoid getting sick",
+          "headline": "Man living inside billboard on Sunset Boulevard to promote film draws spectators",
           "source": "ABC7"
         },
         {
-          "headline": "Director Ridley Scott promises \"drama, fear, terror\" in new sci-fi action movie 'The Dog Stars'",
+          "headline": "Barber in Philadelphia brings full-service cuts to customers from customized box truck",
           "source": "ABC7"
         },
         {
-          "headline": "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow",
+          "headline": "53-year-old message in a bottle leads to bittersweet discovery",
           "source": "ABC7"
         },
         {
-          "headline": "Republican Sen. Mitch McConnell discharged from rehab facility",
+          "headline": "Love Baked In blends memories and recipes together to remember loved ones",
           "source": "ABC7"
         },
         {
-          "headline": "Miss North Carolina USA 2026 stripped of title as organization condemns 'racism, homophobia'",
+          "headline": "Lionel Richie, Earth, Wind & Fire concert at Chase Center postponed due to medical emergency",
           "source": "ABC7"
         },
         {
-          "headline": "Jon Favreau executive produces new Nat Geo series, 'Lion,' following a cub's journey to king",
+          "headline": "Disney expands 'Descendants' universe with 'Hidden Heroes,' a movie focusing on the sidekicks",
           "source": "ABC7"
         },
         {
-          "headline": "New map allows parents to look up gunfire reported around their child's school",
+          "headline": "From screen to scream: 2026's hottest Disney Halloween costumes from this year's biggest films",
           "source": "ABC7"
         },
         {
-          "headline": "Mayor Bass criticizes DA for charging LAPD officer accused of recording co-workers' racist comments",
+          "headline": "Jobs report shows US unexpectedly lost jobs in July",
           "source": "ABC7"
         }
       ],
@@ -485,20 +493,20 @@
         "4": false,
         "5": false,
         "6": false,
-        "7": false,
+        "7": true,
         "8": true,
         "9": true,
-        "10": false,
-        "11": true,
+        "10": true,
+        "11": false,
         "12": true,
         "13": true,
-        "14": true,
+        "14": false,
         "15": true,
         "16": true,
         "17": true,
-        "18": false,
+        "18": true,
         "19": true,
-        "20": false,
+        "20": true,
         "21": true,
         "22": true,
         "23": true,
@@ -507,32 +515,28 @@
         "26": true,
         "27": true,
         "28": true,
-        "29": true,
+        "29": false,
         "30": true,
         "31": true,
         "32": true,
         "33": true,
-        "34": false,
-        "35": true,
+        "34": true,
+        "35": false,
         "36": true,
         "37": true,
-        "38": false,
+        "38": true,
         "39": false
       }
     },
     "county": {
-      "summary": "- Trump administration threatens to eliminate Head Start rules affecting 70,000 California kids\n- ICE raids boost LAUSD bus ridership as immigrant families seek safer transit\n- LAX food workers report maggots, unsafe conditions in OSHA complaint filing\n- Measles exposure warning issued for Universal Studios Hollywood visitors",
+      "summary": "- Noah's ark of California tide pools launching in LA County\n- Trump administration threatens to gut Head Start rules statewide\n- Ebony Alert issued for 13-year-old girl missing from Inglewood\n- LAX food workers report maggots, unsafe conditions in warehouse",
       "headlines": [
         {
+          "headline": "Scientists are building a 'Noah\u2019s ark' of California\u2019s tide pools. It will live here in LA",
+          "source": "LAist"
+        },
+        {
           "headline": "Concerned about fire contaminants in your soil? A new expert guide can help",
-          "source": "LAist"
-        },
-        {
-          "headline": "Most Californians turn from renters to homeowners by age 47. In other states, it\u2019s 36",
-          "source": "LAist"
-        },
-        {
-          "headline": "More kids in OC don\u2019t know where their next meal is coming from. Experts worry it's getting worse",
           "source": "LAist"
         },
         {
@@ -540,7 +544,11 @@
           "source": "LAist"
         },
         {
-          "headline": "More LAUSD students are riding the bus to school. Here\u2019s why ICE raids boosted ridership",
+          "headline": "More kids in OC don\u2019t know where their next meal is coming from. Experts worry it's getting worse",
+          "source": "LAist"
+        },
+        {
+          "headline": "Most Californians turn from renters to homeowners by age 47. In other states, it\u2019s 36",
           "source": "LAist"
         },
         {
@@ -548,11 +556,15 @@
           "source": "LAist"
         },
         {
+          "headline": "More LAUSD students are riding the bus to school. Here\u2019s why ICE raids boosted ridership",
+          "source": "LAist"
+        },
+        {
           "headline": "LA Olympics tickets are back on sale next week. Here's what you need to know",
           "source": "LAist"
         },
         {
-          "headline": "Do dogs belong in restaurants? We have strong feelings. Do you?",
+          "headline": "Why insurance matters to renters, landlords and California",
           "source": "LAist"
         },
         {
@@ -560,15 +572,19 @@
           "source": "LAist"
         },
         {
-          "headline": "The Westlake Theatre has sat vacant for decades in MacArthur Park. A new plan hopes to revive it",
+          "headline": "Do dogs belong in restaurants? We have strong feelings. Do you?",
           "source": "LAist"
         },
         {
-          "headline": "Hiking, IKEA, In-N-Out: how to make dating in SoCal cheaper",
+          "headline": "Where do vegans turn after restaurant closures?",
           "source": "LAist"
         },
         {
-          "headline": "Something was missing from Koreatown\u2019s walls. This artist is trying to bring it back",
+          "headline": "Where to find SoCal's best ice cream right now",
+          "source": "LAist"
+        },
+        {
+          "headline": "Argentine and Uruguayan street food gets a new home at ALTO's bar",
           "source": "LAist"
         },
         {
@@ -596,12 +612,20 @@
           "source": "LAist"
         },
         {
-          "headline": "Why rent control won't be on Anaheim ballots this November",
-          "source": "LAist"
+          "headline": "Ebony Alert activated for 13-year-old girl last seen in Inglewood",
+          "source": "Fox 11 LA"
         },
         {
-          "headline": "Can a historic LGBTQ+ Latino bar find a new home in Westlake? Its future neighbors say not here",
-          "source": "LAist"
+          "headline": "Billionaire Stephen Cloobeck faces felony witness tampering charges in fianc\u00e9e's theft case",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Lineage Logistics ordered to address odors after Boyle Heights warehouse fire",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "New South Los Angeles campaign takes aim at abandoned cars flooding neighborhood streets",
+          "source": "Fox 11 LA"
         },
         {
           "headline": "Coyote sightings rise across Southern California; Family's dog killed by coyote",
@@ -617,22 +641,6 @@
         },
         {
           "headline": "Road rage probe leads CHP to 20,000 rounds of ammunition, 20 illegal firearms in Yucaipa",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Measles exposure warning issued for Universal Studios Hollywood visitors",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Beloved Big Bear bald eagle Jackie undergoes advanced testing for mystery illness",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Son of slain opera singer, Jubilant Sykes, pleads not guilty",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "LAPD shares back-to-school safety tips ahead of first day of class",
           "source": "Fox 11 LA"
         },
         {
@@ -668,6 +676,10 @@
           "source": "Fox 11 LA"
         },
         {
+          "headline": "Miss North Carolina USA loses crown after organizer condemns 'racism, homophobia, transphobia'",
+          "source": "Fox 11 LA"
+        },
+        {
           "headline": "U-Haul employee charged after allegedly killing co-worker in dispute over drink",
           "source": "Fox 11 LA"
         },
@@ -680,51 +692,47 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Dr. Fauci held in contempt of Congress by Senate committee",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Man on Scooter Killed in Hit-and-Run Crash in San Pedro",
+          "headline": "Judge Gives Archdiocese Mixed Ruling in Wrongful Termination Suit",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Three Men Sentenced to Life for Mexican Mafia Murder",
+          "headline": "At-Risk 43-Year-old Man Missing in Inglewood Area",
           "source": "MyNewsLA"
         },
         {
-          "headline": "South Coast AQMD Approves Modified Abatement Order Against Lineage",
+          "headline": "Attorney/Guardian for Lynch Teen Wants Child Support Treated as Estate Debt",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Teachers Union Seeks More Safety Measures After Lineage Warehouse Fire",
+          "headline": "Media Rules Set for Nick Reiner\u2019s Upcoming Probate Hearing",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Firefighters Battle 850-Acre Brush Fire in Near Lancaster",
+          "headline": "Hearing Set for Councilman Curren Price on Corruption Charges",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Federal Judge Hears Arguments in LAHSA/HUD Lawsuit",
+          "headline": "Lawyers Propose Keeping Leviss Case on Hold Pending Madix Appeal Outcome",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Former Nicolas Cage Relation Says Court Ruling Didn\u2019t Impact Merits of Case",
+          "headline": "Sorkin, del Toro to Receive AFI Honorary Degrees",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Suspected Hit-and-Run Driver in Northridge Street Takeover Arrested",
+          "headline": "Average LA, OC Gas Prices Continue to Drop",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Former Nicolas Cage Relation Says Court Ruling Didn\u2019t Impact Merits of Case",
+          "headline": "Nominations for Leadership Pasadena\u2019s Impact Awards Begin Rolling In",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Firefighters Battle 750-Acre Brush Fire in Fairmont",
+          "headline": "LACo Grant Extends Pool Programs at Loma Alta Park in Altadena",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Man Who Stabbed Woman Under Indio Bridge Convicted of Felony Charges",
+          "headline": "Non-Profit Villa Aurora to Resume Palisades\u2019 Artist Residency Program",
           "source": "MyNewsLA"
         },
         {
@@ -732,7 +740,19 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Dora Fire in northern Los Angeles County burns over 800 acres, prompting evacuation warning - ABC7 Los Angeles",
+          "headline": "Los Angeles County DA, LAPD chief detail crackdown on hate crime; suspect in 2023 Metro bus stabbing receives life sentence - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Los Angeles County Sheriff\u2019s Department Missing Persons Unit investigators are asking for the public\u2019s help locating At-Risk Missing Person Juan Carlos Hernandez. He is a 43-year-old male Hispanic adult who was last seen on August 5, 2026, at 10:30 p.m., - facebook.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Man living inside billboard on Sunset Boulevard in Los Angeles to promote film draws spectators - ABC7 New York",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Governor Newsom invites President Trump to deliver overdue wildfire recovery funding during Los Angeles visit - California State Portal | CA.gov",
           "source": "Google News LA"
         },
         {
@@ -740,23 +760,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "L.A. County approves $15M for supportive housing at Metropolitan State Hospital campus - Urbanize LA",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "SAF ANNOUNCES SETTLEMENT IN MAJOR CALIFORNIA CARRY RIGHTS LAWSUIT - saf.org",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Governor Newsom invites President Trump to deliver overdue wildfire recovery funding during Los Angeles visit - gov.ca.gov",
-          "source": "Google News LA"
-        },
-        {
           "headline": "LA County says a program meant to help people with serious mental illness is gaining traction - CalMatters",
           "source": "Google News LA"
         },
         {
-          "headline": "Dora Fire in northern Los Angeles County burns at least 750 acres, prompting evacuation warning - ABC7 Los Angeles",
+          "headline": "L.A. County approves $15M for supportive housing at Metropolitan State Hospital campus - Urbanize LA",
           "source": "Google News LA"
         },
         {
@@ -764,35 +772,27 @@
           "source": "Google News LA"
         },
         {
+          "headline": "Dora Fire in northern Los Angeles County burns over 800 acres, prompting evacuation warning - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Inside LADA - Los Angeles County District Attorney's Office (.gov)",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Dora Fire in northern Los Angeles County burns at least 750 acres, prompting evacuation warning - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
           "headline": "LA County Inspects Property to Ensure Animal Welfare, Check Code Violations - COUNTY OF LOS ANGELES (.gov)",
           "source": "Google News LA"
         },
         {
-          "headline": "Santa Monica approves locally controlled homeless response plan, ending reliance on LA County services - ABC7 Los Angeles",
+          "headline": "Son of Grammy-Nominated Opera Singer Jubilant Sykes Arraigned for Singer\u2019s Murder - COUNTY OF LOS ANGELES (.gov)",
           "source": "Google News LA"
         },
         {
-          "headline": "District Attorney Hochman Joins Local Law Enforcement Officials and LADA's Advisory Boards to Provide Updates on Efforts to Combat Hate Crimes Countywide | Los Angeles County District Attorney's Office - Los Angeles County District Attorney's Office (.gov)",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "LA Health Services Hospitals \u2013 Part of the County\u2019s Safety Net \u2013 Earn U.S. News Honors - COUNTY OF LOS ANGELES (.gov)",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Supervisor Barger Motion Positions LA County Foster Youth to Benefit from New Federal Investment Accounts - COUNTY OF LOS ANGELES (.gov)",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Measles exposure reported at Universal Studios Hollywood - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Armed man arrested at Trump National Golf Club in Los Angeles County: Authorities - ABC Audio Digital Syndication",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Firefighters stop progress of Haskett Fire in northern Los Angeles County - dailydispatch.com",
+          "headline": "LA County Executive Job: Candidates New and Old, Sincere and Opportunistic, are Lining Up - CityWatch LA",
           "source": "Google News LA"
         },
         {
@@ -800,11 +800,19 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County Sheriff's Department Missing Person's Unit is advising Sharon Dhee Woodford has been located. Thank you to the public, the media, and deputy personnel for their tireless efforts in the search for Ms. Woodford. - facebook.com",
+          "headline": "Firefighters stop progress of Haskett Fire in northern Los Angeles County - dailydispatch.com",
           "source": "Google News LA"
         },
         {
-          "headline": "The Los Angeles County Sheriff's Department extends its heartfelt condolences to the Las Vegas Metropolitan Police Department following the tragic loss of one of its officers. We stand with our brothers and sisters @LVMPD during this difficult time. His service - facebook.com",
+          "headline": "Rising deaths in LA County Jail are tied to longer jail stays, study shows - Newsroom | UCLA",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "District Attorney Hochman Joins Local Law Enforcement Officials and LADA's Advisory Boards to Provide Updates on Efforts to Combat Hate Crimes Countywide | Los Angeles County District Attorney's Office - Los Angeles County District Attorney's Office (.gov)",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Beachgoers Urged to Avoid Water at Six LA County Beaches - MyNewsLA.com",
           "source": "Google News LA"
         }
       ],
