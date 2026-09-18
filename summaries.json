@@ -1,10 +1,14 @@
 {
-  "generated": "2026-09-17T18:53:14.600070+00:00",
-  "briefing": "8 AM",
+  "generated": "2026-09-18T03:05:38.682420+00:00",
+  "briefing": "5 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Man barricades hotel room with stolen car, drugs, loaded gun magazine\n- Starlight Cinema opening in Monrovia late 2026\n- Rize Credit Union opens new downtown Monrovia branch\n- Monrovia Schools celebrate Hispanic Heritage Month with districtwide events",
+      "summary": "- Man barricades hotel room; police respond to stolen car, DUI crash incident\n- Starlight Cinema opening in downtown Monrovia in late 2026\n- Rize Credit Union opens new branch in downtown Monrovia\n- Monrovia Schools celebrate Hispanic Heritage Month with districtwide events",
       "headlines": [
+        {
+          "headline": "Lunch at Baja Mar",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Monrovia Police: Man barricades hotel room; Stolen car, DUI crash; Loaded gun magazine and drugs; Fake banker scams woman; Etc.",
           "source": "Monrovia Now"
@@ -82,23 +86,15 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Learn about composting with worms, Oct. 3",
-          "source": "Monrovia Now"
-        },
-        {
           "headline": "Editor's notebook: Monrovia's Centennial Celebration - nurserymag.com",
           "source": "Google News"
         },
         {
-          "headline": "Monrovia High School (CA) Football - MaxPreps",
+          "headline": "Stephen Repp Obituary (1947 - 2025) - Anchorage, AK - Advertiser-Tribune",
           "source": "Google News"
         },
         {
-          "headline": "Stephen Repp Obituary (1947 - 2025) - Anchorage, AK - obituaries.advertiser-tribune.com",
-          "source": "Google News"
-        },
-        {
-          "headline": "Bears in Los Angeles are getting their close-ups, ready or not - The Seattle Times",
+          "headline": "9 Most Walkable Town Centers In Southern California - WorldAtlas",
           "source": "Google News"
         },
         {
@@ -106,7 +102,7 @@
           "source": "Google News"
         },
         {
-          "headline": "9 Most Walkable Town Centers In Southern California - worldatlas.com",
+          "headline": "Before & After: They Turned a \"Spooky\" L.A. Midcentury Into a Sunny Family Home - Yahoo",
           "source": "Google News"
         },
         {
@@ -118,23 +114,35 @@
           "source": "Google News"
         },
         {
-          "headline": "'Most Important Evidence' Emerges As Helicopter Crash Investigation Begins",
+          "headline": "Pasadena High School cancels varsity football season - USA Today",
+          "source": "Google News"
+        },
+        {
+          "headline": "Kendra QUESENBERY - Sports Illustrated",
+          "source": "Google News"
+        },
+        {
+          "headline": "2 Murder Charges Filed Against Driver In Chatsworth Bus Crash That Killed 2",
           "source": "Patch Monrovia"
         },
         {
-          "headline": "Paramount 'Deadly Serious' About Leaving CA Amid Merger Fight: Reports",
+          "headline": "Homeless Funds Spent On Nightclub, Real Estate In $7.5M LA County Fraud Scheme: DOJ",
           "source": "Patch Monrovia"
         },
         {
-          "headline": "'Jay Leno's Law' Among New CA Measures Supporting Car Culture",
+          "headline": "SGV Man Admits Robbing Mail Carriers, Using Stolen Keys To Steal Mail: DOJ",
           "source": "Patch Monrovia"
         },
         {
-          "headline": "How T. Rex Teeth Helped UCLA Scientists Take The Dinosaur's Temperature",
+          "headline": "More Than 100 Earthquakes Rattle LA County In Days, With Another Thursday Afternoon",
           "source": "Patch Monrovia"
         },
         {
-          "headline": "CA\u2019s Richest Person Is Worth $278B, Ranks Number 3 On Forbes 400",
+          "headline": "Rare Sea Snakes, Tropical Fish Could Turn Up Along LA County Coast During El Ni\u00f1o",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "Firefighters Build Wheelchair Ramp After Thief Leaves Woman Trapped At Home",
           "source": "Patch Monrovia"
         },
         {
@@ -183,24 +191,24 @@
         }
       ],
       "relevance": {
-        "0": true,
+        "0": false,
         "1": true,
         "2": true,
         "3": true,
         "4": true,
         "5": true,
-        "6": true,
+        "6": false,
         "7": true,
         "8": true,
         "9": true,
-        "10": false,
+        "10": true,
         "11": false,
-        "12": true,
+        "12": false,
         "13": true,
-        "14": false,
-        "15": true,
-        "16": false,
-        "17": true,
+        "14": true,
+        "15": false,
+        "16": true,
+        "17": false,
         "18": true,
         "19": true,
         "20": true,
@@ -217,8 +225,8 @@
         "31": false,
         "32": false,
         "33": false,
-        "34": true,
-        "35": true,
+        "34": false,
+        "35": false,
         "36": true,
         "37": true,
         "38": true,
@@ -226,14 +234,14 @@
       }
     },
     "sgv": {
-      "summary": "- Deadly San Gabriel Valley crash under investigation after rider hit\n- Irwindale approves data center ban, joining growing list SGV cities\n- Bear spotted wandering through San Gabriel Valley shopping center\n- Freeway 57, 60 closures planned this weekend in SGV",
+      "summary": "- Fatal San Gabriel Valley crash under investigation after rider hit\n- Pasadena High cancels varsity football season over safety concerns\n- Bear spotted wandering through San Gabriel Valley shopping center\n- Irwindale approves data center ban, joining growing SGV cities",
       "headlines": [
         {
           "headline": "Deadly San Gabriel Valley crash under investigation after rider hit - KTLA",
           "source": "Google News SGV"
         },
         {
-          "headline": "Things to do in the San Gabriel Valley area, Sept. 11-19 - San Gabriel Valley Tribune",
+          "headline": "San Gabriel Valley high school football schedule for Week 4, Sept. 17-18 - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -241,23 +249,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Irwindale approves data center ban, adding to growing list of San Gabriel Valley cities - Pasadena Star News",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "Video shows bear wandering through San Gabriel Valley shopping center - Yahoo",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "57, 60 Freeway Closures Planned This Weekend In San Gabriel Valley - Patch",
-          "source": "Google News SGV"
-        },
-        {
           "headline": "San Gabriel\u2019s First Charity Chess Tournament puts breast cancer awareness on the board - Local News Pasadena",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "San Gabriel Valley high school football schedule for Week 4, Sept. 17-18 - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -270,6 +262,10 @@
         },
         {
           "headline": "San Gabriel Valley Girls Athlete of the Week: Lila Wang, San Marino - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Irwindale approves data center ban, adding to growing list of San Gabriel Valley cities - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -306,6 +302,18 @@
         },
         {
           "headline": "Bishop Amat football makes easy work of Culver City - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Alexander: Chargers\u2019 sloppy opener leaves plenty to explain - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "SGV flag football Top 20: Bonita, South Hills, Glendora lead the way - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Is a wrecking ball in Angel Stadium\u2019s future? - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -349,6 +357,14 @@
           "source": "Pasadena Now"
         },
         {
+          "headline": "Pasadena Events Highlight Local Options During LA Tech Week",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Monterey Park City Council Supports Measure HOM Housing Proposal",
+          "source": "Colorado Blvd"
+        },
+        {
           "headline": "Pasadena Council Tables $225,000 Pilot Program for Home-Based Restaurants",
           "source": "Colorado Blvd"
         },
@@ -389,23 +405,35 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Supervisor Barger Expresses Condolences After Fatal Helicopter Crash Involving NBC4 Personnel",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Pasadena Students Look Beyond the Stereotypes of Homelessness",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Buckingham Palace responds to claim about King Charles after Princess Diana's death",
+          "headline": "OpenAI flags concerning new AI behavior and vows to track it more closely",
           "source": "ABC7"
         },
         {
-          "headline": "Trump photographed with 'Kennedy Center Demolished' sign as venue says closure 'temporary'",
+          "headline": "Detective investigating whether former OnlyFans model drugged fianc\u00e9 with ketamine: Warrant",
           "source": "ABC7"
         },
         {
-          "headline": "'I feel kidnapped': Latino immigrants say they're in legal limbo after being deported to country in Africa",
+          "headline": "Family of man who died after Claremont police traffic stop files federal lawsuit",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Beloved Ontario bakery rebounds after break-in thanks to community support",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Trump withdraws Lance Schroyer, a former Oklahoma state trooper, as his nominee to lead ICE",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Dodgers clinch fifth straight National West title, 13th in 14 years",
+          "source": "ABC7"
+        },
+        {
+          "headline": "'The Kardashians' Season 8 trailer: relationships, strained connections and a medical diagnosis",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Orange County declares state of emergency after severe coastal erosion, high surf damage homes",
           "source": "ABC7"
         },
         {
@@ -413,67 +441,47 @@
           "source": "ABC7"
         },
         {
-          "headline": "\u2018Glow-up,\u2019 \u2018cuffing season\u2019 among 1,400 new words added to Merriam-Webster dictionary",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Mayor Karen Bass questions Nithya Raman's role in Palisades recovery effort",
-          "source": "ABC7"
-        },
-        {
           "headline": "Community pays tribute to those killed in NBC4 helicopter crash, including Eliana Moreno, George Marciniw, Gutierrez Mejia",
           "source": "ABC7"
         },
         {
-          "headline": "Uber ordered to pay $40M to parents of woman fatally struck after being left on freeway in OC",
+          "headline": "Tiny cat discovered in Bolivia said to be 1st new feline species in over 100 years",
           "source": "ABC7"
         },
         {
-          "headline": "Federal government paid employees $9.5 billion not to work in 2025: Report",
+          "headline": "SUV driver who slammed into bus in Chatsworth charged with 2nd degree murder, was driving high: DA",
           "source": "ABC7"
         },
         {
-          "headline": "Rising jet fuel costs send ticket prices soaring for travelers heading into holiday season",
+          "headline": "Crane collapse damages at least 2 homes in New Jersey",
           "source": "ABC7"
         },
         {
-          "headline": "DoorDash and Uber Eats to offer delivery from US Costco stores",
+          "headline": "3.1-magnitude earthquake strikes near Compton, USGS says",
           "source": "ABC7"
         },
         {
-          "headline": "Halloween 2026: Los Angeles Haunted Hayride returns for spooky season",
+          "headline": "Steve Belichick resigns as UNC football defensive coordinator amid investigation into program",
           "source": "ABC7"
         },
         {
-          "headline": "West Chew Avenue crime news: Ex-police chief recalls 2009 arrest of R.C. Horsch, linked to Olney, Philadelphia, Pennsylvania so-called house of horrors investigation",
+          "headline": "Carney embraces proposal for Canada to become European Union\u2019s first associate member",
           "source": "ABC7"
         },
         {
-          "headline": "Texas puts to death a man in killing of 3 during home robbery, the state's fifth execution this year",
+          "headline": "Chicago's Morning MVPs",
           "source": "ABC7"
         },
         {
-          "headline": "Driver killed after car slams into overpass on 5 Freeway in Boyle Heights",
+          "headline": "What we know about 7 women linked to investigation at Horsch home in Philadelphia's Olney neighborhood",
           "source": "ABC7"
         },
         {
-          "headline": "LA DA to give update in Metro bus crash that killed 2 in Chatsworth; suspect misses court",
+          "headline": "F-16 fighter jet crashes during training exercise in northern Michigan; pilot ejects safely",
           "source": "ABC7"
         },
         {
-          "headline": "Uber ordered to pay $40M to parents of Emily Normandin-Parker, woman fatally struck after being left on California freeway",
-          "source": "ABC7"
-        },
-        {
-          "headline": "American Girl debuts 2027 Doll of the Year, Daisy Davenport",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Bryan Kohberger's family say they support his attempt to challenge conviction",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Kennedy niece says Trump holding Kennedy Center 'hostage' amid battle over name",
+          "headline": "Buckingham Palace responds to claim about King Charles after Princess Diana's death",
           "source": "ABC7"
         }
       ],
@@ -495,36 +503,36 @@
         "14": true,
         "15": true,
         "16": true,
-        "17": true,
+        "17": false,
         "18": true,
-        "19": true,
-        "20": true,
-        "21": true,
-        "22": true,
-        "23": true,
-        "24": true,
-        "25": true,
-        "26": true,
-        "27": true,
-        "28": true,
-        "29": true,
-        "30": true,
+        "19": false,
+        "20": false,
+        "21": false,
+        "22": false,
+        "23": false,
+        "24": false,
+        "25": false,
+        "26": false,
+        "27": false,
+        "28": false,
+        "29": false,
+        "30": false,
         "31": true,
-        "32": true,
-        "33": true,
-        "34": true,
+        "32": false,
+        "33": false,
+        "34": false,
         "35": true,
-        "36": true,
-        "37": true,
-        "38": false,
+        "36": false,
+        "37": false,
+        "38": true,
         "39": true
       }
     },
     "county": {
-      "summary": "- $12M homeless fraud bust: Three LA nonprofit executives arrested for bribery, theft\n- Chatsworth tragedy: Bus crash kills two, helicopter crash kills three journalists\n- Judge halts immigration agents' warrantless arrest practices in Los Angeles County\n- California moves to ban auto insurance surcharges for single drivers",
+      "summary": "- Driver under influence slammed Metro bus in Chatsworth, DA says\n- NTSB analyzes helicopter crash that killed 3 in Chatsworth\n- LA County grants up to $3,000 for Lineage Fire businesses\n- 3.1 earthquake shakes Compton, Downey, Long Beach area",
       "headlines": [
         {
-          "headline": "$1 million in homeless funds for a nightclub? New LA fraud cases allege bribery and theft",
+          "headline": "Driver who slammed into a Metro bus in Chatsworth was under the influence, LA DA says",
           "source": "LAist"
         },
         {
@@ -536,23 +544,23 @@
           "source": "LAist"
         },
         {
-          "headline": "Judge: Immigration agents must stop the way they\u2019re conducting warrantless arrests",
+          "headline": "3.1 earthquake shakes Compton, Downey and Long Beach",
           "source": "LAist"
         },
         {
-          "headline": "Can you ride a minibike on LA streets? Here's what the law says",
+          "headline": "A state program now puts $3,000 in the pockets of foster, COVID-bereaved youth entering adulthood",
           "source": "LAist"
         },
         {
-          "headline": "Santa Ana bans city employees from moonlighting for ICE",
+          "headline": "Judge says Chino Valley Unified can disclose a student\u2019s gender identity to parents when they ask",
           "source": "LAist"
         },
         {
-          "headline": "Federal court revives antisemitism lawsuit involving Los Angeles Unified ethnic studies",
+          "headline": "The Dodgers are NL West champions again, and now they're eyeing a three-peat despite injury concerns",
           "source": "LAist"
         },
         {
-          "headline": "Driver arrested in bus collision that happened before deadly news helicopter crash in LA",
+          "headline": "Watchdog group asks California bar to investigate conduct of two DOJ attorneys in immigration cases",
           "source": "LAist"
         },
         {
@@ -604,11 +612,23 @@
           "source": "LAist"
         },
         {
+          "headline": "Is Paramount leaving California? Concerns grow over studio's possible exit",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "NTSB begins off-site analysis after 3 killed in Chatsworth NBCLA helicopter crash",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "LA County launches grants up to $3,000 for businesses impacted by Lineage Fire, East LA oil spill",
+          "source": "Fox 11 LA"
+        },
+        {
           "headline": "Bailee Rios: Drugs found in SUV of driver charged in fatal Chatsworth Metro bus crash, sources say",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Chatsworth double tragedy: Vigil planned for crash victims as investigations continue",
+          "headline": "Community vigil planned for 5 victims of Chatsworth tragedies",
           "source": "Fox 11 LA"
         },
         {
@@ -621,18 +641,6 @@
         },
         {
           "headline": "Feds arrest 3 LA homelessness nonprofit executives in $12M fraud takedown",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Woman arrested in Chatsworth bus crash that left 2 dead, 6 injured",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Audio evidence key as NTSB probes fatal Chatsworth news helicopter crash",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Chatsworth helicopter crash: 3 killed, including NBCLA pilot and aerial reporter",
           "source": "Fox 11 LA"
         },
         {
@@ -684,71 +692,83 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Torrance Moves Ahead with WWII Japanese American Incarceration Memorial",
+          "headline": "USC Seeks Dismissal of Donor\u2019s Suit on Free Speech Grounds",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LA County Offers Grants After Boyle Heights Fire, East LA Oil Spill",
+          "headline": "LA County Issues Temporary Ban on Data Centers Across Unincorporated Areas",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Jury Selection Starts for Trial of DUI Offender Accused in Fatal CV Crash",
+          "headline": "Water Main Break Affects Malibu, Topanga Canyon",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Woman, 86, Who Had Fatal Medical Issue in Burbank Parking Garage Crash ID\u2019d",
+          "headline": "`Black-ish\u2019 Creator\u2019s Sister Alleges He Tried to Use Their Mother Against Her",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Man Dies in Single-Vehicle Crash on 10 Freeway in Boyle Heights",
+          "headline": "Jurors Deliberate in Trial Over Botched Burial for Infant",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Man, 18, Fatally Shot in Silver Lake Identified",
+          "headline": "LA County Issues Temporary Ban on Data Centers Across Unincorporated Areas",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Suspect in Deadly Metro Bus Crash in Chatsworth Awaits Charges",
+          "headline": "Blaze Burns Seven Acres on Hillside in South Menifee",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Huntington Beach PD Hosting Weeklong Child Seat Check-Up Event",
+          "headline": "Man Charged with Fatal Crash in Garden Grove",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Palm Springs International Airport to Host 6th Annual Job Fair Next Week",
+          "headline": "OC Board Chair Declares Emergency for Storm Damage",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Bass Releases First General Election Ad",
+          "headline": "Blaze Burns Hillside on South End of Menifee",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Pedestrian Killed in Vehicle Collision in Palmdale",
+          "headline": "LBPD Arrests Three in July Catalytic Converter Theft Shooting",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LA County Coordinated Joint Information Center Update \u2013 9/16/2026 - LA County Recovers (.gov)",
+          "headline": "LA County Coordinated Joint Information Center Update \u2013 9/16/2026 - recovery.lacounty.gov",
           "source": "Google News LA"
         },
         {
-          "headline": "Bailee Rios, suspect in deadly Metro bus crash in Chatsworth, expected in Los Angeles court - ABC7 Los Angeles",
+          "headline": "Los Angeles, California crash news: Driver who slammed into bus before helicopter crash to face murder charges, prosecutor says - ABC11 News",
           "source": "Google News LA"
         },
         {
-          "headline": "LA County Offers Grants After Boyle Heights Fire, East LA Oil Spill - MyNewsLA.com",
+          "headline": "LA County Issues Temporary Ban on Data Centers Across Unincorporated Areas - mynewsla.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Honoring Los Angeles County\u2019s Gold Star Families Beyond the Ceremony - The San Fernando Valley Sun",
+          "headline": "Los Angeles, California crash news: Driver who slammed into bus before helicopter crash to face murder charges, prosecutor says - ABC7 Chicago",
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County Sheriff's Department Homicide Detectives are seeking the public's assistance in identifying the suspect(s) involved in the murder of Eric Washington. On Saturday, July 4, 2026 at approximately 11:30 PM, Victim Eric Washington, 37, was sh - facebook.com",
+          "headline": "Claremont, police face federal civil rights lawsuit over Diego Rios' death after traffic stop - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "Measles exposure reported at Universal Studios Hollywood - ABC7 Chicago",
+          "headline": "Go Metro to Rock the Rails and the best events in Los Angeles: September 18-20 - LA Metro",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LA County Board of Supervisors postpone motion on police accountability - Fight Back! News",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Rare Sea Snakes, Tropical Fish Could Turn Up Along LA County Coast During El Ni\u00f1o - Patch",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Los Angeles County Sheriff Seeks Public\u2019s Help IDing Suspects Wanted in Murder of Compton Man - Sierra Sun Times",
           "source": "Google News LA"
         },
         {
@@ -756,31 +776,27 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Could This Proposal Finally Put a Stop to Secret Deputy Gangs In the L.A. County Sheriff's Department? - L.A. Taco",
+          "headline": "Save the Date! Bring your ballot. Bring a friend. - CityWatch LA",
           "source": "Google News LA"
         },
         {
-          "headline": "LA homelessness non-profit workers arrested over alleged corruption and bribes - The Guardian",
+          "headline": "Honoring Los Angeles County\u2019s Gold Star Families Beyond the Ceremony - The San Fernando Valley Sun",
           "source": "Google News LA"
         },
         {
-          "headline": "3D-Concrete Printing Completed on Los Angeles County's First Approved 3D-Printed Home - Construction Owners",
+          "headline": "Bailee Rios charged with 2nd degree murder, DUI, reckless driving in Metro bus crash in Chatsworth - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "We Finally Know Tyrannosaurus Rex\u2019s Body Temperature - Nautilus | Science Connected",
+          "headline": "More Than 100 Earthquakes Rattle LA County In Days, With Another Thursday Afternoon - Patch",
           "source": "Google News LA"
         },
         {
-          "headline": "Driver arrested in a bus collision that happened before a deadly news helicopter crash in LA - pbs.org",
+          "headline": "Los Angeles County Sheriff Seeks Public\u2019s Help Locating At-Risk Missing Person Mayrin Roque, Last Seen in Paramount - Sierra Sun Times",
           "source": "Google News LA"
         },
         {
-          "headline": "New California law sets first-in-nation standards for smoke damage in homes - CalMatters",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Supervisors Lead Next Steps to Strengthen County Disaster Response - Los Angeles County Supervisor Lindsey P. Horvath (.gov)",
+          "headline": "Man Missing From Marina Del Rey Considered At Risk, Possibly Armed: Sheriff - Patch",
           "source": "Google News LA"
         },
         {
@@ -788,23 +804,15 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Woman Due in Court for Allegedly Causing Deadly Bus Crash in Chatsworth - MyNewsLA.com",
+          "headline": "New California law sets first-in-nation standards for smoke damage in homes - CalMatters",
           "source": "Google News LA"
         },
         {
-          "headline": "Footage from NBC4 helicopter before crash in LA 'most important evidence' for NTSB, agency says - ABC7 Chicago",
+          "headline": "LBPD Arrests Three in July Catalytic Converter Theft Shooting - mynewsla.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Meet Joey, the LA County search-and-rescue K-9 who helped find 3 survivors in Venezuela quake rubble - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Why are the fees changing now? - publichealth.lacounty.gov",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Driver arrested on murder charge, 2 deceased victims ID'd after SUV slams into bus in Chatsworth - ABC7 Los Angeles",
+          "headline": "LACo Offers Grants After Boyle Heights Fire, East LA Oil Spill - mynewsla.com",
           "source": "Google News LA"
         }
       ],
