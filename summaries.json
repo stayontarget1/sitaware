@@ -1,10 +1,14 @@
 {
-  "generated": "2026-09-24T18:55:38.520750+00:00",
-  "briefing": "8 AM",
+  "generated": "2026-09-25T03:20:00.303878+00:00",
+  "briefing": "5 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Explosives found in Monrovia home; indecent exposure suspect arrested\n- Sales and use tax rate rises to 11 percent Oct. 1\n- Emergency alert system test scheduled for Sept. 29\n- Old Town Fall Festival coming Saturday, Oct. 10",
+      "summary": "- Explosives found in Monrovia home; indecent exposure and bank fraud arrests made\n- Sales and use tax rate increases to 11 percent October 1\n- Old Town Fall Festival scheduled for Saturday, October 10\n- Emergency alert system test scheduled for September 29",
       "headlines": [
+        {
+          "headline": "Dinner at JB Burgers",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Monrovia Police: Explosives found in home; Indecent exposure suspect arrested; Bank impostor steals debit card; Etc.",
           "source": "Monrovia Now"
@@ -82,15 +86,11 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Bird walk in Monrovia Canyon Park, Sep. 27",
-          "source": "Monrovia Now"
-        },
-        {
-          "headline": "Bear-y good neighbors: humans and animals are learning to live together in an expanding LA - The Guardian",
+          "headline": "Bear-y good neighbors: humans and animals are learning to live together in an expanding LA - theguardian.com",
           "source": "Google News"
         },
         {
-          "headline": "Monrovia Weekly_9/24/2026 - heysocal.com",
+          "headline": "The Art Of_ Viewing Party \u2014 Sept. 26 - citywatchla.com",
           "source": "Google News"
         },
         {
@@ -102,7 +102,11 @@
           "source": "Google News"
         },
         {
-          "headline": "Looking Back in Lemoore: Cotton picking gets underway - hanfordsentinel.com",
+          "headline": "Alice Margaret Trolinder Obituary (2026) - Vallejo, CA - Skyview Memorial Lawn - Vallejo - legacy.com",
+          "source": "Google News"
+        },
+        {
+          "headline": "Looking Back in Lemoore: Cotton picking gets underway - Hanford Sentinel",
           "source": "Google News"
         },
         {
@@ -114,10 +118,6 @@
           "source": "Google News"
         },
         {
-          "headline": "South Pasadena vs Monrovia JV Baseball - Mar 9, 2027 - Sports Illustrated",
-          "source": "Google News"
-        },
-        {
           "headline": "Monrovia vs Temple City JV Baseball - Mar 19, 2027 - Sports Illustrated",
           "source": "Google News"
         },
@@ -126,23 +126,15 @@
           "source": "Google News"
         },
         {
+          "headline": "California High School Football Final Scores - September 18 - Sports Illustrated",
+          "source": "Google News"
+        },
+        {
+          "headline": "Bears and Humans Coexist in Los Angeles as Summer Ends - SSBCrack",
+          "source": "Google News"
+        },
+        {
           "headline": "4 Injured In Hawthorne Shooting; Suspect At Large: Reports",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Justin Bieber Surprises Fans With Free Performance At Local Park Known For Drug Raids",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "100-Pound Pig Up For Adoption At Pasadena Humane",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Raman Leads Bass By 11 Points In New LA Mayor Poll",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Norms To Offer 77-Cent Hotcakes For 1 Day Across SoCal",
           "source": "Patch Monrovia"
         },
         {
@@ -191,19 +183,19 @@
         }
       ],
       "relevance": {
-        "0": true,
+        "0": false,
         "1": true,
         "2": true,
-        "3": false,
-        "4": true,
+        "3": true,
+        "4": false,
         "5": true,
         "6": true,
         "7": true,
         "8": true,
-        "9": false,
-        "10": true,
-        "11": false,
-        "12": true,
+        "9": true,
+        "10": false,
+        "11": true,
+        "12": false,
         "13": true,
         "14": true,
         "15": true,
@@ -212,7 +204,7 @@
         "18": true,
         "19": true,
         "20": false,
-        "21": true,
+        "21": false,
         "22": false,
         "23": false,
         "24": false,
@@ -225,8 +217,8 @@
         "31": false,
         "32": false,
         "33": false,
-        "34": false,
-        "35": false,
+        "34": true,
+        "35": true,
         "36": true,
         "37": true,
         "38": true,
@@ -234,10 +226,10 @@
       }
     },
     "sgv": {
-      "summary": "- Deadly multi-vehicle dump truck crash kills multiple people in San Gabriel Valley\n- CIP Real Estate acquires San Gabriel Valley industrial park for $61 million\n- SGV high school football: Bishop Amat ranked No. 1 heading into Week 5\n- Events and activities scheduled throughout San Gabriel Valley, September 18-26",
+      "summary": "- Deadly multi-vehicle crash involving dump truck kills in San Gabriel Valley\n- CIP Real Estate acquires San Gabriel Valley industrial park for $61M\n- Colorado River water cuts could significantly impact Southern California agencies\n- SGV high school football: Bishop Amat ranked top, Week 5 ahead",
       "headlines": [
         {
-          "headline": "Things to do in the San Gabriel Valley area, Sept. 18-26 - San Gabriel Valley Tribune",
+          "headline": "San Gabriel Valley Girls Athlete of the Week: Maya Hoxie, La Serna - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -249,7 +241,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "DBSA San Gabriel Valley Support Alliance - ColoradoBoulevard.net",
+          "headline": "DBSA San Gabriel Valley Support Alliance - coloradoboulevard.net",
           "source": "Google News SGV"
         },
         {
@@ -277,19 +269,11 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel Valley Girls Athlete of the Week: Maya Hoxie, La Serna - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
           "headline": "SGV high school football schedule for Week 5, Sept. 24-25 - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
           "headline": "SGV football Top 30 rankings: Bishop Amat holds top spot, La Habra to No. 2 - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "SGV Varsity football wrap-up: Game stories, photos and scores from Week 4 - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -305,7 +289,15 @@
           "source": "Google News SGV"
         },
         {
+          "headline": "SGV Varsity football wrap-up: Game stories, photos and scores from Week 4 - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
           "headline": "Meet Alley, Callie and Liz Taylor, this week\u2019s Pets of the Week in the San Gabriel Valley - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Haley Ramos leads South Hills flag football to victory over Colony - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -357,6 +349,22 @@
           "source": "Pasadena Now"
         },
         {
+          "headline": "Pasadena Unified School Board Candidate Forum Set for Oct. 5",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Explore the Universe at Pasadena\u2019s Linda Vista Library Astronomy Presentation",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Lawmakers Ask FEMA To Avert Gap in Assistance for Los Angeles Fire Survivors",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Monterey Park Welcomes Order on Warrantless Immigration Arrests",
+          "source": "Colorado Blvd"
+        },
+        {
           "headline": "What To Do This Weekend: September 25-27, 2026",
           "source": "Colorado Blvd"
         },
@@ -389,47 +397,43 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Wildlife Walks Return to Altadena\u2019s Mountain View Mausoleum",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Jazzy Jam for Empowerment to Celebrate Prince and Michael Jackson at Pasadena Finale",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Pasadena Fire and Huntington Health Launch EMS Medication Exchange",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "LA County Investigates Flea-Borne Typhus Outbreak",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Driver charged with murder in Chatsworth Metro bus crash pleads not guilty, held on $4.1M bail",
-          "source": "ABC7"
-        },
-        {
-          "headline": "2 dead after small plane crashes in Hesperia, authorities say",
-          "source": "ABC7"
-        },
-        {
           "headline": "Israeli Prime Minister Netanyahu addresses U.N. General Assembly amid protests",
           "source": "ABC7"
         },
         {
-          "headline": "Powerful Hurricane Polo drenches Mexico's coast from offshore as Nolo nears Hawaii",
+          "headline": "Temperature stabilized in battery unit that caught fire at La Verne facility; evacuations remain",
           "source": "ABC7"
         },
         {
-          "headline": "Pilot rescued after MK-58 Hawker Hunter crashes in Pacific Ocean off coast of Morro Bay, California",
+          "headline": "Temporary ground stop issued at LAX due to thunderstorms: FAA",
           "source": "ABC7"
         },
         {
-          "headline": "Wife honors legacy of pilot killed in Yosemite 'Dome Fire' crash",
+          "headline": "More than 12,000 homeless-related fires already reported in LA this year, straining fire crews",
           "source": "ABC7"
         },
         {
-          "headline": "Father Thomas Wood, son arrested in connection with Madera County, California crash that killed four",
+          "headline": "Xavier Becerra expands lead over Steve Hilton in California governor's race, poll shows",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Is the Trump administration's campaign-style ad on Fox News taxpayer-funded?",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Rain, thunderstorms prompt flash flood warnings in Inland Empire",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Donny Osmond residency at Harrah's Las Vegas extended | Here's why he calls it his 'favorite show' he's ever done",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Super-sized El Ni\u00f1o could cause more than 450,000 heat deaths by February, study suggests",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Starbucks to shutter 250 stores in North America this week in 2nd wave of closings",
           "source": "ABC7"
         },
         {
@@ -437,31 +441,31 @@
           "source": "ABC7"
         },
         {
-          "headline": "Discovery Green showcases the art of Alebrijes and Nahuales",
+          "headline": "Crews battle commercial building fire in downtown Los Angeles as flames shoot through roof",
           "source": "ABC7"
         },
         {
-          "headline": "East Coast eyes strengthening nor\u2019easter already battering Mid-Atlantic shores",
+          "headline": "Driver charged with murder in Chatsworth Metro bus crash pleads not guilty, held on $4.1M bail",
           "source": "ABC7"
         },
         {
-          "headline": "As their last stop nears, NYC's orange subway seats get artsy sendoff",
+          "headline": "Macklemore announces 'Free Palestine' tour after Ed Sheeran controversy",
           "source": "ABC7"
         },
         {
-          "headline": "Possible remains of prehistoric 'thunder beast' discovered at Oceanside, California construction site",
+          "headline": "Man who was shot during 2024 Trump campaign rally in Butler, Pennsylvania, has died",
           "source": "ABC7"
         },
         {
-          "headline": "Jo Koy delivers morning weather forecast on ABC7",
+          "headline": "Nolan Wells' cause and manner of death 'undetermined,' state autopsy report finds",
           "source": "ABC7"
         },
         {
-          "headline": "3 people spotted climbing out of New York City sewer on Upper East Side",
+          "headline": "Stars roll up their sleeves to help Palisades Fire survivors rebuild",
           "source": "ABC7"
         },
         {
-          "headline": "Jo Koy talks new 'Blue in the Face' special and 'Koy Meets World' tour",
+          "headline": "Racing hearts at Santa Anita Park lead to decades-long love story",
           "source": "ABC7"
         },
         {
@@ -470,18 +474,6 @@
         },
         {
           "headline": "2 more San Fernando Valley homes broken into overnight, continuing troubling trend",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Speak your mind with the Philly Phone Project",
-          "source": "ABC7"
-        },
-        {
-          "headline": "'Philly Run Tribe': Five friends form huge fitness family in Philadelphia",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Students outraged after Stanford University uses AI to alter race, appearances in promotional photo",
           "source": "ABC7"
         }
       ],
@@ -499,9 +491,9 @@
         "10": true,
         "11": true,
         "12": true,
-        "13": true,
+        "13": false,
         "14": true,
-        "15": false,
+        "15": true,
         "16": true,
         "17": true,
         "18": false,
@@ -516,39 +508,43 @@
         "27": true,
         "28": true,
         "29": true,
-        "30": false,
+        "30": true,
         "31": true,
-        "32": true,
+        "32": false,
         "33": true,
         "34": false,
-        "35": false,
+        "35": true,
         "36": true,
         "37": true,
-        "38": true,
-        "39": true
+        "38": false,
+        "39": false
       }
     },
     "county": {
-      "summary": "- LA Olympics security costs reach $730 million, LAPD estimates\n- Flea-borne typhus outbreak spreads in Koreatown, LA County cases rise\n- West Nile virus surges in Los Angeles County as spraying begins\n- California Supreme Court orders Sheriff Bianco to return seized ballots",
+      "summary": "- California sheriff broke election law by seizing ballots, state Supreme Court rules\n- West Nile virus surges in Los Angeles County as mosquito spraying underway\n- LAX train contractor delays testing, buys more time for completion\n- UCLA report says excessive response to encampments chilled student activism",
       "headlines": [
         {
           "headline": "Former LA peace ambassador speaks out after case was dismissed this month",
           "source": "LAist"
         },
         {
-          "headline": "The price tag for policing the LA Olympics? $730 million, says LAPD",
+          "headline": "More delays: LAX train contractor buys more time for testing",
           "source": "LAist"
         },
         {
-          "headline": "Insurers say they\u2019re starting to write new California homeowner policies, but how many?",
+          "headline": "Vroman's and Book Soup announce new owners",
           "source": "LAist"
         },
         {
-          "headline": "Flea-borne typhus outbreak reported in Koreatown as cases in LA County rise",
+          "headline": "UCLA's 'excessive' response to anti-war encampments chilled student activism, report says",
           "source": "LAist"
         },
         {
-          "headline": "Sharks, sea snakes and weird fish: El Ni\u00f1o brings unusual marine life to Southern California",
+          "headline": "A new California law forces one community to try something different over homelessness",
+          "source": "LAist"
+        },
+        {
+          "headline": "California sheriff broke election law by seizing ballots, state Supreme Court rules",
           "source": "LAist"
         },
         {
@@ -576,15 +572,15 @@
           "source": "LAist"
         },
         {
+          "headline": "UCLA's 'excessive' response to anti-war encampments chilled student activism, report says",
+          "source": "LAist"
+        },
+        {
           "headline": "Journalists for CNN, MS NOW and Politico return to the White House upon judge's orders",
           "source": "LAist"
         },
         {
           "headline": "Major news outlets banned by Trump will have their day in court",
-          "source": "LAist"
-        },
-        {
-          "headline": "Judge strikes down Trump anti-DEI initiative that cut $600M in teacher training",
           "source": "LAist"
         },
         {
@@ -600,16 +596,16 @@
           "source": "LAist"
         },
         {
-          "headline": "Gubernatorial candidate Steve Hilton has harsh criticisms, sweeping fixes for California schools",
+          "headline": "Prop 40: The billionaire tax could be defeated by two other tax measures",
           "source": "LAist"
         },
         {
-          "headline": "LA advocates and lawmakers urge Newsom to sign bill barring police from moonlighting for ICE",
+          "headline": "California sheriff broke election law by seizing ballots, state Supreme Court rules",
           "source": "LAist"
         },
         {
-          "headline": "Proposition 39 author says ballot initiative \u2018not the same\u2019 as Trump\u2019s efforts to constrict voting",
-          "source": "LAist"
+          "headline": "Lineage warehouse fire health concerns persist as LAFD lists cause as undetermined",
+          "source": "Fox 11 LA"
         },
         {
           "headline": "California Supreme Court orders Sheriff Bianco to return seized ballots",
@@ -637,10 +633,6 @@
         },
         {
           "headline": "Woman who threatened to call ICE on taco vendors now getting scathing business reviews online",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Santa Monica nearing agreement to allow local police to patrol Metro E Line platforms",
           "source": "Fox 11 LA"
         },
         {
@@ -692,51 +684,103 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Monterey Park Praises Order Halting Feds from Carrying Out Warrantless Arrests",
+          "headline": "Pacoima Intersection Dedicated in Honor of Nonprofit Founders",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Bass Calls for Review of LAPD\u2019s Responses with Mentally Ill Residents",
+          "headline": "OC Wildlife Expert Reveals Sea Turtle Eggs Discovery Six Years Ago",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Driver Pleads Not Guilty to Murder Charges in Chatsworth Bus Crash",
+          "headline": "Woman Convicted of Fraud in Smart Ring Case",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Motorcyclist Fatally Injured in Wreck with Delivery Vehicle Identified",
+          "headline": "Man Charged in Deadly Shooting of Woman in Long Beach",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Deliberations Resume in Trial of Man Accused of Murdering His Cousin",
+          "headline": "ACLU Sues ICE in LA Seeking Records on Use of Full-Body Restraint Suits",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Driver Pleads Not Guilty to Murder Charges in Chatsworth Bus Crash",
+          "headline": "Man Convicted of Murdering His Cousin Two Decades Ago",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Dog Killed in Deputy-Involved Shooting in Industry",
+          "headline": "Firefighters Battle Commercial Building Fire in DTLA",
           "source": "MyNewsLA"
         },
         {
-          "headline": "UCLA Study Reports Eaton Fire Smoke Sent Airborne Lead Downwind",
+          "headline": "LA Metro Authorizes $338M for the Purchase of 220 Electric Buses",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LASD Releases Name, Image of Suspect, Vehicle in Norwalk Homicide",
+          "headline": "State Supreme Court Says Sheriff Overstepped Authority in Election Probe",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LACo Begins Mailing Sample Ballots",
+          "headline": "Honey the Pig Heads Home After Pasadena Humane Adoption",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Palm Springs School District, Police Raise Alarm Over \u2018Cat in the Hat\u2019 Social Media Trend",
+          "headline": "Judge Delays Ruling on States\u2019 Settlement with Paramount",
           "source": "MyNewsLA"
+        },
+        {
+          "headline": "The Los Angeles County Sheriff's Department Missing Person Detail is advising William Marshall Prosser has been located. Thank you to the public, the media, and deputy personnel for their tireless efforts in the search for Mr. Prosser. - facebook.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Firefighters battle commercial building fire in downtown Los Angeles as flames shoot through roof - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "2 Men, Juvenile Arrested in Series of Armed Robberies Across LA County - MyNewsLA.com",
+          "source": "Google News LA"
         },
         {
           "headline": "Free to Enroll! Online Ownership Services Technician Course \u2013 COUNTY OF LOS ANGELES - COUNTY OF LOS ANGELES (.gov)",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Sample Ballots Begin Going Out Across County - westsidecurrent.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "The Spot That\u2019s Never There: How L.A. Fails Disabled Residents - citywatchla.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Roblox loses bid to halt L.A. County's lawsuit alleging child sex exploitation on gaming platform - Westlaw Today",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Suspects arrested in string of armed robberies targeting L.A. County T-Mobile stores - KTLA",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "The Vermin Are Winning in Los Angeles: Five Dead From West Nile, Typhus Makes an Encore - California Globe",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LA County wants your input on renaming Cesar E. Chavez Avenue. Join these meetings to weigh in - LA Local",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "\u201cCan of worms\u201d: LA-Westside MLS cleans up mislabeled Palisades lot sales - The Real Deal",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "News | Los Angeles County unemployment falls to 5.0% as government hiring lifts August payrolls - CoStar",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "The Los Angeles County Sheriff\u2019s Department recently held a press conference highlighting the Department's wildland fire specialized protective equipment. Through generous donations from Los Angeles Sheriff's Foundation and Gordon Philanthropies, 279 - facebook.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LAX flights grounded: FAA issues ground stop at Los Angeles International Airport due to thunderstorms - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -748,43 +792,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Solis Issues LA County Emergency Proclamation Ahead of El Ni\u00f1o - MyNewsLA.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles County Sheriff Seeks Public\u2019s Help Locating At-Risk Missing Person Keanu Andrez Czech, Last Seen in Lancaster - Sierra Sun Times",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Brickbat: California Scheming - Reason Magazine",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles County Supervisors Hilda L. Solis, Holly J. Mitchell, Lindsey P. Horvath, and Janice Hahn Together Call on Los Angeles Voters to Vote \u201cNO on Prop 39\u201d - League of Women Voters of California",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "SCV News | Ocean Water Use Warning for Los Angeles County Beaches for Sept. 23 - SCVNews.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "News | Los Angeles County unemployment falls to 5.0% as government hiring lifts August payrolls - CoStar",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Zara Doubles Footprint at a Macerich Shopping Center in Los Angeles County - Commercial Observer",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "LA County wants your input on renaming Cesar E. Chavez Avenue. Join these meetings to weigh in - LA Local",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "A Debt Wall Is Closing In on Apartment Owners \u2014 and Renters Could Feel the Impact - westsidecurrent.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Food Bank 101: How the LA Regional Food Bank Feeds LA County - Los Angeles Regional Food Bank",
+          "headline": "Chase: High-speed Los Angeles pursuit ends after driver crashes - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -792,27 +800,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Chase: High-speed Los Angeles pursuit ends after driver crashes - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Silver Alert Activated For 67-Year-Old Man in Orange, Los Angeles Counties - MyNewsLA.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "State and County Declare Emergency Ahead of Potentially Historic El Ni\u00f1o - westsidecurrent.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles County reports 100 West Nile virus cases, most in nearly a decade - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
           "headline": "Los Angeles County Sheriff's Department. . Sheriff Luna will showcase new fire bags purchased through generous donations from the Los Angeles Sheriff\u2019s Foundation and Gordon Philanthropies. The support from these organizations has enabled the Depart - facebook.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Repost from Sheriff Robert Luna: A Century of Service For 100 years, the Sheriff\u2019s Information Bureau has served as a vital link between the Los Angeles County Sheriff\u2019s Department, the media, and the communities we serve. As Sheriff, I am proud to celebrate - facebook.com",
+          "headline": "Los Angeles County Sheriff Seeks Public\u2019s Help Locating At-Risk Missing Person Keanu Andrez Czech, Last Seen in Lancaster - Sierra Sun Times",
           "source": "Google News LA"
         }
       ],
