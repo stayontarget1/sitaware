@@ -1,10 +1,14 @@
 {
-  "generated": "2026-09-29T19:53:05.785516+00:00",
-  "briefing": "8 AM",
+  "generated": "2026-09-30T03:53:15.024472+00:00",
+  "briefing": "5 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Heath Harvey retires as police chief; Sarah Covarrubias named successor\n- Measure K sales tax revenue funds Community Center, Recreation Park, fire station renovations\n- Big band dance social coming to Old Town Oct. 9, 30\n- Free bulky-item drop-off Oct. 24 at Station Square",
+      "summary": "- Heath Harvey retires as police chief; Sarah Covarrubias named successor\n- Measure K sales tax revenue funds Community Center and fire station renovations\n- Big band dance social coming to Old Town Oct. 9\n- Free bulky-item drop-off Oct. 24 at Station Square",
       "headlines": [
+        {
+          "headline": "MonroviaNow additions: Community guide, job links, transportation",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "A Moment in Monrovia History: The official Monrovia Days Song from 1950",
           "source": "Monrovia Now"
@@ -82,10 +86,6 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Dinner at JB Burgers",
-          "source": "Monrovia Now"
-        },
-        {
           "headline": "The Art Of_ Viewing Party \u2014 Sept. 26 - CityWatch LA",
           "source": "Google News"
         },
@@ -94,11 +94,15 @@
           "source": "Google News"
         },
         {
-          "headline": "62-year-old man allegedly kills woman, dog in Monrovia shooting - WTHR",
+          "headline": "1406 S Alta Vista Ave, Monrovia, CA 91016 - Realtor.com",
           "source": "Google News"
         },
         {
           "headline": "Covina vs Monrovia Boys Basketball - Dec 23, 2026 - Sports Illustrated",
+          "source": "Google News"
+        },
+        {
+          "headline": "South Pasadena Girls Varsity Flag Football @ Monrovia - MaxPreps",
           "source": "Google News"
         },
         {
@@ -127,18 +131,6 @@
         },
         {
           "headline": "Baby Girl Found In Dumpster Near LA School Dies, Investigation Underway",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Rabid Bats Hit Record High In LA County, Public Health Warns",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "FBI Hunts Leader Of India-Based Gang Tied To Assassination, SoCal Violence: Officials",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Animal Rescue Operator Pleads Not Guilty In 300+ Animal Neglect Case",
           "source": "Patch Monrovia"
         },
         {
@@ -188,28 +180,28 @@
       ],
       "relevance": {
         "0": true,
-        "1": false,
-        "2": true,
+        "1": true,
+        "2": false,
         "3": true,
-        "4": false,
-        "5": true,
+        "4": true,
+        "5": false,
         "6": true,
         "7": true,
         "8": true,
         "9": true,
         "10": true,
         "11": true,
-        "12": true,
+        "12": false,
         "13": true,
-        "14": false,
-        "15": true,
+        "14": true,
+        "15": false,
         "16": true,
         "17": true,
-        "18": true,
+        "18": false,
         "19": true,
         "20": false,
         "21": false,
-        "22": true,
+        "22": false,
         "23": false,
         "24": false,
         "25": false,
@@ -220,8 +212,8 @@
         "30": false,
         "31": false,
         "32": false,
-        "33": false,
-        "34": false,
+        "33": true,
+        "34": true,
         "35": true,
         "36": true,
         "37": true,
@@ -230,14 +222,14 @@
       }
     },
     "sgv": {
-      "summary": "- CIP Real Estate acquires San Gabriel Valley business park for $61M\n- Bishop Amat, Los Altos lead SGV football heading into league play\n- Dumpling Bowl celebrates San Gabriel Valley culture through food this week\n- Heat wave expected to peak near 100 degrees this weekend",
+      "summary": "- CIP Real Estate acquires San Gabriel Valley business park for $61M\n- SGV high school football Week 5 scores and rankings released\n- 10 Freeway lanes reopen after chemical spill in West Covina\n- First-ever Dumpling Bowl celebrates San Gabriel Valley culture through food",
       "headlines": [
         {
-          "headline": "LA Varsity: High School Sports in the San Gabriel Valley - San Gabriel Valley Tribune",
+          "headline": "LA Varsity: High School Sports in the San Gabriel Valley - sgvtribune.com",
           "source": "Google News SGV"
         },
         {
-          "headline": "CIP Pays $61M for San Gabriel Valley Business Park - connectcre.com",
+          "headline": "CIP Pays $61M for San Gabriel Valley Business Park - Connect CRE",
           "source": "Google News SGV"
         },
         {
@@ -249,7 +241,11 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "First-ever Dumpling Bowl celebrates San Gabriel through food - San Gabriel Valley Tribune",
+          "headline": "San Gabriel Valley Girls Athlete of the Week: Elle Howie, Bonita - Whittier Daily News",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Fong Honors Educators and School Leaders Across the San Gabriel Valley - ColoradoBoulevard.net",
           "source": "Google News SGV"
         },
         {
@@ -257,51 +253,47 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel Valley Girls Athlete of the Week: Elle Howie, Bonita - San Gabriel Valley Tribune",
+          "headline": "First-ever Dumpling Bowl celebrates San Gabriel through food - sgvtribune.com",
           "source": "Google News SGV"
         },
         {
-          "headline": "Things to do in the San Gabriel Valley area, Sept. 25-Oct. 3 - San Gabriel Valley Tribune",
+          "headline": "San Gabriel Valley high school football stat leaders through Week 4 - sgvtribune.com",
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel Valley high school football stat leaders through Week 4 - San Gabriel Valley Tribune",
+          "headline": "SGV high school football scores for the Week 5 games - sgvtribune.com",
           "source": "Google News SGV"
         },
         {
-          "headline": "Peyton Mann leading the way for Bonita\u2019s top-ranked flag football team - San Gabriel Valley Tribune",
+          "headline": "Meet Alley, Callie and Liz Taylor, this week\u2019s Pets of the Week in the San Gabriel Valley - sgvtribune.com",
           "source": "Google News SGV"
         },
         {
-          "headline": "SGV high school football scores for the Week 5 games - San Gabriel Valley Tribune",
+          "headline": "San Gabriel Valley Boys Athlete of the Week: Ryan Manning, Diamond Bar - sgvtribune.com",
           "source": "Google News SGV"
         },
         {
-          "headline": "Meet Alley, Callie and Liz Taylor, this week\u2019s Pets of the Week in the San Gabriel Valley - San Gabriel Valley Tribune",
+          "headline": "Fred Robledo\u2019s predictions for the SGV high school football leagues - sgvtribune.com",
           "source": "Google News SGV"
         },
         {
-          "headline": "Fred Robledo makes his SGV football league predictions \u2026 - San Gabriel Valley Tribune",
+          "headline": "SGV football Top 30 rankings: No. 1 Bishop Amat and others rested heading to league openers - sgvtribune.com",
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel Valley Boys Athlete of the Week: Ryan Manning, Diamond Bar - San Gabriel Valley Tribune",
+          "headline": "SGV Varsity football wrap-up: Game stories, photos and scores from Week 5 - sgvtribune.com",
           "source": "Google News SGV"
         },
         {
-          "headline": "SGV football Top 30 rankings: No. 1 Bishop Amat and others rested heading to league openers - San Gabriel Valley Tribune",
+          "headline": "High school football: Early look at the scores from Friday\u2019s Week 5 games - sgvtribune.com",
           "source": "Google News SGV"
         },
         {
-          "headline": "SGV Varsity football wrap-up: Game stories, photos and scores from Week 5 - San Gabriel Valley Tribune",
+          "headline": "Haley Ramos leads South Hills flag football to victory over Colony - sgvtribune.com",
           "source": "Google News SGV"
         },
         {
-          "headline": "High school football: Early look at the scores from Friday\u2019s Week 5 games - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "Los Altos football stops El Rancho to remain undefeated - San Gabriel Valley Tribune",
+          "headline": "10 Freeway lanes reopen after chemical spill prompts SigAlert in West Covina - sgvtribune.com",
           "source": "Google News SGV"
         },
         {
@@ -309,7 +301,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "SGV football: Previews, predictions for Friday\u2019s Week 5 games - San Gabriel Valley Tribune",
+          "headline": "SGV football: Previews, predictions for Friday\u2019s Week 5 games - sgvtribune.com",
           "source": "Google News SGV"
         },
         {
@@ -401,47 +393,23 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Caleb Flynn trial: Verdict reached in murder trial of former \u2018American Idol\u2019 contestant | LIVE",
+          "headline": "3.8-magnitude earthquake rattles community of Piru in Ventura County, nearby areas",
           "source": "ABC7"
         },
         {
-          "headline": "Woman accused of shooting at Rihanna\u2019s Los Angeles home is mentally fit for trial, judge says",
+          "headline": "Broadcasting and Cable Hall of Fame inducts Rita Ferro, Stephen A. Smith",
           "source": "ABC7"
         },
         {
-          "headline": "5 Freeway reopens in Sylmar after semi-trailer fire sparked hourslong closure and traffic backup",
+          "headline": "New CA law bans officers from using gloves that deliver electric shocks",
           "source": "ABC7"
         },
         {
-          "headline": "New York Gov. Hochul calls for 'transparent, independent review' of Cornell response to alleged group rape",
+          "headline": "Mother arrested on suspicion of murder in death of baby found in South LA dumpster",
           "source": "ABC7"
         },
         {
-          "headline": "NASA ramps up support to get Boeing\u2019s astronaut capsule flying after Butch and Suni fiasco",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Pro-Trump ad campaign was financed by DHS: Sources",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Long Beach works to protect homes from worsening coastal erosion amid powerful El Ni\u00f1o",
-          "source": "ABC7"
-        },
-        {
-          "headline": "ABC News' Will Reeve reveals testicular cancer diagnosis, chemotherapy treatment",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Florida mom allegedly abandons 4 kids to go on cruise: Court documents",
-          "source": "ABC7"
-        },
-        {
-          "headline": "UK air base 'terrorism' plot probe continues after suspects released on bail",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Iran's currency hits a new record low as war erodes the country's economic stability",
+          "headline": "Trump says AI leaders signed a 'constitution' to police themselves during White House meeting",
           "source": "ABC7"
         },
         {
@@ -449,23 +417,39 @@
           "source": "ABC7"
         },
         {
-          "headline": "18-year-old in ICE detention for more than 200 days: 'They just took me away'",
+          "headline": "New world record for longest dance marathon set by Nigerian dancer",
           "source": "ABC7"
         },
         {
-          "headline": "Insomnia linked to higher risk of dementia, suicide, stroke and other major health issues: Study",
+          "headline": "Ivanna Lisette Ortiz, accused of shooting at Rihanna\u2019s home in Beverly Hills area in Los Angeles, California, is",
           "source": "ABC7"
         },
         {
-          "headline": "Pentagon news: Breach exposed sensitive data on nearly 3 million people",
+          "headline": "Death investigation leads to evacuations after grenade, ammo found inside Canoga Park home",
           "source": "ABC7"
         },
         {
-          "headline": "Baby dead after being found in dumpster in South LA; mother taken into custody",
+          "headline": "TSA officers now not allowed to sit down while checking boarding passes and IDs",
           "source": "ABC7"
         },
         {
-          "headline": "Get exclusive deals up to 70% off beauty and accessories with ABC Secret Savings",
+          "headline": "Supreme Court rules Trump administration can continue rapidly deporting migrants to 3rd countries",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Orcas spotted off Newport Beach as El Nino, Hurricane Polo continue to push rare wildlife to SoCal",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Hegseth targets military's top brass for deeper cuts: Officials",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Remains found on Lancaster property tied to missing persons investigation, sheriff's detectives say",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Iran's currency hits a new record low as war erodes the country's economic stability",
           "source": "ABC7"
         },
         {
@@ -473,22 +457,30 @@
           "source": "ABC7"
         },
         {
-          "headline": "3 hikers in Big Sur saved in overnight rescue operation",
+          "headline": "Dancing Horses are a favorite in local parades. Meet the father and son duo who train them.",
           "source": "ABC7"
         },
         {
-          "headline": "Security guard fires 'warning shots' to scare off burglars at Hacienda Heights mansion",
+          "headline": "Tiffani Thiessen goes from student to headmaster in new series 'Coven Academy'",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Former \u2018American Idol\u2019 singer Caleb Flynn convicted of fatally shooting his wife",
+          "source": "ABC7"
+        },
+        {
+          "headline": "10 missing after boat carrying dozens of migrants capsizes near Puerto Rico: US Coast Guard",
           "source": "ABC7"
         }
       ],
       "relevance": {
-        "0": false,
+        "0": true,
         "1": true,
         "2": true,
         "3": false,
-        "4": true,
+        "4": false,
         "5": true,
-        "6": false,
+        "6": true,
         "7": true,
         "8": false,
         "9": false,
@@ -505,7 +497,7 @@
         "20": false,
         "21": false,
         "22": false,
-        "23": true,
+        "23": false,
         "24": false,
         "25": false,
         "26": false,
@@ -525,10 +517,10 @@
       }
     },
     "county": {
-      "summary": "- LA County mailing ballots this week for November election\n- 69 rabies-infected bats found in LA County, protect pets\n- Southern California coast braces for elevated surf, coastal erosion\n- 2028 Olympic torch relay begins in Atlanta, arrives LA",
+      "summary": "- LA County reports 69 bats with rabies; residents warned to protect pets\n- Long Beach Peninsula erosion could cost hundreds of millions to fix\n- Six Flags Magic Mountain closes X2 coaster following brain injury lawsuits\n- 2028 Olympic torch relay begins in Atlanta, travels through all 50 states",
       "headlines": [
         {
-          "headline": "LA County will start mailing ballots this week for November election",
+          "headline": "E-bikes are Orange County teens\u2019 ticket to independence. But are they too dangerous?",
           "source": "LAist"
         },
         {
@@ -540,27 +532,23 @@
           "source": "LAist"
         },
         {
+          "headline": "The final showdown of Alaska\u2019s Fat Bear Week comes down to heavyweights Bear 910 and Backpack",
+          "source": "LAist"
+        },
+        {
+          "headline": "Teachers unions make pitch to renew California tax worth billions for education",
+          "source": "LAist"
+        },
+        {
           "headline": "New California law bans officers from using gloves that deliver electric shocks",
           "source": "LAist"
         },
         {
+          "headline": "New laws make incremental tweaks to California\u2019s mental health court, while bigger changes nixed",
+          "source": "LAist"
+        },
+        {
           "headline": "LA County says they\u2019ve already found 69 bats with rabies. How to protect yourself and pets",
-          "source": "LAist"
-        },
-        {
-          "headline": "Lauren Halsey talks remaking the Hollywood Bowl for one-night \u2018funk opera\u2019 with Erykah Badu",
-          "source": "LAist"
-        },
-        {
-          "headline": "California recognizes Eid as a state holiday. What does that mean?",
-          "source": "LAist"
-        },
-        {
-          "headline": "OC Transportation Agency board declares coastal erosion emergency",
-          "source": "LAist"
-        },
-        {
-          "headline": "Bass, Raman to appear at LA mayoral forum hosted by Jewish groups",
           "source": "LAist"
         },
         {
@@ -580,15 +568,15 @@
           "source": "LAist"
         },
         {
+          "headline": "US Supreme Court sides with Trump administration in third-country deportations",
+          "source": "LAist"
+        },
+        {
+          "headline": "News organizations ask court to bar White House enforcement of access ban",
+          "source": "LAist"
+        },
+        {
           "headline": "New California law bans officers from using gloves that deliver electric shocks",
-          "source": "LAist"
-        },
-        {
-          "headline": "LA County will start mailing ballots this week for November election",
-          "source": "LAist"
-        },
-        {
-          "headline": "Trump can\u2019t force election changes by blocking counterterrorism funds to states, judge says",
           "source": "LAist"
         },
         {
@@ -604,15 +592,31 @@
           "source": "LAist"
         },
         {
+          "headline": "Teachers unions make pitch to renew California tax worth billions for education",
+          "source": "LAist"
+        },
+        {
           "headline": "New California law bans officers from using gloves that deliver electric shocks",
           "source": "LAist"
+        },
+        {
+          "headline": "Two bodies found on remote Lancaster property amid search for missing person",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Pacific Airshow returns to Huntington Beach with U.S. Air Force Thunderbirds",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Santa Ana police say viral Gaboon viper image was AI-generated",
+          "source": "Fox 11 LA"
         },
         {
           "headline": "Southern California coast braces for elevated surf, rip currents, and erosion threats",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "LAPD detains mother as person of interest after 4-month-old found dead in South LA dumpster",
+          "headline": "Mother arrested after 4-month-old baby found in South LA dumpster dies",
           "source": "Fox 11 LA"
         },
         {
@@ -625,18 +629,6 @@
         },
         {
           "headline": "Newport Beach braces for more erosion as Hurricane Polo nears",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "3 hospitalized after domestic dispute leads to Cudahy shooting: LASD",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Swells from Hurricanes Polo, Odalys to bring high surf and coastal flooding threat to Southern California",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Elderly woman found dead at Bellflower home, allegedly armed man shot during investigation",
           "source": "Fox 11 LA"
         },
         {
@@ -672,6 +664,14 @@
           "source": "Fox 11 LA"
         },
         {
+          "headline": "Cornell fraternity gang rape allegations: Gov. Hochul calls for independent investigation",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Caleb Flynn verdict: Former 'American Idol' singer convicted in wife's murder",
+          "source": "Fox 11 LA"
+        },
+        {
           "headline": "4 simple habits can help slow muscle loss as you age, fitness expert says",
           "source": "Fox 11 LA"
         },
@@ -680,55 +680,47 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Lindsay Clancy defense says evidence falls short, seeks to stop retrial",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Social Security October payment schedule: Here\u2019s when recipients get their checks",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Man Who Fatally Shot Wife, Self in Santa Monica Identified",
+          "headline": "Mega Millions Numbers Drawn",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Missing Temecula Teen Found Safe",
+          "headline": "Authorities Seek Suspects After Robbery, Shots Fired in Hacienda Heights Home",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Triple-Digit Heat Possible as Southern California Heat Wave Builds",
+          "headline": "Man Pleads Guilty to Sex Assaults on Six Children in Fullerton",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Hollywood Forever Cemetery to Host 27th Annual D\u00eda de los Muertos Celebration",
+          "headline": "Man Convicted of Sex Assaults on 3 Girls in Orange County",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Foreign National Sentenced to Over Five Years for Southland Robbery Spree",
+          "headline": "2 Shot in DTLA, 1 Critically",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Man Accused of Injuring Palm Springs Partygoers Pleads Not Guilty",
+          "headline": "Mother of Baby Girl Found Dead in South LA Trash Bin Arrested",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Supervisor Janice Hahn Denounces Catalina Deer Ruling",
+          "headline": "Former LA City Councilman Woo Joins County Ethics Commission",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LA Council Backs $4M for New Harbor Museum and Educational Center",
+          "headline": "2 Injured in Gardena Traffic Collision",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Encino Lawmaker\u2019s Immigration Enforcement Bills Signed Into Law",
+          "headline": "DA Reviewing Case of Alleged Privacy Invasions at Riverside Care Facility",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LA City Council Offers $50,000 Reward in Killing of Community Activist",
+          "headline": "Two Arrested in Long Beach Shooting",
           "source": "MyNewsLA"
         },
         {
-          "headline": "SoCal Twins Plead Guilty to Failing to Report Over $1.3M to IRS",
+          "headline": "Construction Workers Killed in Blythe Were Working on Pavement Project",
           "source": "MyNewsLA"
         },
         {
@@ -740,35 +732,43 @@
           "source": "Google News LA"
         },
         {
+          "headline": "Supervisor Kathryn Barger Secures Unanimous Board Support for $20,000 Reward in Lancaster Murder of Isaiah Vallejo - COUNTY OF LOS ANGELES (.gov)",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Fifth Annual A Million Reasons Brings Community Together to Help Fight Hunger in Los Angeles County - Los Angeles Regional Food Bank",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "County Matches Record for Rabid Bats as Peak Season Continues - Westside Current",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Average LA County Gas Price 7.1 Cents From Matching Record - MyNewsLA.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "\u201cMillions in damages\u201d: Hollywood Hills graffiti mansion hits market for $4M - The Real Deal",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LA County Sheriff's homicide detectives find remains on remote Lancaster property tied to missing persons investigation - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "3657 Motor Ave Apt 611, Los Angeles, CA 90034 - Realtor.com",
+          "source": "Google News LA"
+        },
+        {
           "headline": "The Settlement Bill Nobody Is Managing \u2014 Inside Los Angeles County's Sheriff Litigation Tab - CityWatch LA",
           "source": "Google News LA"
         },
         {
-          "headline": "Triple-Digit Heat Possible as Southern California Heat Wave Builds - MyNewsLA.com",
+          "headline": "Former LA City Councilman Woo Joins County Ethics Commission - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Hayden Panettiere's ex-fiance files petition over daughter's estate - ABC11 News",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "The County Hasn\u2019t Faced a Major Quake in 32 Years. Now It\u2019s Checking Whether It\u2019s Ready - Westside Current",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "936 Centennial St Apt 4, Los Angeles, CA 90012 - Realtor.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Baby dead after being found in dumpster in South Los Angeles, mother taken into custody, police say - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Close to 127 Citations, 38 Arrests Made in LACo Street Takeover Crackdown - MyNewsLA.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "$35,000 to Quit: County Court Revives Staff Buyouts - Westside Current",
+          "headline": "Harbor Associates unloads Santa Clarita offices for $32M - The Real Deal",
           "source": "Google News LA"
         },
         {
@@ -776,15 +776,19 @@
           "source": "Google News LA"
         },
         {
-          "headline": "LA City Council Offers $50,000 Reward in Killing of Community Activist - MyNewsLA.com",
+          "headline": "Triple-Digit Heat Possible as Southern California Heat Wave Builds - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles mayor race: Live election results and updates on front runners Karen Bass, Nithya Raman, Spencer Pratt - ABC7 Los Angeles",
+          "headline": "Hollywood exec in contract to sell what could be one of Venice\u2019s priciest homes - The Real Deal",
           "source": "Google News LA"
         },
         {
-          "headline": "Hurricane Polo Swells Bring High Surf, Coastal Flooding Concerns - MyNewsLA.com",
+          "headline": "Canoga Park death investigation leads to evacuations after grenade, ammo found in home - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Baby dead after being found in dumpster in South Los Angeles, mother taken into custody, police say - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -796,19 +800,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Semitrailer on fire shuts down part of 5 Freeway in Sylmar, Los Angeles - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Man shot and killed by LA County deputies after woman found dead in Bellflower home, department says - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Gold\u2019s Muscles Back into SoCal - Los Angeles Business Journal",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Governor Newsom signs bills to strengthen accountability for cold storage facilities, following emergency in Boyle Heights - California State Portal | CA.gov",
+          "headline": "West Nile virus cases surging across Los Angeles County - KTLA",
           "source": "Google News LA"
         }
       ],
