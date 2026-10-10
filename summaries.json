@@ -1,10 +1,14 @@
 {
-  "generated": "2026-10-09T20:02:31.591987+00:00",
+  "generated": "2026-10-10T04:13:50.832537+00:00",
   "briefing": "5 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Monrovia Police Chief Heath Harvey retiring after 29 years of service\n- Old Town Fall Festival returns to Monrovia October 14\n- Free fire-resilient gardening workshops offered October 17 and November 5\n- Native plant sale and 200-tree giveaway scheduled for November 14",
+      "summary": "- Monrovia Police Chief Heath Harvey retiring after 29 years of service\n- Old Town Fall Festival returns to Monrovia Saturday, Oct. 14\n- Free fire-resilient gardening workshops offered Oct. 17 and Nov. 5\n- Native plant sale and 200-tree giveaway scheduled for Nov. 14",
       "headlines": [
+        {
+          "headline": "Fire Station 101 open house Saturday",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Monrovia merchandise sales support Blondie's cubs",
           "source": "Monrovia Now"
@@ -82,10 +86,6 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "A Moment in Monrovia History: Sgt. Richard Taylor, the Monrovia cameraman who filmed D-Day",
-          "source": "Monrovia Now"
-        },
-        {
           "headline": "Medical debt is crushing hospital patients in LA. Health officials may have a fix - NPR",
           "source": "Google News"
         },
@@ -94,15 +94,19 @@
           "source": "Google News"
         },
         {
-          "headline": "15K Deported In SoCal Immigration Crackdown: UCLA Study",
+          "headline": "Dignity Health's Annual Free Trunk-Or-Treat Returns To Monrovia Oct. 29 - Patch",
+          "source": "Google News"
+        },
+        {
+          "headline": "Dignity Health's Annual Free Trunk-Or-Treat Returns To Monrovia Oct. 29",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "Kelvin Wave Raises SoCal Sea Levels As Tropical Storm Rachel Threatens Coast",
           "source": "Patch Monrovia"
         },
         {
           "headline": "Old Town Fall Festival Returns To Monrovia Oct. 14",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Tropical Storm Rachel Threatens Southern California: What To Know",
           "source": "Patch Monrovia"
         },
         {
@@ -162,14 +166,14 @@
         "0": true,
         "1": true,
         "2": true,
-        "3": false,
-        "4": true,
+        "3": true,
+        "4": false,
         "5": true,
         "6": true,
         "7": true,
         "8": true,
         "9": true,
-        "10": true,
+        "10": false,
         "11": true,
         "12": true,
         "13": true,
@@ -178,10 +182,10 @@
         "16": true,
         "17": true,
         "18": true,
-        "19": true,
+        "19": false,
         "20": false,
         "21": true,
-        "22": false,
+        "22": true,
         "23": true,
         "24": false,
         "25": true,
@@ -196,16 +200,13 @@
         "34": true,
         "35": true,
         "36": true,
-        "37": true
+        "37": true,
+        "38": true
       }
     },
     "sgv": {
-      "summary": "- San Gabriel Valley residents battle 12-mile data center expansion opposition\n- Extreme heat warning remains in effect for Pasadena, SGV\n- Greg Lui arrested for allegedly smuggling $300 million AI tech to China\n- San Gabriel's 11th annual Dumpling and Beer Fest celebrates local food culture",
+      "summary": "- Data center opposition hits 12-mile snag in San Gabriel Valley\n- Extreme heat warning remains in effect for Pasadena, SGV\n- SGV child praised for saving mother from drowning incident\n- Pasadena begins building 25-megawatt battery storage system at power plant",
       "headlines": [
-        {
-          "headline": "California man Greg Lui arrested by feds for allegedly smuggling $300 million in AI tech to China - ABC7 Los Angeles",
-          "source": "Google News SGV"
-        },
         {
           "headline": "San Gabriel Valley Residents Fighting Data Centers Hit a 12-Mile-Long Snag - Capital & Main",
           "source": "Google News SGV"
@@ -224,10 +225,6 @@
         },
         {
           "headline": "San Gabriel Valley high school football stat leaders through Week 6 - Pasadena Star News",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "San Gabriel Valley CEO accused of smuggling $300 million in AI tech to China - Yahoo",
           "source": "Google News SGV"
         },
         {
@@ -259,6 +256,10 @@
           "source": "Google News SGV"
         },
         {
+          "headline": "Meet Mika, Penny and Winnie, this week\u2019s Pets of the Week in the San Gabriel Valley - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
           "headline": "Who can cross at this equestrian crossing? - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
@@ -267,19 +268,23 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Eric Chan, San Gabriel City Council candidate, 2026 election questionnaire - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
           "headline": "California\u2019s economy beats nation but trails history - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "Meet Mika, Penny and Winnie, this week\u2019s Pets of the Week in the San Gabriel Valley - San Gabriel Valley Tribune",
+          "headline": "Free mole festival highlights complex indigenous Mexican dish - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "Free mole festival highlights complex indigenous Mexican dish - San Gabriel Valley Tribune",
+          "headline": "Wendy Wang, San Gabriel City Council candidate, 2026 election questionnaire - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Photos: The USS Abraham Lincoln off the California coast - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Endorsement: No on Los Angeles County\u2019s Measure A - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -321,6 +326,10 @@
         {
           "headline": "Native American Indian Commission to Mark 50 Year Anniversary at The Huntington",
           "source": "Pasadena Now"
+        },
+        {
+          "headline": "Pasadena Unified Board Divided Over Transformation Process",
+          "source": "Colorado Blvd"
         },
         {
           "headline": "2026 General Election: Recommendations for L.A. County Superior Court Judges",
@@ -367,15 +376,39 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Pasadena Rent Stabilization Workshop to Explain Security Deposit Rules",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Trump says US to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
+          "headline": "Tropical Storm Rachel to bring rain, coastal flooding risk to SoCal this weekend",
           "source": "ABC7"
         },
         {
-          "headline": "Wladimir Klitschko, Hayden Panettiere's ex-fiance, granted temporary guardianship of daughter Kaya's estate after death",
+          "headline": "Police issue warning before low-flying helicopter stuns guests at Newport Beach Country Club gala",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Newport Beach declares local emergency after high tide from Tropical Storm Rachel floods streets",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Menudo invites fans to relive 'Menudomania' as 50th anniversary tour begins in Los Angeles",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Hurricane Isaias: Storm makes landfall along the US Gulf Coast as a dangerous Category 2 hurricane",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Isaias made landfall near Destin Florida",
+          "source": "ABC7"
+        },
+        {
+          "headline": "New speed cameras in Malibu detect more than 100,000 violations on PCH in 9 days",
+          "source": "ABC7"
+        },
+        {
+          "headline": "El Ni\u00f1o could delay opening of wildlife crossing over 101 Freeway in Agoura Hills",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Santa Clarita man charged after allegedly tossing cigarette onto fireworks, igniting wildfire",
           "source": "ABC7"
         },
         {
@@ -383,39 +416,7 @@
           "source": "ABC7"
         },
         {
-          "headline": "Panama earthquake: Tsunami threat after magnitude 7.7 earthquake shakes region, USGS reports",
-          "source": "ABC7"
-        },
-        {
-          "headline": "High tide from Tropical Storm Rachel floods Newport Beach streets; residents brace for more impacts",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Margaret Hamilton, who led a software team for NASA's Apollo program, dies at 90",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Person shot during interaction with federal agents in New York City: NYPD",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Bernie Sanders rallies in support of CA's proposed billionaire tax: 'The whole country is watching'",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Hurricane Isaias: Storm strengthens into a dangerous Category 3 on track toward the US Gulf Coast",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Newborn 'Baby Angelita' was possibly run over by 14-year-old mom in incest case, officials say",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Discovery of woman\u2019s body in abandoned house in woods sparks yearslong manhunt",
-          "source": "ABC7"
-        },
-        {
-          "headline": "LA Plaza de Cultura y Artes celebrates 15 years of Latino history, culture and community",
+          "headline": "Homes red-tagged as one teeters near ocean along Long Beach Peninsula with continued high surf from Tropical Storm Rachel",
           "source": "ABC7"
         },
         {
@@ -423,36 +424,40 @@
           "source": "ABC7"
         },
         {
-          "headline": "Mike Ditka death: Legendary Chicago Bears coach, Hall of Fame TE, dies at age 86",
+          "headline": "Off-duty ICE agent shot after assaulting 72-year-old man and his daughter at Fresno home, police say",
           "source": "ABC7"
         },
         {
-          "headline": "100-year-old veteran still bowls strikes",
+          "headline": "Past ABC7 Sweepstakes & Promotions",
           "source": "ABC7"
         },
         {
-          "headline": "\ufeffBass defends LAPD chief, addresses homeless concerns as mayoral campaign enters final weeks",
+          "headline": "Panama earthquake: Tsunami threat after magnitude 7.7 earthquake and 6.6 aftershock rock region, USGS reports",
           "source": "ABC7"
         },
         {
-          "headline": "Rain, cooler temperatures coming to SoCal this weekend",
+          "headline": "Person shot during interaction with federal agents in New York City: NYPD",
           "source": "ABC7"
         },
         {
-          "headline": "Arizona congressional candidate says she was sexually assaulted when repairing campaign signs",
+          "headline": "Vance expresses doubts about Pentagon plan to livestream Fort Hood shooter's execution",
           "source": "ABC7"
         },
         {
-          "headline": "Christa Pike seeing 'remarkable physical recovery' but cognitive challenges remain: Lawyers",
+          "headline": "Wladimir Klitschko, Hayden Panettiere's ex-fiance, granted temporary guardianship of daughter Kaya's estate after death",
           "source": "ABC7"
         },
         {
-          "headline": "5 people spotted climbing out of manhole in New York City's Upper East Side manhole; no arrests",
+          "headline": "Trump says US to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Margaret Hamilton, who led a software team for NASA's Apollo program, dies at 90",
           "source": "ABC7"
         }
       ],
       "relevance": {
-        "0": false,
+        "0": true,
         "1": true,
         "2": true,
         "3": true,
@@ -467,38 +472,42 @@
         "12": true,
         "13": true,
         "14": true,
-        "15": true,
-        "16": true,
-        "17": false,
-        "18": true,
-        "19": true,
-        "20": false,
-        "21": false,
-        "22": false,
+        "15": false,
+        "16": false,
+        "17": true,
+        "18": false,
+        "19": false,
+        "20": true,
+        "21": true,
+        "22": true,
         "23": true,
-        "24": false,
+        "24": true,
         "25": true,
         "26": true,
         "27": false,
-        "28": false,
+        "28": true,
         "29": true,
-        "30": false,
-        "31": true,
+        "30": true,
+        "31": false,
         "32": true,
         "33": true,
         "34": true,
-        "35": false,
+        "35": true,
         "36": false,
-        "37": false,
-        "38": false,
+        "37": true,
+        "38": true,
         "39": true
       }
     },
     "county": {
-      "summary": "- El Ni\u00f1o preparation underway: invasive plant removal and family readiness plans intensify\n- High swells and weekend rain hit Long Beach; tropical storm causes coastal flooding\n- Three new California e-bike safety laws enacted following deadly crash incidents\n- LA County supervisors extend disaster case manager funding for fire survivors",
+      "summary": "- Tropical Storm Rachel batters SoCal coast, damages homes, causes major flooding\n- Weather whiplash brings cooldown, rain, and preparation needed for El Ni\u00f1o\n- Metrolink service cuts threaten OC and Antelope Valley riders next month\n- Actor Keegan Allen pistol-whipped, robbed at gunpoint in West Hollywood",
       "headlines": [
         {
-          "headline": "Community college students were struggling to transfer. Now, they have a pathway to Arizona State",
+          "headline": "Strong waves severely damage homes, flood streets after breaking through Peninsula\u2019s boardwalk",
+          "source": "LAist"
+        },
+        {
+          "headline": "Weather whiplash: SoCal gets a huge cooldown, some rain and more coastal damage",
           "source": "LAist"
         },
         {
@@ -506,7 +515,23 @@
           "source": "LAist"
         },
         {
+          "headline": "SoCal drivers, get your car ready for El Ni\u00f1o's road hazards",
+          "source": "LAist"
+        },
+        {
+          "headline": "Bears sometimes make for difficult neighbors. One expert started a company to help",
+          "source": "LAist"
+        },
+        {
           "headline": "Volunteers work to remove invasive plants in the Pacific Palisades before El Ni\u00f1o-driven rains",
+          "source": "LAist"
+        },
+        {
+          "headline": "OC, Antelope Valley Metrolink riders could face major service cuts as soon as next month",
+          "source": "LAist"
+        },
+        {
+          "headline": "Santa Monica College faces scrutiny after years of financial struggle. What it means for students",
           "source": "LAist"
         },
         {
@@ -519,10 +544,6 @@
         },
         {
           "headline": "What experts say about LA\u2019s autonomous cars and their safety record",
-          "source": "LAist"
-        },
-        {
-          "headline": "High swells are hitting Long Beach again, and weekend rain is on the way thanks to another hurricane",
           "source": "LAist"
         },
         {
@@ -562,20 +583,16 @@
           "source": "LAist"
         },
         {
-          "headline": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
-          "source": "LAist"
+          "headline": "Ladera Heights homeowner says burglars hit her home twice this year",
+          "source": "Fox 11 LA"
         },
         {
-          "headline": "How California insurance commissioner candidates Jane Kim and Ben Allen measure up",
-          "source": "LAist"
+          "headline": "Tropical Storm Rachel to bring rain, cooler temps, coastal flooding to SoCal",
+          "source": "Fox 11 LA"
         },
         {
-          "headline": "LAist asked the experts for their hottest takes on all 14 California propositions",
-          "source": "LAist"
-        },
-        {
-          "headline": "City of LA will establish a fund to clean the 6th Street Bridge",
-          "source": "LAist"
+          "headline": "Newport Beach declares local emergency over coastal flooding on Balboa Peninsula",
+          "source": "Fox 11 LA"
         },
         {
           "headline": "Long Beach coastal flooding: Tropical Storm Rachel damages homes, seawall",
@@ -595,18 +612,6 @@
         },
         {
           "headline": "LA County supervisors push to extend funding for disaster case managers for fire survivors",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "'Danny Fire' slows 5 Freeway traffic, forces evacuations near Gorman",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Skid Row drug bust: LAPD and feds target gang-run operation in sweeping raid",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Souplantation announces return to California in 2027",
           "source": "Fox 11 LA"
         },
         {
@@ -642,6 +647,10 @@
           "source": "Fox 11 LA"
         },
         {
+          "headline": "Vance casts doubt on livestreaming Hasan execution: \u2018I\u2019m not going to be watching it\u2019",
+          "source": "Fox 11 LA"
+        },
+        {
           "headline": "K\u012blauea volcano activity prompts trail closures at popular Hawaii national park",
           "source": "Fox 11 LA"
         },
@@ -654,15 +663,7 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "What Christa Pike said when she woke up Tuesday",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "LAPD Releases Video of Hit-and-Run Crash That Killed 83-Year-Old Man",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Caltrans Announces $69 Million Pacific Coast Highway Paving Project",
+          "headline": "Long Beach Police Seek Help Locating Missing 51-Year-Old Woman",
           "source": "MyNewsLA"
         },
         {
@@ -670,47 +671,55 @@
           "source": "MyNewsLA"
         },
         {
-          "headline": "Man Killed in Crash on 14 Freeway in Santa Clarita Identified",
+          "headline": "LA Nonprofit Expands Farmers\u2019 Market Delivery Program",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Flooding Swamps Balboa Peninsula, Prompts Emergency Response",
+          "headline": "Man Pleads Guilty to Secret Recordings of Underage Girls",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Parolee Accused of Gunning Down Temecula Woman to be Arraigned Next Week",
+          "headline": "LA Homelessness Governance Meeting Ends Abruptly Without Vote",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Port of LA Sets All-Time Monthly Cargo Record",
+          "headline": "Riverside Seeks Residents\u2019 Input on Desired Qualities for Next City Manager",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LA Council Honors Retired NBA Star Russell Westbrook",
+          "headline": "North Hollywood Man Gets Nearly Six Years for COVID-19 Loan Fraud",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Palo Verde Hospital on Track with Turnaround Plan",
+          "headline": "Newport Beach Declares Local Emergency Amid Coastal Flooding",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Salvation Army Settles with Parishioner in Sexual Abuse Suit",
+          "headline": "MacArthur Park Vendor, Stabbing Survivor Honored for Courage",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Employee Killed During Shootout at Florence-Graham Dispensary",
+          "headline": "Sex Offender Gets More than 39 Years for Assaulting 8 Victims",
           "source": "MyNewsLA"
+        },
+        {
+          "headline": "Federal Arson Charge Filed Against Man in Bouquet Fire",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Storm Season Kick-Off Press Conference - Fire Department - Los Angeles County (.gov)",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Los Angeles County District Attorney Nathan J. Hochman today honored two community members, Johanna Martinez and Allie Shehorn, for their extraordinary actions at a Courage Awards ceremony hosted by the Rotary Club of Los Angeles in downtown Los - Instagram",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Did you know? The Los Angeles County Sheriff\u2019s Department would like to remind you to NEVER SHAKE A BABY. EVER. Infants and young children up to age five are susceptible to head trauma because their neck muscles are weak and cannot always suppo - Facebook",
+          "source": "Google News LA"
         },
         {
           "headline": "Earthquake in Los Angeles County: 3.2-magnitude quake rattles Long Beach area - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "LA County Coordinated Joint Information Center Update \u2013 10/7/2026 - LA County Recovers (.gov)",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "When the shakes happen, knowing what to do matters. The Los Angeles County Sheriff\u2019s Department encourages you to take part in the Great ShakeOut and practice earthquake safety with your family. DROP. COVER. HOLD ON. \u2022 DROP onto your hands and - Facebook",
           "source": "Google News LA"
         },
         {
@@ -718,15 +727,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "LA\u2019s 2026 election ballot measures: A guide to what LA City and County voters will decide - LA Public Press",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Strung across 14 acres of a Los Angeles County thrill park's parking lot, 22,908 solar panels just became California's largest carport array and now power two parks at once - Energies Media",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles County CIO Peter Loo to Retire - GovTech",
+          "headline": "Southern California Braces for Rain, Dangerous Surf and Coastal Flooding - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
@@ -734,19 +735,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "CSUN Hosts L.A. County Vote Center for Midterm Elections - CSUN Newsroom",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "ACLU of Southern California Proposition Endorsements for 2026 Election - ACLU of Southern California",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "LA officials document first case of a rabid raccoon in more than 50 years - The Guardian",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "LA County Warns Swimmers to Avoid Six Beach Areas - MyNewsLA.com",
+          "headline": "Los Angeles County CIO Peter Loo to Retire - GovTech",
           "source": "Google News LA"
         },
         {
@@ -754,7 +743,23 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County Sheriff's Department. . Congratulations, Class 492! The Los Angeles County Sheriff\u2019s Department proudly celebrated the graduation of Academy Class 492, marking an important milestone for our newest deputies and fellow graduates from - Facebook",
+          "headline": "Los Angeles County Sheriff's Department. Cloud Static \u00b7 Hip Hop Background. As National Fire Prevention Week comes to a close, the Los Angeles County Sheriff\u2019s Department wants to remind everyone of everyday steps we can take with rechargeable batteri - Facebook",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Los Angeles County Sheriff's Department on Reels - Facebook",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Bouquet Fire: Santa Clarita man charged after allegedly tossing cigarette onto fireworks, igniting wildfire - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "When the shakes happen, knowing what to do matters. The Los Angeles County Sheriff\u2019s Department encourages you to take part in the Great ShakeOut and practice earthquake safety with your family. DROP. COVER. HOLD ON. \u2022 DROP onto your hands and - Facebook",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LA County Coordinated Joint Information Center Update \u2013 10/7/2026 - LA County Recovers (.gov)",
           "source": "Google News LA"
         },
         {
@@ -762,23 +767,23 @@
           "source": "Google News LA"
         },
         {
-          "headline": "'Pretty Little Liars' actor Keegan Allen says he was beaten and robbed at gunpoint in West Hollywood: Caught on video - ABC7 Los Angeles",
+          "headline": "Los Angeles Man Charged With Murdering Culver CityBus Driver - COUNTY OF LOS ANGELES (.gov)",
           "source": "Google News LA"
         },
         {
-          "headline": "Franklin High students march after classmate's death on campus - ABC7 Los Angeles",
+          "headline": "Los Angeles County Sheriff's Department. . Congratulations, Class 492! The Los Angeles County Sheriff\u2019s Department proudly celebrated the graduation of Academy Class 492, marking an important milestone for our newest deputies and fellow graduates from - Facebook",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Strung across 14 acres of a Los Angeles County thrill park's parking lot, 22,908 solar panels just became California's largest carport array and now power two parks at once - Energies Media",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "CSUN Hosts L.A. County Vote Center for Midterm Elections - CSUN Newsroom",
           "source": "Google News LA"
         },
         {
           "headline": "'Operation Save Skid Row' targets over 2 dozen alleged drug dealers in notorious Downtown LA area - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Tropical Storm Rachel Could Bring Rain, Strong Surf to Southland - MyNewsLA.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Rabid raccoon found in Westlake Village causes concern for SoCal - Ventura County Star",
           "source": "Google News LA"
         }
       ],
