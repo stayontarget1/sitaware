@@ -1,10 +1,18 @@
 {
-  "generated": "2026-10-11T19:25:22.485312+00:00",
-  "briefing": "8 AM",
+  "generated": "2026-10-12T04:13:22.379217+00:00",
+  "briefing": "5 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Old Town Fall Festival returns to Monrovia October 14\n- Monrovia High students selected for county student advisory council\n- Free fire-resilient gardening workshops October 17 and November 5\n- Native plant sale and 200-tree giveaway November 14",
+      "summary": "- Old Town Fall Festival returns to Monrovia October 14\n- Monrovia bridal shop offers free gown after racist proposal interruption\n- Mobile Vote Center at Street Fair on October 30\n- Free fire-resilient gardening workshops October 17 and November 5",
       "headlines": [
+        {
+          "headline": "Watercolor workshop set for Oct. 28",
+          "source": "Monrovia Now"
+        },
+        {
+          "headline": "Monrovia bridal shop offers free gown after racist proposal interruption",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Three Monrovia High students selected for county student advisory council",
           "source": "Monrovia Now"
@@ -78,19 +86,15 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Dungeons and Dragons at the Library, Oct. 20",
-          "source": "Monrovia Now"
-        },
-        {
-          "headline": "November Adult Craft at the Library, Nov. 3",
-          "source": "Monrovia Now"
-        },
-        {
           "headline": "Medical debt is crushing hospital patients in LA. Health officials may have a fix - NPR",
           "source": "Google News"
         },
         {
           "headline": "Old Town Fall Festival Returns To Monrovia Oct. 14 - Patch",
+          "source": "Google News"
+        },
+        {
+          "headline": "Monrovia High School (CA) Softball - MaxPreps",
           "source": "Google News"
         },
         {
@@ -114,7 +118,7 @@
           "source": "Patch Monrovia"
         },
         {
-          "headline": "Notorious 'Trash House' Returns | NFL Owner Suspended | Teen's 1969 Murder Mystery Solved: CA News",
+          "headline": "Huge Rats Move In, Drive Families Out: Weird News & Oddities",
           "source": "Patch Monrovia"
         },
         {
@@ -130,15 +134,11 @@
           "source": "Patch Monrovia"
         },
         {
-          "headline": "Respiratory Illnesses On The Rise: See What's Circulating In CA",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Push For Year-Round DST Intensifies: What CA Lawmakers Say",
-          "source": "Patch Monrovia"
-        },
-        {
           "headline": "Old Town Fall Festival Returns To Monrovia Oct. 14",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "Nature\u2019s Strange Clues About The Winter Ahead",
           "source": "Patch Monrovia"
         },
         {
@@ -195,40 +195,40 @@
         }
       ],
       "relevance": {
-        "0": true,
+        "0": false,
         "1": true,
         "2": true,
         "3": true,
         "4": true,
         "5": true,
-        "6": false,
+        "6": true,
         "7": true,
-        "8": true,
+        "8": false,
         "9": true,
-        "10": true,
-        "11": true,
-        "12": false,
+        "10": false,
+        "11": false,
+        "12": true,
         "13": true,
-        "14": true,
+        "14": false,
         "15": true,
         "16": true,
-        "17": true,
+        "17": false,
         "18": true,
         "19": true,
         "20": false,
         "21": true,
-        "22": true,
+        "22": false,
         "23": true,
-        "24": false,
+        "24": true,
         "25": false,
-        "26": true,
-        "27": false,
+        "26": false,
+        "27": true,
         "28": false,
         "29": false,
         "30": false,
         "31": false,
-        "32": false,
-        "33": true,
+        "32": true,
+        "33": false,
         "34": true,
         "35": true,
         "36": true,
@@ -238,7 +238,7 @@
       }
     },
     "sgv": {
-      "summary": "- Data center opposition in SGV hits 12-mile-long setback in fight\n- Extreme heat warning remains in effect for Pasadena, San Gabriel Valley\n- Child praised for saving mother from drowning in San Gabriel Valley\n- Rain forecast through Monday as temperatures drop 22 degrees by Monday",
+      "summary": "- SGV residents fighting data centers hit major 12-mile-long construction snag\n- Extreme heat warning remains in effect for valley residents\n- Rain arrives tonight with temperatures dropping 22 degrees by Monday\n- Child praised for saving mother from drowning in SGV",
       "headlines": [
         {
           "headline": "San Gabriel Valley Residents Fighting Data Centers Hit a 12-Mile-Long Snag - Capital & Main",
@@ -269,10 +269,6 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "SGV high school football schedule for Week 7, Oct. 8-9 - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
           "headline": "San Gabriel Valley high school football stat leaders through Week 6 - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
@@ -297,7 +293,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "California\u2019s economy beats nation but trails history - San Gabriel Valley Tribune",
+          "headline": "SGV Football Week 8 schedule - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -305,11 +301,15 @@
           "source": "Google News SGV"
         },
         {
+          "headline": "Scientists win chemistry Nobel for discoveries about mirrored molecules that led to many drugs - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
           "headline": "American West comes alive inside Industry Hills Expo Center - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "Scientists win chemistry Nobel for discoveries about mirrored molecules that led to many drugs - San Gabriel Valley Tribune",
+          "headline": "Endorsement: Eleni Kounalakis for state treasurer - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -317,7 +317,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Endorsement: Eleni Kounalakis for state treasurer - San Gabriel Valley Tribune",
+          "headline": "What really is a \u2018new normal\u2019 in interest rates? - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -359,6 +359,10 @@
         {
           "headline": "Pasadena\u2019s Arroyo Seco Cleanup Comes as Brookside Park Stormwater Project Moves Toward Final Design",
           "source": "Pasadena Now"
+        },
+        {
+          "headline": "Black Education Expo in Pasadena Connects Families With Books, Wellness and Career Resources",
+          "source": "Colorado Blvd"
         },
         {
           "headline": "Thoughts for Pennies: \u201cAll in Favor\u201d",
@@ -405,8 +409,36 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Pasadena\u2019s Latino Heritage Parade Puts Community\u2019s Heartbeat on Display Saturday",
-          "source": "Colorado Blvd"
+          "headline": "Bike Fire: Santa Clarita brush fire burns at least 475 acres; evacuation orders, warnings downgraded",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Dodgers fall to Brewers 2-1 in NL Championship Series opener",
+          "source": "ABC7"
+        },
+        {
+          "headline": "2 children killed in Pico-Union shooting, suspect hospitalized with self-inflicted gunshot wound",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Pope Leo XIV will undergo surgery to remove a nodule on his lung",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Long Beach Marathon kicks off after coastal flooding prompts 'precautionary course adjustment'",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Newport Beach flooding: Some California beaches forced to close after 'unusually high' ocean water levels from Tropical Storm Rachel",
+          "source": "ABC7"
+        },
+        {
+          "headline": "ICE runs over man: ICE agent caught on surveillance video hitting Miguel Parra-Hernandez with car during chase at shopping center, ICE and Harris County, Texas officials say",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Keegan Allen shares update on his recovery after being beaten, robbed in West Hollywood",
+          "source": "ABC7"
         },
         {
           "headline": "Russia strikes power plant in Ukraine after Trump announces energy ceasefire",
@@ -417,15 +449,7 @@
           "source": "ABC7"
         },
         {
-          "headline": "Long Beach Marathon kicks off after coastal flooding prompts 'precautionary course adjustment'",
-          "source": "ABC7"
-        },
-        {
           "headline": "Rain to move through SoCal Sunday as Rachel continues to bring coastal flooding",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Pope Leo XIV will undergo surgery to remove a nodule on his lung",
           "source": "ABC7"
         },
         {
@@ -463,30 +487,6 @@
         {
           "headline": "Skid Row residents decry law enforcement sweep as 'publicity stunt'; officials defend operation",
           "source": "ABC7"
-        },
-        {
-          "headline": "Philadelphia officer killed in ambush shooting ID'd, another wounded; suspect charged with murder",
-          "source": "ABC7"
-        },
-        {
-          "headline": "4 dead from storm as Isaias brings threat of floods across the Southeast",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Newport Beach closes The Wedge and piers after Tropical Storm Rachel fuels high tide, floods streets",
-          "source": "ABC7"
-        },
-        {
-          "headline": "FCC considers allowing more political robocalls before midterms, including those created with AI",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Indian man sentenced in Paris over a global Discord ring accused of abusing children",
-          "source": "ABC7"
-        },
-        {
-          "headline": "LA County search and rescue team heads to Panama after earthquakes",
-          "source": "ABC7"
         }
       ],
       "relevance": {
@@ -516,24 +516,24 @@
         "23": true,
         "24": true,
         "25": true,
-        "26": true,
+        "26": false,
         "27": true,
         "28": true,
         "29": true,
-        "30": false,
+        "30": true,
         "31": false,
-        "32": true,
-        "33": true,
+        "32": false,
+        "33": false,
         "34": true,
-        "35": false,
-        "36": true,
-        "37": false,
-        "38": true,
+        "35": true,
+        "36": false,
+        "37": true,
+        "38": false,
         "39": true
       }
     },
     "county": {
-      "summary": "- Long Beach evacuates Peninsula residents as high surf, Tropical Storm Rachel pound coast\n- Southern California braces for 8-foot tides, flooding from Tropical Storm Rachel this week\n- Santa Clarita man charged with arson after igniting Bouquet Fire with cigarette on fireworks\n- Volunteers remove invasive plants in Pacific Palisades ahead of El Ni\u00f1o-driven rains",
+      "summary": "- Tropical Storm Rachel brings 8-foot tides, coastal flooding to Southern California\n- Long Beach evacuates Peninsula residents as damaging waves threaten homes\n- Volunteers remove invasive plants in Pacific Palisades ahead of El Ni\u00f1o rains\n- Santa Clarita man charged with arson after igniting Bouquet Fire",
       "headlines": [
         {
           "headline": "Long Beach Peninsula residents join scramble to save homes from high surf",
@@ -696,23 +696,19 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Rachel Brings Rain, Flood Watch to Riverside County",
+          "headline": "Broader Long Beach Evacuation Advisories Lifted, Some Homes Still Red-Tagged",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Newport Beach Shuts Down Some Coastal Areas Amid Flooding Fears",
+          "headline": "Fast-Moving Brush Fire Erupts in Santa Clarita, Prompts Evacuations",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Offshore Storm Brings Rain, Coastal Flooding Threat to Southland",
+          "headline": "LACo Seeks Dismissal of Black Sheriff Lieutenant\u2019s Discrimination Suit",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Newport Beach Shuts Down Some Coastal Areas Amid Flooding Fears",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Person Rescued From Vehicle in Flooded Road in Winchester",
+          "headline": "Fast-Moving Brush Fire Erupts in Santa Clarita, Prompts Evacuations",
           "source": "MyNewsLA"
         },
         {
@@ -720,27 +716,35 @@
           "source": "MyNewsLA"
         },
         {
-          "headline": "More Damage in Long Beach as High Surf Pounds Alamitos Peninsula",
+          "headline": "Long Beach Marathon Course Adjusted Due to Coastal Conditions",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LA, Orange County Gas Prices Decline for 10th Straight Day",
+          "headline": "Newport Beach Shuts Down Some Coastal Areas Amid Flooding Fears",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Riverside County Gas Prices Drop For Ninth Straight Day",
+          "headline": "Fast-Moving Brush Fire Erupts in Santa Clarita",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Dodgers To Face Brewers in Game 1 of NL Championship Series Sunday",
+          "headline": "Eight-Year-Old Horse Dies in Racing Injury at Los Alamitos",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Firefighters Knock Down Fire at Reseda Home, Site of Previous Burn",
+          "headline": "Three Shot in Harvard Heights Area of Los Angeles",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Pedestrian Struck By Vehicle in Sun Village",
           "source": "MyNewsLA"
         },
         {
           "headline": "POTENTIAL COASTAL FLOODING, HIGH SURF AND RIP CURRENTS THIS WEEKEND - COUNTY OF LOS ANGELES (.gov)",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Today, we honor the memory of Deputy James W. Waygood, who tragically lost his life in the line of duty on October 11, 1967. Deputy Waygood, 25, was killed in a traffic collision while performing his patrol duties in Los Angeles County. On this anniversary of h - Facebook",
           "source": "Google News LA"
         },
         {
@@ -752,7 +756,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Today, we honor the memory of Deputy James W. Waygood, who tragically lost his life in the line of duty on October 11, 1967. Deputy Waygood, 25, was killed in a traffic collision while performing his patrol duties in Los Angeles County. On this anniversary of h - Facebook",
+          "headline": "In California, 69 rabid bats turn up at schools, offices, and backyards in Los Angeles County - The Cool Down",
           "source": "Google News LA"
         },
         {
@@ -764,19 +768,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "L.A. County Department of Public Social Services Launches EBT Safety & Security Month - COUNTY OF LOS ANGELES (.gov)",
+          "headline": "Los Angeles County District Attorney Nathan J. Hochman today honored two community members, Johanna Martinez and Allie Shehorn, for their extraordinary actions at a Courage Awards ceremony hosted by the Rotary Club of Los Angeles in downtown Los - Instagram",
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County Sheriff Seeks Public\u2019s Help Locating At-Risk Missing 75-Year-Old Carmen Guitierrez, Last Seen on Woolwine Drive - Sierra Sun Times",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Man on E-scooter killed in hit-and-run crash involving 2 vehicles in South LA, police say - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles County Sheriff\u2019s Department Missing Persons Unit is asking for the public\u2019s help locating At-Risk missing person Carmen Guitierrez. She is a 75-year-old female Hispanic adult who was last seen on October 9, 2026, on the 3900 block of Woolwine - Facebook",
+          "headline": "Bike Fire: Santa Clarita brush fire burns at least 475 acres; evacuation orders, warnings downgraded - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -784,11 +780,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County Sheriff Seeks Public\u2019s Help Locating At-Risk Missing Person Akela Cristayl Spencer, Last Seen in Palmdale - Sierra Sun Times",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Earthquake in Los Angeles County: 3.2-magnitude quake rattles Long Beach area - ABC7 Los Angeles",
+          "headline": "Los Angeles County Sheriff Seeks Public\u2019s Help Locating At-Risk Missing 75-Year-Old Carmen Guitierrez, Last Seen on Woolwine Drive - Sierra Sun Times",
           "source": "Google News LA"
         },
         {
@@ -796,19 +788,19 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Long Beach officials announce preparations for more flooding as Tropical Storm Rachel targets SoCal - ABC7 Los Angeles",
+          "headline": "Earthquake in Los Angeles County: 3.2-magnitude quake rattles Long Beach area - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County Sheriff's Department. Rodriggo J\u00fanior \u00b7 Country Vibes. A great day at the Boots & Badges Chili Cook-Off in Castaic! The event brought together LASD personnel, Special Olympics athletes, families, and the community for a fun-filled day of - Facebook",
+          "headline": "Los Angeles County Sheriff Seeks Public\u2019s Help Locating At-Risk Missing Person Akela Cristayl Spencer, Last Seen in Palmdale - Sierra Sun Times",
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County Sheriff's Department. . Live from Whittier, CA - Facebook",
+          "headline": "Los Angeles County Sheriff\u2019s Department Missing Persons Unit is asking for the public\u2019s help locating At-Risk missing person Carmen Guitierrez. She is a 75-year-old female Hispanic adult who was last seen on October 9, 2026, on the 3900 block of Woolwine - Facebook",
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County District Attorney Nathan J. Hochman today honored two community members, Johanna Martinez and Allie Shehorn, for their extraordinary actions at a Courage Awards ceremony hosted by the Rotary Club of Los Angeles in downtown Los - Instagram",
+          "headline": "Keegan Allen shares update on his recovery after being beaten, robbed in West Hollywood - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -816,7 +808,15 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Measles exposure reported at Universal Studios Hollywood - ABC7 Bay Area",
+          "headline": "Man on E-scooter killed in hit-and-run crash involving 2 vehicles in South LA, police say - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Long Beach officials announce preparations for more flooding as Tropical Storm Rachel targets SoCal - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "2419 Dallas St, Los Angeles, CA 90031 - Realtor.com",
           "source": "Google News LA"
         }
       ],
