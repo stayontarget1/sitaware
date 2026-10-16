@@ -1,10 +1,26 @@
 {
-  "generated": "2026-10-16T03:02:10.920738+00:00",
-  "briefing": "5 PM",
+  "generated": "2026-10-16T18:42:08.263330+00:00",
+  "briefing": "8 AM",
   "columns": {
     "monrovia": {
-      "summary": "- Red Flag Warning: extreme fire danger through Saturday in Monrovia area\n- Monrovia Police respond to intoxicated man, missing person, and assault incidents\n- Three Monrovia High students selected for county student advisory council\n- Fire Station 101 open house and free fire-resilient gardening workshops available",
+      "summary": "- Red Flag Warning: extreme fire danger through Saturday\n- State senator updates Monrovia council on wildfire recovery, homelessness funding\n- Indoor ski training studio may be coming to Monrovia\n- Council to honor Monrovian Marion Rudnyk, discoverer of Asteroid Monrovia",
       "headlines": [
+        {
+          "headline": "Library's summer reading enrollment falls; sewing machines and cooktops added to Library of Things",
+          "source": "Monrovia Now"
+        },
+        {
+          "headline": "Indoor ski training studio may be coming to Monrovia",
+          "source": "Monrovia Now"
+        },
+        {
+          "headline": "Council to honor Monrovian Marion Rudnyk, discoverer of 'Asteroid Monrovia'",
+          "source": "Monrovia Now"
+        },
+        {
+          "headline": "Coming Up in Monrovia",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Dinner at Cafe X2O",
           "source": "Monrovia Now"
@@ -70,22 +86,6 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Fire Station 101 open house Saturday",
-          "source": "Monrovia Now"
-        },
-        {
-          "headline": "Monrovia merchandise sales support Blondie's cubs",
-          "source": "Monrovia Now"
-        },
-        {
-          "headline": "Free fire-resilient gardening workshops, Oct. 17 and Nov. 5",
-          "source": "Monrovia Now"
-        },
-        {
-          "headline": "Native plant sale and 200-tree giveaway, Nov. 14",
-          "source": "Monrovia Now"
-        },
-        {
           "headline": "Bride-to-be gets free wedding dress after woman interrupted her proposal with racist outburst - CBS News",
           "source": "Google News"
         },
@@ -94,11 +94,11 @@
           "source": "Google News"
         },
         {
-          "headline": "State senator updates Monrovia council on wildfire recovery, homelessness funding - Hey SoCal. Change is our intention.",
+          "headline": "Lawsuit claims wrap sold at Trader Joe\u2019s in SC caused woman\u2019s hospitalization - The State",
           "source": "Google News"
         },
         {
-          "headline": "Electric vehicle sales in the US are showing signs of life - Yahoo Finance",
+          "headline": "State senator updates Monrovia council on wildfire recovery, homelessness funding - Hey SoCal. Change is our intention.",
           "source": "Google News"
         },
         {
@@ -130,7 +130,7 @@
           "source": "Google News"
         },
         {
-          "headline": "Monrovia Fundraiser To Benefit Domestic Violence Survivors - Patch",
+          "headline": "Monrovia Fundraiser To Benefit Domestic Violence Survivors Oct. 21 - Patch",
           "source": "Google News"
         },
         {
@@ -140,6 +140,10 @@
         {
           "headline": "A woman yelled \u2018go back to Mexico\u2019 as a mariachi band played at a California couple\u2019s proposal, then a bridal shop owner saw the video - We Got This Covered",
           "source": "Google News"
+        },
+        {
+          "headline": "OC MAGA Firebrand Fired As Trump's Press Secretary After Just 5 Days",
+          "source": "Patch Monrovia"
         },
         {
           "headline": "Boy, 10, Still Missing 2 Days After LA Disappearance: AMBER Alert",
@@ -216,21 +220,21 @@
         "6": true,
         "7": true,
         "8": true,
-        "9": false,
+        "9": true,
         "10": true,
-        "11": false,
+        "11": true,
         "12": true,
-        "13": true,
+        "13": false,
         "14": true,
-        "15": true,
+        "15": false,
         "16": true,
         "17": true,
         "18": true,
         "19": true,
         "20": false,
         "21": true,
-        "22": true,
-        "23": false,
+        "22": false,
+        "23": true,
         "24": false,
         "25": true,
         "26": false,
@@ -242,7 +246,7 @@
         "32": true,
         "33": false,
         "34": false,
-        "35": true,
+        "35": false,
         "36": true,
         "37": true,
         "38": true,
@@ -250,10 +254,10 @@
       }
     },
     "sgv": {
-      "summary": "- Peak Fire grows to 43 acres, forces evacuations across San Gabriel Valley\n- SR-60 freeway facing daytime closures ahead of El Ni\u00f1o storms\n- SGV residents continue fighting data center expansion, rally planned against projects",
+      "summary": "- Peak Fire grows to 43 acres, forces evacuations across San Gabriel Valley\n- Brushfire forward progress stopped by LACoFD in San Gabriel Valley area\n- SGV residents fighting data centers hit 12-mile-long snag in opposition efforts\n- SR-60 freeway facing daytime closures ahead of El Ni\u00f1o storms",
       "headlines": [
         {
-          "headline": "LACoFD battles brushfire in the San Gabriel Valley, evacuation warning in place - CBS News",
+          "headline": "LACoFD battles brushfire in the San Gabriel Valley, forward progress stopped - CBS News",
           "source": "Google News SGV"
         },
         {
@@ -261,11 +265,19 @@
           "source": "Google News SGV"
         },
         {
+          "headline": "LA Varsity: High School Sports in the San Gabriel Valley - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
           "headline": "San Gabriel Valley Residents To Rally Against Data Center Expansion, Marici Bess Project - ColoradoBoulevard.net",
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel Valley Boys Athlete of the Week: Landon Armenta, La Serna - San Gabriel Valley Tribune",
+          "headline": "No Kings: Vote Early Rise and Shine: San Gabriel Valley : LA PUENTE, CA 4-6:30 - Indivisible",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "San Gabriel Valley Boys Athlete of the Week: Landon Armenta, La Serna - Pasadena Star News",
           "source": "Google News SGV"
         },
         {
@@ -273,11 +285,15 @@
           "source": "Google News SGV"
         },
         {
+          "headline": "Astronaut City Comedy Club Celebrates One-Year Anniversary in San Gabriel Valley, California - IndyStar",
+          "source": "Google News SGV"
+        },
+        {
           "headline": "California\u2019s SR-60 freeway is facing daytime closures in the San Gabriel Valley ahead of El Ni\u00f1o storms - Secret Los Angeles",
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel Valley Girls Athlete of the Week: Valentina Zurla, Glendora - San Gabriel Valley Tribune",
+          "headline": "Things to do in the San Gabriel Valley area, Oct. 16-24 - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -285,7 +301,15 @@
           "source": "Google News SGV"
         },
         {
+          "headline": "Peak fire in Azusa threatens homes, prompts evacuations - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
           "headline": "SGV residents - LAist",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "San Gabriel Valley Girls Athlete of the Week: Valentina Zurla, Glendora - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -297,10 +321,6 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Peak fire in Azusa threatens homes, prompts evacuations - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
           "headline": "South Pasadena\u2019s offense explodes to knock off Crescenta Valley - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
@@ -309,68 +329,68 @@
           "source": "Google News SGV"
         },
         {
+          "headline": "High school football: Scores from Thursday\u2019s Week 8 games - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
           "headline": "Long Beach port reports record cargo numbers for September - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "In-House Opinions: Congress members on the death penalty - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "Here\u2019s how new housing laws will affect Southern California - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "American West comes alive inside Industry Hills Expo Center - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "Santa Anita consensus picks for Saturday, Oct. 10, 2026 - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "Who\u2019s right about inflation: You or the economists? - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "In Fight Against State-Imposed Density Bonus Rules, Pasadena Faces Daunting Odds",
+          "headline": "Planning Commission Backs Ronald McDonald House Improvements After Split Votes",
           "source": "Pasadena Now"
         },
         {
-          "headline": "City Asks Residents to Secure Halloween Decorations Ahead of Santa Ana Winds",
+          "headline": "Security Guard Assaulted in Suspected Hate Crime at Pasadena Apartment Complex",
           "source": "Pasadena Now"
         },
         {
-          "headline": "Caltech Volleyball Defeats Pomona-Pitzer in Five-Set Thriller",
+          "headline": "Pasadena Seeks Public Input on St. John and Pasadena Avenue Street Improvements",
           "source": "Pasadena Now"
         },
         {
-          "headline": "Pasadena Elks to Celebrate 125 Years With Festival Benefiting Five Charities",
+          "headline": "Elizabeth House Workshop Teaches Safe Infant Sleep, Opens a Path to Free Cribs",
           "source": "Pasadena Now"
         },
         {
-          "headline": "Gordo, Madison Clash Over Proposed Guanajuato Sister City Relationship Again",
+          "headline": "Pasadena Rental Housing Board Weighs Three-Year Cap on Refunds of Illegal Rent Overcharges",
           "source": "Pasadena Now"
         },
         {
-          "headline": "Pasadena Quantum Startup Oratomic Raises $475 Million, Reaching $5.4 Billion Valuation",
+          "headline": "LA County Supervisors to Weigh Backup for Eaton Fire Case Management",
           "source": "Pasadena Now"
         },
         {
-          "headline": "Guest Opinion | Mayor Victor Gordo and Raffy Bitchakdjian, Pasadena Firefighters Association President : Public Safety, Fiscal Responsibility, and the Choice Before Pasadena",
+          "headline": "Council Recognizes Domestic Violence Awareness Month as Local Calls for Help Dip",
           "source": "Pasadena Now"
         },
         {
-          "headline": "Caltech to Inaugurate Ray Jayawardhana at Pasadena Ceremony, Host Space Panel",
+          "headline": "Caltech-Led Team Advances AI Models to Forecast Irreversible Shifts",
           "source": "Pasadena Now"
         },
         {
-          "headline": "Pasadena Showcase House for the Arts Names Marybeth Rehman-Dittu President",
+          "headline": "Anti-Hate Week Gathering to Bring Neighbors, Civic Leaders Together Sunday",
           "source": "Pasadena Now"
         },
         {
-          "headline": "Guest Opinion | William Paparian: Measure I Delivered $220.9 Million. The Council Did Not Fund the Stations. Reject the Parcel Tax.",
+          "headline": "No. 12 UCLA Returns to Pasadena Saturday to Face Wisconsin at Rose Bowl",
           "source": "Pasadena Now"
+        },
+        {
+          "headline": "League of Women Voters To Host Pasadena Voter Education Forum Oct. 19",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Fright Night at the Pasadena Museum of History",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Forest Lawn Glendale Celebrates D\u00eda de los Muertos With Dance, Art and Ofrendas",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Sierra Madre Reports First West Nile Virus-Positive Mosquito Sample of 2026",
+          "source": "Colorado Blvd"
         },
         {
           "headline": "Actions, Not Pride Photos: Menchaca\u2019s Record on LGBTQ+ Inclusion",
@@ -405,55 +425,75 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "South Pasadena Fire Department urges preparedness ahead of Red Flag Warning",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Midgley Foundation Honored at USC Arcadia Hospital\u2019s Crystal Ball",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Pasadena Urges Residents to Prepare for Red Flag Fire Conditions",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "L.A. County Warns of Elevated Fire Risk as Santa Ana Winds Approach",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Trump administration sues California to block state from counting alleged noncitizen mail-in ballots",
-          "source": "ABC7"
-        },
-        {
           "headline": "3 children, 1 teacher killed in shooting at Bend, Oregon elementary school; teen shooter also dead: Police",
           "source": "ABC7"
         },
         {
-          "headline": "Beloved Eagle Rock wine bar, Western Station Beer and Wine, faces costly fight over permitting hurdles",
+          "headline": "US Coast Guard rescues at least 16 and is searching for more in the water off Mexico's Baja Coast",
           "source": "ABC7"
         },
         {
-          "headline": "LADWP employee among 4 suspects accused of causing $200,000 in graffiti damage",
+          "headline": "AI-driven workforce changes create anxiety but may offer opportunities",
           "source": "ABC7"
         },
         {
-          "headline": "Track wildfires across Southern California, other parts of the state with this interactive map",
+          "headline": "Trump says he asked press secretary Katie Zacharia to reconsider if she wants the position",
           "source": "ABC7"
         },
         {
-          "headline": "Ethan Hawke, Tommy Lee Jones, Betty Gilpin, creator Sterlin Harjo talk 'The Lowdown' new mysteries",
+          "headline": "Jamie Lee Curtis to receive inaugural Rob and Michele Reiner Champion for Change Award",
           "source": "ABC7"
         },
         {
-          "headline": "How Historic Filipinotown preserves Filipino culture in LA",
+          "headline": "Overturned semi shuts down most northbound lanes of 5 Freeway in Irvine",
           "source": "ABC7"
         },
         {
-          "headline": "'From a little girl to a young lady': The history of the quincea\u00f1era",
+          "headline": "Sean 'Diddy' Combs moved to Pennsylvania prison after reports of a luxury lifestyle behind bars",
           "source": "ABC7"
         },
         {
-          "headline": "Ex-Venezuelan President Nicol\u00e1s Maduro says new torture allegations are 'false'",
+          "headline": "Police open investigation into attack on Washington Post journalist in the West Bank",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Bestselling novel 'Whalefall' makes jump from the page to the big screen in new thriller",
+          "source": "ABC7"
+        },
+        {
+          "headline": "2 women found dead in suitcases leads to multistate hunt for killer",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Meet 'Codey' the humanoid robot that hopes to tackle loneliness epidemic",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Vatican releases images of Pope Leo XIV celebrating Mass post surgery",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Mariana van Zeller goes undercover to explore $1 billion romance scam industry in 'Super Scam Me'",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Can the new Tesla Roadster fly? Elon Musk unveils what he says is a flying car",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Las Vegas officials identify a homicide victim whose body was found in a barrel in Lake Mead",
+          "source": "ABC7"
+        },
+        {
+          "headline": "A rare family of barn owls moved into Manhattan's Upper West Side",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Woman arrested after blocking delivery robot in Philadelphia confrontation",
+          "source": "ABC7"
+        },
+        {
+          "headline": "White House press secretary Katie Zacharia says she did not pass bar exam",
           "source": "ABC7"
         },
         {
@@ -461,70 +501,34 @@
           "source": "ABC7"
         },
         {
-          "headline": "Track wildfires across California with this interactive map",
-          "source": "ABC7"
-        },
-        {
-          "headline": "US winter is likely to be wetter and warmer thanks to El Ni\u00f1o, forecasters say",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Pope Leo 'slept well' as his lung cancer recovery continues, Vatican says",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Mother charged in Great Wolf Lodge murders 'never wanted to get pregnant,' family claims",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Basement fire at East Hollywood apartment building spreads to several units, forcing evacuations",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Bering Church: A legacy of compassion and inclusion",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Man charged in alleged plot that targeted a Hindu place of worship in Illinois",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Eagles QB Jalen Hurts out for Sunday game against Panthers due to superficial blood clot",
-          "source": "ABC7"
-        },
-        {
-          "headline": "New York's Plaza Hotel set to close for at least 4 years to restore historic facade",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Caught on camera, still unsolved: Family and LAPD seek justice for murder of rising basketball star",
+          "headline": "The 'Piano Man' Billy Joel says he can't drive, perform in new health update",
           "source": "ABC7"
         }
       ],
       "relevance": {
         "0": true,
         "1": true,
-        "2": true,
-        "3": false,
+        "2": false,
+        "3": true,
         "4": true,
-        "5": true,
-        "6": false,
+        "5": false,
+        "6": true,
         "7": false,
         "8": true,
-        "9": false,
+        "9": true,
         "10": false,
         "11": true,
         "12": false,
         "13": false,
-        "14": false,
+        "14": true,
         "15": false,
         "16": false,
-        "17": true,
+        "17": false,
         "18": false,
         "19": false,
         "20": true,
         "21": true,
-        "22": false,
+        "22": true,
         "23": true,
         "24": true,
         "25": true,
@@ -536,31 +540,23 @@
         "31": true,
         "32": true,
         "33": true,
-        "34": false,
+        "34": true,
         "35": true,
         "36": true,
         "37": true,
-        "38": true,
+        "38": false,
         "39": true
       }
     },
     "county": {
-      "summary": "- Bryson Fire prompts evacuations in Malibu as multiple fires threaten LA County\n- Peak Fire near Azusa contained; evacuation order lifted for residents\n- SoFi Stadium investigation into unpaid ticket taxes underway in Inglewood\n- LA DWP employee charged in alleged graffiti vandalism spree",
+      "summary": "- Southern California faces extreme wildfire risk from Santa Ana winds, power shutoffs\n- Bryson Fire in Malibu forces evacuations as containment reaches 17% overnight\n- Fire survivors losing case managers amid California-FEMA funding standoff\n- Rancho Palos Verdes seeks funding for landslide damages using local attraction",
       "headlines": [
         {
-          "headline": "Bryson Fire prompts evacuation warnings in Malibu",
+          "headline": "Rancho Palos Verdes turns to its best known attraction to help pay for landslide damages",
           "source": "LAist"
         },
         {
-          "headline": "Henderson Fire shut down 5 Freeway near the OC-San Diego County line briefly",
-          "source": "LAist"
-        },
-        {
-          "headline": "Firefighters stop progress of Peak Fire near Azusa; evacuation order lifted",
-          "source": "LAist"
-        },
-        {
-          "headline": "Case dismissed against OC woman who registered her dog to vote and cast ballots in two elections",
+          "headline": "Bryson Fire prompts evacuation orders in Malibu. Containment grows to 17% overnight",
           "source": "LAist"
         },
         {
@@ -568,7 +564,11 @@
           "source": "LAist"
         },
         {
-          "headline": "Can Santa Monica\u2019s Mel's Drive-In be saved?",
+          "headline": "LA fire survivors are set to lose case managers as standoff between California and FEMA drags on",
+          "source": "LAist"
+        },
+        {
+          "headline": "Case dismissed against OC woman who registered her dog to vote and cast ballots in two elections",
           "source": "LAist"
         },
         {
@@ -580,11 +580,7 @@
           "source": "LAist"
         },
         {
-          "headline": "Inside Gavin Newsom\u2019s taxpayer-funded team that never stops posting",
-          "source": "LAist"
-        },
-        {
-          "headline": "Hochman promises \u2018amazing progress\u2019 in MacArthur Park by 2028 Olympics",
+          "headline": "Dozens of 'No Kings' protests are happening across greater LA on Saturday",
           "source": "LAist"
         },
         {
@@ -592,15 +588,19 @@
           "source": "LAist"
         },
         {
-          "headline": "Inglewood is investigating if SoFi Stadium owes years\u2019 worth of ticket taxes",
+          "headline": "Craving dumplings but nowhere near San Gabriel Valley? Head to Torrance for a South Bay crawl",
           "source": "LAist"
         },
         {
-          "headline": "California Science Center announces early reservations to see space shuttle Endeavour",
+          "headline": "Can Santa Monica\u2019s Mel's Drive-In be saved?",
           "source": "LAist"
         },
         {
-          "headline": "Netflix is laying off 6% of its workforce, in biggest round of job cuts at streaming giant in years",
+          "headline": "A lemonade stand for grown-ups: This one serves matcha on a Los Feliz street corner",
+          "source": "LAist"
+        },
+        {
+          "headline": "California files its 100th lawsuit against Trump, this time over ICE at courthouses",
           "source": "LAist"
         },
         {
@@ -609,10 +609,6 @@
         },
         {
           "headline": "Justice Department threatens California with legal action over claim of noncitizens on voter rolls",
-          "source": "LAist"
-        },
-        {
-          "headline": "DNC sues Trump administration, alleging taxpayer-funded ads violate propaganda law",
           "source": "LAist"
         },
         {
@@ -628,55 +624,175 @@
           "source": "LAist"
         },
         {
-          "headline": "Brush Fire Races Through Brush in Malibu",
+          "headline": "California files its 100th lawsuit against Trump, this time over ICE at courthouses",
+          "source": "LAist"
+        },
+        {
+          "headline": "Rancho Palos Verdes turns to its best known attraction to help pay for landslide damages",
+          "source": "LAist"
+        },
+        {
+          "headline": "Nearly 70,000 without power in Southern California as Santa Ana winds raise wildfire risk",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Bryson Fire in Malibu forces evacuations amid Red Flag Warnings, power shutoffs",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Surveillance video shows man leaving unconscious woman on Saugus sidewalk",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Malibu fire erupts amid dangerous Santa Ana winds, red flag warning",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Southern California braces for Santa Ana winds, high heat, and extreme wildfire risk",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Red Flag Warning raises wildfire concerns as Palisades reservoir remains offline",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Amber Alert canceled after missing 9-month-old girl found safe in Los Angeles",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Nithya Raman says she'd replace LAPD chief if she beats Karen Bass in LA mayoral race",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "US Coast Guard rescues at least 16, searching for more in water off Mexico\u2019s Baja Coast",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Sister of reality TV personality charged in connection to her death in Oakland",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Reality TV personality Kash killed in downtown Oakland shooting, woman arrested",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Lionel Richie, Earth, Wind & Fire cancel SF concert after drummer enters rehab",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Morgan Hill mom beaten to death, her face was 'unrecognizable:' court docs",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Fugitive wanted in violent kidnapping found after 14 years living double life as chef",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "White House responds to backlash over Trump's \u2018take out\u2019 LA, San Diego remarks",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "California governor's race: Meet candidates Xavier Becerra and Steve Hilton",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Katie Zacharia 'transitioning out' of her role as White House press secretary",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Latest MapQuest update reveals automated license plate reader networks",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Watch: Receptionist admits eating traveler\u2019s DoorDash order",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "New Orleans jail worker sentenced for helping 10 inmates escape through toilet hole",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "LA County Jobless Rate Drops to 4.8% in September",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Brush Fire Races Through Brush in Malibu",
+          "headline": "Salton Sea Summit Underway at UC Riverside\u2019s Palm Desert Center",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Brush Fire Races Through Brush in Malibu",
+          "headline": "Public Safety Power Shut-Offs Affecting Tens of Thousands in LA County",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Brush Fire Races Through Brush in Malibu",
+          "headline": "Fight Among Boys in Burbank Leads to Stabbing, Attempted Murder Arrest",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LA DWP Employee, Three Others Charged in Alleged Graffiti Vandalism Spree",
+          "headline": "Santa Ana Winds to Intensify Across Los Angeles County",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Man, 35, Charged with Murdering His Two Young Sons",
+          "headline": "Bryson Fire Races Through Malibu Brush, Prompting Evacuations",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Brush Fire Races Through Brush in Malibu",
+          "headline": "Former Panettiere Fiance Named Daughter\u2019s Temp Estate Guardian",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Hair Salon Owner Charged with Molesting 3 Boys in Costa Mesa",
+          "headline": "Judge Allows Former LASD Sergeant to Proceed With Reinstatement Bid",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Brush Fire Races Through Brush in Malibu",
+          "headline": "Big Rig Prompts HazMat Cleanup, Lane Closures on I-5 in Irvine",
           "source": "MyNewsLA"
         },
         {
-          "headline": "MoVal Trio Charged with Perpetrating Estate Fraud, Stealing Funds",
+          "headline": "Bryson Fire Races Through Malibu Brush, Prompting Evacuations",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Missing 24-Year-Old Man in Santa Monica Located",
+          "headline": "Santa Ana Winds to Intensify Across LACo",
           "source": "MyNewsLA"
+        },
+        {
+          "headline": "BRYSON FIRE UPDATE \u2013 OCTOBER 16, 2026 The Los Angeles County Sheriff\u2019s Department continues to work alongside the Los Angeles County Fire Department and public safety partners as crews battle the Bryson Fire near Encinal Canyon Road. As of 7: - Facebook",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Governor Newsom activates statewide response amid dangerous fire weather, signs actions to speed Tropical Storm Rachel recovery and wildfire cleanup - California State Portal | CA.gov",
+          "source": "Google News LA"
         },
         {
           "headline": "LADWP Employee, Three Others Charged in Graffiti Vandalism Spree Across Los Angeles - COUNTY OF LOS ANGELES (.gov)",
           "source": "Google News LA"
         },
         {
-          "headline": "BRYSON FIRE | EVACUATION ORDER & WARNINGS UPDATE The Los Angeles County Sheriff\u2019s Department is advising residents in the Malibu area of updated evacuation orders and warnings associated with the Bryson Fire. EVACUATION ORDER \u2013 LEVE - Facebook",
+          "headline": "Public Safety Power Shut-Offs Affecting Tens of Thousands in LA County - MyNewsLA.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Bryson Fire burns on foothills of Los Angeles County - FOX Weather",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "California brushfires force evacuations and tens of thousands of power shutoffs - The Guardian",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Newsroom - City of Burbank - City of Burbank (.gov)",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Wildfire Map Spotlight: Bryson Fire, Los Angeles, California - IQAir",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "The DOJ sued Los Angeles to stop 20,000 people from voting. One problem: Some aren\u2019t registered there - Democracy Docket",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "A Los Angeles Department of Water and Power employee has been charged with 12 felony counts of vandalism in a yearlong graffiti vandalism spree across Los Angeles that cost businesses over $170,000 in repairs to their buildings. Many of the buildings ar - Instagram",
           "source": "Google News LA"
         },
         {
@@ -684,71 +800,39 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Crews respond to Cornell Fire; thousands without power amid Santa Anas - Ventura County Star",
-          "source": "Google News LA"
-        },
-        {
           "headline": "Los Angeles County Is Taking On Three Insurers. Who Is Keeping Score? - CityWatch LA",
           "source": "Google News LA"
         },
         {
-          "headline": "Red Flag Warnings Take Effect as Santa Ana Winds Sweep LA County - MyNewsLA.com",
+          "headline": "Santa Ana Winds, Fire Danger Push Edison Shutoffs to Nearly 35,000 LA County Customers - westsidecurrent.com",
           "source": "Google News LA"
         },
         {
-          "headline": "A Los Angeles County jury on Oct. 6 found Lebaron Alexander, a well-known pimp, guilty of sex trafficking nine women, two of whom were minors, between 2016 and 2020 in Los Angeles. Lebaron Alexander was convicted of three counts of human trafficking o - Instagram",
+          "headline": "LA County Jobless Rate Drops to 4.8% in September - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
-          "headline": "LA Metro Approves 220 Electric Buses, Advancing Clean Transportation in Los Angeles - Sierra Club",
+          "headline": "The Los Angeles County Sheriff\u2019s Department joined County leaders and emergency response partners at the SD3 Press Conference to address preparedness for El Ni\u00f1o storm conditions, extreme heat, and Red Flag conditions. Residents are encouraged to - Facebook",
           "source": "Google News LA"
         },
         {
-          "headline": "California orders lenders to report delays in LA wildfire insurance payouts - The Business Journal",
+          "headline": "Santa Ana Winds to Intensify Across Los Angeles County - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
-          "headline": "DOJ sues California over alleged non-citizens on voter rolls - Sarasota Herald-Tribune",
+          "headline": "Today, the Los Angeles County Sheriff\u2019s Department and other local county buildings participated in the Great ShakeOut earthquake preparedness and evacuation drill in the Civic Center area of Downtown Los Angeles. This drill simulated emergency respons - Facebook",
           "source": "Google News LA"
         },
         {
-          "headline": "LA County Coordinated Joint Information Center Update \u2013 10/14/2026 - LA County Recovers (.gov)",
+          "headline": "Los Angeles County Activates Active Incident and Emergency Response Webpage - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Red Flag Warnings in Effect as Santa Ana Winds Sweep LA County - MyNewsLA.com",
+          "headline": "BRYSON FIRE | EVACUATION ORDER & WARNINGS UPDATE The Los Angeles County Sheriff\u2019s Department is advising residents in the Malibu area of updated evacuation orders and warnings associated with the Bryson Fire. EVACUATION ORDER \u2013 LEVE - Facebook",
           "source": "Google News LA"
         },
         {
-          "headline": "A Los Angeles Department of Water and Power (LADWP) employee has been charged with 12 felony counts of vandalism and three co-defendants face additional felony charges in a yearlong graffiti vandalism spree across Los Angeles that caused businesse - Instagram",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "How Historic Filipinotown preserves Filipino culture in LA - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "California power shutoffs leave 81,000 without electricity amid wildfire risk - The Business Journal",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles County Sheriff\u2019s Department Missing Persons Unit is asking for the public\u2019s help locating At-Risk missing person Andrew William Weidhaas AKA \"Drew\" or \"Sage\". He is a 24-year-old male White adult who was last seen on October 14, 2026, at 3:5 - Facebook",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles County Public Safety Agencies Urge Residents to Prepare for High Winds, Significant Fire Risk - COUNTY OF LOS ANGELES (.gov)",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "LADWP employee among 4 suspects accused of causing $200,000 in graffiti damage - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Husky found hanging in Lynwood alley; L.A. County Sheriff's Department investigating animal cruelty incident - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "SCV News | County Responds to U.S. DOJ Lawsuit on Voter Eligibility - SCVNews.com",
+          "headline": "Bryson Fire burns in Malibu area, Getty Villa closed. Friday update - Ventura County Star",
           "source": "Google News LA"
         }
       ],
