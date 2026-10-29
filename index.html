@@ -164,135 +164,6 @@ body::after {
 }
 .theme-toggle:hover { border-color: var(--green); color: var(--green); }
 
-/* ── INCIDENT BAR ── */
-.incident-bar {
-  border-bottom: 1px solid var(--border);
-  padding: 12px 16px;
-  min-height: 52px;
-  transition: background 0.5s ease, border-color 0.5s ease;
-}
-
-.incident-bar.clear {
-  background: linear-gradient(90deg, rgba(34,197,94,0.04), transparent 60%);
-  border-left: 3px solid var(--green-dim);
-}
-
-.incident-bar.active-amber {
-  background: linear-gradient(90deg, rgba(245,158,11,0.06), transparent 60%);
-  border-left: 3px solid var(--amber);
-}
-
-.incident-bar.active-red {
-  background: linear-gradient(90deg, rgba(239,68,68,0.08), transparent 60%);
-  border-left: 3px solid var(--red);
-  animation: bar-pulse-red 3s ease-in-out infinite;
-}
-
-@keyframes bar-pulse-red {
-  0%, 100% { background: linear-gradient(90deg, rgba(239,68,68,0.06), transparent 60%); }
-  50% { background: linear-gradient(90deg, rgba(239,68,68,0.12), transparent 60%); }
-}
-
-.incident-bar-header {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  margin-bottom: 4px;
-}
-
-.incident-bar-header .label {
-  font-size: 0.7rem;
-  font-weight: 700;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-}
-
-.incident-bar.clear .label { color: var(--green-dim); }
-.incident-bar.active-amber .label { color: var(--amber); }
-.incident-bar.active-red .label { color: var(--red); }
-
-.incident-bar .status-icon {
-  width: 8px; height: 8px;
-  border-radius: 50%;
-  display: inline-block;
-}
-
-.incident-bar.clear .status-icon {
-  background: var(--green);
-  box-shadow: 0 0 6px var(--green);
-}
-.incident-bar.active-amber .status-icon {
-  background: var(--amber);
-  box-shadow: 0 0 8px var(--amber);
-  animation: pulse-dot 1.5s ease-in-out infinite;
-}
-.incident-bar.active-red .status-icon {
-  background: var(--red);
-  box-shadow: 0 0 10px var(--red);
-  animation: pulse-dot 1s ease-in-out infinite;
-}
-
-.incident-bar .clear-text {
-  font-size: 0.75rem;
-  color: var(--text-dim);
-}
-
-.incident-cards {
-  display: flex;
-  gap: 10px;
-  overflow-x: auto;
-  padding: 4px 0;
-}
-
-.incident-card {
-  flex-shrink: 0;
-  background: var(--bg-card);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: 8px 12px;
-  min-width: 260px;
-  max-width: 360px;
-  position: relative;
-  overflow: hidden;
-}
-
-.incident-card::before {
-  content: '';
-  position: absolute;
-  left: 0; top: 0; bottom: 0;
-  width: 3px;
-}
-
-.incident-card.severity-red::before { background: var(--red); }
-.incident-card.severity-amber::before { background: var(--amber); }
-.incident-card.severity-green::before { background: var(--green); }
-
-.incident-card .ic-type {
-  font-size: 0.65rem;
-  font-weight: 600;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  margin-bottom: 2px;
-}
-
-.incident-card.severity-red .ic-type { color: var(--red); }
-.incident-card.severity-amber .ic-type { color: var(--amber); }
-
-.incident-card .ic-title {
-  font-size: 0.8rem;
-  color: var(--text-primary);
-  font-weight: 400;
-  line-height: 1.4;
-}
-
-.incident-card .ic-meta {
-  font-size: 0.65rem;
-  color: var(--text-dim);
-  margin-top: 4px;
-  display: flex;
-  gap: 8px;
-}
-
 /* ── MAIN GRID ── */
 .main-grid {
   display: grid;
@@ -801,208 +672,23 @@ body::after {
 }
 
 .toolbar-btn:hover { border-color: var(--border-bright); color: var(--text-primary); }
-.toolbar-btn.active { border-color: var(--cyan); color: var(--cyan); background: rgba(6,182,212,0.08); }
 
-/* ── FLOATING PANELS ── */
-.float-panel {
-  position: fixed;
-  top: 60px;
-  right: 16px;
-  width: 560px;
-  max-height: calc(100vh - 80px);
-  background: var(--bg-panel);
-  border: 1px solid var(--border-bright);
-  border-radius: 6px;
-  z-index: 1000;
-  box-shadow: 0 8px 32px rgba(0,0,0,0.6);
-  display: flex;
-  flex-direction: column;
-  overflow: hidden;
-  transition: none;
-}
+/* News opens in the page flow, directly below its summary. */
+.news-dropdown { width: min(100%, 400px); }
+.news-dropdown > summary { width: fit-content; list-style: none; min-height: 36px; }
+.news-dropdown > summary::-webkit-details-marker { display: none; }
+.news-arrow { display: inline-block; transition: transform 0.15s; }
+.news-dropdown[open] .news-arrow { transform: rotate(90deg); }
+.news-dropdown[open] > summary { border-color: var(--cyan); color: var(--cyan); }
+.news-dropdown > summary:focus-visible,
+.station-link:focus-visible { outline: 2px solid var(--cyan); outline-offset: 3px; }
 
-/* Desktop resize handles */
-.panel-resize-handle {
-  position: absolute;
-  z-index: 10;
-}
-.panel-resize-handle.rs-e { top: 0; right: -3px; width: 6px; height: 100%; cursor: e-resize; }
-.panel-resize-handle.rs-w { top: 0; left: -3px; width: 6px; height: 100%; cursor: w-resize; }
-.panel-resize-handle.rs-s { bottom: -3px; left: 0; width: 100%; height: 6px; cursor: s-resize; }
-.panel-resize-handle.rs-se { bottom: -3px; right: -3px; width: 14px; height: 14px; cursor: se-resize; }
-.panel-resize-handle.rs-sw { bottom: -3px; left: -3px; width: 14px; height: 14px; cursor: sw-resize; }
-
-/* Hide drag handle on desktop */
-.panel-drag-handle { display: none; }
-
-/* Corner resize indicator */
-.panel-resize-handle.rs-se::after {
-  content: '';
-  position: absolute;
-  bottom: 3px;
-  right: 3px;
-  width: 8px;
-  height: 8px;
-  border-right: 2px solid var(--border-bright);
-  border-bottom: 2px solid var(--border-bright);
-}
-
-.panel-header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 8px 12px;
-  border-bottom: 1px solid var(--border);
-  background: var(--bg-root);
-  cursor: grab;
-  user-select: none;
-  -webkit-user-select: none;
-}
-.panel-header.dragging { cursor: grabbing; }
-
-.panel-header h3 {
-  font-size: 0.7rem;
-  font-weight: 700;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: var(--cyan);
-  pointer-events: none;
-}
-
-.panel-close {
-  background: none;
-  border: none;
-  color: var(--text-dim);
-  font-size: 1rem;
-  cursor: pointer;
-  padding: 0 4px;
-  font-family: var(--font);
-  pointer-events: auto;
-}
-
-.panel-close:hover { color: var(--text-primary); }
-
-/* ── PANEL BACKDROP (mobile) ── */
-.panel-backdrop {
-  display: none;
-  position: fixed;
-  inset: 0;
-  background: rgba(0,0,0,0.6);
-  z-index: 1999;
-  -webkit-backdrop-filter: blur(2px);
-  backdrop-filter: blur(2px);
-}
-.panel-backdrop.active { display: block; }
-
-.panel-tabs {
-  display: flex;
-  border-bottom: 1px solid var(--border);
-  background: var(--bg-root);
-}
-
-.panel-tab {
-  flex: 1;
-  background: none;
-  border: none;
-  border-bottom: 2px solid transparent;
-  color: var(--text-dim);
-  font-family: var(--font);
-  font-size: 0.6rem;
-  font-weight: 600;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  padding: 6px 8px;
-  cursor: pointer;
-  transition: color 0.15s, border-color 0.15s;
-}
-
-.panel-tab:hover { color: var(--text-secondary); }
-.panel-tab.active { color: var(--cyan); border-bottom-color: var(--cyan); }
-
-.panel-body {
-  flex: 1;
-  overflow: auto;
-  min-height: 300px;
-}
-
-.panel-body iframe {
-  width: 100%;
-  height: 100%;
-  min-height: 360px;
-  border: none;
-  background: #000;
-}
-
-/* Camera grid */
-.cam-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 6px;
-  padding: 8px;
-}
-
-.cam-card {
-  background: var(--bg-card);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  overflow: hidden;
-  position: relative;
-}
-
-.cam-card img {
-  width: 100%;
-  aspect-ratio: 16/9;
-  object-fit: cover;
-  display: block;
-  background: #000;
-  transition: opacity 0.2s;
-}
-
-.cam-card.cam-offline img { opacity: 0.15; }
-.cam-card.cam-offline::after {
-  content: 'OFFLINE';
-  position: absolute;
-  top: 6px;
-  right: 6px;
-  font-size: 0.5rem;
-  font-weight: 700;
-  letter-spacing: 0.1em;
-  color: var(--red);
-  background: rgba(0,0,0,0.6);
-  padding: 2px 5px;
-  border-radius: 3px;
-}
-
-.cam-card .cam-label {
-  padding: 4px 6px;
-  text-align: center;
-  display: flex;
-  flex-direction: column;
-  gap: 1px;
-}
-
-.cam-title {
-  font-size: 0.6rem;
-  font-weight: 600;
-  color: var(--text-secondary);
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-
-.cam-sub {
-  font-size: 0.5rem;
-  color: var(--text-dim);
-}
-
-.cam-card.cam-offline .cam-title { color: var(--text-dim); }
-
-/* Live station link buttons */
-.live-stations {
+/* YouTube channel links */
+.news-stations {
   display: flex;
   flex-direction: column;
   gap: 8px;
-  padding: 12px;
+  padding: 10px 0 4px;
 }
 
 .station-link {
@@ -1054,14 +740,7 @@ body::after {
 }
 
 .station-link:hover .station-arrow { color: var(--text-secondary); }
-.station-link:hover .station-name { color: #fff; }
-
-/* PulsePoint embed */
-.pulsepoint-frame {
-  width: 100%;
-  min-height: 400px;
-  border: none;
-}
+.station-link:hover .station-name { color: var(--text-primary); }
 
 /* ── RESPONSIVE ── */
 @media (max-width: 1100px) {
@@ -1070,88 +749,11 @@ body::after {
     grid-template-rows: auto auto;
   }
   .weather-panel { grid-column: span 2; }
-  .float-panel { width: calc(100vw - 32px); right: 16px; }
 }
 
 @media (max-width: 700px) {
   .main-grid { grid-template-columns: 1fr; }
   .weather-panel { grid-column: span 1; }
-
-  /* Bottom-sheet panels on mobile */
-  .float-panel {
-    position: fixed;
-    top: auto !important;
-    left: 0 !important;
-    right: 0 !important;
-    bottom: 0;
-    width: 100% !important;
-    max-height: 100vh;
-    height: 60vh;
-    border-radius: 16px 16px 0 0;
-    z-index: 2000;
-    transition: height 0.25s ease-out;
-    will-change: height;
-  }
-
-  .float-panel.sheet-full { height: 100vh; border-radius: 0; }
-  .float-panel.sheet-mini { height: 30vh; }
-  .float-panel.sheet-dragging { transition: none; }
-
-  /* Hide desktop resize handles on mobile */
-  .panel-resize-handle { display: none !important; }
-
-  /* Drag handle bar at top of sheet */
-  .panel-drag-handle {
-    display: flex;
-    justify-content: center;
-    padding: 8px 0 2px 0;
-    background: var(--bg-root);
-    border-radius: 16px 16px 0 0;
-    touch-action: none;
-  }
-  .panel-drag-handle .handle-bar {
-    width: 36px;
-    height: 4px;
-    border-radius: 2px;
-    background: var(--text-dim);
-  }
-
-  .panel-header {
-    padding: 8px 16px;
-    cursor: default;
-  }
-
-  .panel-close {
-    font-size: 1.4rem;
-    padding: 4px 10px;
-    min-width: 44px;
-    min-height: 44px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-
-  .panel-tab {
-    padding: 10px 8px;
-    font-size: 0.65rem;
-  }
-
-  .panel-body {
-    flex: 1;
-    overflow: auto;
-    min-height: 0;
-    -webkit-overflow-scrolling: touch;
-  }
-
-  .panel-body iframe {
-    min-height: 280px;
-  }
-
-  .cam-grid {
-    grid-template-columns: 1fr;
-    gap: 8px;
-    padding: 10px;
-  }
 
   /* Bigger touch targets */
   .toolbar-row {
@@ -1227,93 +829,38 @@ if (localStorage.getItem('sitaware-theme') === 'light') document.documentElement
   </div>
 </header>
 
-<!-- ═══ INCIDENT BAR ═══ -->
-<section class="incident-bar clear" id="incident-bar">
-  <div class="incident-bar-header">
-    <span class="status-icon"></span>
-    <span class="label">Last Hour -- Active Incidents</span>
-  </div>
-  <div class="clear-text" id="incident-clear">All clear -- no active incidents in the last 60 minutes</div>
-  <div class="incident-cards" id="incident-cards" style="display:none;"></div>
-</section>
-
-<!-- ═══ TOOLBAR ═══ -->
+<!-- ═══ NEWS DROPDOWN ═══ -->
 <div class="toolbar-row">
-  <button class="toolbar-btn" id="btn-live" onclick="togglePanel('live')">&#9654; LIVE NEWS</button>
-  <button class="toolbar-btn" id="btn-aircraft" onclick="togglePanel('aircraft')">&#9992; AIRCRAFT</button>
-  <button class="toolbar-btn" id="btn-cameras" onclick="togglePanel('cameras')">&#128249; CAMERAS</button>
-  <button class="toolbar-btn" id="btn-incidents" onclick="togglePanel('fire')">&#128293; FIRE/EMS</button>
-</div>
-
-<!-- ═══ FLOATING PANELS ═══ -->
-<div class="panel-backdrop" id="panel-backdrop"></div>
-
-<!-- LIVE NEWS -->
-<div class="float-panel" id="panel-live" style="display:none; width:400px;">
-  <div class="panel-drag-handle"><span class="handle-bar"></span></div>
-  <div class="panel-header">
-    <h3>&#9654; Live News Streams</h3>
-    <button class="panel-close" onclick="togglePanel('live')">&times;</button>
-  </div>
-  <div class="panel-resize-handle rs-e"></div>
-  <div class="panel-resize-handle rs-w"></div>
-  <div class="panel-resize-handle rs-s"></div>
-  <div class="panel-resize-handle rs-se"></div>
-  <div class="panel-resize-handle rs-sw"></div>
-  <div class="panel-body" id="live-body" style="min-height:auto;">
-    <div class="live-stations" id="live-stations"></div>
-  </div>
-</div>
-
-<!-- AIRCRAFT -->
-<div class="float-panel" id="panel-aircraft" style="display:none; width:640px;">
-  <div class="panel-drag-handle"><span class="handle-bar"></span></div>
-  <div class="panel-header">
-    <h3>&#9992; Aircraft Tracker</h3>
-    <button class="panel-close" onclick="togglePanel('aircraft')">&times;</button>
-  </div>
-  <div class="panel-resize-handle rs-e"></div>
-  <div class="panel-resize-handle rs-w"></div>
-  <div class="panel-resize-handle rs-s"></div>
-  <div class="panel-resize-handle rs-se"></div>
-  <div class="panel-resize-handle rs-sw"></div>
-  <div class="panel-body" style="min-height:420px;">
-    <iframe id="adsb-iframe" src="" style="min-height:420px;" allowfullscreen></iframe>
-  </div>
-</div>
-
-<!-- CAMERAS -->
-<div class="float-panel" id="panel-cameras" style="display:none; width:580px;">
-  <div class="panel-drag-handle"><span class="handle-bar"></span></div>
-  <div class="panel-header">
-    <h3>&#128249; Traffic Cameras — Near Monrovia</h3>
-    <button class="panel-close" onclick="togglePanel('cameras')">&times;</button>
-  </div>
-  <div class="panel-resize-handle rs-e"></div>
-  <div class="panel-resize-handle rs-w"></div>
-  <div class="panel-resize-handle rs-s"></div>
-  <div class="panel-resize-handle rs-se"></div>
-  <div class="panel-resize-handle rs-sw"></div>
-  <div class="panel-body" style="min-height:auto;">
-    <div class="cam-grid" id="cam-grid"></div>
-  </div>
-</div>
-
-<!-- FIRE/EMS -->
-<div class="float-panel" id="panel-fire" style="display:none; width:580px;">
-  <div class="panel-drag-handle"><span class="handle-bar"></span></div>
-  <div class="panel-header">
-    <h3>&#128293; PulsePoint -- LA County Fire</h3>
-    <button class="panel-close" onclick="togglePanel('fire')">&times;</button>
-  </div>
-  <div class="panel-resize-handle rs-e"></div>
-  <div class="panel-resize-handle rs-w"></div>
-  <div class="panel-resize-handle rs-s"></div>
-  <div class="panel-resize-handle rs-se"></div>
-  <div class="panel-resize-handle rs-sw"></div>
-  <div class="panel-body" style="min-height:420px;">
-    <iframe id="pulsepoint-iframe" src="" class="pulsepoint-frame" style="min-height:420px;" allowfullscreen></iframe>
-  </div>
+  <details class="news-dropdown" id="news-dropdown">
+    <summary class="toolbar-btn"><span class="news-arrow" aria-hidden="true">&#9654;</span> News</summary>
+    <nav class="news-stations" aria-label="News channels on YouTube">
+      <a class="station-link" href="https://www.youtube.com/@KTLA" target="_blank" rel="noopener noreferrer">
+        <span class="station-dot" style="color:#00a4e4;background:#00a4e4" aria-hidden="true"></span>
+        <span class="station-info"><span class="station-name">KTLA 5</span><span class="station-desc">CW Los Angeles — KTLA</span></span>
+        <span class="station-arrow" aria-hidden="true">&#8599;</span>
+      </a>
+      <a class="station-link" href="https://www.youtube.com/@abc7" target="_blank" rel="noopener noreferrer">
+        <span class="station-dot" style="color:#ff6600;background:#ff6600" aria-hidden="true"></span>
+        <span class="station-info"><span class="station-name">ABC7 LA</span><span class="station-desc">ABC Los Angeles — KABC</span></span>
+        <span class="station-arrow" aria-hidden="true">&#8599;</span>
+      </a>
+      <a class="station-link" href="https://www.youtube.com/@CBSLA" target="_blank" rel="noopener noreferrer">
+        <span class="station-dot" style="color:#0080c8;background:#0080c8" aria-hidden="true"></span>
+        <span class="station-info"><span class="station-name">CBSLA</span><span class="station-desc">CBS News Los Angeles — KCBS/KCAL</span></span>
+        <span class="station-arrow" aria-hidden="true">&#8599;</span>
+      </a>
+      <a class="station-link" href="https://www.youtube.com/@NBCLA" target="_blank" rel="noopener noreferrer">
+        <span class="station-dot" style="color:#e31837;background:#e31837" aria-hidden="true"></span>
+        <span class="station-info"><span class="station-name">NBC4 LA</span><span class="station-desc">NBC Los Angeles — KNBC</span></span>
+        <span class="station-arrow" aria-hidden="true">&#8599;</span>
+      </a>
+      <a class="station-link" href="https://www.youtube.com/@FOX11LosAngeles" target="_blank" rel="noopener noreferrer">
+        <span class="station-dot" style="color:#003087;background:#003087" aria-hidden="true"></span>
+        <span class="station-info"><span class="station-name">FOX 11 LA</span><span class="station-desc">FOX Los Angeles — KTTV</span></span>
+        <span class="station-arrow" aria-hidden="true">&#8599;</span>
+      </a>
+    </nav>
+  </details>
 </div>
 
 <!-- ═══ MAIN GRID ═══ -->
@@ -1421,7 +968,6 @@ function toggleTheme() {
     { name: 'corsproxy', url: 'https://corsproxy.io/?url=', type: 'raw' },
     { name: 'allorigins', url: 'https://api.allorigins.win/get?url=', type: 'allorigins' },
   ];
-  const INCIDENT_MAX_AGE_MS = 60 * 60 * 1000;
   const NEWS_MAX_ITEMS = 12;
 
   // NWS stations in order of proximity to Monrovia
@@ -1444,7 +990,6 @@ function toggleTheme() {
   ];
 
   // ── STATE ──
-  let incidents = [];
   let forecastUrl = null;
 
   // ── UTILITIES ──
@@ -1574,105 +1119,6 @@ function toggleTheme() {
   }
   setInterval(updateClock, 1000);
   updateClock();
-
-  // ═══════════════════════════════════════════
-  // INCIDENT BAR
-  // ═══════════════════════════════════════════
-
-  function addIncident(obj) {
-    if (incidents.find(i => i.id === obj.id)) return;
-    incidents.push(obj);
-  }
-
-  function pruneIncidents() {
-    const cutoff = Date.now() - INCIDENT_MAX_AGE_MS;
-    incidents = incidents.filter(i => i.time.getTime() > cutoff);
-  }
-
-  function renderIncidents() {
-    pruneIncidents();
-    const bar = document.getElementById('incident-bar');
-    const clearEl = document.getElementById('incident-clear');
-    const cardsEl = document.getElementById('incident-cards');
-
-    if (!incidents.length) {
-      bar.className = 'incident-bar clear';
-      clearEl.style.display = '';
-      cardsEl.style.display = 'none';
-      return;
-    }
-
-    const hasRed = incidents.some(i => i.severity === 'red');
-    bar.className = 'incident-bar ' + (hasRed ? 'active-red' : 'active-amber');
-    clearEl.style.display = 'none';
-    cardsEl.style.display = 'flex';
-    cardsEl.innerHTML = '';
-
-    incidents.sort((a, b) => b.time - a.time).forEach(inc => {
-      const card = document.createElement('div');
-      card.className = 'incident-card severity-' + (inc.severity || 'amber');
-      card.innerHTML =
-        '<div class="ic-type">' + escHtml(inc.type) + '</div>' +
-        '<div class="ic-title">' + escHtml(inc.title) + '</div>' +
-        '<div class="ic-meta"><span>' + escHtml(inc.source) + '</span><span>' + relTime(inc.time) + '</span></div>';
-      cardsEl.appendChild(card);
-    });
-  }
-
-  // Only promote M4.5+ earthquakes to the incident bar (significant/felt quakes).
-  // Smaller quakes still appear in the Recent Earthquakes section in the weather panel.
-  async function fetchQuakesLastHour() {
-    try {
-      const url = 'https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=' +
-        new Date(Date.now() - INCIDENT_MAX_AGE_MS).toISOString() +
-        '&minmagnitude=4.5&latitude=' + MONROVIA_LAT + '&longitude=' + MONROVIA_LON + '&maxradiuskm=80';
-      const data = await fetchJson(url);
-      (data.features || []).forEach(f => {
-        const p = f.properties;
-        addIncident({
-          id: 'usgs-' + f.id,
-          type: 'EARTHQUAKE',
-          title: 'M' + p.mag.toFixed(1) + ' -- ' + p.place,
-          source: 'USGS',
-          time: new Date(p.time),
-          severity: p.mag >= 6 ? 'red' : 'amber'
-        });
-      });
-    } catch (e) { console.warn('USGS last-hour:', e); }
-  }
-
-  // Only promote severe Warnings to the incident bar (not Watches or Advisories).
-  // All alerts (including watches/advisories) still appear in the Weather > Active Alerts section.
-  async function fetchNwsAlertsIncident() {
-    try {
-      const data = await fetchJson('https://api.weather.gov/alerts/active?zone=CAZ548');
-      (data.features || []).forEach(f => {
-        const p = f.properties;
-        const event = (p.event || '').toLowerCase();
-        // Only Warnings go in incident bar; skip Watches, Advisories, Statements
-        if (!event.includes('warning')) return;
-        const sev = ['Extreme','Severe'].includes(p.severity) ? 'red' : 'amber';
-        addIncident({
-          id: 'nws-' + f.id,
-          type: 'NWS ALERT',
-          title: p.event + (p.headline ? ': ' + p.headline.slice(0, 100) : ''),
-          source: 'NWS',
-          time: new Date(p.onset || p.effective || p.sent),
-          severity: sev
-        });
-      });
-    } catch (e) { console.warn('NWS alerts incident:', e); }
-  }
-
-  // CAL FIRE RSS is defunct (redirects to 404). Fire incidents are covered by NWS alerts
-  // (Red Flag Warnings, Fire Weather Watches) which are already in the incident bar.
-
-  async function refreshIncidents() {
-    await Promise.allSettled([fetchQuakesLastHour(), fetchNwsAlertsIncident()]);
-    renderIncidents();
-    document.getElementById('last-refresh').textContent = 'Updated ' +
-      new Date().toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', hour12: true, timeZone: 'America/Los_Angeles' });
-  }
 
   // ═══════════════════════════════════════════
   // NEWS FEEDS
@@ -2125,9 +1571,11 @@ function toggleTheme() {
     var btn = document.getElementById('refresh-btn');
     if (btn) { btn.disabled = true; btn.textContent = '↻ REFRESHING…'; }
     await Promise.allSettled([
-      refreshIncidents(), loadMonrovia(), loadSgv(), loadCounty(),
+      loadMonrovia(), loadSgv(), loadCounty(),
       loadCurrentWx(), loadForecast(), loadAqi(), loadAlerts(), loadRecentQuakes()
     ]);
+    document.getElementById('last-refresh').textContent = 'Updated ' +
+      new Date().toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', hour12: true, timeZone: 'America/Los_Angeles' });
     if (btn) { btn.disabled = false; btn.innerHTML = '&#8635; REFRESH'; }
   }
 
@@ -2143,335 +1591,6 @@ function toggleTheme() {
 
   init();
 
-  // ═══════════════════════════════════════════
-  // FLOATING PANELS (outside IIFE for onclick)
-  // ═══════════════════════════════════════════
-
-  // LA local news stations with live YouTube streams
-  var LIVE_STATIONS = [
-    { name: 'KTLA 5',   desc: 'CW affiliate — 24/7 streaming',     color: '#00a4e4', url: 'https://www.youtube.com/@KTLA/live' },
-    { name: 'ABC7 LA',  desc: 'ABC Los Angeles — KABC',             color: '#ff6600', url: 'https://www.youtube.com/@abc7/live' },
-    { name: 'CBSLA',    desc: 'CBS News Los Angeles — KCBS/KCAL',   color: '#0080c8', url: 'https://www.youtube.com/@CBSLA/live' },
-    { name: 'NBC4 LA',  desc: 'NBC Los Angeles — KNBC',             color: '#e31837', url: 'https://www.youtube.com/@NBCLA/live' },
-    { name: 'FOX 11 LA', desc: 'FOX Los Angeles — KTTV',            color: '#003087', url: 'https://www.youtube.com/@FOX11LosAngeles/live' },
-  ];
-
-  // Caltrans cameras near Monrovia — confirmed working first, then nearby
-  // Placeholder images are ~16KB; real feeds are 20KB+
-  var CAMERAS = [
-    // Confirmed working
-    { label: 'I-210 EB at Santa Anita Ave',       sub: 'Arcadia — 1.7 mi west',           url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i210772santaanitaave/i210772santaanitaave.jpg' },
-    { label: 'I-210 EB at E Colorado Blvd',        sub: 'Pasadena — 3.9 mi west',          url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i210767eastcolorado/i210767eastcolorado.jpg' },
-    { label: 'I-605 NB south of I-210',            sub: 'Irwindale — 2.6 mi southeast',    url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i605442southofi210/i605442southofi210.jpg' },
-    { label: 'I-210 WB at Alameda Ave / 1st St',   sub: 'Azusa — 5.7 mi east',             url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i210784alamedaave1stst/i210784alamedaave1stst.jpg' },
-    { label: 'I-210 WB at Citrus Ave / Baseline',  sub: 'Azusa — 6.6 mi east',             url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i210786citrusavebaseline/i210786citrusavebaseline.jpg' },
-    { label: 'I-210 WB at Sierra Madre Villa',     sub: 'Pasadena — 5.3 mi west',          url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i210765sierramadrevilla/i210765sierramadrevilla.jpg' },
-    // Closest to Monrovia — may toggle on/off
-    { label: 'I-210 WB at Myrtle / Central',       sub: 'Monrovia — closest cam',          url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i210775myrtlecentral/i210775myrtlecentral.jpg' },
-    { label: 'I-210 WB at Myrtle Ave',             sub: 'Monrovia — 0.6 mi',               url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i210459myrtleave/i210459myrtleave.jpg' },
-    { label: 'I-210 EB at California / Evergreen',  sub: 'Monrovia — 0.75 mi east',        url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i210778californiaevergreen/i210778californiaevergreen.jpg' },
-    { label: 'I-210 EB at Huntington Ave',          sub: 'Monrovia — 1 mi east',           url: 'https://cwwp2.dot.ca.gov/data/d7/cctv/image/i210774huntingtonave/i210774huntingtonave.jpg' },
-  ];
-
-  var camTimer = null;
-
-  // Session storage for panel positions/sizes (desktop only)
-  var panelState = {};
-  try { panelState = JSON.parse(sessionStorage.getItem('panelState') || '{}'); } catch(e) {}
-  function savePanelState(name, props) {
-    panelState[name] = Object.assign(panelState[name] || {}, props);
-    try { sessionStorage.setItem('panelState', JSON.stringify(panelState)); } catch(e) {}
-  }
-
-  function isMobile() { return window.innerWidth <= 700; }
-
-  var backdrop = document.getElementById('panel-backdrop');
-  if (backdrop) {
-    backdrop.addEventListener('click', function() {
-      ['live','aircraft','cameras','fire'].forEach(function(n) { closePanel(n); });
-    });
-  }
-
-  function closePanel(name) {
-    var p = document.getElementById('panel-' + name);
-    var b = document.getElementById('btn-' + (name === 'fire' ? 'incidents' : name));
-    if (p) {
-      p.style.display = 'none';
-      p.classList.remove('sheet-full', 'sheet-mini', 'sheet-dragging');
-    }
-    if (b) b.classList.remove('active');
-    // Unload resources
-    if (name === 'aircraft') document.getElementById('adsb-iframe').src = '';
-    else if (name === 'fire') document.getElementById('pulsepoint-iframe').src = '';
-    if (name === 'cameras' && camTimer) { clearInterval(camTimer); camTimer = null; }
-  }
-
-  function showBackdrop(show) {
-    if (backdrop) backdrop.classList.toggle('active', show);
-  }
-
-  window.togglePanel = function(name) {
-    var panel = document.getElementById('panel-' + name);
-    var btn = document.getElementById('btn-' + (name === 'fire' ? 'incidents' : name));
-    if (!panel) return;
-    var isOpen = panel.style.display !== 'none';
-    // Close all panels first
-    ['live','aircraft','cameras','fire'].forEach(function(n) {
-      closePanel(n);
-    });
-    showBackdrop(false);
-    if (!isOpen) {
-      panel.style.display = 'flex';
-      if (btn) btn.classList.add('active');
-      // Restore desktop position/size from session
-      if (!isMobile() && panelState[name]) {
-        var s = panelState[name];
-        if (s.top != null) panel.style.top = s.top + 'px';
-        if (s.left != null) { panel.style.left = s.left + 'px'; panel.style.right = 'auto'; }
-        if (s.width != null) panel.style.width = s.width + 'px';
-        if (s.height != null) { panel.style.height = s.height + 'px'; panel.style.maxHeight = 'none'; }
-      }
-      // Show backdrop on mobile
-      if (isMobile()) {
-        showBackdrop(true);
-        panel.classList.remove('sheet-full', 'sheet-mini');
-      }
-      // Lazy-load content on first open
-      if (name === 'live') {
-        renderLiveStations();
-      } else if (name === 'aircraft') {
-        var iframe = document.getElementById('adsb-iframe');
-        if (!iframe.src || iframe.src === '' || iframe.src === location.href) {
-          iframe.src = 'https://globe.adsbexchange.com/?lat=34.1442&lon=-118.0023&zoom=11&nologo&hideSidebar';
-        }
-      } else if (name === 'cameras') {
-        loadCameras();
-      } else if (name === 'fire') {
-        var iframe = document.getElementById('pulsepoint-iframe');
-        if (!iframe.src || iframe.src === '' || iframe.src === location.href) {
-          iframe.src = 'https://web.pulsepoint.org/?agencies=LACFD&tab=all';
-        }
-      }
-    } else {
-      showBackdrop(false);
-    }
-  };
-
-  function renderLiveStations() {
-    var container = document.getElementById('live-stations');
-    if (!container || container.children.length > 0) return;
-    LIVE_STATIONS.forEach(function(st) {
-      var a = document.createElement('a');
-      a.className = 'station-link';
-      a.href = st.url;
-      a.target = '_blank';
-      a.rel = 'noopener';
-      a.innerHTML =
-        '<span class="station-dot" style="color:' + st.color + ';background:' + st.color + '"></span>' +
-        '<span class="station-info"><span class="station-name">' + st.name + '</span>' +
-        '<span class="station-desc">' + st.desc + '</span></span>' +
-        '<span class="station-arrow">&#8599;</span>';
-      container.appendChild(a);
-    });
-  }
-
-  // Check if a camera image is the Caltrans placeholder (~16KB)
-  function checkCamStatus(imgEl, cam) {
-    fetch(imgEl.src, { method: 'HEAD' }).then(function(r) {
-      var len = parseInt(r.headers.get('content-length') || '0', 10);
-      if (len > 0 && len < 18000) {
-        imgEl.closest('.cam-card').classList.add('cam-offline');
-      } else {
-        imgEl.closest('.cam-card').classList.remove('cam-offline');
-      }
-    }).catch(function() {
-      imgEl.closest('.cam-card').classList.add('cam-offline');
-    });
-  }
-
-  function loadCameras() {
-    var grid = document.getElementById('cam-grid');
-    grid.innerHTML = '';
-    var ts = Date.now();
-    CAMERAS.forEach(function(cam) {
-      var card = document.createElement('div');
-      card.className = 'cam-card';
-      var img = document.createElement('img');
-      img.src = cam.url + '?t=' + ts;
-      img.alt = cam.label;
-      img.loading = 'lazy';
-      img.onload = function() { checkCamStatus(this, cam); };
-      img.onerror = function() { this.closest('.cam-card').classList.add('cam-offline'); };
-      card.appendChild(img);
-      var labelDiv = document.createElement('div');
-      labelDiv.className = 'cam-label';
-      labelDiv.innerHTML = '<span class="cam-title">' + cam.label + '</span>' +
-        (cam.sub ? '<span class="cam-sub">' + cam.sub + '</span>' : '');
-      card.appendChild(labelDiv);
-      grid.appendChild(card);
-    });
-    // Auto-refresh camera images every 30 seconds
-    if (camTimer) clearInterval(camTimer);
-    camTimer = setInterval(function() {
-      var ts = Date.now();
-      grid.querySelectorAll('.cam-card img').forEach(function(img, i) {
-        if (CAMERAS[i]) {
-          img.src = CAMERAS[i].url + '?t=' + ts;
-        }
-      });
-    }, 30000);
-  }
-
-  // ═══════════════════════════════════════════
-  // DESKTOP: Drag panels by header
-  // ═══════════════════════════════════════════
-  (function() {
-    if (typeof window.ontouchstart !== 'undefined' && window.innerWidth <= 700) return;
-
-    document.querySelectorAll('.float-panel .panel-header').forEach(function(header) {
-      header.addEventListener('mousedown', function(e) {
-        if (e.target.closest('.panel-close')) return;
-        if (isMobile()) return;
-        var panel = header.closest('.float-panel');
-        var panelName = panel.id.replace('panel-', '');
-        var rect = panel.getBoundingClientRect();
-        var offX = e.clientX - rect.left;
-        var offY = e.clientY - rect.top;
-        header.classList.add('dragging');
-
-        // Disable iframe pointer events during drag
-        panel.querySelectorAll('iframe').forEach(function(f) { f.style.pointerEvents = 'none'; });
-
-        function onMove(ev) {
-          var x = Math.max(0, Math.min(ev.clientX - offX, window.innerWidth - 100));
-          var y = Math.max(0, Math.min(ev.clientY - offY, window.innerHeight - 40));
-          panel.style.left = x + 'px';
-          panel.style.top = y + 'px';
-          panel.style.right = 'auto';
-        }
-        function onUp() {
-          header.classList.remove('dragging');
-          panel.querySelectorAll('iframe').forEach(function(f) { f.style.pointerEvents = ''; });
-          document.removeEventListener('mousemove', onMove);
-          document.removeEventListener('mouseup', onUp);
-          var r = panel.getBoundingClientRect();
-          savePanelState(panelName, { top: r.top, left: r.left });
-        }
-        document.addEventListener('mousemove', onMove);
-        document.addEventListener('mouseup', onUp);
-        e.preventDefault();
-      });
-    });
-
-    // ── Desktop: Resize panels from edges/corners ──
-    document.querySelectorAll('.panel-resize-handle').forEach(function(handle) {
-      handle.addEventListener('mousedown', function(e) {
-        if (isMobile()) return;
-        var panel = handle.closest('.float-panel');
-        var panelName = panel.id.replace('panel-', '');
-        var rect = panel.getBoundingClientRect();
-        var startX = e.clientX, startY = e.clientY;
-        var startW = rect.width, startH = rect.height;
-        var startL = rect.left, startT = rect.top;
-        var isE = handle.classList.contains('rs-e') || handle.classList.contains('rs-se');
-        var isW = handle.classList.contains('rs-w') || handle.classList.contains('rs-sw');
-        var isS = handle.classList.contains('rs-s') || handle.classList.contains('rs-se') || handle.classList.contains('rs-sw');
-
-        panel.querySelectorAll('iframe').forEach(function(f) { f.style.pointerEvents = 'none'; });
-
-        function onMove(ev) {
-          var dx = ev.clientX - startX, dy = ev.clientY - startY;
-          if (isE) { panel.style.width = Math.max(320, startW + dx) + 'px'; }
-          if (isW) {
-            var nw = Math.max(320, startW - dx);
-            panel.style.width = nw + 'px';
-            panel.style.left = (startL + startW - nw) + 'px';
-            panel.style.right = 'auto';
-          }
-          if (isS) {
-            panel.style.height = Math.max(200, startH + dy) + 'px';
-            panel.style.maxHeight = 'none';
-          }
-        }
-        function onUp() {
-          panel.querySelectorAll('iframe').forEach(function(f) { f.style.pointerEvents = ''; });
-          document.removeEventListener('mousemove', onMove);
-          document.removeEventListener('mouseup', onUp);
-          var r = panel.getBoundingClientRect();
-          savePanelState(panelName, { top: r.top, left: r.left, width: r.width, height: r.height });
-        }
-        document.addEventListener('mousemove', onMove);
-        document.addEventListener('mouseup', onUp);
-        e.preventDefault();
-      });
-    });
-  })();
-
-  // ═══════════════════════════════════════════
-  // MOBILE: Bottom-sheet swipe gestures
-  // ═══════════════════════════════════════════
-  (function() {
-    var VH = window.innerHeight;
-    window.addEventListener('resize', function() { VH = window.innerHeight; });
-
-    document.querySelectorAll('.float-panel').forEach(function(panel) {
-      var dragHandle = panel.querySelector('.panel-drag-handle');
-      var header = panel.querySelector('.panel-header');
-      if (!dragHandle) return;
-
-      var touchStartY = 0, startH = 0, isDragging = false;
-
-      function onTouchStart(e) {
-        if (!isMobile()) return;
-        var t = e.touches[0];
-        touchStartY = t.clientY;
-        startH = panel.getBoundingClientRect().height;
-        isDragging = true;
-        panel.classList.add('sheet-dragging');
-        panel.classList.remove('sheet-full', 'sheet-mini');
-      }
-
-      function onTouchMove(e) {
-        if (!isDragging || !isMobile()) return;
-        var t = e.touches[0];
-        var dy = touchStartY - t.clientY; // positive = dragging up
-        var newH = Math.max(VH * 0.15, Math.min(VH, startH + dy));
-        panel.style.height = newH + 'px';
-        e.preventDefault();
-      }
-
-      function onTouchEnd(e) {
-        if (!isDragging || !isMobile()) return;
-        isDragging = false;
-        panel.classList.remove('sheet-dragging');
-        var finalH = panel.getBoundingClientRect().height;
-        var ratio = finalH / VH;
-
-        // Snap points: close (<20%), mini (20-45%), default (45-80%), full (>80%)
-        if (ratio < 0.20) {
-          // Close the panel
-          var panelName = panel.id.replace('panel-', '');
-          window.togglePanel(panelName);
-        } else if (ratio < 0.45) {
-          panel.style.height = '';
-          panel.classList.add('sheet-mini');
-        } else if (ratio < 0.80) {
-          panel.style.height = '';
-          panel.classList.remove('sheet-full', 'sheet-mini');
-        } else {
-          panel.style.height = '';
-          panel.classList.add('sheet-full');
-        }
-      }
-
-      // Attach to both the drag handle and the header for swipe
-      [dragHandle, header].forEach(function(el) {
-        el.addEventListener('touchstart', onTouchStart, { passive: true });
-        el.addEventListener('touchmove', onTouchMove, { passive: false });
-        el.addEventListener('touchend', onTouchEnd, { passive: true });
-      });
-    });
-  })();
 
 })();
 </script>
