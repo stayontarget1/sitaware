@@ -743,6 +743,13 @@ body::after {
   }
 }
 
+/* Keep the logo below the extended iOS Home Screen top-edge effect. */
+@media (display-mode: standalone) and (max-width: 700px) {
+  .site-header {
+    padding-top: calc(36px + env(safe-area-inset-top, 0px));
+  }
+}
+
 /* Mobile header stacking (narrow phones) */
 @media (max-width: 500px) {
   .site-header {
