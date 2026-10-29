@@ -7,7 +7,8 @@
 <link rel="icon" type="image/png" href="apple-touch-icon.png">
 <title>SITAWARE — SoCal Situational Awareness</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
 <style>
 /* ═══════════════════════════════════════════════════════════════
    SITAWARE — SoCal Situational Awareness Dashboard
@@ -23,9 +24,9 @@
   --bg-card-hover: #161a24;
   --border: #1a1f2e;
   --border-bright: #252d40;
-  --text-primary: #c8cdd8;
-  --text-secondary: #6b7280;
-  --text-dim: #3d4452;
+  --text-primary: #e0e4eb;
+  --text-secondary: #a6afbd;
+  --text-dim: #8994a5;
   --green: #22c55e;
   --green-dim: #15803d;
   --green-glow: rgba(34,197,94,0.15);
@@ -42,7 +43,8 @@
   --monrovia: #22c55e;
   --sgv: #3b82f6;
   --county: #a855f7;
-  --font: 'JetBrains Mono', 'Consolas', 'SF Mono', monospace;
+  --font: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-mono: 'JetBrains Mono', 'Consolas', 'SF Mono', monospace;
   --radius: 4px;
   --scanline-color: rgba(0,0,0,0.03);
 }
@@ -57,7 +59,7 @@ html.light {
   --border-bright: #b0b7c3;
   --text-primary: #1f2937;
   --text-secondary: #4b5563;
-  --text-dim: #9ca3af;
+  --text-dim: #626d7d;
   --green: #16a34a;
   --green-dim: #166534;
   --green-glow: rgba(22,163,74,0.12);
@@ -77,10 +79,11 @@ html.light {
   --scanline-color: rgba(0,0,0,0);
 }
 
-html { font-size: 13px; }
+html { font-size: 16px; }
 
 body {
   font-family: var(--font);
+  font-optical-sizing: auto;
   background: var(--bg-root);
   color: var(--text-primary);
   min-height: 100vh;
@@ -115,6 +118,7 @@ body::after {
 }
 
 .site-header h1 {
+  font-family: var(--font-mono);
   font-size: 0.85rem;
   font-weight: 600;
   letter-spacing: 0.15em;
@@ -146,7 +150,11 @@ body::after {
   align-items: center;
 }
 
-.header-meta .clock { color: var(--text-secondary); }
+.header-meta .clock {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+  color: var(--text-secondary);
+}
 .header-actions { display: inline-flex; gap: 8px; align-items: center; }
 
 /* Theme toggle */
@@ -194,7 +202,7 @@ body::after {
 }
 
 .col-header h2 {
-  font-size: 0.7rem;
+  font-size: .75rem;
   font-weight: 700;
   letter-spacing: 0.14em;
   text-transform: uppercase;
@@ -215,7 +223,7 @@ body::after {
 .col-county .geo-dot { background: var(--county); box-shadow: 0 0 4px var(--county); }
 
 .col-header .col-count {
-  font-size: 0.65rem;
+  font-size: .75rem;
   color: var(--text-dim);
   font-weight: 400;
 }
@@ -248,7 +256,7 @@ body::after {
 }
 
 .news-card .nc-source {
-  font-size: 0.6rem;
+  font-size: .75rem;
   font-weight: 600;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -276,10 +284,10 @@ body::after {
 .geo-health { color: var(--cyan); }
 
 .news-card .nc-headline {
-  font-size: 0.8rem;
+  font-size: 0.875rem;
   font-weight: 400;
   color: var(--text-primary);
-  line-height: 1.4;
+  line-height: 1.55;
   display: -webkit-box;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
@@ -287,7 +295,7 @@ body::after {
 }
 
 .news-card .nc-time {
-  font-size: 0.6rem;
+  font-size: .75rem;
   color: var(--text-dim);
   margin-top: 6px;
 }
@@ -309,7 +317,7 @@ body::after {
   display: flex;
   align-items: center;
   gap: 6px;
-  font-size: 0.55rem;
+  font-size: .75rem;
   font-weight: 700;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -335,8 +343,8 @@ body::after {
   padding: 2px 0;
   padding-left: 12px;
   position: relative;
-  font-size: 0.72rem;
-  line-height: 1.4;
+  font-size: 0.875rem;
+  line-height: 1.55;
 }
 
 .briefing-text li::before {
@@ -350,7 +358,7 @@ body::after {
 /* Hidden headline counter */
 .hidden-count {
   padding: 6px 12px;
-  font-size: 0.6rem;
+  font-size: .75rem;
   color: var(--text-dim);
   text-align: center;
   border-top: 1px solid var(--border);
@@ -367,7 +375,7 @@ body::after {
 .wx-section:last-child { border-bottom: none; }
 
 .wx-section-title {
-  font-size: 0.6rem;
+  font-size: .75rem;
   font-weight: 700;
   letter-spacing: 0.1em;
   text-transform: uppercase;
@@ -377,7 +385,7 @@ body::after {
 
 .wx-current-temp {
   font-size: 2.2rem;
-  font-weight: 300;
+  font-weight: 400;
   color: var(--text-primary);
   line-height: 1;
 }
@@ -399,14 +407,14 @@ body::after {
   grid-template-columns: 1fr 1fr;
   gap: 4px 12px;
   margin-top: 8px;
-  font-size: 0.7rem;
+  font-size: .75rem;
 }
 
 .wx-detail-label { color: var(--text-dim); }
 .wx-detail-value { color: var(--text-secondary); text-align: right; }
 
 .wx-obs-note {
-  font-size: 0.55rem;
+  font-size: .75rem;
   color: var(--text-dim);
   margin-top: 6px;
   font-style: italic;
@@ -421,7 +429,7 @@ body::after {
 
 .aqi-number {
   font-size: 1.8rem;
-  font-weight: 300;
+  font-weight: 400;
   line-height: 1;
 }
 
@@ -433,12 +441,12 @@ body::after {
 .aqi-hazardous { color: #7f1d1d; }
 
 .aqi-label {
-  font-size: 0.7rem;
+  font-size: .75rem;
   color: var(--text-secondary);
 }
 
 .aqi-cat {
-  font-size: 0.65rem;
+  font-size: .75rem;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.06em;
@@ -450,7 +458,7 @@ body::after {
 }
 
 .forecast-day-label {
-  font-size: 0.65rem;
+  font-size: .75rem;
   font-weight: 600;
   color: var(--text-secondary);
   text-transform: uppercase;
@@ -465,7 +473,7 @@ body::after {
   justify-content: space-between;
   align-items: center;
   padding: 3px 0;
-  font-size: 0.7rem;
+  font-size: .75rem;
   border-bottom: 1px solid rgba(255,255,255,0.02);
 }
 
@@ -474,13 +482,13 @@ body::after {
 .forecast-period {
   color: var(--text-dim);
   min-width: 55px;
-  font-size: 0.6rem;
+  font-size: .75rem;
 }
 .forecast-desc {
   color: var(--text-secondary);
   flex: 1;
   text-align: left;
-  font-size: 0.65rem;
+  font-size: .75rem;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
@@ -501,13 +509,13 @@ body::after {
 .wx-alert-card:last-child { margin-bottom: 0; }
 
 .wx-alert-card .alert-event {
-  font-size: 0.7rem;
+  font-size: .75rem;
   font-weight: 600;
   color: var(--red);
 }
 
 .wx-alert-card .alert-desc {
-  font-size: 0.65rem;
+  font-size: .75rem;
   color: var(--text-secondary);
   margin-top: 2px;
   display: -webkit-box;
@@ -522,7 +530,7 @@ body::after {
   align-items: center;
   gap: 8px;
   padding: 4px 0;
-  font-size: 0.7rem;
+  font-size: .75rem;
   border-bottom: 1px solid rgba(255,255,255,0.03);
 }
 
@@ -534,7 +542,7 @@ body::after {
   text-align: center;
   padding: 2px 4px;
   border-radius: 2px;
-  font-size: 0.7rem;
+  font-size: .75rem;
 }
 
 .quake-mag.low { color: var(--green); background: rgba(34,197,94,0.1); }
@@ -542,7 +550,7 @@ body::after {
 .quake-mag.high { color: var(--red); background: rgba(239,68,68,0.1); }
 
 .quake-place { color: var(--text-secondary); flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-.quake-time { color: var(--text-dim); font-size: 0.6rem; white-space: nowrap; }
+.quake-time { color: var(--text-dim); font-size: .75rem; white-space: nowrap; }
 
 /* ── UPCOMING BAR ── */
 .upcoming-bar {
@@ -552,7 +560,7 @@ body::after {
 }
 
 .upcoming-bar .section-label {
-  font-size: 0.65rem;
+  font-size: .75rem;
   font-weight: 700;
   letter-spacing: 0.12em;
   text-transform: uppercase;
@@ -584,7 +592,7 @@ body::after {
 .upcoming-item:hover { border-color: var(--border-bright); }
 
 .upcoming-date {
-  font-size: 0.6rem;
+  font-size: .75rem;
   color: var(--cyan);
   font-weight: 600;
   text-transform: uppercase;
@@ -598,14 +606,14 @@ body::after {
 }
 
 .upcoming-source {
-  font-size: 0.6rem;
+  font-size: .75rem;
   color: var(--text-dim);
   margin-top: 3px;
 }
 
 /* ── LOADING / EMPTY ── */
 .loading-text, .empty-text {
-  font-size: 0.7rem;
+  font-size: .75rem;
   color: var(--text-dim);
   padding: 16px 0;
   text-align: center;
@@ -658,7 +666,7 @@ body::after {
   border: 1px solid var(--border);
   color: var(--text-secondary);
   font-family: var(--font);
-  font-size: 0.6rem;
+  font-size: .75rem;
   font-weight: 600;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -721,14 +729,14 @@ body::after {
 .station-info { flex: 1; min-width: 0; display: flex; flex-direction: column; }
 
 .station-name {
-  font-size: 0.8rem;
+  font-size: 0.875rem;
   font-weight: 700;
   letter-spacing: 0.05em;
   color: var(--text-primary);
 }
 
 .station-desc {
-  font-size: 0.6rem;
+  font-size: .75rem;
   color: var(--text-dim);
   margin-top: 2px;
 }
@@ -763,7 +771,7 @@ body::after {
   }
 
   .toolbar-btn {
-    font-size: 0.6rem;
+    font-size: .75rem;
     padding: 8px 12px;
     flex: 1;
     justify-content: center;
@@ -821,9 +829,9 @@ if (localStorage.getItem('sitaware-theme') === 'light') document.documentElement
   <div class="header-meta">
     <span>MONROVIA, CA</span>
     <span class="clock" id="clock"></span>
-    <span id="last-refresh" style="font-size:0.65rem;"></span>
+    <span id="last-refresh" style="font-size: .75rem;"></span>
     <span class="header-actions">
-      <button id="refresh-btn" title="Refresh all data" style="background:none;border:1px solid var(--border);color:var(--text-secondary);font-family:var(--font);font-size:0.65rem;padding:3px 10px;border-radius:var(--radius);cursor:pointer;letter-spacing:0.06em;transition:border-color 0.15s,color 0.15s;" onmouseover="this.style.borderColor='var(--green)';this.style.color='var(--green)';" onmouseout="this.style.borderColor='var(--border)';this.style.color='var(--text-secondary)';">&#8635; REFRESH</button>
+      <button id="refresh-btn" title="Refresh all data" style="background:none;border:1px solid var(--border);color:var(--text-secondary);font-family:var(--font);font-size: .75rem;padding:3px 10px;border-radius:var(--radius);cursor:pointer;letter-spacing:0.06em;transition:border-color 0.15s,color 0.15s;" onmouseover="this.style.borderColor='var(--green)';this.style.color='var(--green)';" onmouseout="this.style.borderColor='var(--border)';this.style.color='var(--text-secondary)';">&#8635; REFRESH</button>
       <button class="theme-toggle" id="theme-toggle" title="Toggle light/dark mode" onclick="toggleTheme()">&#9790;</button>
     </span>
   </div>
