@@ -3,15 +3,17 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="apple-touch-icon" href="apple-touch-icon.png">
-<link rel="icon" type="image/png" href="apple-touch-icon.png">
-<title>SITAWARE — SoCal Situational Awareness</title>
+<link rel="apple-touch-icon" sizes="180x180" href="local-apple-touch-icon.png">
+<link rel="icon" href="local-favicon.ico" sizes="16x16 32x32 48x48">
+<link rel="icon" type="image/svg+xml" href="local-icon.svg">
+<meta name="apple-mobile-web-app-title" content="Local">
+<title>Local</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
 <style>
 /* ═══════════════════════════════════════════════════════════════
-   SITAWARE — SoCal Situational Awareness Dashboard
+   Local — Personal news dashboard
    Dark terminal / ops aesthetic
    ═══════════════════════════════════════════════════════════════ */
 
@@ -123,23 +125,16 @@ body::after {
   font-weight: 600;
   letter-spacing: 0.15em;
   text-transform: uppercase;
-  color: var(--green);
+  color: var(--text-primary);
   display: flex;
   align-items: center;
   gap: 8px;
 }
 
-.site-header h1 .dot {
-  width: 6px; height: 6px;
-  background: var(--green);
-  border-radius: 50%;
-  box-shadow: 0 0 6px var(--green);
-  animation: pulse-dot 2s ease-in-out infinite;
-}
-
-@keyframes pulse-dot {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.4; }
+.site-header .site-mark {
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
 }
 
 .header-meta {
@@ -825,7 +820,7 @@ if (localStorage.getItem('sitaware-theme') === 'light') document.documentElement
 
 <!-- ═══ HEADER ═══ -->
 <header class="site-header">
-  <h1><span class="dot"></span> SITAWARE</h1>
+  <h1><img class="site-mark" src="local-icon.svg" width="24" height="24" alt=""> Local</h1>
   <div class="header-meta">
     <span>MONROVIA, CA</span>
     <span class="clock" id="clock"></span>
