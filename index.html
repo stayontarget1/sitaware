@@ -743,10 +743,21 @@ body::after {
   }
 }
 
-/* Keep the logo below the extended iOS Home Screen top-edge effect. */
-@media (display-mode: standalone) and (max-width: 700px) {
-  .site-header {
+/* iOS Home Screen apps need a painted top edge, as well as safe-area spacing.
+   The class also covers Safari's navigator.standalone detection. */
+@media (max-width: 700px) {
+  .home-screen-app .site-header {
     padding-top: calc(36px + env(safe-area-inset-top, 0px));
+  }
+
+  .home-screen-app body::before {
+    content: '';
+    position: fixed;
+    inset: 0 0 auto;
+    height: max(12px, env(safe-area-inset-top, 0px));
+    background: var(--bg-panel);
+    pointer-events: none;
+    z-index: 10000;
   }
 }
 
@@ -772,6 +783,10 @@ body::after {
 }
 </style>
 <script>
+// Detect Home Screen mode before paint; iOS also exposes its own flag.
+if (window.matchMedia('(display-mode: standalone)').matches || navigator.standalone === true) {
+  document.documentElement.classList.add('home-screen-app');
+}
 // Apply saved theme before render to prevent flash
 if (localStorage.getItem('sitaware-theme') === 'light') document.documentElement.classList.add('light');
 </script>
