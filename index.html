@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 <link rel="apple-touch-icon" sizes="180x180" href="local-apple-touch-icon.png">
 <link rel="icon" href="local-favicon.ico" sizes="16x16 32x32 48x48">
 <link rel="icon" type="image/svg+xml" href="local-icon.svg">
@@ -89,6 +89,9 @@ body {
   background: var(--bg-root);
   color: var(--text-primary);
   min-height: 100vh;
+  padding-left: env(safe-area-inset-left, 0px);
+  padding-right: env(safe-area-inset-right, 0px);
+  padding-bottom: env(safe-area-inset-bottom, 0px);
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
 }
@@ -114,7 +117,7 @@ body::after {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 10px 16px;
+  padding: calc(10px + env(safe-area-inset-top, 0px)) 16px 10px;
   border-bottom: 1px solid var(--border);
   background: var(--bg-panel);
 }
@@ -293,61 +296,6 @@ body::after {
   font-size: .75rem;
   color: var(--text-dim);
   margin-top: 6px;
-}
-
-/* ── AI BRIEFING CARD ── */
-.briefing-card {
-  margin: 8px 8px 4px 8px;
-  padding: 10px 12px;
-  background: var(--bg-card);
-  border: 1px solid var(--border);
-  border-left: 3px solid var(--cyan);
-  border-radius: var(--radius);
-  font-size: 0.75rem;
-  line-height: 1.5;
-  color: var(--text-primary);
-}
-
-.briefing-label {
-  display: flex;
-  align-items: center;
-  gap: 6px;
-  font-size: .75rem;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--cyan);
-  margin-bottom: 6px;
-}
-
-.briefing-label .briefing-time {
-  font-weight: 400;
-  color: var(--text-dim);
-  text-transform: none;
-  letter-spacing: 0;
-}
-
-.briefing-text {
-  color: var(--text-primary);
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.briefing-text li {
-  padding: 2px 0;
-  padding-left: 12px;
-  position: relative;
-  font-size: 0.875rem;
-  line-height: 1.55;
-}
-
-.briefing-text li::before {
-  content: '\2022';
-  position: absolute;
-  left: 0;
-  color: var(--cyan);
-  font-weight: 700;
 }
 
 /* Hidden headline counter */
@@ -748,8 +696,7 @@ body::after {
 /* ── RESPONSIVE ── */
 @media (min-width: 701px) {
   .news-card .nc-source { font-size: 0.625rem; }
-  .news-card .nc-headline,
-  .briefing-text li { font-size: 0.8125rem; }
+  .news-card .nc-headline { font-size: 0.8125rem; }
 }
 
 @media (max-width: 1100px) {
@@ -782,7 +729,7 @@ body::after {
   .site-header {
     flex-direction: column;
     gap: 6px;
-    padding: 8px 12px;
+    padding: calc(12px + env(safe-area-inset-top, 0px)) 12px 12px;
   }
 
   .header-meta {
@@ -828,7 +775,6 @@ if (localStorage.getItem('sitaware-theme') === 'light') document.documentElement
 <header class="site-header">
   <h1><img class="site-mark" src="local-icon.svg" width="24" height="24" alt=""> Local</h1>
   <div class="header-meta">
-    <span>MONROVIA, CA</span>
     <span class="clock" id="clock"></span>
     <span id="last-refresh" style="font-size: .75rem;"></span>
     <span class="header-actions">
@@ -1133,7 +1079,7 @@ function toggleTheme() {
   // NEWS FEEDS
   // ═══════════════════════════════════════════
 
-  // AI Summaries data (loaded from summaries.json)
+  // Relevance flags share the existing summaries.json feed data.
   var summariesData = null;
 
   async function loadSummaries() {
@@ -1143,39 +1089,6 @@ function toggleTheme() {
     } catch (e) {
       console.warn('Could not load summaries.json:', e);
     }
-  }
-
-  function renderBriefingCard(columnKey) {
-    if (!summariesData || !summariesData.columns || !summariesData.columns[columnKey]) return null;
-    var col = summariesData.columns[columnKey];
-    if (!col.summary) return null;
-    var card = document.createElement('div');
-    card.className = 'briefing-card';
-    var genDate = summariesData.generated ? new Date(summariesData.generated) : null;
-    var timeStr = '';
-    if (genDate && !isNaN(genDate)) {
-      var now = Date.now();
-      var ageMs = now - genDate.getTime();
-      var ageH = Math.floor(ageMs / 3600000);
-      if (ageH < 1) timeStr = 'just now';
-      else if (ageH < 24) timeStr = ageH + 'h ago';
-      else timeStr = Math.floor(ageH / 24) + 'd ago';
-    }
-    var briefingLabel = summariesData.briefing || '';
-    // Parse bullet points from summary
-    var bullets = col.summary.split('\n')
-      .map(function(l) { return l.replace(/^[-*]\s*/, '').trim(); })
-      .filter(function(l) { return l.length > 0; });
-    var bulletsHtml = '<ul class="briefing-text">' +
-      bullets.map(function(b) { return '<li>' + escHtml(b) + '</li>'; }).join('') +
-      '</ul>';
-    card.innerHTML =
-      '<div class="briefing-label">' +
-        '<span>Headlines</span>' +
-        '<span class="briefing-time">' + escHtml(briefingLabel + (timeStr ? ' \u00b7 ' + timeStr : '')) + '</span>' +
-      '</div>' +
-      bulletsHtml;
-    return card;
   }
 
   function getRelevanceMap(columnKey) {
@@ -1212,10 +1125,7 @@ function toggleTheme() {
     filtered.sort(function(a, b) { return b.pubDate - a.pubDate; });
     container.innerHTML = '';
 
-    // Insert AI briefing card at top if available
     var columnKey = opts.columnKey || null;
-    var briefingCard = columnKey ? renderBriefingCard(columnKey) : null;
-    if (briefingCard) container.appendChild(briefingCard);
 
     if (!filtered.length) {
       container.innerHTML += '<div class="empty-text">No items loaded</div>';
