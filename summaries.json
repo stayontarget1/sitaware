@@ -1,10 +1,14 @@
 {
-  "generated": "2026-11-03T20:50:41.613202+00:00",
-  "briefing": "8 AM",
+  "generated": "2026-11-04T04:44:47.385989+00:00",
+  "briefing": "5 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Sheriff seeks help finding Michael Duncan, last seen in Monrovia\n- New police chief Sarah Covarrubias outlines policing priorities and goals\n- Vote centers open in Monrovia until November 3 election day\n- Veterans Day ceremony coming up at Library Park this week",
+      "summary": "- Monrovia council election: first returns expected today or soon\n- Sheriff seeks help locating Michael Duncan, missing in Monrovia\n- Vote centers open in Monrovia through November 3 election\n- Four Monrovia schools named to California ERP Honor Roll",
       "headlines": [
+        {
+          "headline": "Monrovia council election: awaiting first returns",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Playful Nova makes time for fetch and pup cups",
           "source": "Monrovia Now"
@@ -82,19 +86,11 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Community Center Move Scheduled for December",
-          "source": "Monrovia Now"
-        },
-        {
           "headline": "Sidewalk Closures Expected In Monrovia During Construction Work - Patch",
           "source": "Google News"
         },
         {
           "headline": "Monrovia Weekly_11/2/2026 - heysocal.com",
-          "source": "Google News"
-        },
-        {
-          "headline": "Online vigilantes say they trapped LAPD officer in predator sting - Los Angeles Times",
           "source": "Google News"
         },
         {
@@ -126,6 +122,10 @@
           "source": "Google News"
         },
         {
+          "headline": "Monrovia Community Garden To Host Free Holiday Gift-Making Workshop Nov. 14 - Patch",
+          "source": "Google News"
+        },
+        {
           "headline": "Vote Center Opens In Monrovia Ahead Of Nov. 3 Election - Patch",
           "source": "Google News"
         },
@@ -138,23 +138,23 @@
           "source": "Google News"
         },
         {
+          "headline": "Real-Time Results: LA County Midterm Election 2026",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "CA Governor Election Results 2026: Becerra Vs. Hilton [Live Updates]",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "Monrovia Community Garden To Host Free Holiday Gift-Making Workshop Nov. 14",
+          "source": "Patch Monrovia"
+        },
+        {
           "headline": "Free Metro Rides On Election Day: What LA County Voters Should Know",
           "source": "Patch Monrovia"
         },
         {
           "headline": "Sidewalk Closures Expected In Monrovia During Construction Work",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "LA County Voter Guide: Everything You Need To Know",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Boyfriend Charged With Murder Of 'SNL' Writer's Sister In LA",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "ICE Agent Shoves Man Into Bushes, Points Gun At His Face In LA: Reports",
           "source": "Patch Monrovia"
         },
         {
@@ -215,17 +215,17 @@
         }
       ],
       "relevance": {
-        "0": false,
-        "1": true,
+        "0": true,
+        "1": false,
         "2": true,
         "3": true,
         "4": true,
-        "5": false,
+        "5": true,
         "6": false,
-        "7": true,
+        "7": false,
         "8": true,
-        "9": false,
-        "10": true,
+        "9": true,
+        "10": false,
         "11": true,
         "12": true,
         "13": true,
@@ -238,30 +238,34 @@
         "20": true,
         "21": true,
         "22": false,
-        "23": false,
-        "24": true,
+        "23": true,
+        "24": false,
         "25": false,
         "26": false,
-        "27": false,
-        "28": true,
-        "29": false,
+        "27": true,
+        "28": false,
+        "29": true,
         "30": true,
         "31": true,
         "32": true,
         "33": false,
-        "34": true,
-        "35": false,
+        "34": false,
+        "35": true,
         "36": false,
-        "37": false,
+        "37": true,
         "38": true,
         "39": true
       }
     },
     "sgv": {
-      "summary": "- Baldwin Park's Jacory Coleman sets SGV rushing record with 451 yards\n- SGV organizers running against politicians who failed to stop data centers\n- San Gabriel football clinches league title share over South El Monte\n- Sunny skies and rising temperatures expected across Pasadena and San Gabriel Valley",
+      "summary": "- Organizers fight data centers, target politicians who approved projects\n- Baldwin Park's Coleman sets SGV rushing record with 451 yards\n- SGV high schools advance in CIF-SS football playoffs this week\n- Brazilian steakhouse Fogo de Ch\u00e3o opens West Covina location Nov. 2",
       "headlines": [
         {
           "headline": "San Gabriel Valley Boys Athlete of the Week: Jacory Coleman, Baldwin Park - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "SGV Organizers Step Up to Stop Data Centers By Running Against the Politicians Who Failed Them - L.A. Taco",
           "source": "Google News SGV"
         },
         {
@@ -273,15 +277,11 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "SGV Organizers Step Up to Stop Data Centers By Running Against the Politicians Who Failed Them - L.A. Taco",
+          "headline": "The San Gabriel Valley\u2019s Chongqing master returns with a new noodle restaurant - Los Angeles Times",
           "source": "Google News SGV"
         },
         {
           "headline": "4 San Gabriel Valley Restaurants Named Among 101 Best In LA - Patch",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "The San Gabriel Valley\u2019s Chongqing master returns with a new noodle restaurant - Los Angeles Times",
           "source": "Google News SGV"
         },
         {
@@ -301,6 +301,10 @@
           "source": "Google News SGV"
         },
         {
+          "headline": "Disneyland\u2019s new parking structure expected to open in 2029 - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
           "headline": "SGV football Top 30: Bishop Amat, La Serna finish top two in area rankings - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
@@ -313,10 +317,6 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Photos: Rose Court members visit Huntington Hospital patients - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
           "headline": "Brazilian steakhouse Fogo de Ch\u00e3o opens new West Covina location - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
@@ -325,7 +325,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "SGV volleyball: Tuesday\u2019s scores from CIF-SS playoffs, semifinals schedule - San Gabriel Valley Tribune",
+          "headline": "Photos: Rose Court members visit Huntington Hospital patients - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -333,12 +333,32 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Editorial: Dam report underscores California\u2019s poor priorities - San Gabriel Valley Tribune",
+          "headline": "1 dead, 1 injured in South El Monte apartment fire - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
           "headline": "SGV high school football: CIF-SS first-round playoff schedule - San Gabriel Valley Tribune",
           "source": "Google News SGV"
+        },
+        {
+          "headline": "Early Returns Show Voter ID, Wealth Tax Measures Trailing",
+          "source": "Pasadena Now"
+        },
+        {
+          "headline": "First Returns Show Early Leads in Three Pasadena Unified School Board Races",
+          "source": "Pasadena Now"
+        },
+        {
+          "headline": "Measure PFD Far Out In Front As First Vote Counts Count Released, But Shy of Victory",
+          "source": "Pasadena Now"
+        },
+        {
+          "headline": "McKenzie to Be Appointed to Pasadena School Board After Uncontested Race Canceled",
+          "source": "Pasadena Now"
+        },
+        {
+          "headline": "Polls Close as Local Residents Await Results",
+          "source": "Pasadena Now"
         },
         {
           "headline": "Measure PFD Explained: Pasadena Voters Decide Fire Parcel Tax Tuesday",
@@ -361,24 +381,8 @@
           "source": "Pasadena Now"
         },
         {
-          "headline": "Political Gumbo: Go Vote",
-          "source": "Pasadena Now"
-        },
-        {
-          "headline": "Pasadena Water and Power Negotiating Six Carbon-Free Energy Projects",
-          "source": "Pasadena Now"
-        },
-        {
-          "headline": "Rental Housing Board to Consider $60,000 Promotores Outreach Initiative",
-          "source": "Pasadena Now"
-        },
-        {
-          "headline": "Altadena Tract 4610 Town Council Member Floats Lincoln Corridor Advisory Group",
-          "source": "Pasadena Now"
-        },
-        {
-          "headline": "PEF Highlights Ongoing $5 Million Kaiser Grant Supporting PUSD Student Health Services",
-          "source": "Pasadena Now"
+          "headline": "Monrovia Community Center Renovation Project Advances to Bidding",
+          "source": "Colorado Blvd"
         },
         {
           "headline": "Solis Says Trump Administration\u2019s Election Challenge Shouldn\u2019t Discourage California Voters",
@@ -425,19 +429,55 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Pasadena Reports First Two Human West Nile Virus Cases of 2026",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Sea turtle nest found in Ventura is the 3rd-ever confirmed on the West Coast",
+          "headline": "2026 midterm elections: Democrats projected to win enough seats to gain control of the House",
           "source": "ABC7"
         },
         {
-          "headline": "Tennessee convicted murderer who escaped prison captured near Kansas City",
+          "headline": "Democrat Crowley defeats Trump ally Tiffany in Wisconsin governor's race, ABC News projects",
           "source": "ABC7"
         },
         {
-          "headline": "D\u00eda de elecciones intermedias en EEUU: Los votantes decidir\u00e1n control del Congreso",
+          "headline": "U.S. District 22 Results: David Valadao faces Randy Villegas in toss-up",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Xavier Becerra projected to win California governor's race",
+          "source": "ABC7"
+        },
+        {
+          "headline": "SoCal to see sunny skies, mild temperatures on Wednesday",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Texas 2026 live midterm election results",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Live election results for 2026 California propositions. Here's where the races stand",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Utility customers in CA could face higher bills under proposed wildfire liability cap",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Aisha Wahab, Melissa Hernandez look to fill former Rep. Eric Swalwell's seat for full 2-year term",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Progressive Abdul El-Sayed and Republican Mike Rogers duel for key Michigan Senate seat",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Maine 2026 live midterm election results",
+          "source": "ABC7"
+        },
+        {
+          "headline": "California voters to decide on Prop 40 billionaire tax",
+          "source": "ABC7"
+        },
+        {
+          "headline": "LA sanitation truck fire prompts 5 Freeway closure in both directions in Arleta",
           "source": "ABC7"
         },
         {
@@ -445,67 +485,27 @@
           "source": "ABC7"
         },
         {
-          "headline": "What to know about Propositions 1, 2, 3: Housing bond, rainy day fund, high-income tax",
+          "headline": "Dolly Parton death: Nephew Bryan Seaver asks for estate's lawsuit against him to be thrown out",
           "source": "ABC7"
         },
         {
-          "headline": "Get exclusive deals up to 70% off wellness essentials with ABC Secret Savings",
+          "headline": "Tennessee convicted murderer who escaped prison captured near Kansas City",
           "source": "ABC7"
         },
         {
-          "headline": "What to know about rhabdomyolysis after death of 24-year-old NYC Marathon runner Rachel Apa",
+          "headline": "Parents and 2 young children among victims of Learjet crash in Florida, family says",
           "source": "ABC7"
         },
         {
-          "headline": "Orange County woman Hanh Minh Nguyen federally charged with 'animal crushing,' accused of intentionally running over puppy",
+          "headline": "13- and 15-year-old boys ID'd as 2 killed in shooting at state beach in Monterey County, California",
           "source": "ABC7"
         },
         {
-          "headline": "California midterm election 2026: Key SoCal races to watch",
+          "headline": "High-stakes midterms are test for future of Congress and Trump's presidency",
           "source": "ABC7"
         },
         {
-          "headline": "PlayStation gets the 'Money' touch: Lisa drops epic gear collection",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Control of Congress is up for grabs on Election Day. What's the math for Democrats and Republicans?",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Man charged with mailing hundreds of letters containing powder to officials ahead of election",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Brooklyn jogger Katie Suarez dies after stabbing on New York bike path; suspect still sought",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Everything you need to know about the 2026 Sephora Savings Event",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Missing Utah teen found in Oregon after 500 days: FBI",
-          "source": "ABC7"
-        },
-        {
-          "headline": "New Jersey pre-K aide allegedly filmed himself abusing children in bathroom and during nap time",
-          "source": "ABC7"
-        },
-        {
-          "headline": "New York state reports 1st measles-associated death in over 30 years",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Aliso Canyon settlement offers millions of dollars to help residents electrify homes",
-          "source": "ABC7"
-        },
-        {
-          "headline": "What to know after Washington state resident dies of bird flu after being exposed to infected cattle",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Lions All-Pro LB Jack Campbell remains hospitalized with a neck injury",
+          "headline": "European grocery chains' freezers, refrigerators targeted in apparent cyberattacks",
           "source": "ABC7"
         }
       ],
@@ -520,7 +520,7 @@
         "7": true,
         "8": true,
         "9": true,
-        "10": true,
+        "10": false,
         "11": true,
         "12": true,
         "13": true,
@@ -530,61 +530,37 @@
         "17": true,
         "18": true,
         "19": true,
-        "20": true,
+        "20": false,
         "21": true,
         "22": true,
-        "23": false,
-        "24": true,
-        "25": false,
+        "23": true,
+        "24": false,
+        "25": true,
         "26": true,
         "27": true,
-        "28": true,
+        "28": false,
         "29": true,
-        "30": false,
+        "30": true,
         "31": false,
-        "32": true,
+        "32": false,
         "33": true,
-        "34": false,
-        "35": true,
+        "34": true,
+        "35": false,
         "36": true,
         "37": true,
         "38": false,
-        "39": true
+        "39": false
       }
     },
     "county": {
-      "summary": "- LA County Sheriff, Mayor, City Attorney races heating up before November 3 election\n- Prop. 1 asks California voters to approve $11.25 billion affordable housing bond\n- LA County Measure A seeks binding arbitration for public safety labor disputes\n- LAPD cruiser kills woman responding to Halloween party in San Fernando Valley",
+      "summary": "- Bass leads early LA mayor's race vote count over close challenger Raman\n- LA coastal flooding breaks 1983 record with more expected ahead\n- LA City Council votes to ban oil drilling citywide after multiyear effort\n- Strong voter turnout continues across LA and Orange County in 2026 midterms",
       "headlines": [
         {
-          "headline": "Los Angeles County Superior Court Judges: Who's running in the Nov. 3 election and why it matters",
+          "headline": "Bass ahead in early LA mayor\u2019s race vote count, Raman trailing close behind",
           "source": "LAist"
         },
         {
-          "headline": "LA County Sheriff: Who's running on Nov. 3 and why it matters",
-          "source": "LAist"
-        },
-        {
-          "headline": "Los Angeles mayor: Who's running Nov. 3 and why it matters",
-          "source": "LAist"
-        },
-        {
-          "headline": "Los Angeles City Attorney: Who's running Nov. 3 and why it matters",
-          "source": "LAist"
-        },
-        {
-          "headline": "L.A. City Council District 9: What you need to know about the candidates",
-          "source": "LAist"
-        },
-        {
-          "headline": "California Courts of Appeal for LA and OC: What you need to know",
-          "source": "LAist"
-        },
-        {
-          "headline": "Prop. 1:  Should California borrow $11.25 billion to build more affordable housing?",
-          "source": "LAist"
-        },
-        {
-          "headline": "Prop. 40: The billionaire's tax",
+          "headline": "Live election results",
           "source": "LAist"
         },
         {
@@ -592,39 +568,7 @@
           "source": "LAist"
         },
         {
-          "headline": "Orange County Board of Supervisors, District 5: Who's running Nov. 3 and why it matters",
-          "source": "LAist"
-        },
-        {
-          "headline": "LA Community College District Board of Trustees: What you need to know before voting",
-          "source": "LAist"
-        },
-        {
-          "headline": "LA County's Measure A: Binding arbitration for public safety labor disputes",
-          "source": "LAist"
-        },
-        {
-          "headline": "LA County Charter Amendment Measure E: Boost independent ethics investigators",
-          "source": "LAist"
-        },
-        {
-          "headline": "What we know so far about LA and OC voter turnout in the 2026 midterm election",
-          "source": "LAist"
-        },
-        {
-          "headline": "Election Day FAQ: How to cast your ballot successfully, and when it will be counted",
-          "source": "LAist"
-        },
-        {
-          "headline": "Your voting FAQs answered",
-          "source": "LAist"
-        },
-        {
-          "headline": "LA County pauses syringe and pipe handouts at Skid Row services hub",
-          "source": "LAist"
-        },
-        {
-          "headline": "Why some CSU faculty are ready for a strike: 'The last contract sucked'",
+          "headline": "Strong voter LA and OC voter turnout so far in the 2026 midterm election",
           "source": "LAist"
         },
         {
@@ -632,8 +576,72 @@
           "source": "LAist"
         },
         {
+          "headline": "Cal State\u2019s biggest union reaches a deal with the university system. But not everyone is happy",
+          "source": "LAist"
+        },
+        {
+          "headline": "San Onofre\u2019s nuclear waste is stored on the beach. Will another community agree to take it?",
+          "source": "LAist"
+        },
+        {
           "headline": "In an act of healing, Eaton Fire survivors take their own experiences to the stage",
           "source": "LAist"
+        },
+        {
+          "headline": "LAUSD\u2019s school choice window is open and there are some changes",
+          "source": "LAist"
+        },
+        {
+          "headline": "Long Beach coastal waters remain closed after 29,000-gallon sewage spill",
+          "source": "LAist"
+        },
+        {
+          "headline": "Best things to do in LA and SoCal: Oct. 28-Nov. 3",
+          "source": "LAist"
+        },
+        {
+          "headline": "Voters rebuke Trump's picks in many races, including embarrassing loss in South Carolina",
+          "source": "LAist"
+        },
+        {
+          "headline": "Democrats flip pair of Senate seats in N.C. and S.C.",
+          "source": "LAist"
+        },
+        {
+          "headline": "Smoke from LA fires exposed millions of people to high levels of toxic heavy metals, study says",
+          "source": "LAist"
+        },
+        {
+          "headline": "LA coastal flooding breaks record set in 1983 \u2014 with more almost certainly ahead",
+          "source": "LAist"
+        },
+        {
+          "headline": "LA City Council votes to ban oil drilling citywide, capping a multiyear effort",
+          "source": "LAist"
+        },
+        {
+          "headline": "LA County pauses syringe and pipe handouts at Skid Row services hub",
+          "source": "LAist"
+        },
+        {
+          "headline": "The Supreme Court rejects a DOJ push to separate California ballots",
+          "source": "LAist"
+        },
+        {
+          "headline": "Judge orders 3 taxpayer-funded Trump administration ads to be pulled from TV and social media",
+          "source": "LAist"
+        },
+        {
+          "headline": "UN-backed experts cite possible US war crimes in Iran, including a school attack",
+          "source": "LAist"
+        },
+        {
+          "headline": "Live Election Results: 2026 LA County Sheriff race - Luna v Villanueva",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "2026 LA mayor live election results: Bass vs. Raman",
+          "source": "Fox 11 LA"
         },
         {
           "headline": "Supreme Court rejects Trump administration push to set aside 20,000 California ballots",
@@ -660,11 +668,27 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "OC woman faces federal charges in Santa Ana puppy killing",
+          "headline": "Live Election Results: 2026 California Governor race - Becerra v Hilton",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "VIDEO: ICE agent points gun at bystander during North Hollywood arrest",
+          "headline": "Live Election Results 2026 Midterm Elections",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Live election results: All of California's U.S. House Districts",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Prop 40 election results: California's billionaire tax",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "California propositions - Billionaire's tax, voter ID and more | LIVE RESULTS",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Salinas students, ages 13 and 15, were Moss Landing shooting victims",
           "source": "Fox 11 LA"
         },
         {
@@ -676,91 +700,79 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Pregnant woman killed, 6 hurt in shooting at Spirit Halloween store in California",
+          "headline": "LIVE: 2026 Midterm Election results",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Watch: Suspected drunk driver crashes truck into California restaurant",
+          "headline": "James Talarico defeats Ken Paxton to become next US Senator from Texas",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Appeals court rejects Justice Department request for California to set aside disputed ballots",
+          "headline": "Keisha Lance Bottoms wins Georgia governor race in historic election",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "ArieForce One coaster moving to Six Flags Magic Mountain in California",
+          "headline": "Wisconsin election: Crowley defeats Tiffany in governor's race",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Debate over mileage tax surfaces in California governor's race",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "California High-Speed Rail Authority CEO Ian Choudri resigns amid wasteful spending audit: report",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Man charged with mailing hundreds of letters containing powder to officials ahead of election",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Celebrity deaths of 2026: The entertainers and artists we lost this year",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "DOJ announces agency's largest election monitoring effort in all 50 states",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Who leads 2026 Texas Senate race? Paxton vs. Talarico poll tracker",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Man Accused of Killing Hemet Woman Charged with Murder",
+          "headline": "Bass, Raman in Dead Heat in Race for LA Mayor",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Completion of Lake Cahuilla Modernization Project Becomes Official",
+          "headline": "Calvert Ahead of Kim in Early Returns for Reconfigured Congressional District",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Damaged Gas Line Results in Road Closure in Palm Springs",
+          "headline": "Early Returns Show Voter ID, Wealth Tax Measures Trailing",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Federal Election Monitors Sent to LA as Part of Nationwide Deployment",
+          "headline": "Sheriff\u2019s Task Force Makes 22 Arrests at Street Takeover Events",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Supervisors OK Cost-Sharing Agreement Stemming from Bain Fire",
+          "headline": "Man Found Guilty in Deadly Cathedral City Attack",
           "source": "MyNewsLA"
         },
         {
-          "headline": "USC Receiving Great Bob Chandler Named to Rose Bowl Hall of Fame",
+          "headline": "South Palm Canyon Drive Reopens Following Gas Leak in Palm Springs",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Missing Palm Springs Man Located",
+          "headline": "DOJ Deploys Federal Election Monitors to LA",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Man, 21, Killed in Stabbing That Injured Two Others Identified",
+          "headline": "Southland Gas Prices Continue Slight Decline",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Palm Spring Police Seek Public\u2019s Help in Locating Missing Man",
+          "headline": "OC Voters Cast Ballots in Critical Mid-Term Elections",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Federal Election Monitors Sent to LA as Part of Nationwide Deployment",
+          "headline": "Fire Crews Rescue Horse Stuck in Mud Close to Hansen Dam",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Woman, 32, Killed by LAPD Identified in Family Fundraising Effort",
+          "headline": "Investigation Launches into Shooting at Littlerock Area Vigil",
           "source": "MyNewsLA"
+        },
+        {
+          "headline": "All Election Day Vote Centers Open for 2026 General Election - COUNTY OF LOS ANGELES (.gov)",
+          "source": "Google News LA"
         },
         {
           "headline": "Lockdown Traffic Exposed Los Angeles County\u2019s Economic Divide - USC Viterbi School of Engineering",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "You voted, now what? How to track your ballot and when to expect election results in LA - LA Public Press",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "California chooses next insurance commissioner: Jane Kim or Ben Allen - CalMatters",
           "source": "Google News LA"
         },
         {
@@ -768,19 +780,47 @@
           "source": "Google News LA"
         },
         {
+          "headline": "Live updates: Why LA residents are voting - LA Local",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Voters to Choose New City Attorney, Two New Council Members Tuesday - westsidecurrent.com",
+          "source": "Google News LA"
+        },
+        {
           "headline": "Developing a Digital Equity Plan for Nearly 10M People - GovTech",
           "source": "Google News LA"
         },
         {
-          "headline": "LA County Voter Guide: Everything You Need To Know - Patch",
+          "headline": "26th Congressional District election results - Ventura County Star",
           "source": "Google News LA"
         },
         {
-          "headline": "10 Measures Under Consideration in Los Angeles Election - MyNewsLA.com",
+          "headline": "What we\u2019re watching today: 14 props, Congress in the balance - CalMatters",
           "source": "Google News LA"
         },
         {
-          "headline": "Snapchat Settles Teen Addiction Lawsuits, Avoids Los Angeles Trial - Law Commentary",
+          "headline": "7 injured in multi-car crash on SB 5 Freeway near Stadium Way in Los Angeles - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LA sanitation truck fire prompts 5 Freeway closure in both directions in Arleta, Los Angeles - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "3 injured in car crash involving Los Angeles County Sheriff's deputy in La Puente - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "9269 Case Ave, Los Angeles, CA 91352 - Realtor.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Christina Downer disappearance: Boyfriend Delorean Bijon Brandon charged with murder of 'SNL' writer's missing sister - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Midterm election 2026: Live California election results for key races - props, governor race, LA mayor race, LA city attorney race - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -792,51 +832,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "7 injured in multi-car crash on SB 5 Freeway near Stadium Way in Los Angeles - ABC7 Los Angeles",
+          "headline": "10 Measures Under Consideration in Los Angeles Election - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
-          "headline": "#LASD is Asking for the Public\u2019s Help Locating At Risk Missing Juvenile, Timia Renee Clark #Compton Detectives from the Los Angeles County Sheriff\u2019s Department are seeking assistance in locating at risk missing juvenile, Timia Renne Clark. She is a 12-ye - Facebook",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "What we\u2019re watching today: 14 props, Congress in the balance - CalMatters",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Where and How to Vote on the Westside This Election Day | Elections - westsidecurrent.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles, Vote Tomorrow. City Hall Will Feel the Results for Years - CityWatch LA",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "3 injured in car crash involving Los Angeles County Sheriff's deputy in La Puente - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Supreme Court declines to hear Trump\u2019s California 20,000 ballot case. Here\u2019s what to know - CalMatters",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Why California\u2019s early returns favoring the GOP can be a \u2018red mirage\u2019 - CalMatters",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "California midterm election 2026: Voter guide to key races to watch on Election Day - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "4 face arson charges in downtown Newhall fire - PressReader",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "No Immediate Charges in Newhall Arson Investigation - MyNewsLA.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Accused Arsonist in Los Angeles' Deadly Palisades Fire Returns for Federal Retrial - U.S. News & World Report",
+          "headline": "Los Angeles County Sheriff Seeks Public\u2019s Help Locating Critical Missing 12-Year-Old Girl, Last Seen in Gardena - Sierra Sun Times",
           "source": "Google News LA"
         }
       ],
