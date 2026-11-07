@@ -1,10 +1,14 @@
 {
-  "generated": "2026-11-07T04:32:45.107149+00:00",
-  "briefing": "5 PM",
+  "generated": "2026-11-07T19:17:54.534188+00:00",
+  "briefing": "8 AM",
   "columns": {
     "monrovia": {
-      "summary": "- Power outage affecting 4,512 Monrovia customers; status updates ongoing\n- Eight catalytic converter thefts reported; police warn residents\n- City facilities closed Nov. 11; no street sweeping Nov. 9-13\n- New Metro A Line entrance opens at Station Square",
+      "summary": "- Man shot at Recreation Park; suspect remains at large in Monrovia\n- Power outage affects 4,512 Monrovia customers; restoration underway\n- Eight catalytic converter thefts reported; police warn residents of crime surge\n- Veterans Day ceremony Nov. 11 at Library Park; city facilities closed",
       "headlines": [
+        {
+          "headline": "Man shot at Recreation Park; suspect at large",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Tickets available for Festival of Trees to benefit Boys & Girls Club, Dec. 5",
           "source": "Monrovia Now"
@@ -82,19 +86,15 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Kelly and Spicer lead Monrovia council returns; Veltman ahead for school board",
-          "source": "Monrovia Now"
-        },
-        {
           "headline": "Monrovia Celebrates Opening Of New Metro A Line Entrance At Station Square - Patch",
           "source": "Google News"
         },
         {
-          "headline": "Loved ones search for missing 23-year-old Southern California man - KTLA",
+          "headline": "Monrovia Weekly_11/2/2026 - heysocal.com",
           "source": "Google News"
         },
         {
-          "headline": "Monrovia Weekly_11/2/2026 - heysocal.com",
+          "headline": "Loved ones search for missing 23-year-old Southern California man - KTLA",
           "source": "Google News"
         },
         {
@@ -126,15 +126,11 @@
           "source": "Patch Monrovia"
         },
         {
-          "headline": "Man Critically Injured In Fireworks Explosion; 15 Homes Evacuated",
-          "source": "Patch Monrovia"
-        },
-        {
           "headline": "Meghan Markle's Father Arrested After Child Pornography Found In LA Storage Units: Reports",
           "source": "Patch Monrovia"
         },
         {
-          "headline": "Man Struck Twice, Dragged For Blocks In Horrific Valley Hit-And-Run: Report",
+          "headline": "Movement To Ban Gas-Powered Leaf Blowers Is Getting Noisier: Block Talk",
           "source": "Patch Monrovia"
         },
         {
@@ -150,11 +146,11 @@
           "source": "Patch Monrovia"
         },
         {
-          "headline": "Monrovia Celebrates Opening Of New Metro A Line Entrance At Station Square",
+          "headline": "Babysitting Or Child Neglect? Readers Weigh In On Mom\u2019s Arrest [The Question]",
           "source": "Patch Monrovia"
         },
         {
-          "headline": "LA County 2026 Election Results By City: Latest Returns As Vote Counting Continues",
+          "headline": "Monrovia Celebrates Opening Of New Metro A Line Entrance At Station Square",
           "source": "Patch Monrovia"
         },
         {
@@ -219,17 +215,17 @@
         "9": true,
         "10": true,
         "11": true,
-        "12": false,
-        "13": true,
-        "14": false,
-        "15": true,
+        "12": true,
+        "13": false,
+        "14": true,
+        "15": false,
         "16": true,
         "17": true,
         "18": true,
         "19": true,
         "20": true,
-        "21": false,
-        "22": true,
+        "21": true,
+        "22": false,
         "23": false,
         "24": false,
         "25": true,
@@ -241,16 +237,16 @@
         "31": false,
         "32": false,
         "33": false,
-        "34": false,
-        "35": true,
+        "34": true,
+        "35": false,
         "36": true,
-        "37": false,
+        "37": true,
         "38": true,
         "39": true
       }
     },
     "sgv": {
-      "summary": "- San Gabriel Valley voters choose status quo in local elections with some surprises\n- Neighborhood evacuated after fireworks incident in San Gabriel Valley area\n- Non-profit seeks Thanksgiving donations as food insecurity deepens across valley\n- Sunny skies and rising temperatures expected for San Gabriel Valley this week",
+      "summary": "- Election Day results show San Gabriel Valley voters chose status quo in city halls\n- Neighborhood evacuated after fireworks incident in San Gabriel Valley area\n- Food insecurity deepens, non-profit seeks Thanksgiving donations across San Gabriel Valley\n- Sunny skies and rising temperatures expected for Pasadena and San Gabriel Valley",
       "headlines": [
         {
           "headline": "7 takeaways from Election Day in the San Gabriel Valley, Whittier areas - San Gabriel Valley Tribune",
@@ -285,15 +281,15 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel football holds off South El Monte to clinch share of league title - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
           "headline": "Earthquake of magnitude 3.6 detected near Sandy Valley in San Bernardino County on Nov. 3 - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
           "headline": "San Gabriel Valley Boys Athlete of the Week: Jacory Coleman, Baldwin Park - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "SGV football Top 30: Bishop Amat, La Serna finish top two in area rankings - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -313,11 +309,15 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "SGV football Top 30: Bishop Amat, La Serna finish top two in area rankings - San Gabriel Valley Tribune",
+          "headline": "SGV Varsity football wrap-up: Stories, photos, scores from CIF-SS first round - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "Election results: Key races in the San Gabriel Valley voters chose their city leaders - Pasadena Star News",
+          "headline": "Golfing for Good tournament benefits mission of Friends In Deed in Pasadena - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Hermosa Beach\u2019s Tiki Kai celebrates first anniversary with luau and whole-pig carving - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -325,12 +325,40 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "SGV high school football: CIF-SS first-round playoff schedule - San Gabriel Valley Tribune",
+          "headline": "Election results: Monterey Park, Duarte city councils, Whittier City School Board races going down to wire - Pasadena Star News",
           "source": "Google News SGV"
         },
         {
-          "headline": "SGV girls volleyball: Previews of the CIF-SS championships - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
+          "headline": "Shooting Suspect Died in Pasadena of Self-Inflicted Gunshot Wound, Coroner Reports",
+          "source": "Pasadena Now"
+        },
+        {
+          "headline": "City Asks Residents to Map Walking and Biking Priorities at Nov. 16 Workshop",
+          "source": "Pasadena Now"
+        },
+        {
+          "headline": "Pasadena City Council, Supervisor Barger to Discuss Homelessness and Measure ER Funding Monday",
+          "source": "Pasadena Now"
+        },
+        {
+          "headline": "Altadena Library\u2019s Centennial Celebration Saturday Will Bring Together Community Memories, History and Families",
+          "source": "Pasadena Now"
+        },
+        {
+          "headline": "Altadena Clinic to Connect  Fire-Displaced Renters With Housing and Legal Help Saturday",
+          "source": "Pasadena Now"
+        },
+        {
+          "headline": "Guest Essay | William Paparian: Pasadena\u2019s Ghost Platoon: 43 Homeless Veterans, Two Days Before Veterans Day",
+          "source": "Pasadena Now"
+        },
+        {
+          "headline": "Postal Worker Suspected in Pasadena Peacock Attack Pleads Not Guilty",
+          "source": "Pasadena Now"
+        },
+        {
+          "headline": "Leadership Pasadena Honors Community Changemakers as Fire Survivors Continue Their Fight to Rebuild",
+          "source": "Pasadena Now"
         },
         {
           "headline": "McNamara Concedes Pasadena Unified District 7 Race, Congratulates Torres",
@@ -341,36 +369,12 @@
           "source": "Pasadena Now"
         },
         {
-          "headline": "Geoff Baum Returning to the Pasadena City College Board of Trustees",
-          "source": "Pasadena Now"
+          "headline": "Burned Altadena Property Becomes New Alzada Preserve",
+          "source": "Colorado Blvd"
         },
         {
-          "headline": "Political Gumbo: We the People",
-          "source": "Pasadena Now"
-        },
-        {
-          "headline": "South LA Anti-Gang Activist With Ties to Pasadena Arrested",
-          "source": "Pasadena Now"
-        },
-        {
-          "headline": "Children Can Earn Free In-N-Out Burgers for Reading Through Pasadena Libraries This Month",
-          "source": "Pasadena Now"
-        },
-        {
-          "headline": "Postal Worker Due in Pasadena Court in Alleged Attack on East Pasadena White Peacock \u2018Sugar\u2019",
-          "source": "Pasadena Now"
-        },
-        {
-          "headline": "Pasadena to See Warm, Sunny Weekend as Temperatures Rise Into Upper 80s",
-          "source": "Pasadena Now"
-        },
-        {
-          "headline": "Dodgers Help Altadena Round the Bases on Fire Recovery",
-          "source": "Pasadena Now"
-        },
-        {
-          "headline": "Vietnam-Era Red Cross \u2018Donut Dolly\u2019 to Give Keynote at Veterans Day Ceremony at City Hall",
-          "source": "Pasadena Now"
+          "headline": "Pasadena Community Center Adds Free Hydration Station",
+          "source": "Colorado Blvd"
         },
         {
           "headline": "Pasadena Homeless Count Seeks Volunteers",
@@ -413,15 +417,11 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Wu, Menchaca and Wang Projected to Win San Gabriel City Council Seats",
-          "source": "Colorado Blvd"
+          "headline": "3 killed, 1 injured after chase ends in crash on 10 Freeway exit in Baldwin Park, CHP says",
+          "source": "ABC7"
         },
         {
-          "headline": "San Gabriel to Take Parking Permit Machines Offline Friday",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "NC State's Sigma Nu fraternity to close amid criminal investigation, I-Team learns",
+          "headline": "5 killed, at least 12 injured in shooting in Polish city of Krakow, police say",
           "source": "ABC7"
         },
         {
@@ -429,11 +429,47 @@
           "source": "ABC7"
         },
         {
-          "headline": "Aisha Wahab wins reelection to fill former Rep. Eric Swalwell's seat for full 2-year term",
+          "headline": "Vincent Thomas Bridge in San Pedro closes for 16 months as $750 million renovation project begins",
+          "source": "ABC7"
+        },
+        {
+          "headline": "In his words: Stephen Miller is an immigration hardliner and a bombastic critic of Democrats",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Russell Brand's convictions renew spotlight on media \u2014 and a culture \u2014 that may have looked away",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Carprice Williams, foster mom charged in death of 10-year-old Malayshia Allford in Philadelphia, Pennsylvania, previously faced child abuse allegations: attorney",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Grieving father of Florida Learjet co-pilot defends his daughter's reputation after crash",
           "source": "ABC7"
         },
         {
           "headline": "Man arrested after Secret Service finds him parked near White House with multiple firearms: Authorities",
+          "source": "ABC7"
+        },
+        {
+          "headline": "2 skydivers dead after colliding midair in Lake Elsinore, officials say",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Undercover Fontana police officers mistaken for ICE, leading to chaotic protest",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Tourist sucker-punched, seriously injured in Venice attack caught on video; LAPD seeks suspects",
+          "source": "ABC7"
+        },
+        {
+          "headline": "NC State's Sigma Nu fraternity to close amid criminal investigation, I-Team learns",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Aisha Wahab wins reelection to fill former Rep. Eric Swalwell's seat for full 2-year term",
           "source": "ABC7"
         },
         {
@@ -459,46 +495,6 @@
         {
           "headline": "Best Buy drops Early Black Friday discounts on top tech & appliances",
           "source": "ABC7"
-        },
-        {
-          "headline": "Myles Garrett expected to return for the Rams this weekend after 7-game injury absence",
-          "source": "ABC7"
-        },
-        {
-          "headline": "What to know about the 69th Grammy nominations, presenters and more",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Where Mayor-elect Nithya Raman defeated incumbent Karen Bass: Interactive map of the Los Angeles mayoral vote",
-          "source": "ABC7"
-        },
-        {
-          "headline": "LADWP repeatedly missing critical water line replacement targets,  7 On Your Side Investigation reveals",
-          "source": "ABC7"
-        },
-        {
-          "headline": "2 skydivers killed in midair emergency in Lake Elsinore, authorities say",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Pope Leo XIV arrives in Uruguay at start of South American tour less than a month after lung surgery",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Lake Elsinore skydiving accident: 2 skydivers killed in midair emergency in 20000-block of Cereal Street in Riverside County, California, authorities say",
-          "source": "ABC7"
-        },
-        {
-          "headline": "12th-annual Afrotech Conference, geared towards networking opportunities, arrives in Houston",
-          "source": "ABC7"
-        },
-        {
-          "headline": "US attorney tasked with leading 'grand conspiracy' probe into Trump's foes resigns from DOJ",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Cornell faculty vote 'no confidence' in university leadership after alleged gang rape",
-          "source": "ABC7"
         }
       ],
       "relevance": {
@@ -510,8 +506,8 @@
         "5": true,
         "6": true,
         "7": true,
-        "8": true,
-        "9": false,
+        "8": false,
+        "9": true,
         "10": true,
         "11": true,
         "12": true,
@@ -519,33 +515,33 @@
         "14": true,
         "15": true,
         "16": true,
-        "17": true,
+        "17": false,
         "18": true,
         "19": true,
         "20": true,
         "21": true,
         "22": true,
-        "23": false,
-        "24": false,
+        "23": true,
+        "24": true,
         "25": true,
         "26": true,
         "27": true,
         "28": true,
         "29": true,
         "30": true,
-        "31": false,
+        "31": true,
         "32": true,
-        "33": true,
+        "33": false,
         "34": true,
-        "35": false,
-        "36": false,
+        "35": true,
+        "36": true,
         "37": true,
-        "38": false,
-        "39": false
+        "38": true,
+        "39": true
       }
     },
     "county": {
-      "summary": "- Raman defeats Bass in LA mayoral race, ushering in progressive politics era\n- LA County turnout surpasses last midterm with 500K ballots still counting\n- All 8 LA city ballot measures passing, including sales tax increase\n- Roy wins LA city attorney's race; Jane Kim wins commissioner race",
+      "summary": "- Nithya Raman wins LA mayor race, ushering progressive politics era\n- LA County turnout surpasses last midterm with 500K ballots remaining\n- All eight LA city ballot measures passing; sales tax increase approved\n- Vincent Thomas Bridge closes Saturday for 16-month renovation called \"Harborgeddon\"",
       "headlines": [
         {
           "headline": "None of Nithya Raman\u2019s council colleagues backed her bid for mayor. Will they work with her?",
@@ -564,11 +560,15 @@
           "source": "LAist"
         },
         {
-          "headline": "Coyote becomes first mammal seen using 101 wildlife crossing: 'This is amazing'",
+          "headline": "How LAUSD\u2019s famed coffee cake became this Valley bride\u2019s wedding cake",
           "source": "LAist"
         },
         {
-          "headline": "Former clients of immigration lawyer Alexandra Lozano Kennedy can get free legal help in LA",
+          "headline": "From Eastside beer to artist lofts: The Brewery Artwalk returns to Lincoln Heights",
+          "source": "LAist"
+        },
+        {
+          "headline": "ICE detains two U.S. citizens protesting outside White Memorial Hospital, rapid response groups say",
           "source": "LAist"
         },
         {
@@ -580,15 +580,15 @@
           "source": "LAist"
         },
         {
-          "headline": "Defense attorney: Long Beach police can\u2019t be trusted to share evidence that could clear defendants",
+          "headline": "The Vincent Thomas Bridge closes for 16 months on Saturday. They\u2019re calling it \u2018Harborgeddon\u2019",
+          "source": "LAist"
+        },
+        {
+          "headline": "Your guide to eating your way through the inaugural LA Chocolate Festival",
           "source": "LAist"
         },
         {
           "headline": "Voters have chosen to increase LA's sales tax \u2014 here\u2019s how it compares to other cities",
-          "source": "LAist"
-        },
-        {
-          "headline": "Trump replaces Susie Wiles with Stephen Miller as chief of staff after GOP\u2019s midterm defeat",
           "source": "LAist"
         },
         {
@@ -608,23 +608,19 @@
           "source": "LAist"
         },
         {
-          "headline": "As Diwali begins, a celebration of Indian Basmati rice",
-          "source": "LAist"
-        },
-        {
-          "headline": "Brentwood\u2019s Perse takes Persian food beyond the kabob house",
-          "source": "LAist"
-        },
-        {
           "headline": "Your guide to eating your way through the inaugural LA Chocolate Festival",
           "source": "LAist"
         },
         {
-          "headline": "US Justice Department drops bid to force California to set aside disputed ballots",
+          "headline": "The 1920s will return to The Biltmore one more time. Here\u2019s how to get a ticket",
           "source": "LAist"
         },
         {
-          "headline": "Trump replaces Susie Wiles with Stephen Miller as chief of staff after GOP\u2019s midterm defeat",
+          "headline": "At this North Hollywood bar, karaoke is a competitive sport",
+          "source": "LAist"
+        },
+        {
+          "headline": "US Justice Department drops bid to force California to set aside disputed ballots",
           "source": "LAist"
         },
         {
@@ -660,6 +656,14 @@
           "source": "Fox 11 LA"
         },
         {
+          "headline": "2 licensed skydivers killed in California after colliding midair",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "YouTuber arrested years after documentary helps revive child predator case",
+          "source": "Fox 11 LA"
+        },
+        {
           "headline": "Gov. Newsom commutes sentences of California's 548 death row inmates",
           "source": "Fox 11 LA"
         },
@@ -684,99 +688,67 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "California propositions - Billionaire's tax, voter ID and more | LIVE RESULTS",
+          "headline": "Melania Trump, LSU announce $5M scholarship fund for foster kids",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Live Election Results: 2026 California Governor race - Becerra v Hilton",
+          "headline": "Secret Service arrests armed Venezuelan migrant near White House over alleged Trump assassination threat",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Tourist bitten by police dog after officers gave confusing Spanish commands awarded over $200K: Reports",
+          "headline": "McDonald's plans new value menu offerings next year to boost sluggish sales",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Meghan Markle\u2019s estranged father gets bond after child pornography arrest in Lakeland",
+          "headline": "Police identify fallen Colorado officer killed in shootout that left suspect dead, 4 injured",
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Susie Wiles, first female White House chief of staff, to leave role",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Mom surprised with 100th birthday party at Lowe\u2019s after daily walks",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Trump Administration Drops Ballot Segregation Lawsuit",
+          "headline": "Skydivers Killed in Midair Collision Over Lake Elsinore Identified",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Mazariegos Closes In On Ugarte in Race for LA Council District 9 Open Seat",
+          "headline": "Parachutists Killed in Midair over Elsinore",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Cause of Death Revealed for Former `Ellen\u2019 Producer Matthew Wright",
+          "headline": "Alert Issued For Girl, 17, Who Went Missing in LA\u2019s Crenshaw Area",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Man Gets 101 Years to Life for Molesting 4 Girls in Anaheim",
+          "headline": "Riverside County Gas Prices at Lowest Amount Since Aug. 30",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Firefighters Knock Down Garage Fire in South LA",
+          "headline": "Motorcyclist Killed in Crash With Vehicle Near LB\u2019s Belmont Shore",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LA County Urges Residents to Prepare for Santa Ana Winds",
+          "headline": "Three Killed During Pursuit of DUI Suspect in West Covina",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LA Council Seeks Citywide Data Privacy Policy Amid Use of AI, ALRP Technology",
+          "headline": "LA Council Honors Councilman Price as He Steps Down in December",
           "source": "MyNewsLA"
         },
         {
-          "headline": "40th Anniversary Palm Springs Pride Underway",
+          "headline": "Biker Killed in Crash With Vehicle Near Belmont Shore Area in Long Beach",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Palm Springs Air Museum Celebrate 30th Anniversary with F/A-18 `Super Hornet\u2019",
+          "headline": "Two Hospitalized After Collision with Big Rig on OC Freeway",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LA Council Advances to Address Pet Relinquishment, Reduce Shelter Population",
+          "headline": "Several LACo Fire Stations to Give Away Sandbags Saturday",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Famed Festival of Lights Returns to Downtown Riverside",
+          "headline": "Ye Tentatively Settles with Former Donda Academy Security Guard",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LACoFD Reaffirms Commitment to Equity at Annual ARDI Event - Fire Department - Los Angeles County (.gov)",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "The Los Angeles County Sheriff\u2019s Department extends its deepest condolences to the Los Angeles Police Department following the tragic loss of Police Officer III Thomas Denton of Metropolitan Division, who passed away during an on-duty training exercise. - Facebook",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "LA County DIV Deadline: November 30 \u2013 File Now - Santa Monica Daily Press",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Armenian American Attorney Arpa Stepanian Appointed Los Angeles County Superior Court Judge - The Armenian Report",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Santa Ana Winds Build Ahead of Los Angeles County Red Flag Warning - MyNewsLA.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "ICE arrests and sightings across LA County, Nov. 1\u20135 - LA Public Press",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "LA County Men\u2019s Central Jail settles class action lawsuit for $1.5 million! - Claim Depot",
+          "headline": "CORRECTION \u2013 Los Angeles County Public Safety Agencies Urge Residents to Prepare for Strong Winds, Elevated Fire Risk \u2013 COUNTY OF LOS ANGELES - COUNTY OF LOS ANGELES (.gov)",
           "source": "Google News LA"
         },
         {
@@ -784,11 +756,27 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Average LA County Gas Price Drops To Lowest Amount Since Sept. 4 - MyNewsLA.com",
+          "headline": "Former Los Angeles Sheriff\u2019s Deputy Sentenced to More Than Five Years for Attempting to Smuggle Heroin into Jail - Davis Vanguard",
           "source": "Google News LA"
         },
         {
-          "headline": "Interactive map shows where Angelenos voted for Nithya Raman over Karen Bass in L.A. mayoral race - ABC7 Los Angeles",
+          "headline": "3 dead after pursuit crash in Los Angeles County - KTLA",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "ICE arrests and sightings across LA County, Nov. 1\u20135 - LA Public Press",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LA County DIV Deadline: November 30 \u2013 File Now - Santa Monica Daily Press",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LACoFD Reaffirms Commitment to Equity at Annual ARDI Event - Fire Department - Los Angeles County (.gov)",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Los Angeles weather: Fire danger rises as Santa Ana winds, heat move into Southern California - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -800,7 +788,15 @@
           "source": "Google News LA"
         },
         {
+          "headline": "Interactive map shows where Angelenos voted for Nithya Raman over Karen Bass in L.A. mayoral race - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
           "headline": "Man critically injured in fireworks explosion at home in City of Industry, deputies say - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Los Angeles County DA Reports Charges Filed Against Two Men in Gang-Motivated Murder in South L.A. - Sierra Sun Times",
           "source": "Google News LA"
         },
         {
@@ -808,27 +804,27 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Mazariegos Closes In On Ugarte in Race for LA Council District 9 Open Seat - MyNewsLA.com",
+          "headline": "Armenian American Attorney Arpa Stepanian Appointed Los Angeles County Superior Court Judge - The Armenian Report",
           "source": "Google News LA"
         },
         {
-          "headline": "Pedestrian survives 1st crash before being killed and dragged several blocks in Van Nuys hit-and-run - ABC7 Los Angeles",
+          "headline": "Undercover Fontana police officers mistaken for ICE, leading to chaotic protest - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "RED FLAG WARNING | SATURDAY, NOVEMBER 7 The National Weather Service has issued a Red Flag Warning for Saturday, November 7, from 2 AM to 6 PM, affecting the Santa Clarita Valley, Santa Monica Mountains, Santa Susana Mountains, and Weste - Facebook",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Red Flag Warning brings fire danger Saturday as region braces for El Ni\u00f1o winter - Santa Monica Daily Press",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Public Safety Urges Residents to Prepare for Strong Winds, Elevated Fire Risk - SCVNews.com",
+          "headline": "Free Pre-Filled Sandbags Available Starting Saturday at Various Fire Stations - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
           "headline": "The Los Angeles County Sheriff's Department Missing Person Detail is advising Christopher Lynn Woods has been located. Thank you to the public, the media, and deputy personnel for their tireless efforts in the search for Christopher. - Facebook",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "The Los Angeles County Sheriff\u2019s Department extends its deepest condolences to the Los Angeles Police Department following the tragic loss of Police Officer III Thomas Denton of Metropolitan Division, who passed away during an on-duty training exercise. - Facebook",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Smith widens lead over Riggins as Malibu council ballot count continues - The Malibu Times",
           "source": "Google News LA"
         }
       ],
