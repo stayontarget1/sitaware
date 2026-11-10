@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-09T23:43:34.114580+00:00",
+  "generated": "2026-11-10T05:52:15.784335+00:00",
   "briefing": "5 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Man shot at Recreation Park; suspect remains at large\n- New Metro A Line entrance opens at Station Square\n- Shooting crime surge: Eight catalytic converter thefts reported recently\n- Veterans Day ceremony Nov. 11 at Library Park",
+      "summary": "- Shooting at Recreation Park; suspect remains at large\n- New Metro A Line entrance opens at Station Square\n- Veterans Day ceremony Nov. 11 at Library Park\n- Eight catalytic converter thefts reported; police warn residents",
       "headlines": [
         {
           "headline": "Free student entrepreneurship workshop, Nov. 14",
@@ -114,8 +114,20 @@
           "source": "Google News"
         },
         {
+          "headline": "Monrovia To Host 2027 State Of The City Address In February - Patch",
+          "source": "Google News"
+        },
+        {
           "headline": "Nonprofit Sells Thanksgiving Pies To Support Monrovia, SGV School Gardens - Patch",
           "source": "Google News"
+        },
+        {
+          "headline": "Monrovia To Host 2027 State Of The City Address In February",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "Wrong Turn Puts Air France And American Airlines Jets On Collision Course Over LAX",
+          "source": "Patch Monrovia"
         },
         {
           "headline": "Convicted Carjacker Escapes From LA Reentry Program: Corrections Officials",
@@ -142,10 +154,6 @@
           "source": "Patch Monrovia"
         },
         {
-          "headline": "'Wild Horse Nine' Review: Friendship And Consequence In Martin McDonagh's Most Ambitious Film",
-          "source": "Patch Monrovia"
-        },
-        {
           "headline": "Monrovia Route 66 Documentary Now Available On YouTube",
           "source": "Patch Monrovia"
         },
@@ -154,15 +162,7 @@
           "source": "Patch Monrovia"
         },
         {
-          "headline": "Professional Pet Tracker Finds Runaway Dogs, Unlikely Reunions And Surprises",
-          "source": "Patch Monrovia"
-        },
-        {
           "headline": "Monrovia Community Garden To Host Free Holiday Gift-Making Workshop Nov. 14",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Sidewalk Closures Expected In Monrovia During Construction Work",
           "source": "Patch Monrovia"
         },
         {
@@ -235,37 +235,29 @@
         "25": true,
         "26": true,
         "27": true,
-        "28": false,
-        "29": false,
+        "28": true,
+        "29": true,
         "30": false,
         "31": false,
         "32": false,
-        "33": true,
+        "33": false,
         "34": false,
-        "35": true,
+        "35": false,
         "36": true,
-        "37": false,
+        "37": true,
         "38": true,
         "39": true
       }
     },
     "sgv": {
-      "summary": "- San Gabriel Valley Election Day results show voters chose status quo with some surprise races\n- Amazon closing San Gabriel Valley warehouse, laying off 94 employees in major job loss\n- San Gabriel Valley receives $2 million for food recovery program amid food insecurity crisis\n- Neighborhood evacuated after fireworks incident; man injured from exploding ammunition in Bassett",
+      "summary": "- SGV voters choose status quo in elections; several races remain close or separated by handful of votes\n- Amazon closes San Gabriel Valley warehouse, laying off 94 employees ahead of facility shutdown\n- Neighborhood evacuated after fireworks incident in San Gabriel Valley area\n- SGV receives $2 million for food recovery program as food insecurity deepens",
       "headlines": [
         {
           "headline": "7 takeaways from Election Day in the San Gabriel Valley, Whittier areas - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel Valley Receives $2 Million for Food Recovery Program - MyNewsLA.com",
-          "source": "Google News SGV"
-        },
-        {
           "headline": "San Gabriel Valley neighborhood evacuated after fireworks incident - KTLA",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "West Covina - Britannica",
           "source": "Google News SGV"
         },
         {
@@ -274,6 +266,14 @@
         },
         {
           "headline": "Non-Profit Seeks Thanksgiving Donations as Food Insecurity Deepens Across San Gabriel Valley - Pasadena Now",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "SGV Receives $2m for Food Recovery Program - MyNewsLA.com",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Local Election Results - ColoradoBoulevard.net",
           "source": "Google News SGV"
         },
         {
@@ -297,11 +297,11 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Election 2026: Several San Gabriel Valley, Whittier races remain close. Here\u2019s what we\u2019re watching - San Gabriel Valley Tribune",
+          "headline": "Election results: Diamond Bar mayor trails, Monterey Park race separated by 4 votes, among San Gabriel Valley, Whittier-area close contests - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "Diamond Bar mayor trails, Monterey Park race separated by 10 votes, among San Gabriel Valley, Whittier-area close contests - San Gabriel Valley Tribune",
+          "headline": "Election 2026: Several San Gabriel Valley, Whittier races remain close. Here\u2019s what we\u2019re watching - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -325,7 +325,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Whittier, who won its first playoff game in decades, gets Whittier Christian next - San Gabriel Valley Tribune",
+          "headline": "Whittier, which won its first playoff game in decades, gets Whittier Christian next - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -373,6 +373,10 @@
           "source": "Pasadena Now"
         },
         {
+          "headline": "Event to Celebrate Women From Altadena, Pasadena and Sierra Madre",
+          "source": "Colorado Blvd"
+        },
+        {
           "headline": "Flock Surveillance Deserves Public Scrutiny in Pasadena",
           "source": "Colorado Blvd"
         },
@@ -417,8 +421,52 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Burned Altadena Property Becomes New Alzada Preserve",
-          "source": "Colorado Blvd"
+          "headline": "Stand Up for Heroes marks 20 years at Lincoln Center",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Air France flight nearly hits American Airlines plane after taking off from LAX in Los Angeles, California",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Massie introduces impeachment articles against Defense Secretary Pete Hegseth",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Families of 50 California murder victims voice support for Gov. Newsom's move to commute death sentences",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Ohio State suspends fraternity while investigating a video showing men engulfed in flames",
+          "source": "ABC7"
+        },
+        {
+          "headline": "SoCal to see warm temperatures before rain arrives by end of week",
+          "source": "ABC7"
+        },
+        {
+          "headline": "California voters reject Prop 40, a measure to tax the wealth of billionaires",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Rep. Ken Calvert defeats fellow Republican Rep. Young Kim in SoCal congressional race",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Florida learjet crash: Voice recorder recovered by NTSB",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Darth Vader lightsaber among \u2018Star Wars\u2019 props up for auction",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Inside Disney's 'Hexed': Producers reveal how the movie came to life",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Popular social media personality arrested by ICE in LA",
+          "source": "ABC7"
         },
         {
           "headline": "Caltrans cancels second 91 Freeway weekend closure near Corona after roadwork project completed early",
@@ -433,15 +481,7 @@
           "source": "ABC7"
         },
         {
-          "headline": "Massie introduces impeachment articles against Defense Secretary Pete Hegseth",
-          "source": "ABC7"
-        },
-        {
           "headline": "Judge dismisses case from Dolly Parton's manager alleging her nephew threatened her estate",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Stand Up for Heroes to mark 20 years at Lincoln Center",
           "source": "ABC7"
         },
         {
@@ -459,68 +499,28 @@
         {
           "headline": "Judge denies Lindsay Clancy's motion to dismiss case",
           "source": "ABC7"
-        },
-        {
-          "headline": "Mostly Chocolate builds layers of flavor into every bite",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Nvidia stock falls after company opens probe into CEO Jensen Huang over alleged affair with Chinese spy",
-          "source": "ABC7"
-        },
-        {
-          "headline": "\u2018Star Wars\u2019 memorabilia auction includes lightsaber used by Darth Vader in 'The Empire Strikes Back'",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Darth Vader's $1 million lightsaber could be yours in rare 'Star Wars' auction",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Supreme Court clears the way for border wall construction in Texas\u2019s Big Bend to resume",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Air France flight nearly hits American Airlines plane after taking off from LAX",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Families of 50 California murder victims voice support for Gov. Newsom's move to commute death sentences",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Seguin, Texas crash kills Omar Lumbreras Oliva, Ana Deli Lumbreras, 3 other family members: police",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Ohio State suspends fraternity while investigating a video showing men engulfed in flames",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Who won the redistricting war? So far, it looks like Democrats",
-          "source": "ABC7"
         }
       ],
       "relevance": {
         "0": true,
         "1": true,
         "2": true,
-        "3": false,
+        "3": true,
         "4": true,
-        "5": true,
+        "5": false,
         "6": true,
         "7": true,
         "8": false,
-        "9": false,
-        "10": false,
+        "9": true,
+        "10": true,
         "11": true,
         "12": true,
         "13": true,
         "14": true,
         "15": true,
-        "16": false,
+        "16": true,
         "17": true,
-        "18": false,
+        "18": true,
         "19": false,
         "20": false,
         "21": false,
@@ -537,34 +537,34 @@
         "32": false,
         "33": false,
         "34": false,
-        "35": true,
-        "36": false,
+        "35": false,
+        "36": true,
         "37": false,
         "38": false,
         "39": false
       }
     },
     "county": {
-      "summary": "- Nithya Raman defeats Karen Bass in LA mayoral race, shifts politics progressive\n- All eight LA city ballot measures pass, bringing significant policy changes\n- LA Olympics organizers failing to disclose contracts to city leaders\n- Metro needs federal funding guarantee by year-end for Olympic bus deployment",
+      "summary": "- LAHSA shuts down computers over potential security issue affecting LA systems\n- All 8 LA city ballot measures passing; major changes ahead for residents\n- Metro needs federal funding guarantee by year-end for Olympic bus deployment\n- LA Olympics organizers not disclosing contracts as required, city leaders say",
       "headlines": [
         {
-          "headline": "Raman\u2019s win triggers surge of optimism among advocates of transit and safer streets in LA",
+          "headline": "LAHSA shuts down its computers over \u2018potential security issue\u2019",
           "source": "LAist"
         },
         {
-          "headline": "None of Nithya Raman\u2019s council colleagues backed her bid for mayor. Will they work with her?",
-          "source": "LAist"
-        },
-        {
-          "headline": "Raman defeats Bass in race for LA mayor, ushering in new era of progressive politics",
-          "source": "LAist"
-        },
-        {
-          "headline": "Fireworks, whistles, pots and pans: How neighbors came together to push ICE out of Boyle Heights",
+          "headline": "How will LAUSD respond to Google\u2019s AI mandate? What families should know",
           "source": "LAist"
         },
         {
           "headline": "Community, LA leaders denounce  ICE activity at White Memorial",
+          "source": "LAist"
+        },
+        {
+          "headline": "California voters reject measure to tax the wealth of billionaires",
+          "source": "LAist"
+        },
+        {
+          "headline": "Raman\u2019s win triggers surge of optimism among advocates of transit and safer streets in LA",
           "source": "LAist"
         },
         {
@@ -584,15 +584,11 @@
           "source": "LAist"
         },
         {
-          "headline": "Democrats plan to widen their probes of fatal ICE shootings",
-          "source": "LAist"
-        },
-        {
-          "headline": "How Gen Z voters helped fuel a blue wave for Democrats",
-          "source": "LAist"
-        },
-        {
           "headline": "Best things to do in LA and SoCal: Nov. 4-10",
+          "source": "LAist"
+        },
+        {
+          "headline": "Raman\u2019s win triggers surge of optimism among advocates of transit and safer streets in LA",
           "source": "LAist"
         },
         {
@@ -601,10 +597,6 @@
         },
         {
           "headline": "Roy wins LA city attorney's race",
-          "source": "LAist"
-        },
-        {
-          "headline": "Democrats\u2019 blue wave beat Texas\u2019 GOP gerrymanders. Did California even need Prop 50?",
           "source": "LAist"
         },
         {
@@ -628,7 +620,19 @@
           "source": "LAist"
         },
         {
-          "headline": "Southern California father convicted of incest involving daughter set for early jail release",
+          "headline": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
+          "source": "LAist"
+        },
+        {
+          "headline": "UN-backed experts cite possible US war crimes in Iran, including a school attack",
+          "source": "LAist"
+        },
+        {
+          "headline": "Venice Pier attack: Suspect turns self in after Danish tourist knocked unconscious, Suspect No. 2 on the run",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "Southern California father convicted of incest involving daughter released from jail",
           "source": "Fox 11 LA"
         },
         {
@@ -656,7 +660,7 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Two killed in skydiving accident in Riverside County",
+          "headline": "California Prop. 40 fails: Voters reject one-time 5% wealth tax on billionaires",
           "source": "Fox 11 LA"
         },
         {
@@ -688,11 +692,7 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Live election results: All of California's U.S. House Districts",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "FBI Houston investigating possible homicide on MSC cruise ship docked in Galveston",
+          "headline": "FBI Houston investigating possible homicide on MSC Seascape",
           "source": "Fox 11 LA"
         },
         {
@@ -708,48 +708,56 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Supervisor Horvath Announces Bid for New Elected County CEO Post",
+          "headline": "Powerball Numbers Drawn",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Deputy ID\u2019d as Motorcyclist Killed in Long Beach Area Crash",
+          "headline": "Sixth Judge to Hear Tyler Sexual Abuse Case Schedules May Trial",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LA Officials Celebrate Grand Opening of `First Self-Sustaining\u2019 Park in Tarzana",
+          "headline": "Silver Alert Activated For 69-Year-Old Man Last Seen in North Hollywood",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Trial Begins for Lawyer Accused of Rape in Laguna Hills",
+          "headline": "Rep. Correa Announces Medical Procedure to Keep Him Grounded a Short Time",
           "source": "MyNewsLA"
         },
         {
-          "headline": "DOJ Sues City of Glendale Over Concealed Carry Permit Fees",
+          "headline": "SoCal Man to Plead Guilty to So-Called Largest Jewelry Heist in U.S. History",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LA84 Grants $1.7 Million to Southern California Youth Programs",
+          "headline": "SoCal Man to Plead Guilty to So-Called Largest Jewelry Heist in U.S. History",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Driver Identified in Deadly West Covina Freeway Pursuit Crash",
+          "headline": "SoCal Man to Plead Guilty to So-Called Largest Jewelry Heist in U.S. History",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Skydance to Bundle Paramount+ and HBO Max in 2027",
+          "headline": "Motorcyclist Killed in Crash Near LB\u2019s Belmont Shore ID\u2019d as Sheriff\u2019s Deputy",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Man Killed in Angeles National Forest Collision Identified",
+          "headline": "Investigation Underway Into Near Mid-Air Collision Near LAX",
           "source": "MyNewsLA"
         },
         {
-          "headline": "`Phantom\u2019 OC-Based Debt Collection Operation Shut Down by FTC",
+          "headline": "1 of 2 Suspects in Assault of Danish Visitor in Venice Arrested",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Man, 20, Shot to Death During Rave in South Los Angeles Identified",
+          "headline": "Skydance Announces Paramount+, HBO Max Bundle in 2027",
           "source": "MyNewsLA"
+        },
+        {
+          "headline": "Come check out the latest video from the podcast \u201cLive From LA County\u201d hosted by Rodney Collins titled When Disaster Strikes: LA County Leaders on How to Prepare, Respond & Stay Safe. Sheriff Luna and 6 other prominent Los Angeles County leaders join - Facebook",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Hahn releases statement on the tragic passing of LA County Sheriff\u2019s Deputy - COUNTY OF LOS ANGELES (.gov)",
+          "source": "Google News LA"
         },
         {
           "headline": "UPDATE: Many school board races remain too close to call in Los Angeles County - EdSource",
@@ -764,11 +772,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Protecting children is not just a job, it\u2019s a calling. The Los Angeles County District Attorney\u2019s Office recently hosted an ESCARS summit at the California Endowment to bring prosecutors, law enforcement, social workers, health care providers, victim advocates a - Instagram",
+          "headline": "She\u2019s Running: Lindsey Horvath Launches County CEO Campaign - L.A. Material",
           "source": "Google News LA"
         },
         {
-          "headline": "UPDATE #LASD Advising At Risk Missing Person, Gregory Lamont Brown has been #Found #Bellflower - Facebook",
+          "headline": "Protecting children is not just a job, it\u2019s a calling. The Los Angeles County District Attorney\u2019s Office recently hosted an ESCARS summit at the California Endowment to bring prosecutors, law enforcement, social workers, health care providers, victim advocates a - Instagram",
           "source": "Google News LA"
         },
         {
@@ -776,11 +784,23 @@
           "source": "Google News LA"
         },
         {
+          "headline": "Lindsey Horvath County Executive Bid Draws Scrutiny | WEHOonline - WEHOonline.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Supervisor Horvath Announces Bid for New Elected County CEO Post - MyNewsLA.com",
+          "source": "Google News LA"
+        },
+        {
           "headline": "Fresh Off Raman Victory, Ally Lindsey Horvath Launches Controversial Bid For LA County CEO Job - Patch",
           "source": "Google News LA"
         },
         {
-          "headline": "Horvath Announces Bid for New Elected County CEO Post - MyNewsLA.com",
+          "headline": "Supervisor Barger Issues Statement on Unresolved Constitutional Questions Surrounding New County Executive Position - COUNTY OF LOS ANGELES (.gov)",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Baywatch Pay: What LA County's Top Lifeguards Actually Earn - CityWatch LA",
           "source": "Google News LA"
         },
         {
@@ -788,11 +808,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "DOJ Charges Six Los Angeles-Area Green Card Holders with Making False Statements on Citizenship Applications - Davis Vanguard",
+          "headline": "UPDATE #LASD Advising At Risk Missing Person, Gregory Lamont Brown has been #Found #Bellflower - Facebook",
           "source": "Google News LA"
         },
         {
-          "headline": "Horvath Seeks County Executive Office She Helped Create - westsidecurrent.com",
+          "headline": "Farzad 'Tony' Toutouni, so-called Iranian 'King of Instagram,' arrested by ICE in Los Angeles - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
@@ -800,35 +820,15 @@
           "source": "Google News LA"
         },
         {
+          "headline": "Raver Fatally Shot in South Los Angeles Identified - MyNewsLA.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "DOJ Charges Six Los Angeles-Area Green Card Holders with Making False Statements on Citizenship Applications - Davis Vanguard",
+          "source": "Google News LA"
+        },
+        {
           "headline": "COURT WATCH: Attempted Murder Conviction Faces Racial Justice Act Challenge in Los Angeles County - Davis Vanguard",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Man Killed in Angeles National Forest Collision Identified - MyNewsLA.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Death of Incarcerated Person at High Desert State Prison Investigated as a Homicide - California Department of Corrections and Rehabilitation - CDCR (.gov)",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Man, 20, Shot to Death During Rave in South Los Angeles Identified - MyNewsLA.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Happy Diwali to everyone celebrating across Los Angeles County! The Festival of Lights is a celebration of hope, renewal and new beginnings, illuminating homes and communities with warmth and joy. Diversity is one of Los Angeles County\u2019s greatest strengt - Instagram",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Detectives from the Los Angeles County Sheriff\u2019s Department Lakewood Station are seeking assistance in locating At Risk Missing Person, Gregory Lamont Brown. Gregory was last seen on November 7, 2026, at 8:30 p.m. on the 9800 block of Vermont St, in B - Facebook",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Coastal Flooding Risk Peaks Monday in LA, Orange Counties - MyNewsLA.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Interactive map shows where Angelenos voted for Nithya Raman over Karen Bass in L.A. mayoral race - ABC7 Los Angeles",
           "source": "Google News LA"
         }
       ],
