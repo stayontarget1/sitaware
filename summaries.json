@@ -1,10 +1,18 @@
 {
-  "generated": "2026-11-12T21:46:38.138754+00:00",
+  "generated": "2026-11-13T04:57:34.489884+00:00",
   "briefing": "5 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Man shot at Recreation Park; suspect remains at large\n- Canned food drive Friday at Painted Promises aids Eaton Fire families\n- Free mobile health clinic Nov. 18 at Foothill Unity Center\n- Monrovia Holiday Parade scheduled for Dec. 3 in Old Town",
+      "summary": "- School board considers Wild Rose playground work, security upgrades, bullying policy\n- Monrovia Police report multiple incidents: burglary, baton assault, park dagger discovery\n- Former officer sues Monrovia police for records related to firing\n- Canned food drive Friday supports Eaton Fire families at Painted Promises",
       "headlines": [
+        {
+          "headline": "Dinner at Monrovia Pizza Company",
+          "source": "Monrovia Now"
+        },
+        {
+          "headline": "School board to consider Wild Rose playground work; security upgrades; bullying policy; Etc.",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Monrovia Police: Landscaping talk distracts burglary victim; Driver allegedly swings baton; Decoy meeting leads to arrest; Park runner found with dagger; and more...",
           "source": "Monrovia Now"
@@ -78,14 +86,6 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Sandy Snider to discuss Lucky Baldwin's adobe in Duarte, Nov. 14",
-          "source": "Monrovia Now"
-        },
-        {
-          "headline": "Man shot at Recreation Park; suspect at large",
-          "source": "Monrovia Now"
-        },
-        {
           "headline": "Monrovia To Hold Veterans Day Ceremony At Library Park - Patch",
           "source": "Google News"
         },
@@ -102,7 +102,7 @@
           "source": "Google News"
         },
         {
-          "headline": "Monrovia Route 66 Documentary Now Available On YouTube - Patch",
+          "headline": "Monrovia Holiday Parade Set For Dec. 3 in Old Town - Patch",
           "source": "Google News"
         },
         {
@@ -114,7 +114,7 @@
           "source": "Google News"
         },
         {
-          "headline": "Monrovia Holiday Parade Set For Dec. 3 in Old Town - Patch",
+          "headline": "Ex-Monrovia Officer Says He Was Fired After Reporting Sexual Harassment - Patch",
           "source": "Google News"
         },
         {
@@ -122,23 +122,19 @@
           "source": "Google News"
         },
         {
+          "headline": "Road Rage Shooting | 'Graffiti Towers' No More | Dangerous Trend | Guerrilla Crosswalk Painters: Patch PM",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "8 Accused Of $177K Welfare Fraud In LA County, Including Government Workers",
+          "source": "Patch Monrovia"
+        },
+        {
           "headline": "Monrovia Holiday Parade Set For Dec. 3 in Old Town",
           "source": "Patch Monrovia"
         },
         {
           "headline": "White House Warning | Breaking Bad Star Lists Estate Amid Divorce | Coachella Lineup Released: Patch PM",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Coyote That Bit LA Toddler Was Shot Dead, Officials Said \u2014 But Neighbors Kept Seeing It",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "3 Storms Barreling Toward SoCal To Unleash Rain And Flooding",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "New Details Emerge In Deadly LA Metro Station Crash That Killed 3 Women",
           "source": "Patch Monrovia"
         },
         {
@@ -151,10 +147,6 @@
         },
         {
           "headline": "Nonprofit Sells Thanksgiving Pies To Support Monrovia, SGV School Gardens",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Monrovia Route 66 Documentary Now Available On YouTube",
           "source": "Patch Monrovia"
         },
         {
@@ -210,14 +202,14 @@
         "8": true,
         "9": true,
         "10": true,
-        "11": false,
+        "11": true,
         "12": true,
-        "13": true,
+        "13": false,
         "14": true,
         "15": true,
         "16": true,
         "17": true,
-        "18": false,
+        "18": true,
         "19": true,
         "20": true,
         "21": true,
@@ -228,11 +220,11 @@
         "26": true,
         "27": true,
         "28": false,
-        "29": true,
+        "29": false,
         "30": false,
-        "31": false,
+        "31": true,
         "32": false,
-        "33": false,
+        "33": true,
         "34": true,
         "35": true,
         "36": true,
@@ -242,14 +234,14 @@
       }
     },
     "sgv": {
-      "summary": "- SGV neighborhood evacuated after fireworks incident\n- Amazon closing warehouse, laying off 94 workers\n- SGV receives $2 million food waste grant\n- Foothill Unity Center seeks Thanksgiving donations",
+      "summary": "- SGV neighborhood evacuated after fireworks incident; emergency response ongoing\n- Amazon closes SGV warehouse, laying off 94 workers\n- SGV receives $2 million grant to reduce food waste\n- Foothill Unity Center seeks donations ahead of Thanksgiving",
       "headlines": [
         {
           "headline": "San Gabriel Valley neighborhood evacuated after fireworks incident - KTLA",
           "source": "Google News SGV"
         },
         {
-          "headline": "3 places with great Filipino food in the San Gabriel Valley - San Gabriel Valley Tribune",
+          "headline": "San Gabriel Valley Girls Athlete of the Week: Bennett Thein, Westridge - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -261,11 +253,15 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel Valley Girls Athlete of the Week: Bennett Thein, Westridge - Whittier Daily News",
+          "headline": "Beyond the Football Field: Former USC punter turns insurer protecting the San Gabriel Valley - Pasadena Weekly",
           "source": "Google News SGV"
         },
         {
           "headline": "San Gabriel Valley neighborhood evacuated after fireworks incident - Yahoo",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "San Gabriel Valley Girls Athlete of the Week: Bennett Thein, Westridge - Whittier Daily News",
           "source": "Google News SGV"
         },
         {
@@ -277,7 +273,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel Valley Girls Athlete of the Week: Bennett Thein, Westridge - San Gabriel Valley Tribune",
+          "headline": "3 places with great Filipino food in the San Gabriel Valley - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -285,11 +281,11 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "SGV football: Previews, predictions for Friday\u2019s CIF-SS quarterfinal games - San Gabriel Valley Tribune",
+          "headline": "San Gabriel Valley Boys Athlete of the Week: Christian Lee, Rio Hondo Prep - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel Valley Boys Athlete of the Week: Christian Lee, Rio Hondo Prep - San Gabriel Valley Tribune",
+          "headline": "SGV football: Previews, predictions for Friday\u2019s CIF-SS quarterfinal games - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -318,10 +314,6 @@
         },
         {
           "headline": "Editorial: Honor veterans and work for peace - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "Beyond the Football Field: Former USC punter turns insurer protecting the San Gabriel Valley - Pasadena Weekly",
           "source": "Google News SGV"
         },
         {
@@ -363,6 +355,10 @@
         {
           "headline": "Pasadena Fire Department, Huntington Health Plan November 20 Community Blood Drive",
           "source": "Pasadena Now"
+        },
+        {
+          "headline": "California Senators Push for Independent AI Oversight and Accountability",
+          "source": "Colorado Blvd"
         },
         {
           "headline": "705 Chairs in Pasadena to Honor Lives Lost on L.A. County Roads",
@@ -409,15 +405,47 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "L.A. County to Review Advertising Spending With Community Outlet",
-          "source": "Colorado Blvd"
+          "headline": "Van Hollen to challenge Schumer for Senate Democratic leader, saying voters 'called for change'",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Downtown LA's notorious graffiti towers reach cleanup milestone",
+          "source": "ABC7"
         },
         {
           "headline": "Rescue operations underway after building collapses in Brooklyn, New York: FDNY",
           "source": "ABC7"
         },
         {
-          "headline": "Agencies responding after massive whale washed up on Santa Cruz beach",
+          "headline": "Timeline of the stunning fall of powerful Nvidia CEO Jensen Huang",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Unsolved LA: Killer remains free 12 years after beloved Hollywood executive was murdered in North Hollywood",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Massive fin whale dies after washing up on Santa Cruz beach, officials say",
+          "source": "ABC7"
+        },
+        {
+          "headline": "New details emerge about driver accused in deadly North Hollywood Metro station crash",
+          "source": "ABC7"
+        },
+        {
+          "headline": "'The Secret Lives of Mormon Wives: Orange County' cast previews drama, friendships, personal growth",
+          "source": "ABC7"
+        },
+        {
+          "headline": "The Game Awards makes its Disney+ debut, bringing gaming's biggest night to more fans worldwide",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Oklahoma man is put to death for killing of girlfriend\u2019s husband, with a Texas execution to follow",
+          "source": "ABC7"
+        },
+        {
+          "headline": "New prostate screening guidelines from American Cancer Society are most specific yet; exams meant to prevent health issues",
           "source": "ABC7"
         },
         {
@@ -441,10 +469,6 @@
           "source": "ABC7"
         },
         {
-          "headline": "Oklahoma man is put to death for killing of girlfriend\u2019s husband, with a Texas execution to follow",
-          "source": "ABC7"
-        },
-        {
           "headline": "Gaza news today: Israel bombing of Nasser Hospital complex kills 6 people, Hamas-run health ministry says",
           "source": "ABC7"
         },
@@ -457,39 +481,7 @@
           "source": "ABC7"
         },
         {
-          "headline": "New prostate screening guidelines from American Cancer Society are most specific yet; exams meant to prevent health issues",
-          "source": "ABC7"
-        },
-        {
           "headline": "LA County sheriff's deputy injured in multi-vehicle rollover crash in Calabasas",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Interrupci\u00f3n del servicio de Outlook: Microsoft reporta 'problemas' con Teams y el correo electr\u00f3nico",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Nvidia CEO Jensen Huang resigns amid alleged affair with suspected spy; CFO to serve as interim chief executive",
-          "source": "ABC7"
-        },
-        {
-          "headline": "More stars announced for Disney Pixar's 'Gatto' joining Mark Ruffalo and Laurence Fishburne",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Hegseth awards medal to soldier who reprimanded him and aides at Arlington Cemetery",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Anthony Clark, actor-comedian known for 'Yes, Dear' and 'Boston Common,' dies at 62",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Shop now, save more: Walmart's top early Black Friday deals under $25",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Brooklyn building collapse investigation focuses on structure's history, nearby construction",
           "source": "ABC7"
         }
       ],
@@ -513,42 +505,42 @@
         "16": true,
         "17": false,
         "18": false,
-        "19": true,
+        "19": false,
         "20": false,
         "21": true,
         "22": false,
-        "23": true,
-        "24": true,
+        "23": false,
+        "24": false,
         "25": false,
-        "26": true,
-        "27": true,
+        "26": false,
+        "27": false,
         "28": false,
-        "29": true,
-        "30": true,
-        "31": true,
+        "29": false,
+        "30": false,
+        "31": false,
         "32": false,
-        "33": true,
+        "33": false,
         "34": false,
-        "35": true,
+        "35": false,
         "36": true,
         "37": true,
         "38": true,
-        "39": false
+        "39": true
       }
     },
     "county": {
-      "summary": "- Jailhouse informant probe warrants scrutiny of Long Beach case and others\n- Suspected DUI driver faces murder charges after North Hollywood crash kills three\n- Eaton Fire survivors share experiences remediating homes after wildfire\n- LA County Sheriff's deputy injured in Calabasas rollover crash",
+      "summary": "- LA County judge removed from bench for severe misconduct and ethical violations\n- Jailhouse informant probe reveals Long Beach case needs closer legal scrutiny\n- Marine heat wave threatens coastal flooding through holiday season in Southern California\n- Multiple local races too close to call; recounts possible in coming weeks",
       "headlines": [
         {
           "headline": "Jailhouse informant probe warrants more scrutiny of Long Beach case and others, attorney argues",
           "source": "LAist"
         },
         {
-          "headline": "Democratic Socialists of America candidates are winning big in Southern California",
+          "headline": "Embroiled LA County judge is removed from the bench for \u2018severe misconduct\u2019",
           "source": "LAist"
         },
         {
-          "headline": "Famed Altadena artist John Outterbridge\u2019s archive burned down. His daughter is asking for help",
+          "headline": "California\u2019s 'record-shattering' marine heat wave means threat of coastal flooding will stick around",
           "source": "LAist"
         },
         {
@@ -560,15 +552,15 @@
           "source": "LAist"
         },
         {
+          "headline": "Advocacy groups sue AI giants to freeze new models, warning of \u2018catastrophic\u2019 risks",
+          "source": "LAist"
+        },
+        {
+          "headline": "Trump proposed a 'secret weapon' to police colleges. It will soon become reality",
+          "source": "LAist"
+        },
+        {
           "headline": "Nithya Raman\u2019s big Olympics promise: Reduce street homelessness by 50%",
-          "source": "LAist"
-        },
-        {
-          "headline": "The Rock & Roll Hall of Fame ceremony is this weekend. Who\u2019s getting in and who\u2019s showing up?",
-          "source": "LAist"
-        },
-        {
-          "headline": "What's it like remediating a home after a wildfire? Eaton Fire survivors shared their experiences",
           "source": "LAist"
         },
         {
@@ -596,15 +588,15 @@
           "source": "LAist"
         },
         {
+          "headline": "Trump administration will fund new research on controversial psychedelic drug ibogaine",
+          "source": "LAist"
+        },
+        {
           "headline": "Trump proposed a 'secret weapon' to police colleges. It will soon become reality",
           "source": "LAist"
         },
         {
           "headline": "Rep. Thomas Massie of Kentucky launches bid to impeach Defense Secretary Pete Hegseth",
-          "source": "LAist"
-        },
-        {
-          "headline": "Congress is coming back to Washington. Here's what to expect",
           "source": "LAist"
         },
         {
@@ -620,131 +612,63 @@
           "source": "LAist"
         },
         {
-          "headline": "LA County Sheriff's deputy hurt in Calabasas rollover crash",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Suspected DUI driver faces murder charges in North Hollywood crash that killed 3 women",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Wrong-way driver crash kills 3 on 91 Freeway in Riverside",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Alleged road rage incident ends in shooting in Santa Ana; Suspect still on the run",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Coyote previously believed to be euthanized after biting Atwater Village toddler is still alive",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Prominent anti-gang activist calls for LAPD probe after his arrest, release",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Westminster police execute search warrant tied to illegal gambling investigation",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "ICE arrests 'King of Instagram' Tony Toutouni in Los Angeles",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Fishermen rescue cruise ship pianist who spent hours treading water off California coast: Reports",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Thomas Markle, father of Meghan, cut off ankle monitor shortly after release from federal custody: DOJ",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "California will soon prohibit minors from buying creatine: What to know",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "California Prop. 40 fails: Voters reject one-time 5% wealth tax on billionaires",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "2 licensed skydivers killed in California after colliding midair",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "YouTuber arrested years after documentary helps revive child predator case",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Gov. Newsom commutes sentences of California's 548 death row inmates",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Man stabbed in California prison nearly 180 times, video of his death leaked",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Landlord charged with murder after disabled tenant found shot, buried under porch: Reports",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Soldier who scolded Hegseth, aides at Tomb of the Unknown Soldier awarded medal",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Microsoft Outlook down: Widespread outage hits users nationwide",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "DC shooting: 1 killed, 4 hurt in Logan Circle gym attack, suspect identified by sources",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Palm Desert City Council to Discuss 2 Public Safety Initiatives",
+          "headline": "Domestic Violence Suspect Barricaded in Newport Beach Apartment",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Ellison-Backed Medical Institute in LA Plans Layoffs",
+          "headline": "Spitzer Vows to Fight Governor\u2019s Death Row Commutations",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Microsoft Outlook Outage Hits SoCal Users",
+          "headline": "Domestic Violence Suspect Barricaded in Newport Beach Apartment",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Microsoft Outlook Outage Hits SoCal Users",
+          "headline": "Hazmat Incident Prompts Temporary Road Closure in Coachella",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Man, 26, Killed in 57 Freeway Crash in Diamond Bar",
+          "headline": "OC Deputy Expected to Plead Guilty in Fatal Shooting",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Appellate Justices Uphold Murder Conviction for OC Judge",
+          "headline": "Anaheim Agrees Not to Restrict Unhoused People\u2019s Movement Around Shelters",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Microsoft Outlook Outage Hits SoCal Users",
+          "headline": "Man Admits Sexually Assaulting Relative Sent to Live With Him",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Arraignment Postponed for Man Accused of Killing Mead Valley Resident",
+          "headline": "Spitzer Vows to Fight Governor\u2019s Death Row Commutations",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Port of LA Breaks Records as Movement of Cargo Soars in October",
+          "headline": "Galaxy Legend David Beckham Named to Soccer Hall of Fame",
           "source": "MyNewsLA"
         },
         {
-          "headline": "8 Charged with Frauduently Obtaining Public Benefits",
+          "headline": "Parents Plead Not Guilty in Son\u2019s Deadly E-Motorcycle Crash",
           "source": "MyNewsLA"
         },
         {
-          "headline": "One Person Dead in 57 Freeway Crash in Diamond Bar",
+          "headline": "Man Charged in Mother\u2019s Glendale Stabbing Death",
           "source": "MyNewsLA"
         },
         {
           "headline": "LA County Coordinated Joint Information Center Update \u2013 11/11/2026 - LA County Recovers (.gov)",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Los Angeles County District Attorney Nathan J. Hochman today announced his office\u2019s full support for the Criminal Justice Legal Foundation (CJLF) in its legal challenge opposing Governor Gavin Newsom\u2019s blanket commutation of all 548 California death row - Instagram",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "WilmerHale Secures Series of Victories for Los Angeles County in Federal Election Litigation - WilmerHale",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "TAKING BACK THE STREETS | KTLA 5 KTLA 5 reporter Kareen Wynter joined the Los Angeles County Sheriff's Department's Street Task Force for a firsthand look at how deputies are addressing illegal street takeovers and the dangers they pose to our comm - Facebook",
           "source": "Google News LA"
         },
         {
@@ -756,15 +680,15 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County Sheriff\u2019s Department Compton Station is asking for the public\u2019s help locating At-Risk Missing Juvenile, Dominique Deshawn Tate. He is a 15-year-old male Black juvenile who was last seen walking north on Alameda Street from Artesia Bo - Facebook",
-          "source": "Google News LA"
-        },
-        {
           "headline": "Close Count project update one week after Election Day - California Voter Foundation",
           "source": "Google News LA"
         },
         {
-          "headline": "Eight people, including an LA Metro and California EDD employee, have been charged in six separate felony cases with fraudulently obtaining over $177,000 in public benefits from the Los Angeles County Department of Public Social Services (DPSS) after all - Instagram",
+          "headline": "Your Voice, Your Community, Your Future: Help Shape How LA County Invests in Our Communities - The San Fernando Valley Sun",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Some City Services Hit as Microsoft Outlook Outage Disrupts Email - westsidecurrent.com",
           "source": "Google News LA"
         },
         {
@@ -776,31 +700,27 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Your Voice, Your Community, Your Future: Help Shape How LA County Invests in Our Communities - The San Fernando Valley Sun",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "The Invisible Hand Behind Los Angeles - Alta Journal",
-          "source": "Google News LA"
-        },
-        {
           "headline": "Incarcerated Person Apprehended After Walking Away from Los Angeles Female Community Reentry Program - California Department of Corrections and Rehabilitation - CDCR (.gov)",
           "source": "Google News LA"
         },
         {
-          "headline": "2 Beloved Street Vendors Identified as Victims of the Los Angeles Metro Station Crash - U.S. News & World Report",
+          "headline": "LAPD Faces Uncertain Future Under New Los Angeles Mayor - Officer",
           "source": "Google News LA"
         },
         {
-          "headline": "Burglar Sets Fire Inside KFC Restaurant After Breaking In South Los Angeles - onscene.tv",
+          "headline": "Los Angeles Metro station crash: New details emerge about suspected DUI driver accused of killing 3 - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "Kidde-Sponsored Home Safety Event Brings LAFD and the Community Together | Los Angeles Fire Department - Los Angeles Fire Department",
+          "headline": "Los Angeles County Sheriff\u2019s Department Compton Station is asking for the public\u2019s help locating At-Risk Missing Juvenile, Dominique Deshawn Tate. He is a 15-year-old male Black juvenile who was last seen walking north on Alameda Street from Artesia Bo - Facebook",
           "source": "Google News LA"
         },
         {
-          "headline": "Horvath decides to run for Los Angeles County CEO - The Center Square",
+          "headline": "Eight people have been charged in six separate felony cases with fraudulently obtaining over $177,000 in public benefits from the Los Angeles County Department of Public Social Services (DPSS) after allegedly concealing tens of thousands of dollars in asse - Instagram",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Online Clothing Reseller Sentenced to Five Years in Prison for Furnishing Drugs, Labor Trafficking Los Angeles County Middle Schooler \u2013 COUNTY OF LOS ANGELES - COUNTY OF LOS ANGELES (.gov)",
           "source": "Google News LA"
         },
         {
@@ -808,19 +728,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Hahn releases statement on the tragic passing of LA County Sheriff\u2019s Deputy - COUNTY OF LOS ANGELES (.gov)",
+          "headline": "Downtown Los Angeles' notorious graffiti towers reach cleanup milestone - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "On behalf of the Los Angeles County Sheriff's Department, Happy 251st Birthday to the men and women of the United States Marine Corps. Today, we proudly honor and celebrate years of courage, honor, commitment, and unwavering service. Marines in the L - Facebook",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "\ud83c\uddfa\ud83c\uddf8 Honoring All Who Served This Veterans Day, the Los Angeles County Sheriff\u2019s Department honors the men and women who have served in our nation\u2019s Armed Forces. Your courage, sacrifice, and dedication to our country deserve our deepest gratitude. W - Facebook",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "We appreciate NBC Los Angeles for covering this important issue and for the opportunity to share Chief McDonnell\u2019s insights. Working together to inform and engage the community remains a shared priority. - Facebook",
+          "headline": "Asian American candidates win trifecta in Los Angeles elections - AsAmNews",
           "source": "Google News LA"
         }
       ],
