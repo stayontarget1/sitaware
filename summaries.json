@@ -1,10 +1,14 @@
 {
-  "generated": "2026-11-18T22:30:36.765812+00:00",
+  "generated": "2026-11-19T05:49:47.297179+00:00",
   "briefing": "5 PM",
   "columns": {
     "monrovia": {
-      "summary": "- County approves $8.5 to $12.75 million Sawpit dam project\n- Monrovia projects $3.05 million General Fund deficit\n- Holiday Parade returns Dec. 3 in Old Town\n- Council considers 7% raise for City Manager Dylan Feik",
+      "summary": "- County approves $8.5 to $12.75 million Sawpit dam project\n- Monrovia Holiday Parade returns Dec. 3; tree lighting confirmed\n- Council considers 7% raise for City Manager Dylan Feik\n- City projects $3.05 million General Fund deficit",
       "headlines": [
+        {
+          "headline": "Nov. 19 Thankful & Grateful gathering canceled; tree lighting still set for Dec. 3",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Fork n' Film at the Library, Dec. 4",
           "source": "Monrovia Now"
@@ -82,10 +86,6 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Ceramic sale brings 30 artists to Canyon Oaks gym, Dec. 5",
-          "source": "Monrovia Now"
-        },
-        {
           "headline": "\u201cMonrovia\u2019s Route 66\u201d documentary is now online - Route 66 News",
           "source": "Google News"
         },
@@ -94,7 +94,7 @@
           "source": "Google News"
         },
         {
-          "headline": "Monrovia Holiday Parade Set For Dec. 3 in Old Town - Patch",
+          "headline": "Monrovia Community Center Plans Dec. 6 Closure For Renovation - Patch",
           "source": "Google News"
         },
         {
@@ -102,11 +102,7 @@
           "source": "Google News"
         },
         {
-          "headline": "\u201cMonrovia\u2019s Route 66\u201d documentary is now online - Route 66 News",
-          "source": "Google News"
-        },
-        {
-          "headline": "Monrovia Community Center Plans Dec. 6 Closure For Renovation - Patch",
+          "headline": "Brandon Burga - Sports Illustrated",
           "source": "Google News"
         },
         {
@@ -118,6 +114,10 @@
           "source": "Google News"
         },
         {
+          "headline": "Storm Prompts Monrovia To Cancel 'Thankful & Grateful' Holiday Gathering - Patch",
+          "source": "Google News"
+        },
+        {
           "headline": "Ex-Monrovia Officer Says He Was Fired After Reporting Sexual Harassment - Patch",
           "source": "Google News"
         },
@@ -126,15 +126,19 @@
           "source": "Google News"
         },
         {
-          "headline": "DMV Bans Waymo | Preschool Gave Toddler Sleeping Gummy: Suit | Geyser Of Rotting Garbage Erupts: Patch PM",
+          "headline": "Storm Prompts Monrovia To Cancel 'Thankful & Grateful' Holiday Gathering",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "Graffiti Duo Monetized Signature Heart-Themed Vandalism, Police Say. Now They Face 10 Felonies",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "Prosecutors Sue Newsom To Block Death Row Clemency",
           "source": "Patch Monrovia"
         },
         {
           "headline": "Monrovia Chamber Celebrates Small Business Month With Shopping Passport",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Mountain Lion Getting 'Way Too Comfortable' In LA County Neighborhood, Official Says",
           "source": "Patch Monrovia"
         },
         {
@@ -143,10 +147,6 @@
         },
         {
           "headline": "Monrovia To Host Free Contractor Surety Bonding Seminar Dec. 1",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Monrovia Holiday Parade Set For Dec. 3 in Old Town",
           "source": "Patch Monrovia"
         },
         {
@@ -193,16 +193,16 @@
       "relevance": {
         "0": true,
         "1": true,
-        "2": false,
+        "2": true,
         "3": false,
         "4": false,
-        "5": true,
+        "5": false,
         "6": true,
         "7": true,
         "8": true,
         "9": true,
-        "10": false,
-        "11": true,
+        "10": true,
+        "11": false,
         "12": true,
         "13": true,
         "14": true,
@@ -215,14 +215,14 @@
         "21": false,
         "22": true,
         "23": false,
-        "24": true,
+        "24": false,
         "25": true,
         "26": true,
         "27": true,
         "28": true,
         "29": false,
-        "30": false,
-        "31": true,
+        "30": true,
+        "31": false,
         "32": false,
         "33": true,
         "34": true,
@@ -234,14 +234,14 @@
       }
     },
     "sgv": {
-      "summary": "- Walnut High School weapon call was hoax; campus lockdown lifted after investigation\n- San Gabriel Valley foothill communities prepare for incoming storm with up to inch rain\n- Dog rescued after becoming trapped between shipping containers in San Gabriel Valley\n- Mosquito and Vector Control District honored for Eaton Fire emergency response efforts",
+      "summary": "- Walnut High School lockdown false alarm; no weapons found on campus\n- San Gabriel Valley braces for incoming storm with up to one inch rain\n- Mosquito Control District honored statewide for Eaton Fire response efforts\n- Dog rescued after becoming trapped between shipping containers in valley",
       "headlines": [
         {
           "headline": "Dog trapped between shipping containers rescued in San Gabriel Valley - KTLA",
           "source": "Google News SGV"
         },
         {
-          "headline": "Things to do in the San Gabriel Valley area, Nov. 13-21 - San Gabriel Valley Tribune",
+          "headline": "San Gabriel Valley Boys Athlete of the Week: Isaac Villescas, West Covina - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -257,10 +257,6 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel Valley Boys Athlete of the Week: Isaac Villescas, West Covina - Pasadena Star News",
-          "source": "Google News SGV"
-        },
-        {
           "headline": "San Gabriel Valley communities prepare for incoming storm - Yahoo",
           "source": "Google News SGV"
         },
@@ -270,6 +266,10 @@
         },
         {
           "headline": "Walnut High School locked down after call about weapons on campus - NBC Los Angeles",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Things to do in the San Gabriel Valley area, Nov. 13-21 - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -297,11 +297,11 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Rams at Cardinals: Who has the edge? - San Gabriel Valley Tribune",
+          "headline": "Report of student with gun at Walnut High a hoax, officials say - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "Del Mar consensus picks for Friday, Nov. 13, 2026 - San Gabriel Valley Tribune",
+          "headline": "La Serna\u2019s William Thompson looks for big finish at CIF-SS cross country finals - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -309,11 +309,11 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "SGV boys basketball preview: St. Francis leads the Top 5 for 2026-27 - San Gabriel Valley Tribune",
+          "headline": "Rams at Cardinals: Who has the edge? - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "Report of student with gun at Walnut High a hoax, officials say - San Gabriel Valley Tribune",
+          "headline": "Del Mar consensus picks for Friday, Nov. 13, 2026 - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -405,67 +405,75 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Paramedic responding to deadly accident discovers son Logan Mumford is the victim in Sigurd, Utah",
+          "headline": "2026 CMA Awards: Full list of winners and nominees from Country Music's Biggest Night | Live updates",
           "source": "ABC7"
         },
         {
-          "headline": "Meteor shower, supermoons: SoCal stargazers are in for a month of dazzling astronomical events",
+          "headline": "Taylor Swift steps out at 2026 CMA Awards ahead of performance",
           "source": "ABC7"
         },
         {
-          "headline": "Tustin mayor drops plan to make board appointments before new mayor's term after public outcry",
+          "headline": "CMA Awards 2026: Dolly Parton honored with moving tribute",
           "source": "ABC7"
         },
         {
-          "headline": "Celebrate Hanukkah 2026: Thoughtful gifts for family and friends",
+          "headline": "2026 CMA Awards: The best red carpet fashion from Country Music's Biggest Night",
           "source": "ABC7"
         },
         {
-          "headline": "Hakeem Jeffries poised to become the first Black Speaker of the House",
+          "headline": "Storm expected to bring heavy rain, possible flooding to SoCal on Thursday",
           "source": "ABC7"
         },
         {
-          "headline": "Luke Bryan talks returning to Georgia as 'American Idol' marks its milestone 25th season",
+          "headline": "Lindsay Clancy returns to court for a hearing to determine details of future trial",
           "source": "ABC7"
         },
         {
-          "headline": "Julio Iglesias enfrenta investigaci\u00f3n en Espa\u00f1a por presunta conducta sexual indebida",
+          "headline": "Elon Musk regrets nearly $500 million midterm elections spending, says he\u2019s not MAGA",
           "source": "ABC7"
         },
         {
-          "headline": "McDonald's debuts new 'Home Alone' Meal, Macaulay Culkin stars as Kevin in ad",
+          "headline": "Big El Ni\u00f1o is poised to slam California. Is your vehicle ready? Here's how to prepare",
           "source": "ABC7"
         },
         {
-          "headline": "Motorcyclist walks away while partially engulfed in flames after 110 Freeway crash",
+          "headline": "Everything to know about 2026 CMAs, from who's performing to how to watch",
           "source": "ABC7"
         },
         {
-          "headline": "From wacky to wonderful: The ultimate best friend gift guide",
+          "headline": "Family of 4-month-old who died while in foster care files federal claim against LA County",
           "source": "ABC7"
         },
         {
-          "headline": "US, Venezuela sign deal to reestablish military ties, Hegseth says in visit to Caracas",
+          "headline": "Ecuadorian fishermen sue Trump administration over drone strike",
           "source": "ABC7"
         },
         {
-          "headline": "Muslims are projected to outnumber Christians by 2035 as the world's largest religion",
+          "headline": "13-year-old on e-bike arrested after allegedly trying to outrun motorcycle police officer in OC",
           "source": "ABC7"
         },
         {
-          "headline": "Singer Julio Iglesias faces Spanish High Court investigation into alleged sexual misconduct",
+          "headline": "What parents need to know about GTA 6 and kids",
           "source": "ABC7"
         },
         {
-          "headline": "Tennis star Sloane Stephens' home among 2 LA mansions targeted by would-be burglars",
+          "headline": "The Vice City Heat: Miami's NBA team goes all in on 'Grand Theft Auto VI' collaboration",
           "source": "ABC7"
         },
         {
-          "headline": "Noah Wyle pledges $1 million to nonprofit aimed at helping relieve medical debt for families in need",
+          "headline": "Fire at industrial yard erupts near 5 Freeway in Mission Hills",
           "source": "ABC7"
         },
         {
-          "headline": "How do you thaw a turkey? Here are 3 safe ways to defrost your bird for Thanksgiving",
+          "headline": "DHS Secretary Markwayne Mullin faces congressional hearing in the wake of historic nationwide ground stop",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Teen baker's cinnamon rolls become a big draw",
+          "source": "ABC7"
+        },
+        {
+          "headline": "LA City Fire Chief Jaime Moore discusses storm preparedness, AwareCA app and city issues",
           "source": "ABC7"
         },
         {
@@ -473,15 +481,7 @@
           "source": "ABC7"
         },
         {
-          "headline": "Man drops engagement ring in ocean after large wave crashes beach proposal in California",
-          "source": "ABC7"
-        },
-        {
-          "headline": "La Boucherie brings Cajun flavor to the holiday table",
-          "source": "ABC7"
-        },
-        {
-          "headline": "2026 CMA Awards: Full list of winners and nominees from Country Music's Biggest Night | Live updates",
+          "headline": "Paramedic responding to deadly accident discovers son Logan Mumford is the victim in Sigurd, Utah",
           "source": "ABC7"
         }
       ],
@@ -490,22 +490,22 @@
         "1": true,
         "2": true,
         "3": true,
-        "4": false,
-        "5": false,
+        "4": true,
+        "5": true,
         "6": true,
         "7": true,
         "8": true,
         "9": true,
-        "10": false,
+        "10": true,
         "11": true,
         "12": true,
         "13": true,
-        "14": false,
-        "15": false,
-        "16": false,
-        "17": false,
+        "14": true,
+        "15": true,
+        "16": true,
+        "17": true,
         "18": false,
-        "19": true,
+        "19": false,
         "20": false,
         "21": false,
         "22": false,
@@ -529,10 +529,14 @@
       }
     },
     "county": {
-      "summary": "- Judge rules LAHSA loses control of LA's federal homeless money to county\n- Metrolink CEO Darren Kettle announces exit from rail agency leadership role\n- LA County plagued by hospice fraud despite state and federal crackdowns\n- LAPD Chief McDonnell uncertain on Raman's decision to replace him before Olympics",
+      "summary": "- LA County Sheriff estimates Olympics security costs nearly $3 billion for 2028 games\n- Judge strips LAHSA of control over LA's federal homeless funding to county\n- Metrolink CEO Darren Kettle announces exit from rail agency leadership\n- LA County Civil Rights office warns budget cuts threaten Olympic preparedness efforts",
       "headlines": [
         {
           "headline": "LAPD Chief Jim McDonnell says Nithya Raman hasn\u2019t decided if she\u2019ll replace him before the Olympics",
+          "source": "LAist"
+        },
+        {
+          "headline": "LA County Sheriff Robert Luna estimates Olympics security will cost nearly $3B",
           "source": "LAist"
         },
         {
@@ -608,131 +612,47 @@
           "source": "LAist"
         },
         {
-          "headline": "What ICE can and can\u2019t do at White Memorial hospital: What patients and visitors should know",
-          "source": "LAist"
-        },
-        {
-          "headline": "Medical examiner says Franklin High teen \u2018intentionally jumped\u2019 in suicide ruling",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Ventura man sentenced to 61 years to life for shooting at girlfriend",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "2 arrested after break-ins at former US Open champ's LA home, Katy Perry's old estate",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "SoCal storm timeline: First atmospheric river brings rain, flood risk",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Glendale water rate hike faces pushback as residents urge City Council to pause vote",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Tustin mayor withdraws controversial board appointments after backlash from the public",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Crews begin work on $2.3M MacArthur Park fencing project in Westlake",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Spurned ex gets 4 life sentences in Lancaster quadruple murder, arson",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Man gets life in prison for killing parents, bringing his kids to \u2018discover\u2019 their bodies",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Waymo ordered to stop driving on California freeways",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Powerball ticket worth $90,000 sold in California",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "How data centers lost in the midterm elections",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Cops: 14-year-old arrested after attacking woman with axe-like tool during dispute over parking space",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Fishermen rescue cruise ship pianist who spent hours treading water off California coast: Reports",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Congressman calls for release of California nurse detained by ICE",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Thomas Markle, father of Meghan, cut off ankle monitor shortly after release from federal custody: DOJ",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Restaurants open on Thanksgiving in 2026",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Man, legally named Captain America, charged with murder of Illinois man",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "These stores have the highest average Black Friday discounts, analysis shows",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Dan Hicks\u2019 cause of death revealed: Reports",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "LA Council Advances Effort to Crack Down on Illegal Dumping",
+          "headline": "Powerball Numbers Drawn",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LAPD Releases Video of Hit-and-Run Crash That Severely Injured Pedestrian",
+          "headline": "Pasadena Humane Seeks Public Help After Rescuing 38 Dogs From Home",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Palm Springs Airport Unveils Two New Escalators",
+          "headline": "Police Seek Help Identifying Suspected Hit-and-Run Driver in Long Beach",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Man Who Drowned in Santa Monica Bay Identified as TV Background Actor",
+          "headline": "SBA Offers Hurricane Marie Disaster Loans to SoCal Businesses",
           "source": "MyNewsLA"
         },
         {
-          "headline": "County Expands Program to Enable More Prisoners to Foster Impounded Pets",
+          "headline": "SBA Offers Hurricane Marie Disaster Loans to SoCal Businesses",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Disneyland Announces New After Hours Night with Latino Culture Theme",
+          "headline": "Possible Strike Looms Over Ports of LA, Long Beach Amid Labor Talks",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Gordon Ramsay Honored with Walk of Fame Star",
+          "headline": "Tractor-Trailer Fire Prompts Hazmat Response in Granada Hills",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Ca. Supreme Court Won\u2019t Hear Case of Man Convicted of Murder for Carjacking",
+          "headline": "Music Teacher Accused of Molesting Students Arraigned",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Firefighter Injured Battling Lancaster Furniture Store Blaze",
+          "headline": "Small Earthquake Strikes Near Oasis",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Two Injured in Off-Road Collision Near Mecca",
+          "headline": "Senior Accused in Hit-And-Run That Killed Menifee Teen Due in Court",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Studios Seek Dismissal of Mo\u2019Nique Lawsuit Over `The Parkers\u2019 Royalties",
+          "headline": "Possible Strike Looms Over Ports of LA, Long Beach Amid Labor Talks",
           "source": "MyNewsLA"
         },
         {
@@ -752,11 +672,19 @@
           "source": "Google News LA"
         },
         {
-          "headline": "\u2614\ufe0f The NWS is... - Los Angeles County Sheriff's Department - Facebook",
+          "headline": "Reminder: Metropolitan Division Stands Watch If you come to Los Angeles to victimize our communities, expect Metropolitan Division to come looking for you. Last night, Metropolitan Division officers, in conjunction with officers assigned to Southeast Patrol, arr - Facebook",
           "source": "Google News LA"
         },
         {
-          "headline": "UPDATE: Report spotlights 70 Los Angeles County schools where Black students excel academically - EdSource",
+          "headline": "Evacuation warnings take effect Wednesday evening for LA County burn scars as winter storm moves in - Santa Monica Daily Press",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LA County Receives $4M for Affordable Housing - MyNewsLA.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Over a freeway near Los Angeles, animals can roam safely thanks to world\u2019s largest wildlife crossing - The Business Journal",
           "source": "Google News LA"
         },
         {
@@ -764,55 +692,47 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Landfill Gas Release Prompts Emergency Health Order in California - Environmental Protection Online",
-          "source": "Google News LA"
-        },
-        {
           "headline": "Routine Drilling Operation Goes Awry at Los Angeles County Landfill - Firehouse.com",
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles Has No Plan to Support Unhoused People During El Ni\u00f1o (part 2 of 2) - Knock LA",
+          "headline": "UPDATE: Report spotlights 70 Los Angeles County schools where Black students excel academically - EdSource",
           "source": "Google News LA"
         },
         {
-          "headline": "LA Civic Leader Miguel Santana Joins Becerra Transition Team - MyNewsLA.com",
+          "headline": "LA County To Remove Dozens Of Abandoned Boats From Marina Del Rey - Patch",
           "source": "Google News LA"
         },
         {
-          "headline": "LA keeps control of federal homelessness funding - Missoula Current",
+          "headline": "Family of 4-month-old who died while in foster care files federal claim against LA County - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "HORVATH, BARGER MOVE TO STRENGTHEN SOBER-LIVING HOME ACCOUNTABILITY - Los Angeles County Supervisor Lindsey P. Horvath (.gov)",
+          "headline": "How Coordinated Care Helped Robert Regain His Health and Stability - LA County Homeless Services & Housing (.gov)",
           "source": "Google News LA"
         },
         {
-          "headline": "Tennis star Sloane Stephens' Sherman Oaks home among 2 mansions targeted by would-be burglars - ABC7 Los Angeles",
+          "headline": "\u2614\ufe0f The NWS is... - Los Angeles County Sheriff's Department - Facebook",
           "source": "Google News LA"
         },
         {
-          "headline": "\ud83d\udea8 A few seconds of stunts can change someone\u2019s life. Street takeovers put drivers, spectators, and everyone passing through at risk. See what happens when an intersection becomes the scene of a takeover in KTLA\u2019s coverage. \ud83d\udd17 Tap the link to watch the full - Facebook",
+          "headline": "\u2614\ufe0f The NWS is forecasting a winter storm Wednesday night into Thursday, with widespread rain, possible thunderstorms, and a Flood Watch for Los Angeles County Thursday morning through afternoon. (Forecast attached). LACo PW issued a Mud and Debri - Facebook",
           "source": "Google News LA"
         },
         {
-          "headline": "As LA28 Comes, Supervisor Horvath Wants Every Neighborhood To Be A Part Of Them - Los Angeles County Supervisor Lindsey P. Horvath (.gov)",
+          "headline": "Fire at industrial yard erupts near 5 Freeway in Mission Hills area of Los Angeles - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles trash and recycling overhaul expected to cut bills for 95% of commercial customers - ABC7 Los Angeles",
+          "headline": "ICE Los Angeles leads operation targeting trafficking of illicit tobacco products - ICE | U.S. Immigration and Customs Enforcement (.gov)",
           "source": "Google News LA"
         },
         {
-          "headline": "Fire breaks out at former Cielo Hotel in Hollywood - ABC7 Los Angeles",
+          "headline": "Landfill Gas Release Prompts Emergency Health Order in California - Environmental Protection Online",
           "source": "Google News LA"
         },
         {
-          "headline": "Storm Packing `Quite a Punch\u2019 Set for Southland - MyNewsLA.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Student detained after report of man with gun triggers lockdown at Walnut HS, deputies say - ABC7 Los Angeles",
+          "headline": "Nov. 18: L.A County Issues Evacuation Warning for Canyon Fire Burn Scar Area - SCVNews.com",
           "source": "Google News LA"
         }
       ],
