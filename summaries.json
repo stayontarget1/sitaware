@@ -1,10 +1,14 @@
 {
-  "generated": "2026-11-19T22:36:46.488842+00:00",
+  "generated": "2026-11-20T05:38:43.793160+00:00",
   "briefing": "5 PM",
   "columns": {
     "monrovia": {
-      "summary": "- LA County approves $8.5 to $12.75 million Sawpit Dam project\n- County grant funds two new cardiac monitors for paramedics\n- Community Center closes Dec. 6 for renovation work\n- Free contractor surety bonding seminar scheduled for Dec. 1",
+      "summary": "- County approves $8.5 to $12.75 million Sawpit dam project\n- Man arrested for fake collision report; bike rider outrun by police\n- County grant funds two new cardiac monitors for paramedics\n- Community Center closes Dec. 6 for renovation work",
       "headlines": [
+        {
+          "headline": "Monrovia Police: Man gives fake collision report, gets arrested; Lost caller found intoxicated; Bike rider can't outrun cops; and more...",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "Lunch from B&C Teriyaki",
           "source": "Monrovia Now"
@@ -82,10 +86,6 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Pie Life Pizza Mondays send 10% to high school PTSA",
-          "source": "Monrovia Now"
-        },
-        {
           "headline": "\u201cMonrovia\u2019s Route 66\u201d documentary is now online - Route 66 News",
           "source": "Google News"
         },
@@ -94,7 +94,7 @@
           "source": "Google News"
         },
         {
-          "headline": "Kaiser vs Monrovia Boys Basketball - Nov 18, 2026 - Sports Illustrated",
+          "headline": "Monrovia vs Calvary Baptist Boys Basketball - Nov 23, 2026 - Sports Illustrated",
           "source": "Google News"
         },
         {
@@ -114,12 +114,20 @@
           "source": "Google News"
         },
         {
-          "headline": "Ex-Monrovia Officer Says He Was Fired After Reporting Sexual Harassment - Patch",
+          "headline": "Looking for Cheaper Rent in Southern California? Check Monrovia and Santa Monica - Parriva",
           "source": "Google News"
         },
         {
-          "headline": "Looking for Cheaper Rent in Southern California? Check Monrovia and Santa Monica - Parriva",
-          "source": "Google News"
+          "headline": "Massive Lizard On The Lose | Teen's E-Bike Police Chase | Planes Land Without Air Traffic Control: Patch PM",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "LA Sparks Near Record-Shattering $750M Sale To Padres Owners: Report",
+          "source": "Patch Monrovia"
+        },
+        {
+          "headline": "SoCal Crew Raided 36 Freight Trains To Steal $22.5M In Nike Shoes, Power Tools: DOJ",
+          "source": "Patch Monrovia"
         },
         {
           "headline": "Planes Land Without Air Traffic Controllers At Hollywood Burbank Airport: Report",
@@ -127,14 +135,6 @@
         },
         {
           "headline": "Storm Prompts Monrovia To Cancel 'Thankful & Grateful' Holiday Gathering",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Graffiti Duo Monetized Signature Heart-Themed Vandalism, Police Say. Now They Face 10 Felonies",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Prosecutors Sue Newsom To Block Death Row Clemency",
           "source": "Patch Monrovia"
         },
         {
@@ -200,16 +200,16 @@
         "6": true,
         "7": true,
         "8": true,
-        "9": false,
+        "9": true,
         "10": false,
         "11": false,
-        "12": true,
+        "12": false,
         "13": true,
         "14": true,
         "15": true,
         "16": true,
-        "17": false,
-        "18": true,
+        "17": true,
+        "18": false,
         "19": true,
         "20": true,
         "21": true,
@@ -218,12 +218,12 @@
         "24": true,
         "25": true,
         "26": true,
-        "27": true,
+        "27": false,
         "28": false,
         "29": false,
-        "30": true,
+        "30": false,
         "31": false,
-        "32": false,
+        "32": true,
         "33": true,
         "34": true,
         "35": true,
@@ -234,7 +234,7 @@
       }
     },
     "sgv": {
-      "summary": "- San Gabriel Valley communities brace for incoming storm bringing up to one inch rain\n- Dog rescued after becoming trapped between shipping containers in San Gabriel Valley\n- Mosquito control district honored for rapid response efforts during Eaton Fire\n- Walnut High student gun report determined to be hoax, officials confirm",
+      "summary": "- San Gabriel Valley communities brace for incoming storm bringing up to one inch rain\n- Dog rescued after becoming trapped between shipping containers in San Gabriel Valley\n- Groups protest ICE arrests at San Gabriel Valley immigration field center\n- Mosquito control district honored for Eaton Fire response efforts",
       "headlines": [
         {
           "headline": "LA Varsity: High School Sports in the San Gabriel Valley - San Gabriel Valley Tribune",
@@ -301,15 +301,15 @@
           "source": "Google News SGV"
         },
         {
+          "headline": "Meet Ricky, Keli and Gemma, this week\u2019s Pets of the Week in the San Gabriel Valley - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
           "headline": "La Serna\u2019s William Thompson looks for big finish at CIF-SS cross country finals - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
           "headline": "Rams at Cardinals: Who has the edge? - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "San Gabriel Valley HVAC Company Air-Tro Launches Comfy Pets Photo Contest Benefiting Pasadena Humane - The Daily Review",
           "source": "Google News SGV"
         },
         {
@@ -357,6 +357,22 @@
           "source": "Pasadena Now"
         },
         {
+          "headline": "Operation Gobble to Offer Holiday Meals to Pasadena Families Friday, Nov. 20",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Movie Review | Wild Horse Nine",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Considering Solar? Pasadena\u2019s New Tool Estimates Costs and Savings",
+          "source": "Colorado Blvd"
+        },
+        {
+          "headline": "Pasadena Announces Thanksgiving Closures, Transit Changes and Holiday Shopping Campaign",
+          "source": "Colorado Blvd"
+        },
+        {
           "headline": "South Pasadena Announces Thanksgiving Week Hours and Parking Exemption",
           "source": "Colorado Blvd"
         },
@@ -389,35 +405,11 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "LA County Parks to Host Free Fall Harvest Events in Altadena, La Crescenta-Montrose",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Caltech Lecture in Pasadena Asks: What Did the Big Bang Sound Like?",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Pasadena Police Receive Grant to Prevent Underage Drinking",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "U.S. Loses Measles-Elimination Status; L.A. County Urges Vaccination",
-          "source": "Colorado Blvd"
-        },
-        {
-          "headline": "Semi truck crashes into riverbed off 605 Freeway in Irwindale area, SigAlert issued",
+          "headline": "LAX police cite rideshare drivers whose IDs didn't match app profiles",
           "source": "ABC7"
         },
         {
-          "headline": "The US has lost its measles elimination status. What can be done to regain it?",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Pete Rose posthumously pardoned by Trump after baseball's career hits leader was reinstated by MLB",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Toddler rescued after walking into remote area of Arizona desert",
+          "headline": "The herd heads into the Lost World in new 'Ice Age: Boiling Point' trailer",
           "source": "ABC7"
         },
         {
@@ -425,7 +417,39 @@
           "source": "ABC7"
         },
         {
-          "headline": "What to know as Anthropic goes public",
+          "headline": "LA County DCFS employee charged with sexually abusing children",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Nearly 10,000 pounds of lead azide to be detonated at Iowa Army plant, causing lead dust plume into Illinois",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Sonideros convierten peregrinaje anual hacia la Bas\u00edlica de Guadalupe en fiesta en Ciudad de M\u00e9xico",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Hallmark and Walt Disney World teaming up for holiday movie",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Major crime ring busted in SoCal after stealing more than $22 million in cargo from trains, DOJ says",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Actress Yvette Nicole Brown talks 'Disney's Hexed,' caretaking for father with Alzheimer's disease",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Susan Smith is denied parole again 32 years after drowning her sons in a South Carolina lake",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Semi truck crashes into riverbed off 605 Freeway in Irwindale area, SigAlert issued",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Toddler rescued after walking into remote area of Arizona desert",
           "source": "ABC7"
         },
         {
@@ -433,7 +457,19 @@
           "source": "ABC7"
         },
         {
-          "headline": "Major crime ring busted in SoCal after stealing more than $22 million in cargo from trains, DOJ says",
+          "headline": "Derek Hough hosts and Quinta Brunson narrates 'The Wonderful World of Disney: Holiday Spectacular'",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Pete Rose posthumously pardoned by Trump after baseball's career hits leader was reinstated by MLB",
+          "source": "ABC7"
+        },
+        {
+          "headline": "The US has lost its measles elimination status. What can be done to regain it?",
+          "source": "ABC7"
+        },
+        {
+          "headline": "What to know as Anthropic goes public",
           "source": "ABC7"
         },
         {
@@ -447,42 +483,6 @@
         {
           "headline": "Stand Up for Heroes marks 20 years at Lincoln Center",
           "source": "ABC7"
-        },
-        {
-          "headline": "Nearly 10,000 pounds of lead azide to be detonated at Iowa Army plant, causing lead dust plume into Illinois",
-          "source": "ABC7"
-        },
-        {
-          "headline": "JPMorganChase reports cyberattack on third-party service providers",
-          "source": "ABC7"
-        },
-        {
-          "headline": "'GMA' Deals & Steals on Gifts $20 & Under",
-          "source": "ABC7"
-        },
-        {
-          "headline": "NYC ban: Mayor Zohran Mamdani signs law ending New York City horse-drawn carriage industry after Romanch Mahajan death in crash",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Flatbush building collapse: New video from MTA bus shows deadly Brooklyn fall",
-          "source": "ABC7"
-        },
-        {
-          "headline": "How to brine a turkey: Recipes, times",
-          "source": "ABC7"
-        },
-        {
-          "headline": "What to do with Thanksgiving leftovers? Turkey Croquette recipe to make sure nothing goes to waste",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Lindsay Clancy files appeal ahead of March 2027 retrial",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Don't torch your turkey! Tips to avoid a frying disaster this Thanksgiving season",
-          "source": "ABC7"
         }
       ],
       "relevance": {
@@ -490,7 +490,7 @@
         "1": true,
         "2": true,
         "3": true,
-        "4": false,
+        "4": true,
         "5": true,
         "6": true,
         "7": true,
@@ -502,34 +502,34 @@
         "13": false,
         "14": true,
         "15": true,
-        "16": false,
-        "17": false,
-        "18": true,
-        "19": false,
+        "16": true,
+        "17": true,
+        "18": false,
+        "19": true,
         "20": false,
         "21": false,
-        "22": true,
+        "22": false,
         "23": false,
-        "24": true,
-        "25": true,
+        "24": false,
+        "25": false,
         "26": false,
-        "27": true,
-        "28": true,
-        "29": true,
+        "27": false,
+        "28": false,
+        "29": false,
         "30": false,
-        "31": true,
-        "32": true,
-        "33": true,
+        "31": false,
+        "32": false,
+        "33": false,
         "34": false,
-        "35": true,
+        "35": false,
         "36": true,
-        "37": true,
-        "38": true,
-        "39": false
+        "37": false,
+        "38": false,
+        "39": true
       }
     },
     "county": {
-      "summary": "- UCLA police approved to use weapon LAPD banned from crowd control\n- LA County Sheriff estimates Olympics security costs nearly 3 billion dollars\n- Atmospheric river storm brings rain, snow, and hazards to Southern California\n- 14 charged in 22.5 million dollar Los Angeles train heist targeting Nike",
+      "summary": "- UCLA police will add weapon LAPD banned from using on crowds\n- LA County Sheriff estimates Olympics security will cost nearly $3 billion\n- 14 charged in $22.5M Los Angeles train heist targeting Nike shoes\n- Southern California drenched by cold November storm, atmospheric river moves out",
       "headlines": [
         {
           "headline": "Universities came down hard on student encampments. Where did the protest energy go?",
@@ -544,7 +544,7 @@
           "source": "LAist"
         },
         {
-          "headline": "Cold storm moves into Southern California, bringing rain, snow and hazards",
+          "headline": "Southern California gets drenched by cold November storm",
           "source": "LAist"
         },
         {
@@ -612,11 +612,15 @@
           "source": "LAist"
         },
         {
-          "headline": "14 charged in $22.5M Los Angeles train heist ring targeting Nike shoes",
+          "headline": "Corona Boba shop owners believe sledgehammer attack was a hate crime",
           "source": "Fox 11 LA"
         },
         {
           "headline": "SoCal atmospheric river storm moves out: Tracking the aftermath",
+          "source": "Fox 11 LA"
+        },
+        {
+          "headline": "14 charged in $22.5M Los Angeles train heist ring targeting Nike shoes",
           "source": "Fox 11 LA"
         },
         {
@@ -640,7 +644,7 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "SoCal storm timeline: First atmospheric river brings rain, flood risk",
+          "headline": "California investigates Nvidia over ex-CEO Jensen Huang\u2019s alleged affair with suspected Chinese spy",
           "source": "Fox 11 LA"
         },
         {
@@ -672,7 +676,7 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Cops: 14-year-old arrested after attacking woman with axe-like tool during dispute over parking space",
+          "headline": "Paramedic responds to fatal accident, discovers victim is her son: \u2018Worst nightmare\u2019",
           "source": "Fox 11 LA"
         },
         {
@@ -688,71 +692,59 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "Celebrity deaths of 2026: The entertainers and artists we lost this year",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Report: LA Sparks Nearing Record $750M Sale to San Diego Padres Owners",
+          "headline": "County Orders Chiquita Canyon Landfill Debris Cleanup",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Detour Traffic Resumes on Harry Bridges Boulevard amid Deck-Replacement Work",
+          "headline": "Man Charged with Beating Ducks Is Granted Diversion",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Fire Breaks Out at San Pedro Pet Salon",
+          "headline": "Attorney Convicted of Raping Girlfriend\u2019s Friend in Laguna Hills",
           "source": "MyNewsLA"
         },
         {
-          "headline": "QVC TV Host Albery Popaj to Receive Star on PS Walk of the Stars",
+          "headline": "Ugarte Remains Ahead of Mazariegos in Race for LA CD9",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Woman Hoisted from LA River in Sepulveda Basin",
+          "headline": "Investigation Underway Regarding Officer-Involved Shooting in Blythe",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Detour Traffic Resumes on Harry Bridges Boulevard amid Deck-Replacement Work",
+          "headline": "King Tides, Rising Surf Threaten Coastal Flooding",
           "source": "MyNewsLA"
         },
         {
-          "headline": "State Tax Exemptions on Solar Installations End New Year\u2019s Day",
+          "headline": "DTLA\u2019s Original Pantry Cafe Reopens Under New Nonprofit Model",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Tarzana T.J. Maxx to Close, Affecting 77 Workers",
+          "headline": "Attorney Pleads Guilty to Misdemeanor Count in Corruption Case",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Rams Star Nacua Suspended 3 Games by NFL",
+          "headline": "Heavy Rain Hits SoCal, Prompting Flooding, Isolated Mud Flows",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Five Rescued from San Gabriel Riverbed in South El Monte",
+          "headline": "Heavy Rain Hits SoCal, Prompting Flooding, Isolated Mud Flows",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Reports: LA Sparks Nearing Record $750M Sale",
+          "headline": "Billie Jean King Receives TCL Chinese Theatre Handprint Honor",
           "source": "MyNewsLA"
+        },
+        {
+          "headline": "LA County DCFS employee charged with sexually abusing children - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "SUP. HORVATH ENCOURAGES COMMUNITY FEEDBACK ON WHITEMAN AIRPORT LAND USE STUDY - Los Angeles County Supervisor Lindsey P. Horvath (.gov)",
+          "source": "Google News LA"
         },
         {
           "headline": "The Los Angeles County Sheriff\u2019s Department Missing Persons Detail is asking for the public\u2019s help locating At-Risk Missing Person Lelis Patricia Henriquez. She is a 42-year-old Hispanic female who was last seen November 16, 2026 on the 5300 block of Ma - Facebook",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "LA County Coordinated Joint Information Center Update \u2013 11/18/2026 - LA County Recovers (.gov)",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "\u26a0\ufe0f Weather Advisory for Los Angeles County Rainy conditions are expected Wednesday night through Thursday, with the possibility of heavy showers, thunderstorms and localized flooding. Take steps now to stay informed and prepared: \ud83c\udf26\ufe0f Visit ready.lacou - Instagram",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "15 Hospitals In LA County Earn 'A' Grades For Safety - Patch",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Evacuation warnings take effect Wednesday evening for LA County burn scars as winter storm moves in - Santa Monica Daily Press",
           "source": "Google News LA"
         },
         {
@@ -760,11 +752,23 @@
           "source": "Google News LA"
         },
         {
+          "headline": "\u26a0\ufe0f Weather Advisory for Los Angeles County Rainy conditions are expected Wednesday night through Thursday, with the possibility of heavy showers, thunderstorms and localized flooding. Take steps now to stay informed and prepared: \ud83c\udf26\ufe0f Visit ready.lacou - Instagram",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Ugarte Remains Ahead of Mazariegos in Race for LA CD9 - MyNewsLA.com",
+          "source": "Google News LA"
+        },
+        {
           "headline": "Leading the Way: Celebrating Los Angeles Health Leaders - Blue Shield of California | News Center",
           "source": "Google News LA"
         },
         {
-          "headline": "UPDATE: Report spotlights 70 Los Angeles County schools where Black students excel academically - EdSource",
+          "headline": "Evacuation warnings take effect Wednesday evening for LA County burn scars as winter storm moves in - Santa Monica Daily Press",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LA County Coordinated Joint Information Center Update \u2013 11/18/2026 - LA County Recovers (.gov)",
           "source": "Google News LA"
         },
         {
@@ -772,19 +776,19 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Grand Theft Auto VI has just hit screens and the Los Angeles District Attorney's Office is urging players to keep the theft on screen and off the streets. In real life there\u2019s no respawning, no Pay 'n' Spray and no losing a wanted level by hiding in an alley. While the - Instagram",
+          "headline": "Today, we recognize International Men\u2019s Day and acknowledge the contributions of men in our communities and throughout the Los Angeles County Sheriff\u2019s Department. We appreciate their service, leadership, and dedication both on and off duty. Happy Inte - Facebook",
           "source": "Google News LA"
         },
         {
-          "headline": "Flash Flood Warnings Hit West Side As Powerful Storm Sweeps LA County - Patch",
+          "headline": "Los Angeles weather: Storm expected to bring heavy rain, flood risk to Southern California. Here's the timeline - ABC7 Los Angeles",
           "source": "Google News LA"
         },
         {
-          "headline": "How Coordinated Care Helped Robert Regain His Health and Stability - LA County Homeless Services & Housing (.gov)",
+          "headline": "Residents in Recent Burn Areas Urged to Prepare for Incoming Storm and Stay Aware of Related Impacts - COUNTY OF LOS ANGELES (.gov)",
           "source": "Google News LA"
         },
         {
-          "headline": "Detectives from the Los Angeles County Sheriff\u2019s Department are seeking assistance in locating At-Risk Missing Person, Melody Rose Jones. Ms. Jones was last seen on November 17, 2026, on the 900 block of Miraflores Avenue in the city of San Pedro. She i - Facebook",
+          "headline": "LA County Department of Homeless Services and Housing Becomes New Lead for Los Angeles Continuum of Care - LA County Homeless Services & Housing (.gov)",
           "source": "Google News LA"
         },
         {
@@ -796,23 +800,19 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Reminder: Metropolitan Division Stands Watch If you come to Los Angeles to victimize our communities, expect Metropolitan Division to come looking for you. Last night, Metropolitan Division officers, in conjunction with officers assigned to Southeast Patrol, arr - Facebook",
+          "headline": "UPDATE: Report spotlights 70 Los Angeles County schools where Black students excel academically - EdSource",
           "source": "Google News LA"
         },
         {
-          "headline": "1 dead after SUV slams into homeless encampment in Canoga Park - ABC7 Los Angeles",
+          "headline": "Detectives from the Los Angeles County Sheriff\u2019s Department are seeking assistance in locating At-Risk Missing Person, Melody Rose Jones. Ms. Jones was last seen on November 17, 2026, on the 900 block of Miraflores Avenue in the city of San Pedro. She i - Facebook",
           "source": "Google News LA"
         },
         {
-          "headline": "LAPD Headquarters. . We extend our thanks to our partners at Good Day LA FOX 11 Los Angeles for inviting Chief Jim McDonnell McDonnell to discuss important topics pertaining to policing today. - Facebook",
+          "headline": "15 Hospitals In LA County Earn 'A' Grades For Safety - Patch",
           "source": "Google News LA"
         },
         {
-          "headline": "HORVATH, BARGER MOVE TO STRENGTHEN SOBER-LIVING HOME ACCOUNTABILITY - Los Angeles County Supervisor Lindsey P. Horvath (.gov)",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Torrential Rain Gushes Through Los Angeles County - Adelaide Now",
+          "headline": "\u2614\ufe0f The NWS is forecasting a winter storm Wednesday night into Thursday, with widespread rain, possible thunderstorms, and a Flood Watch for Los Angeles County Thursday morning through afternoon. (Forecast attached). LACo PW issued a Mud and Debri - Facebook",
           "source": "Google News LA"
         }
       ],
