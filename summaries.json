@@ -1,10 +1,14 @@
 {
-  "generated": "2026-11-22T20:57:48.101885+00:00",
-  "briefing": "8 AM",
+  "generated": "2026-11-23T05:39:59.848489+00:00",
+  "briefing": "5 PM",
   "columns": {
     "monrovia": {
-      "summary": "- Magnitude 4.2 earthquake shakes Monrovia early Friday morning\n- E-bike vouchers up to $2,000 available today in Monrovia\n- Monrovia Community Center closes Dec. 6 for renovation work\n- Santa Tour set for Dec. 7 to 11",
+      "summary": "- $69,100 grant funds Monrovia police traffic enforcement efforts\n- E-bike vouchers up to $2,000 available today in Monrovia\n- Magnitude 4.2 earthquake shakes Monrovia early Friday morning\n- Community Center plans Dec. 6 closure for renovation work",
       "headlines": [
+        {
+          "headline": "$69,100 grant funds Monrovia police traffic enforcement",
+          "source": "Monrovia Now"
+        },
         {
           "headline": "San Gabriel Valley Choral Company's See's fundraiser ends Dec. 4",
           "source": "Monrovia Now"
@@ -82,10 +86,6 @@
           "source": "Monrovia Now"
         },
         {
-          "headline": "Breakfast with Santa at Centre Stage, Dec. 6",
-          "source": "Monrovia Now"
-        },
-        {
           "headline": "10 of the Oldest Incorporated Towns in Southern California - WorldAtlas",
           "source": "Google News"
         },
@@ -94,7 +94,7 @@
           "source": "Google News"
         },
         {
-          "headline": "Magnolia vs Monrovia Boys Basketball - Nov 20, 2026 - Sports Illustrated",
+          "headline": "Monrovia vs Calvary Baptist Boys Basketball - Nov 23, 2026 - Sports Illustrated",
           "source": "Google News"
         },
         {
@@ -114,14 +114,6 @@
           "source": "Patch Monrovia"
         },
         {
-          "headline": "'Things Can Get Bad Quickly': Mutated Flu Strain Raises Concerns In CA",
-          "source": "Patch Monrovia"
-        },
-        {
-          "headline": "Thanksgiving Travel Rush: Best And Worst Times To Drive, Fly In CA",
-          "source": "Patch Monrovia"
-        },
-        {
           "headline": "Extreme Flood Threat Prompts CA Evacuation Warnings As Record King Tides Approach",
           "source": "Patch Monrovia"
         },
@@ -138,7 +130,7 @@
           "source": "Patch Monrovia"
         },
         {
-          "headline": "Letting Kids Choose Their Haircuts, Even When You Hate The Look [The Question]",
+          "headline": "Senate Deal To Speed Energy Permits And Data Centers Sparks Outcry",
           "source": "Patch Monrovia"
         },
         {
@@ -203,9 +195,9 @@
         }
       ],
       "relevance": {
-        "0": false,
+        "0": true,
         "1": false,
-        "2": true,
+        "2": false,
         "3": true,
         "4": true,
         "5": true,
@@ -231,13 +223,13 @@
         "25": true,
         "26": false,
         "27": false,
-        "28": false,
+        "28": true,
         "29": false,
-        "30": true,
+        "30": false,
         "31": false,
         "32": false,
-        "33": false,
-        "34": false,
+        "33": true,
+        "34": true,
         "35": true,
         "36": true,
         "37": true,
@@ -246,10 +238,10 @@
       }
     },
     "sgv": {
-      "summary": "- Incoming storm could bring up to one inch of rain to San Gabriel Valley\n- 4.2-magnitude earthquake centered near Commerce shakes LA overnight\n- Walnut High School locked down after weapons call on campus\n- Dog trapped between shipping containers successfully rescued in San Gabriel Valley",
+      "summary": "- Incoming storm could bring up to one inch of rain to SGV\n- 4.2-magnitude earthquake centered near Commerce shakes LA overnight\n- Walnut High School locked down after weapons call on campus\n- Groups protest ICE arrests at San Gabriel Valley immigration field center",
       "headlines": [
         {
-          "headline": "Things to do in the San Gabriel Valley area, Nov. 20-28 - San Gabriel Valley Tribune",
+          "headline": "San Gabriel Valley foothill communities prepare for rainy weather - CBS News",
           "source": "Google News SGV"
         },
         {
@@ -257,11 +249,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "San Gabriel Valley foothill communities prepare for rainy weather - CBS News",
-          "source": "Google News SGV"
-        },
-        {
-          "headline": "San Gabriel Valley Boys Athlete of the Week: Isaac Villescas, West Covina - Pasadena Star News",
+          "headline": "Things to do in the San Gabriel Valley area, Nov. 20-28 - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -273,6 +261,10 @@
           "source": "Google News SGV"
         },
         {
+          "headline": "San Gabriel Valley Boys Athlete of the Week: Isaac Villescas, West Covina - Pasadena Star News",
+          "source": "Google News SGV"
+        },
+        {
           "headline": "Walnut High School locked down after call about weapons on campus - NBC Los Angeles",
           "source": "Google News SGV"
         },
@@ -281,7 +273,7 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Altadena Town Council to certify election results this week - San Gabriel Valley Tribune",
+          "headline": "Groups protest ICE arrests at San Gabriel Valley immigration field center - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -289,15 +281,11 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Groups protest ICE arrests at San Gabriel Valley immigration field center - San Gabriel Valley Tribune",
-          "source": "Google News SGV"
-        },
-        {
           "headline": "San Gabriel Valley Girls Athlete of the Week: Samantha Oliver, Glendora - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "Pasadena Unified School District trustees approve multi-year \u2018transformation\u2019 process - San Gabriel Valley Tribune",
+          "headline": "Tag : Storm Could Bring Up to an Inch of Rain to Pasadena and the San Gabriel Valley - ColoradoBoulevard.net",
           "source": "Google News SGV"
         },
         {
@@ -305,11 +293,11 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "La Serna\u2019s William Thompson looks for big finish at CIF-SS cross country finals - San Gabriel Valley Tribune",
+          "headline": "Pasadena Unified School District trustees approve multi-year \u2018transformation\u2019 process - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
-          "headline": "Attorney in $20 million City of Industry embezzlement scandal escapes felonies - San Gabriel Valley Tribune",
+          "headline": "Pasadena set to hire Johnny Sanders as football coach - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -321,11 +309,15 @@
           "source": "Google News SGV"
         },
         {
-          "headline": "Tag : Storm Could Bring Up to an Inch of Rain to Pasadena and the San Gabriel Valley - ColoradoBoulevard.net",
+          "headline": "La Serna\u2019s William Thompson looks for big finish at CIF-SS cross country finals - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
           "headline": "4.2-magnitude earthquake centered near Commerce shakes LA overnight - San Gabriel Valley Tribune",
+          "source": "Google News SGV"
+        },
+        {
+          "headline": "Southern California theme parks celebrate the Christmas holidays - San Gabriel Valley Tribune",
           "source": "Google News SGV"
         },
         {
@@ -367,6 +359,10 @@
         {
           "headline": "Union Station Says Free Thanksgiving Meal Kit Distribution Hit Expected Three-Day Volume in a Single Day",
           "source": "Pasadena Now"
+        },
+        {
+          "headline": "FCC Clears AT&T to Begin Copper Landline Phaseout in California",
+          "source": "Colorado Blvd"
         },
         {
           "headline": "Local Fire Stations and Community Sites Collect Donations for Holiday Drive",
@@ -413,15 +409,59 @@
           "source": "Colorado Blvd"
         },
         {
-          "headline": "Pasadena to Host Free Oil Filter Exchange Saturday, November 21",
-          "source": "Colorado Blvd"
+          "headline": "Democrat Chuck Hubbard wins recount in North Carolina US House race, unseats Republican Rep. Virginia Foxx",
+          "source": "ABC7"
         },
         {
-          "headline": "Gift cards for guns: Buyback event held in South Whittier",
+          "headline": "Preliminary 3.3 quake strikes off Manhattan Beach coast",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Landscaper killed after a crane collapsed in Beverly Hills",
+          "source": "ABC7"
+        },
+        {
+          "headline": "US Army plans to invoke emergency provisions to detonate bomb-making chemicals in Iowa",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Miley Cyrus marries rock drummer Maxx Morando in an intimate Palm Springs wedding",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Automation system problem at Delta causes flight delays as Americans travel for Thanksgiving",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Motorcyclist killed in crash on 210 Freeway in Glendale; off-ramp closed",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Sunset Beach residents, businesses brace for possible record-breaking king tides",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Mayor-elect Nithya Raman's City Council seat will become vacant next month. How will it be filled?",
           "source": "ABC7"
         },
         {
           "headline": "Kimchi Day marked in LA after City Council proclamation",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Abandoned Porsche found at bottom of cliff below Mulholland Drive after Studio City crash",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Appeals court says federal law requiring accommodations for pregnant workers is unconstitutional",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Rescue helicopter hoists hiker from trail near Griffith Observatory, airlifts him to hospital",
+          "source": "ABC7"
+        },
+        {
+          "headline": "Gift cards for guns: 93 firearms collected at buyback event held in South Whittier",
           "source": "ABC7"
         },
         {
@@ -430,10 +470,6 @@
         },
         {
           "headline": "DNI Clayton: Putin is 'not America's friend in Ukraine'",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Issue with automation system causes Delta flight delays in Atlanta, nationwide",
           "source": "ABC7"
         },
         {
@@ -451,50 +487,6 @@
         {
           "headline": "Stop washing your turkey. If you want a safe Thanksgiving, here's what to do instead",
           "source": "ABC7"
-        },
-        {
-          "headline": "SoCal to see mild weather Sunday before rain moves in",
-          "source": "ABC7"
-        },
-        {
-          "headline": "9 people wounded in shooting at private concert at Tulare County home, authorities say",
-          "source": "ABC7"
-        },
-        {
-          "headline": "College football: UCLA's undefeated streak ends after overtime loss to Michigan",
-          "source": "ABC7"
-        },
-        {
-          "headline": "'Festival of Lights' returns to Riverside's Mission Inn Hotel & Spa, drawing thousands",
-          "source": "ABC7"
-        },
-        {
-          "headline": "FBI's national crime database targeted in hack, Trump says",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Singer Chiquis Rivera hosts turkey giveaway in East Los Angeles",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Here's where to find free Thanksgiving meals and holiday food assistance",
-          "source": "ABC7"
-        },
-        {
-          "headline": "The best 2026 Advent calendars to make your holidays festive",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Immigration officers make arrests at Seattle airport in 'distressing' scene, delaying flight",
-          "source": "ABC7"
-        },
-        {
-          "headline": "Motorcyclist dies after bike slams into parked police car in Leimert Park, LAPD says",
-          "source": "ABC7"
-        },
-        {
-          "headline": "LAPD, other agencies preparing to respond to possible drone activity, protests during 2028 Olympics",
-          "source": "ABC7"
         }
       ],
       "relevance": {
@@ -505,7 +497,7 @@
         "4": true,
         "5": true,
         "6": true,
-        "7": true,
+        "7": false,
         "8": true,
         "9": true,
         "10": true,
@@ -517,7 +509,7 @@
         "16": true,
         "17": true,
         "18": true,
-        "19": true,
+        "19": false,
         "20": true,
         "21": true,
         "22": true,
@@ -528,20 +520,20 @@
         "27": true,
         "28": true,
         "29": false,
-        "30": true,
-        "31": false,
-        "32": true,
+        "30": false,
+        "31": true,
+        "32": false,
         "33": true,
         "34": true,
         "35": true,
-        "36": false,
-        "37": true,
+        "36": true,
+        "37": false,
         "38": true,
-        "39": true
+        "39": false
       }
     },
     "county": {
-      "summary": "- Mixed-status families face housing loss under Trump HUD rule\n- Jonathan Rinderknecht found guilty in Palisades Fire arson retrial\n- Video shows ICE agents pepper-spraying protesters in Santa Clarita\n- LA area rattled by early morning 4.2-magnitude earthquake",
+      "summary": "- Mixed-status California families face housing loss under Trump HUD rule\n- OC coast braces for potentially record-breaking King Tides before Thanksgiving\n- Palisades Fire arson suspect Jonathan Rinderknecht found guilty in retrial\n- LA area rattled by early morning 4.2-magnitude earthquake",
       "headlines": [
         {
           "headline": "Thousands of mixed-status California families to lose housing under Trump HUD rule",
@@ -624,6 +616,10 @@
           "source": "LAist"
         },
         {
+          "headline": "OC coast braces for potential record-breaking King Tides ahead of Thanksgiving",
+          "source": "Fox 11 LA"
+        },
+        {
           "headline": "Video shows ICE agents smashing car windows, pepper-spraying protesters during arrest in Santa Clarita",
           "source": "Fox 11 LA"
         },
@@ -649,10 +645,6 @@
         },
         {
           "headline": "14 charged in $22.5M Los Angeles train heist ring targeting Nike shoes",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Pasadena Humane seeks community help after rescuing 38 dogs from single home",
           "source": "Fox 11 LA"
         },
         {
@@ -688,6 +680,10 @@
           "source": "Fox 11 LA"
         },
         {
+          "headline": "Woman boarding for LAX-bound flight detained by ICE agents at Seattle airport",
+          "source": "Fox 11 LA"
+        },
+        {
           "headline": "Governor 'outraged' after ICE detains 2 inside Seattle airport",
           "source": "Fox 11 LA"
         },
@@ -700,19 +696,19 @@
           "source": "Fox 11 LA"
         },
         {
-          "headline": "FBI's NCIC criminal database hacked, Trump confirms",
-          "source": "Fox 11 LA"
-        },
-        {
-          "headline": "Woman Arrested For Allegedly Stealing Packages From Irvine Apartments",
+          "headline": "Accuser Drops Lawsuit Against Late Rapper\u2019s Estate",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Four Vehicles Crash on 60 Freeway in Beaumont",
+          "headline": "LAFD Concludes Day\u2019s Live-Fire Training at Van Nuys Airport",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Judge Grants $11M Partial Settlement of Suit Over Big Rig Deaths",
+          "headline": "Man Arrested After Two Women Stabbed at Riverside Apartment Complex",
+          "source": "MyNewsLA"
+        },
+        {
+          "headline": "Three People, Including Two Young Children Rescued From Vehicle in Ditch",
           "source": "MyNewsLA"
         },
         {
@@ -720,59 +716,31 @@
           "source": "MyNewsLA"
         },
         {
-          "headline": "Man Shot in North Long Beach",
+          "headline": "Motorcyclist Killed in Crash on 210 Freeway in Glendale",
           "source": "MyNewsLA"
         },
         {
-          "headline": "ICE Arrests Two Before Flight Bound for LAX, Sparking Protests",
+          "headline": "Torrance Gets $5M Gift for Japanese American Incarceration Monument",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Riverside County Gas Prices Keep Dropping",
+          "headline": "Arrest Made in Theft From Laguna Beach Jewelry Store",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LA\u2019s Vegan Community Seeks Thanksgiving Alternatives",
+          "headline": "LA, Orange County Gas Prices Still Falling",
           "source": "MyNewsLA"
         },
         {
-          "headline": "LAFD Live-Fire Training Continuing at Van Nuys Airport",
+          "headline": "LA Tenants Rights Group Celebrates $7.65 Million Jury Verdict",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Risk of King Tides This Week Continues to Grow",
+          "headline": "Woman Arrested For Allegedly Stealing Packages From Irvine Apartments",
           "source": "MyNewsLA"
         },
         {
-          "headline": "Fatal Motorcycle At Accident on Transition Road in Studio City",
-          "source": "MyNewsLA"
-        },
-        {
-          "headline": "Gift cards for guns: LA County holds buyback event held in South Whittier - ABC7 Los Angeles",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Earlier today, Los Angeles County Sheriff\u2019s Department- Norwalk Station joined by Supervisor Janice Hahn and the Department of Consumer and Business Affairs hosted a Gun Buyback Event. The strong participation reflected our community\u2019s dedication to s - Facebook",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "4.2-magnitude earthquake shakes Los Angeles County - KCRA",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "LAFD Responds to Storm-Related Flooding Across Los Angeles - Los Angeles City Fire Department",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Los Angeles coast braces for record-breaking 8-foot waves this week - The Independent",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Coastal Flood Threat Grows Ahead of King Tides This Week - MyNewsLA.com",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "LA County Housing Department Takes Lead on Los Angeles Homelessness Response - - Random Lengths News",
+          "headline": "The Los Angeles County Sheriff\u2019s Department Missing Persons Detail is asking for the public\u2019s help locating At-Risk Missing Person Michael John Henry. He is a 65-year-old Black male who was last seen on November 22, 2026, at 08:00 a.m. on the 39000 blo - Facebook",
           "source": "Google News LA"
         },
         {
@@ -780,23 +748,47 @@
           "source": "Google News LA"
         },
         {
-          "headline": "2 Earthquakes Strike Los Angeles Area and Central California - The New York Times",
+          "headline": "LAFD Responds to Storm-Related Flooding Across Los Angeles - Los Angeles City Fire Department",
           "source": "Google News LA"
         },
         {
-          "headline": "LA, Orange Counties See Dips in Jobless Rate in October - MyNewsLA.com",
+          "headline": "4.2-magnitude earthquake shakes Los Angeles County - KCRA",
           "source": "Google News LA"
         },
         {
-          "headline": "Los Angeles County Sheriff's Department. . Sheriff Robert Luna recently joined the United States Secret Service, fellow law enforcement partners, and members of the media for an important meeting focused on preparation for the LA28 Olympic Games. As Los - Facebook",
+          "headline": "Los Angeles coast braces for record-breaking 8-foot waves this week - The Independent",
           "source": "Google News LA"
         },
         {
-          "headline": "LA County DCFS employee charged with sexually abusing children - ABC7 Los Angeles",
+          "headline": "Deputy Timothy Harnett was assigned to the vice squad at Firestone Station when he suffered a heart attack after a foot pursuit on November 22, 1961. He was a 30 years old family man dedicated to the profession. Today, we remember and honor his commitm - Facebook",
           "source": "Google News LA"
         },
         {
-          "headline": "4.2 Magnitude Earthquake Centered in the City of Commerce Shakes LA County - MyNewsLA.com",
+          "headline": "2 Earthquakes Rattle California - The New York Times",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Risk of King Tides This Week Continues to Grow - MyNewsLA.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "LA and Orange County King Tides Peak Nov. 25-26: Which Beaches to Avoid - deeparrival.com",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Jury finds man guilty in retrial over devastating 2025 Palisades fire in Los Angeles - NPR",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Gift cards for guns: 93 firearms collected at buyback event held in South Whittier, Supervisor Janice Hahn says - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Earlier today, Los Angeles County Sheriff\u2019s Department- Norwalk Station joined by Supervisor Janice Hahn and the Department of Consumer and Business Affairs hosted a Gun Buyback Event. The strong participation reflected our community\u2019s dedication to s - Facebook",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "Los Angeles County Sheriff's Department. . When seconds matter, Los Angeles County Sheriff\u2019s Department personnel are always ready to leap into action to save lives whether on or off-duty. Thank you to KTLA\u2019s Hailey Winslow for covering this story and hig - Facebook",
           "source": "Google News LA"
         },
         {
@@ -804,7 +796,11 @@
           "source": "Google News LA"
         },
         {
-          "headline": "Magnitude 4.4 earthquake rocks Los Angeles County - KTSM 9 News",
+          "headline": "Housekeeper held at knifepoint during home invasion robbery in Encino, LAPD says - ABC7 Los Angeles",
+          "source": "Google News LA"
+        },
+        {
+          "headline": "4.2 Magnitude Earthquake Centered in the City of Commerce Shakes LA County - MyNewsLA.com",
           "source": "Google News LA"
         },
         {
@@ -816,11 +812,7 @@
           "source": "Google News LA"
         },
         {
-          "headline": "ICE arrests and sightings across LA County, Nov. 12\u201319 - LA Public Press",
-          "source": "Google News LA"
-        },
-        {
-          "headline": "Crime ring busted in SoCal after stealing more than $22 million in cargo, mostly Nike shoes and Milwaukee tools, from trains: DOJ - ABC7 Los Angeles",
+          "headline": "Magnitude 4.4 earthquake rocks Los Angeles County - KRQE",
           "source": "Google News LA"
         },
         {
